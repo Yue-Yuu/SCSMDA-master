@@ -1,0 +1,173 @@
+Achromobacter sp.
+Achromobacter xylosoxidans
+Acinetobacter baumannii
+Acinetobacter nosocomialis
+Acinetobacter oleiovorans
+Acinetobacter sp.
+Actinobacillus actinomycetemcomitans
+Actinomyces oris
+Actinoplanes missouriensis
+Aeromonas hydrophila
+Aeromonas sobria
+Aggregatibacter actinomycetemcomitans
+Amycolatopsis orientalis
+Aquifex aeolicus
+Arthrobacter sp.
+Aspergillus fumigatus
+Aspergillus niger
+Bacillus amyloliquefaciens
+Bacillus anthracis
+Bacillus cereus
+Bacillus licheniformis
+Bacillus subtilis
+Bacteroides
+Bacteroides eggerthii
+Bacteroides fragilis
+Bacteroides uniformis
+Bacteroides vulgatus
+Baker's yeast
+Burkholderia cenocepacia
+Burkholderia cepacia
+Burkholderia multivorans
+Burkholderia pseudomallei
+Burkholderia thailandensis
+Campylobacter jejuni
+Candida albicans
+Candida dubliniensis
+Candida glabrata
+Candida guiliermondi
+Candida krusei
+Candida parapsilosis
+Candida spp.
+Candida tropicalis
+Chromobacterium violaceum
+Citrobacter freundii
+Clostridium bacilli
+Clostridium leptum
+Clostridium pasteurianum
+Clostridium perfringens
+Coagulase- negative staphylococci
+Corynebacterium ammoniagenes
+Cronobacter sakazakii
+Cryptococcus neoformans
+Dengue Virus Type 2
+Desulfovibrio africanus
+Dihydropteroate synthase type-1
+Edwardsiella tarda
+Eggerthella lenta
+Eikenella corrodens
+Enteric bacteria and other eubacteria
+Enterobacter aerogenes
+Enterobacter cancerogenus
+Enterobacter cloacae
+Enterobacter ludwigi
+Enterobacteria phage T4
+Enterococcus faecalis
+Enterococcus faecium
+Enterococcus gallinarum
+Escherichia coli
+Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)
+Eubacterium ramulus
+Firmicutes
+Francisella novicida
+Fusarium solani
+Gardnerella vaginalis
+Geobacillus kaustophilus
+Haemophilus influenzae
+Hafnia alvei
+Hafnia paralvei
+Halomonas pacifica
+Helicobacter pylori
+Hepatitis B virus D
+Hepatitis B virus F
+Hepatitis C virus
+Human herpesvirus 1
+Human herpesvirus 3
+Human herpesvirus 4
+Human herpesvirus 5
+Human immunodeficiency virus
+Human immunodeficiency virus 1
+Human parainfluenza virus type 2
+Human respiratory syncytial virus B
+Influenza A virus
+Influenza B virus
+Klebsiella planticola
+Klebsiella pneumoniae
+Klebsiella variicola
+Kocuria rhizophila
+Lactobacillus fermenti
+Listeria ivanovii
+Listeria monocytogenes
+Listeria monocytogenes serotype 4a
+Lysinibacillus sphaericus
+Marinobacter hydrocarbonoclasticus
+Micrococcus luteus
+Morganella morganii
+Mycobacterium avium
+Mycobacterium leprae
+Mycobacterium smegmatis
+Mycobacterium tuberculosis
+Neisseria gonorrhoeae
+Obesumbacterium proteus
+Pantoea agglomerans
+Pichia anomala
+Plasmodium falciparum
+Porphyromonas gingivalis
+Propionibacterium acnes
+Proteus mirabilis
+Proteus vulgaris
+Providencia stuartii
+Pseudoalteromonas sp.
+Pseudomonas aeruginosa
+Pseudomonas chlororaphis
+Pseudomonas fluorescens
+Pseudomonas japonica
+Pseudomonas libaniensis
+Pseudomonas putida
+Raoultella ornithinolytica
+Salmonella enterica
+Salmonella Typhi
+Schistosoma
+Serratia liquefaciens
+Serratia marcescens
+Shewanella oneidensis
+Shigella flexneri
+Sphingomonas sp. Ibu-2
+Staphylococcus aureus
+Staphylococcus capitis
+Staphylococcus caprae
+Staphylococcus chromogenes
+Staphylococcus cohnii
+Staphylococcus epidermidis
+Staphylococcus epidermis
+Staphylococcus equorum
+Staphylococcus haemolyticus
+Staphylococcus saprophyticus
+Stenotrophomonas maltophilia
+Streptococcus epidermidis
+Streptococcus gordonii
+Streptococcus mitis
+Streptococcus mutans
+Streptococcus oralis
+Streptococcus parasanguinis
+Streptococcus pneumoniae
+Streptococcus pneumoniae serotype 4
+Streptococcus pyogenes
+Streptococcus salivarius
+Streptococcus sanguinis
+Streptococcus sanguis
+Streptococcus sobrinus
+Streptomyces gordonii
+Streptomyces rubiginosus
+Streptomyces sp.
+Thermus thermophilus
+Trichophyton mentagrophytes
+Trueperella pyogenes
+Varicella-zoster virus
+Vibrio anguillarum
+Vibrio campbellii
+Vibrio cholerae
+Vibrio harveyi
+Vibrio parahaemolyticus
+Vibrio vulnificus
+Yersinia enterocolitica

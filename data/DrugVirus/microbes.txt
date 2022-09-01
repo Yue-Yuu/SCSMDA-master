@@ -1,0 +1,95 @@
+SARS-COV-2
+Adenovirus
+Andes virus
+BK virus
+Bunyamwera virus
+Chikungunya virus
+Crimean-Congo hemorrhagic fever virus
+Cytomegalovirus
+Dengue virus
+Dengue Virus Type 2
+Ebola virus
+Echovirus 1
+Enterovirus A
+Enterovirus B
+Enterovirus C
+Enterovirus D
+Enterovirus J
+Epstein-Barr virus
+Hantavirus
+Hendra virus
+Hepatitis A virus
+Hepatitis B virus
+Hepatitis B virus D
+Hepatitis B virus F
+Hepatitis C virus
+Hepatitis D virus
+Hepatitis E virus
+Herpes simplex virus 1
+Herpes simplex virus 2
+Human Astrovirus
+Human coronavirus OC43
+Human coronavirus strain 229E
+Human coronavirus strain NL63
+Human Herpesvirus 1
+Human Herpesvirus 3
+Human Herpesvirus 4
+Human Herpesvirus 5
+Human herpesvirus 6
+Human herpesvirus 7
+Human immunodeficiency virus
+Human immunodeficiency virus 1
+Human Immunodeficiency Virus 2
+Human metapneumovirus
+Human papillomavirus
+Human parainfluenza virus 1
+Human parainfluenza virus 2
+Human Parainfluenza Virus 3
+Human parainfluenza virus type 2
+Human respiratory syncytial virus B
+Human rhinovirus A
+Human rhinovirus B
+Human T-Lymphotropic Virus 1
+Influenza A virus
+Influenza B virus
+Influenza C virus
+Japanese encephalitis virus
+John Cunningham virus
+Junin virus
+Kaposi's sarcoma-associated herpesvirus
+Kunjin virus
+Lassa virus
+Mammarenavirus lymphocytic choriomeningitis virus
+Marburg virus
+Measles virus
+Middle East respiratory syndrome coronavirus
+Middle east respiratory tract syndrome coronavirus
+Middle East resporitary syndrome coronavirus
+Middle eastern respiratory syndrome virus
+Molluscum contagiosum virus
+Nipah virus
+Norovirus
+Parechovirus A3
+Parvovirus B19
+Powassan virus
+Rabies virus
+Ravn virus
+Respiratory syncytial virus
+Rhinovirus A
+Rhinovirus B
+Rift Valley fever virus
+Ross River virus
+Rubella virus
+Saffold virus
+Severe acute respiratory syndrome coronavirus
+Severe fever with thrombocytopenia syndrome virus
+Simian vacuolating virus 40
+Sin Nombre virus
+Sindbis virus
+Tick-borne encephalitis virus
+Vaccinia virus
+Varicella-zoster virus
+Vesicular stomatitis virus
+West Nile virus
+Yellow fever virus
+Zika virus

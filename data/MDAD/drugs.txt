@@ -1,0 +1,1373 @@
+(1-(4-chlorophenoxy)-3-[(4, 6-dimethyl-2-pyrimidinyl) thio]-2- propanol)
+(10R,11R)-Hydnocarpin
+(10R,11R)-Hydnocarpin D
+(10S,11S)-Hydnocarpin D
+(1E)-1-{[(1E)-prop-1-ene-1-sulfinyl]sulfanyl}prop-1-ene
+(1R,2S,7R,3E,11E)-2,18-diacetoxycembra-3,8(19),11,15(17)-tetraen-7-ol
+(1R,2S,7R,3E,8E,11E)-2,18-diacetoxycembra-3,8,11,15(17)-tetraen-7-ol
+(1R,2S,7R,8R)-2,18-diacetoxyasperdiol
+(1R,3S,7R,8S,11S,12R)-3-hydroxy-1,4,8-trimethyl-12-(propan-2-yl)tricyclo[9.3.0.0]tetradec-4-en-6-one
+(1R,4R,8S,11S,12R)-4-hydroxy-1,4,8-trimethyl-12-(propan-2-yl)tricyclo[9.3.0.0]tetradec-3(7)-en-6-one
+(1Z)-(2-phenylethylidene)-lambda4-sulfanyliumolate
+(1Z)-(prop-2-en-1-ylidene)-lambda4-sulfanyliumolate
+(1Z)-ethylidene-lambda4-sulfanyliumolate
+(2-(4-chlorophenyl)- 4-{[(6-methyl-2-pyridinyl)amino]methylene}-1,3-oxazol- 5(4H)-one)
+(2-{[(2-phenylethyl)sulfanyl]sulfinyl}ethyl)benzene
+(2E)-1-(1 ,3 -benzodioxol-5-yl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(1,3-benzodioxol-5-yl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one
+(2E)-1-(1,3-benzodioxol-5-yl)-3-[5-(2-nitro-phenyl)-furan-2-yl]-2-propen-1-one
+(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-6-methoxy-quinolin-3-yl)-2-propen-1-one
+(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one
+(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(2 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(2 ,5 -dimethoxyphenyl)-3-[2,5-dimethyl-1-(3-trifluoromethyl-phenyl)-1H-pirrol-3-yl]-2-propen-1-one
+(2E)-1-(3 ,4 ,5 -trimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(3 ,4 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(3 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(3 -methoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(4 -methoxyphenyl)-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-(5-clorotiophen-2-yl)-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one
+(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(2-naphthyl)-2-propen-1-one
+(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one
+(2E)-1-[4-(3-nitropyridin-2-yl)piperazin-1-yl]-3-phenylprop-2-en-1-one
+(2E)-1-[4-(4-nitrophenyl)piperazin-1-yl]-3-phenylprop-2-en-1-one
+(2E)-3-(3-hydroxy-4-methoxyphenyl)-1-phenylprop-2-en-1-one
+(2E)-3-(4-Hydroxy-3-methoxyphenyl)-1-phenyl-2-propen-1-one
+(2E)-5-[(1S,2R,4aR,8aR)-1,2,4a,5-tetramethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl]-3-formylpent-2-enoic acid
+(2E)-N -(2 -hydroxy-5 -bromo-benzilidene)-3,4,5-trimethoxybenzohydrazide
+(2E)-N-(6-nitro-1,3-benzothiazol-2-yl)-3-phenylprop-2-enamide
+(2E)-N-[3-(1H-imidazol-1-yl)propyl]-3-phenylprop-2-enamide
+(2E)-N-[3-(1H-indol-3-yl)propyl]-3-phenylprop-2-enamide
+(2-methyl-5-nitro-1H-imidazol-1-yl)methyl (2E)-3-phenylprop-2-enoate
+(2R)-2-amino-3-(2,3-dihydro-1H-inden-2-yl)propanoic acid
+(2R)-2-amino-3-(2-phenylethanesulfinyl)propanoic acid
+(2R)-2-amino-3-(benzenesulfinyl)propanoic acid
+(2R)-2-amino-3-(thiophene-2-sulfinyl)propanoic acid
+(2R)-2-amino-3-[(4-chlorophenyl)methanesulfinyl]propanoic acid
+(2R)-2-amino-3-[(4-methylphenyl)methanesulfinyl]propanoic acid
+(2R)-2-amino-3-phenylmethanesulfinylpropanoic acid
+(2R)-2-amino-4-phenylbutanoic acid
+(2R)-2-amino-5-(1-nitrocarbamimidamido)pentanoic acid
+(2R)-2-amino-6-acetamidohexanoic acid
+(2R,3E)-2-Amino-4-phenyl-3-butenoic acid
+(2S)-2-amino-3-(1,3-thiazol-4-yl)propanoic acid
+(2S)-2-amino-3-(4-tert-butylphenyl)propanoic acid
+(2S)-2-amino-3-(tert-butylsulfanyl)propanoic acid
+(2S)-2-amino-4-bromopent-4-enoic acid
+(2S,3R,4S,5S,6R)-3-(2-(1H-Indol-3-yl)acetamido)-6-(acetoxymethyl)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(2-(4-(trifluoromethyl)phenyl)acetamido)tetrahydro-2H-pyran-2,4,5-triyltriacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(2-(4-bromophenyl)acetamido)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(2-(4-chlorophenyl)acetamido)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(2-(4-fluorophenyl)acetamido)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(2-(4-methoxyphenyl)acetamido)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(3-oxohexanamido)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-(3-oxooctanamido)tetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-butyramidotetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-decanamidotetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-dodecanamidotetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2S,3R,4S,5S,6R)-6-(Acetoxymethyl)-3-octanamidotetrahydro-2H-pyran-2,4,5-triyl triacetate
+(2Z)-N-hexyl-2-hydroxy-3-[4-(trifluoromethyl)phenyl]prop-2-enamide
+(3R)-4-(4-acetylphenyl)-3-aminobutan-2-one
+(3R)-7-hydroxy-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid
+(5E)-5-decylidene-1,3-thiazolidine-2,4-dione
+(5E)-5-dodecylidene-1,3-thiazolidine-2,4-dione
+(5E)-5-hexylidene-1,3-thiazolidine-2,4-dione
+(5E)-5-octylidene-1,3-thiazolidine-2,4-dione
+(5E)-5-undecylidene-1,3-thiazolidine-2,4-dione
+(5-nitrofuran-2-yl)methyl (2E)-3-phenylprop-2-enoate
+(5S)-1,7-bis(4-hydroxyphenyl)-5-O-_-D- apiofuranosyl(1 _ 6)-_-D-glucopyranosyloxyheptan-3-one
+(5Z)-2-(1,1-dichloro-2-phenylethyl)-5-{[4-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-2-(1,1-dichloro-3,3-dimethylbutyl)-5-(phenylmethylidene)-1,3-oxazolidin-4-one
+(5Z)-2-(1,1-dichloro-3,3-dimethylbutyl)-5-[(3-methoxyphenyl)methylidene]-1,3-oxazolidin-4-one
+(5Z)-2-(1,1-dichloro-3,3-dimethylbutyl)-5-{[4-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-2-(1,1-dichloro-7-methyloctyl)-5-{[4-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-2-(1,1-dichlorobut-3-yn-1-yl)-5-{[4-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-2-(1,1-dichloropropyl)-5-{[4-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-2-(2,2-dimethylpropyl)-5-{[3-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-2-tert-butyl-5-{[3-(trifluoromethyl)phenyl]methylidene}-1,3-oxazolidin-4-one
+(5Z)-4-Bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone
+(E)-1-[6-[(3-acetyl-2,4,6-trihydroxy-5-methylphenyl)methyl]-5,7-dihydroxy-2,2-dimethyl-2H-1-benzopyran-8-yl]-3-phenyl-2-propen-1-one
+(E)-3-Decen-2-one
+(E)-Chalcone
+(furan-2-yl)methyl (2E)-3-phenylprop-2-enoate
+(R)-2,3-Diaminopropanoic acid
+(R)-2-Amino-3-biphenyl-3-yl-propionic acid
+(R)-2-amino-3-cyclohexylpropanoic acid
+(R)-2-amino-3-cyclopentylpropanoic acid
+(RW)2-NH2
+(RW)3-NH2
+(RW)4D
+(RW)4-NH2
+(Z)-3-(bromomethylene) isobenzofuran-1(3H)-one
+(Z)-3-bromo-5-(bromomethylene) furan-2(5H)-one
+(Z)-4-bromo-5-(bromomethylene)-3-(1-bromobutyl)-2(5H)-furanone
+(Z)-4-bromo-5-(bromomethylene)-3-(1-bromoethyl)-2(5H)-furanone
+(Z)-4-bromo-5-(bromomethylene)-3-(1-bromohexyl)-2(5H)-furanone
+(Z)-4-bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone
+(Z)-4-bromo-5-(bromomethylene)-3-ethyl-2(5H)-furanone
+(Z)-4-bromo-5-(bromomethylene)-3-hexyl-2(5H)-furanone
+(Z)-4-bromo-5-(bromomethylene)-3-methylfuran-2(5H)-one
+(Z)-5-(bromomethylene)-3-(hydroxymethyl]thiophen-2(5H)- one
+(Z)-5-(chloromethylene) furan-2(5H)-one
+(Z)-5-decylidenethiazolidine-2,4-dione
+(Z)-5-octylidenethiazolidine-2,4-dione
+[(ethanesulfinyl)sulfanyl]ethane
+1-(2,4-dichlorophenyl)-2-(1H-imidazol-1-yl)ethyl (2E)-3-phenylprop-2-enoate
+1-(2-Chloroacetyl)-5-methylindoline-2,3-dione
+1-(2-Chloroacetyl)indoline-2,3-dione
+1-(3,5-dinitrophenyl)ethan-1-one
+1-(4-amino-2-hydroxyphenyl)ethan-1-one
+1-(4-chlorophenyl)-3-m-tolyurea
+1-(4-chlorophenyl)-3-p-tolyurea
+1-(4-methoxyphenyl)-3-m-tolyurea
+1-(4-methoxyphenyl)-3-p-tolyurea
+1-(6-aminopyridin-3-yl)ethan-1-one
+1-(pyrazin-2-yl)ethan-1-one
+1-(pyridin-4-yl)ethan-1-one
+1,1,6,6,7,7-hexahydroxy-5,5-diisopropyl-3,3-dimethyl-2,2-binaphthalene-8,8-dicarbaldehyde
+1,2,3,4-Tetrahydroisoquinoline-3-carboxylic acid
+1,3-bis[3-chloro-5-(1,3-dichloropropane-2-yloxy)-2(5H)-furanone-4-ylsulfonyl]propane
+1,3-dimethyl-6-(4-methylphenyl)-5-[3-(4-methylphenyl)-1-phenyl-1H-pyrazol-4-yl]-1H,2H,3H,4H,5H,6H-pyrimido[4,5-d][1,3]diazine-2,4-dione
+1,3-dimethyl-6-(4-methylphenyl)-5-[3-(4-nitrophenyl)-1-phenyl-1H-pyrazol-4-yl]-1H,2H,3H,4H,5H,6H-pyrimido[4,5-d][1,3]diazine-2,4-dione
+1,3-dim-tolyurea
+1-[2-(2,4-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone
+1-[2-(2-nitrophenyl)-5-phenyl-1,3,4-oxadiazol-3(2H)-yl]ethanone
+1-[2-(3,5-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone
+1-[2-(3-bromo-4-hydroxy-5-methoxyphenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone
+1-[2-(naphthalen-1-yl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone
+1-{2-[(E)-2-(4-chlorophenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one
+1-{2-[(E)-2-(4-hydroxy-3-methoxyphenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one
+1-{2-[(E)-2-(4-methoxyphenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one
+1-{2-[(E)-2-[3,5-bis(trifluoromethyl)phenyl]ethenyl]-4-phenylquinolin-3-yl}ethan-1-one
+1-{4-phenyl-2-[(E)-2-[4-(trifluoromethoxy)phenyl]ethenyl]quinolin-3-yl}ethan-1-one
+1-{6-nitro-4-phenyl-2-[(E)-2-(3,4,5-trimethoxyphenyl)ethenyl]quinolin-3-yl}ethan-1-one
+1-{6-nitro-4-phenyl-2-[(E)-2-[4-(trifluoromethoxy)phenyl]ethenyl]quinolin-3-yl}ethan-1-one
+1010cys
+11(R)-hydroxy-12(20)-en-knightal
+11(R)-hydroxy-12(20)-en-knightol acetate
+12-hydroxy decyl beta-maltose
+12-methyltetradecanoic acid
+13-(2-chloro-6-methoxyquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,4aH,6H,11H,13H,13aH-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-(2-chloro-6-methylquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-(2-chloro-7-methoxyquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-(2-chloro-7-methylquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-(2-chloro-8a-methyl-4a,8a-dihydroquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-(2-chloroquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-{7-methoxy-[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-{8-methoxy-[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+13-methyltetradecanoic acid
+14,15,29,30-Tetrahydro-5H,20H-dibenzo[h,s]bis([1,2,3]triazolo)[5,1-c:5_,1_-n][1,4,7,12,15,18]hexaazacyclodocosine-6,12,13,21,27,28(7H,22H)-hexaone
+14-alpha-lipoyl andrographolide
+14-dehydroxy-11,12-didehydroandrographolide- 3,19-bis(succinic acid) potasium sodium salt
+14-Glycinyl andrographolide hydrochloride
+16P
+16P-AC
+17-Deacetyl norgestimate
+1-mesityl-3(4-nitrophenyl)urea
+1-methanesulfonyl-4-methylbenzene
+1-methyl-4-({[(4-methylphenyl)methyl]disulfanyl}methyl)benzene
+2- geranyloxy-1-(2-methylbutanoyl)phloroglucinol
+2-((3,4-dichlorophenyl)sulfonyl)-4-(1H-tetrazol-1-yl)pyrimidine
+2-(2-(2-Azidoacetamido)-5-bromophenyl)-2-oxo-N-(prop-2-yn-1-yl)acetamide
+2-(2-(2-Azidoacetamido)-5-fluorophenyl)-2-oxo-N-( prop-2-yn-1-yl)acetamide
+2-(2-(2-Azidoacetamido)-5-methylphenyl)-2-oxo-N-(prop-2-yn-1-yl)acetamide
+2-(2-(2-Azidoacetamido)-5-nitrophenyl)-2-oxo-N-(prop-2-yn-1-yl)acetamide
+2-(2-(2-Azidoacetamido)phenyl)-2-oxo-N-(prop-2-yn-1-yl)acetamide
+2-(2-(2-Chloroacetamido)-5-fluorophenyl)-2-oxo-N-( prop-2-yn-1-yl)acetamide
+2-(2-(2-Chloroacetamido)-5-methylphenyl)-2-oxo-N-( prop-2-yn- 1-yl)acetamide
+2-(2-(2-Chloroacetamido)-5-nitrophenyl)-2-oxo-N-( prop-2-yn-1-yl)acetamide
+2-(2-(2-Chloroacetamido)phenyl )-2-oxo-N-( prop-2-yn-1-yl )acetamide
+2-(2,4-difluorophenyl)-1,3-bis(1H-1,2,4-triazol-1-yl)propan-2-yl (2E)-3-phenylprop-2-enoate
+2-(2-chloro-5-fluorophenyl)-5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole
+2-(2-Thienylsulfonyl)ethanethioamide
+2-(4-(Trifluoromethyl)phenyl)-N-((2R,3R,4S,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)acetamide
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-(2,4-dichlorophenyl)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-(4-methoxyphenyl)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2yl)-5-(4-nitrophenyl)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-(ethylthio)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-(methylthio)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-(phenylthio)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-(pyridin-4-yl)-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-phenyl-1,3,4-oxadiazole
+2-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-5-styryl-1,3,4-oxadiazole
+2-(4-Bromophenyl)-N-((2R,3R,4S,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)acetamide
+2-(4-Chlorophenyl)-5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole
+2-(4-Chlorophenyl)-N-((2R,3R,4S,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)acetamide
+2-(4-Fluorophenyl)-N-((2R,3R,4S,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)acetamide
+2-(4-Methoxyphenyl)-N-((2R,3R,4S,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)acetamide
+2-(4-methoxyphenyl)-N-(3-{[2-(4-methoxyphenyl)ethyl]imino}-1,4-dihydro-2-quinox alinylidene)ethanamine
+2-(5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole-2-yl)phenol
+2-(5-Bromo-2-(2-chloroacetamido)phenyl )-2-oxo-N-( prop-2-yn-1-yl)acetamide
+2-(5-Chloro-2-(2-chloroacetamido)phenyl )-2-oxo-N-( prop-2-yn-1-yl)acetamide
+2(5H)-furanone
+2-(Aminomethyl)-L-phenylalanine
+2-(hexylsulfonyl)-4-(1H-1,2,3-triazol-1-yl)pyrimidine
+2-(Trifluoromethyl)-D-phenylalanine
+2,2 -Dipyridyl
+2,3,4,5,6-Pentafluoro-L-phenylalanine
+2,3-Dehydrosilybin
+2,3-dihydroxybenzoic acid
+2,4,5-Trifluorophenylalanine
+2,4-Dichlorophenylalanine
+2,4-Difluorophenylalanine
+2,4-Dimethylphenylalanine
+2,4-Dinitro-D-phenylalanine
+2,5-bis(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole
+2-amino-3-(2-nitrophenyl)propanoic acid
+2-amino-3-(3-chlorophenyl)propanoic acid
+2-amino-3-(3-nitrophenyl)propanoic acid
+2-amino-3-(4-methylbenzenesulfinyl)propanoic acid
+2-amino-3-(prop-2-ene-1-sulfinyl)propanoic acid
+2-amino-3-(propane-1-sulfinyl)propanoic acid
+2-amino-4-chlorobenzoic acid
+2-amino-5-methoxy-5-oxopentanoic acid
+2-amino-6-chlorobenzoic acid
+2-amino-6-fluorobenzoic acid
+2-amino-imidazole/ triazole conjugate
+2-Benzyl-5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole
+2-bromo-4-methyl-6-(3,4,5-tribromo-1H-pyrrole-2-carbonyl)phenol
+2-bromodecanoic acid
+2-bromohexanoic acid
+2-bromooctanoic acid
+2C-4
+2-Carbamoylphenylalanine
+2-Chloro-DL-Phenylalanine
+2-Cyano-D-phenylalanine
+2-Fluoro-L-phenylalanine
+2-geranyloxy-1-(2-methylpropanoyl)phloroglucinol
+2-geranyloxy-4,6-dihydroxybenzophenone
+2-Hexylmaleic anhydride
+2-Hydroxychalcone
+2-Methoxy-4-propylphenol
+2-methoxy-cinnamaldehyde
+2-Methoxy-D-Phenylalanine
+2-Methoxyhydroquinone
+2-Nitro-cinnamaldehyde
+2-oxindole
+2-phenylethane-1-SO-thioperoxol
+3-(1-Naphthyl)-D-Alanine
+3-(2-Furyl)-D-alanine
+3-(2-Furylmethyl)-2-{[(5-hydroxy-1H-pyrazol-3-yl)methyl]sulfanyl}-3,5,6,7-tetrahydro-4H-cyclopenta[4,5]thieno[2,3-d]pyrimidin-4-one
+3-(2-Naphthyl)alanine
+3-(2-Naphthyl)-D-alanine
+3-(2-Pyridinyl)alanine
+3-(2-Thienyl)alanine
+3-(2-Thienyl)-D-alanine
+3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one
+3-(3-Pyridinyl)alanine
+3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one
+3-(4-fluorophenyl)-5-(3-ethoxy- 4-hydroxybenzylidene)-2-thioxothiazolidin-4-one
+3-(4-Pyridinyl)alanine
+3-(Aminomethyl)-D-phenylalanine
+3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one
+3-(Trifluoromethyl)phenylalanine
+3,3-dimethyl-13-{[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-2H,4H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+3,3-dimethyl-13-{7-methyl-[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+3,3-dimethyl-13-{8-methyl-[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+3,3-dimethyl-13-{9-methyl-[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione
+3,3-Diphenyl-D-alanine
+3,4-Dichloro-5-[(1,3-dichloropropan-2-yloxy)]-2(5H)-furanone
+3,4-Dichloro-5-[(4-methylphenylsulfonyl)]-2(5H)-furanone
+3,4-Dichloro-cinnamaldehyde
+3,4-Dichlorophenylalanine
+3,4-Dimethoxychalcone
+3,5-dibromotyrosined
+3,5-Difluoro-dl-phenylalanine
+3,5-Diiodotyrosine
+3,5-Dimethyl benzyl dodecyl beta-maltoside
+3,5-dimethylaniline
+3-[(prop-2-ene-1-sulfinyl)sulfanyl]prop-1-ene
+3-{2-[(1S,2R,4aR,8aR)-1,2,4a,5-tetramethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl]ethyl}-5-methylidene-N-phenyl-2,5-dihydrofuran-2-amine
+3-{2-[(1S,2R,4aR,8aR)-1,2,4a,5-tetramethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl]ethyl}-N-(2-fluorophenyl)-5-methylidene-2,5-dihydrofuran-2-amine
+3-{2-[(1S,2R,4aR,8aR)-1,2,4a,5-tetramethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl]ethyl}-N-(3-fluorophenyl)-5-methylidene-2,5-dihydrofuran-2-amine
+3-Amino-4-(2,4-difluorophenyl)-2-butanone
+3beta-Hydroxyolean-12-en-28-al 3-p-coumarate
+3-bromo-5-methoxy-4-[(4-methylphenylsulfanyl)]-2(5H)-furanone
+3-Bromophenylalanine
+3-Carbamoylphenylalanine
+3-Chloro-5-[(2-chloroethoxy)]-4-[(4-methylphenylsulfanyl)]-2(5H)-furanone
+3-chloro-5-hydroxy-4-[(4-methylphenylsulfanyl)]-2(5H)-furanone
+3-chloro-5-hydroxy-4-[(4-methylphenylsulfonyl)]-2(5H)-furanone
+3-Chlorotyrosine
+3-fluoroaniline
+3-Fluoro-DL-phenylalanine
+3-geranyl-1-(2-methylbutanoyl)phloroglucinol
+3-geranyl-1-(2-methylpropanoyl)phloroglucinol
+3-hexyl-4-bromo-5-methylene-2(5H)-furanone
+3-hexyl-5-bromomethylene-2(5H)-furanone
+3-hydroxychalcone
+3-Hydroxyphenylalanine
+3-Hydroxytyrosine
+3-indolylacetonitrile
+3-Iodotyrosine
+3-Methoxychalcone
+3-Methoxy-D-Phenylalanine
+3-Methyl-D-phenylalanine
+3-Nitro-D-tyrosine
+3-Nitrophenylalanine
+3-oxo-C6-HSL
+3-oxo-C8-HSL
+3-tetra- decanoyltetronic
+3-tetradecanoylthiotetronic
+4 alpha, 5 alpha-epoxy-10 alpha, 14H-1-epi-inuviscolide
+4-(2-(5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazol-2-yl)vinyl)-2-methoxyphenol
+4-(2-methybutyryl)-4H-tomentosin
+4-(5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole-2-yl)aniline
+4-(Aminomethyl)-D-phenylalanine
+4-(Trifluoromethyl)-D-phenylalanine
+4,5-dihydroxy-2,3-pentanedione
+4-Acetamido-D-phenylalanine
+4-Amino-D-phenylalanine
+4-Benzoylphenylalanine
+4-Benzyl-sulfonyl-5-hydroxy-3-chloro-2(5H)-furanone
+4-bromo-5-(bromomethylene)-3-(1-( 2-propynyloxy)butyl)-2(5H)-furanone
+4-bromo-5-(bromomethylene)-3-(1-(2-(2-(2-azidoethoxy)ethoxy)ethoxy)butyl)-2(5H)-furanone
+4-bromo-5-(bromomethylene)-3-(1-acetoxybutyl)-2(5H)-furanone
+4-bromo-5-(bromomethylene)-3-(1-bromobutyl)-2(5H)-furanone
+4-bromo-5-(bromomethylene)-3-butyl-2(5H)- furanone
+4-bromo-5-(dibromomethylene)-3-(1-acetoxyoethyl)-2(5H)-furanone
+4-bromo-5-(dibromomethylene)-3-(1-bromoethyl)-2(5H)-furanone
+4-bromo-5-(dibromomethylene)-3-ethyl-2(5H)-furanone
+4-bromoaniline
+4-Bromo-D-phenylalanine
+4-Br-PHL
+4-Chloro-2-fluoro-DL-phenylalanine
+4-chloro-7-(trifluoromethyl)quinoline
+4-chloroaniline
+4-Chlorochalcone
+4-chloroquinoline
+4-Cyanophenylalanine
+4-dimethyl-amino-cinnamaldehyde
+4-Ethylcatechol
+4-Ethylguaiacol
+4-Fluoro-(S)-4,5-Dihydroxypentane-2,3-dione
+4-Fluoro-2-methyl-D-phenylalanine
+4-Fluoro-D-phenylalanine
+4-fluoroindole
+4H-tomentosin
+4-Hydroxy benzoate
+4-hydroxy coumarin
+4-Hydroxy-2,5-dimethyl-3(2H)-furanone
+4-Hydroxychalcone
+4-Iodo-d-phenylalanine
+4-methanesulfonylaniline
+4-Methoxycarbonylphenylboronic acid
+4-Methoxychalcone
+4-methoxy-cinnamaldehyde
+4-Methyl benzyl dodecyl beta-maltoside
+4-Methylphenylalanine
+4-nitro-cinnamaldehyde
+4-Nitro-D-phenylalanine
+4-nitropyridine N -oxide
+4-Phenyl-N-((2R,3R,4S,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)butanamide
+4-tertiary butyl benzyl decyl beta-maltoside
+4-tertiary butyl benzyl dodecyl beta-maltoside
+5 alpha-Epoxyalantolactone
+5- hydroxyethyl-3-tetradecanoyltetramic acid
+5-(4,5-dibromo-1-methyl-1H-pyrrol-2-yl)-1,3,4-oxadiazole-2-thiol
+5-(dibromomethylene)-3-(1-acetoxyethyl)-2(5H)-furanone
+5-(dibromomethylene)-3-(1-bromobutyl)-2(5H)-furanone
+5-(dibromomethylene)-3-(1-bromoethyl)-2(5H)-furanone
+5-(dibromomethylene)-3-butyl-2(5H)-furanone
+5-(dibromomethylene)-3-ethyl-2(5H)-furanone
+5-(dibromomethylene)-3-hexyl-2(5H)-furanone
+5,7,8,4-Tetramethoxyflavone
+5,8,11,14-Eicosatetraynoic acid
+5-Bicyclic brominated furanones
+5-Bromo-1-(2-chloroacetyl)indoline-2,3-dione
+5-Bromoindole
+5-bromomethylene-2 (5H)-furanone
+5-Chloro-1-(2-chloroacetyl)indoline-2,3-dione
+5-Chloroindole
+5-decyl-1,3-thiazolidine-2,4-dione
+5-Fluorocytosine
+5-fluoroindole
+5-fluorooxiindole
+5-Fluorouracil
+5-Hydroxy-4-[(4-methylphenyl)sulfonyl]-3-chloro-2(5H)-furanone
+5-octyl-1,3-thiazolidine-2,4-dione
+6-(4-chlorophenyl)-1,3-dimethyl-5-[3-(4-methylphenyl)-1-phenyl-1H-pyrazol-4-yl]-1H,2H,3H,4H,5H,6H-pyrimido[4,5-d][1,3]diazine-2,4-dione
+6-Amino Penicillinic acid
+6-Aminoflavone
+6-Bicyclic brominated furanones
+6-Chloroindole
+6-Chlorooxindole
+6-fluoroindole
+6-Gingerol
+6-hydroxyflavone
+6-MO-LF11-215
+6-MO-LF11-227
+6-MO-LF11-322
+7-Bicyclic brominated furanones
+7-bromoindole
+7-chloroindole
+7-chloroquinolin-4-ol
+7-fluoroindole
+7-fluoroindoline-2,3-dione
+7-formylindole
+7-hydroxyindole
+7-methoxyindole
+7-methylindole
+7-nitroindole
+7P-AC
+8-fluoroquinoline
+9-hydroxy-2-propyl-4H-pyrido[1,2-a]pyrimidin-4-one
+A-3
+AAP2
+Abacavir
+Aceroside VIII
+Acetohydroxamic Acid
+Acetycholine
+Aciclovir
+Adamantane dodecyl beta-maltoside
+Adefovir Dipivoxil
+AFP1
+Ajoene
+Albendazole
+Alexidine dihydrochloride
+Allicin
+Aloe Vera Gel
+Aloe-emodin
+alpha-costic acid
+alpha-Defensin-3
+alpha-Humulene
+alpha-Longipinene
+alpha-mangostin
+alpha-Pinene
+alpha-tocopherol
+Amantadine
+Amikacin
+Amikacin disulfate salt
+Aminocyclopropane
+Aminosalicylic Acid
+Amlodipine
+Amoxicillin
+Amphotericin B
+Ampicillin
+Amprenavir
+Anidulafungin
+Aniline
+Anthraflavic acid
+Anthranilate
+Apigenin
+Apramycin
+Arbekacin
+Asperdiol
+Asperdiol acetate
+Aspirin
+Atazanavir
+Atovaquone
+Auranofin
+Autoinducer-2
+Avermectin B1a
+Avibactam
+Azidocillin
+Azithromycin
+Azlocillin
+Aztreonam
+Bac8C
+Bacalin hydrate
+Bacampicillin
+Bacitracin
+Bactenecin
+Baicalein
+Baicalin
+Bedaquiline
+Benzalacetone
+Benzathine benzylpenicillin
+Benzbromarone
+Benzenesul-fonamide,4-amino-N-methyl-N-[3-(3,4,7,8-tetrahydro-2,4-dioxo-2H-thiopyrano[4,3-d]pyrimidin-1(5H)-yl)propyl
+Benzethonium chloride
+Benzocaine
+Benzophenonyl decyl beta-maltoside
+Benzoylperoxide
+Benzyl decyl beta-maltoside
+Benzylpenicillin
+Bergamottin
+Besifloxacin
+beta-6-20-G3K6
+beta-Caryophyllene
+beta-Defensin-1
+beta-Defensin-3
+beta-Pinene
+beta-sitosterol glucoside
+Betulin
+Betulinic acid
+Bevirimat
+Bifonazole
+Biphenyl
+Bis[(4-methylphenyl)methyl] disulfide
+BisEDT-RIP
+Bismuth oxide nanoparticle
+Bis-O-acetyl-4,5-dihydroxy-2,3-pentanedione
+BMAP-18
+BMAP-27
+BMAP-28
+Brecanavir
+Bromohexylmaleic anhydride
+Bromophenyl AHL
+BS-34
+Butane-1,4-diamine
+Butanol
+Butein
+Butenafine hydrochloride
+Butoconazole
+Butoconazole nitrate
+Butyl gallate
+C12HSL
+C16-33
+C16G2
+C4-HSL
+C6-HSL
+C8-HSL
+Cadmium Ion
+Caffeic Acid
+Caffeine
+Calanolide A
+Calcium chloride
+CAMA
+Camphene
+Capreomycin
+Carabrol
+Carabrone
+Carbonyl cyanide m-chlorophenylhydrazone
+Carboxymethyl chitosan
+Carminic acid
+Carnitine hydrochloride
+Carolacton
+Carvacrol
+Caspofungin
+cat-AGE-RK1
+cat-AGE-RK2
+Catechin
+Catechin gallate
+Cathelicidin
+Cecropin (1-7)-melittin A (2-9) amide
+Cecropin B
+Cefacetrile
+Cefaclor
+Cefadroxil
+Cefalonium
+Cefalotin
+Cefamandole
+Cefapirin
+Cefazolin
+Cefditoren
+Cefepime
+Cefixime
+Cefmenoxime
+Cefmetazole
+Cefonicid
+Cefoperazone
+Ceforanide
+Cefotaxime
+Cefotetan
+Cefotiam
+Cefoxitin
+Cefpiramide
+Cefpodoxime
+Cefprozil
+Ceftazidime
+Ceftazidime hydrate
+Ceftizoxime
+Ceftobiprole
+Ceftriaxone
+Cefuroxime
+Cephalexin
+Cephaloglycin
+Cerulenin
+CGP-37157
+Ch Dhvar5 ads
+Ch_GG_Nt-Dhvar5
+Chelerythrine
+Chitosan
+Chloramphenicol
+Chlorhexidine
+Chlorhexidine acetate
+Chloroxine
+Chlorpromazine
+Chromate
+Chrysin
+Chrysophanol
+Chrysophsin-1
+Ciclopirox ethanolamine
+Cidofovir
+Cinnamaldehyde
+Cinnamic acid
+Cinnamon oil
+Cinoxacin
+Ciprofloxacin
+Ciprofloxacin lactate
+cis-2-dodecenoic acid
+cis-4-Hydroxy-L-proline
+cis-Stillbene
+Citral
+Citropin 1.1
+Clarithromycin
+Clary sage
+Clary sage oil
+Clavulanate
+Clindamycin
+Clioquinol
+Clofazimine
+Clomocycline
+Clotrimazole
+Clove oil
+Cloxacillin
+Clozapine
+Cobalt Ion
+Coladonin
+Colistin
+Colistin sodium methanesulfonate
+Colostrum Hexasaccharide
+Competence Stimulating Peptide
+Copper sulfate
+Coprinuslactone
+Coumarin
+Coumarin-3-carboxylic acid
+cov-GK7-NH2
+cov-GL13K
+CRAMP
+Crocin
+CSP
+CSP-C16
+Curcumin
+CWR11
+Cyanidin
+Cyclacillin
+cyclo(Trp-Ser)
+Cyclobutanamine
+cyclophosphamide
+Cycloserine
+Cynarin
+D, L- K6L9
+D/L-Aspartate
+D-2-aminoadipic acid
+D-2-Methylphenylalanine
+Daclatasvir
+Daidzein
+D-Alanine
+Dalbavancin
+Dalfopristin
+Danthron
+Dapsone
+Daptomycin
+Darunavir
+DASamP1
+D-Asparagine
+D-Aspartate
+D-Aspartic acid
+D-Citrulline
+D-Cystine
+DD13
+Decanediol
+Decyl beta-maltoside
+Delavirdine
+Delphinidin
+Demeclocycline
+den-SB056
+den-SB056-1
+Dephnetin
+Desipramine
+Dezocine
+dF17-6K
+dF21-10K
+D-galactose cluster
+D-glutamine
+D-Histidine
+Diazepam
+Dibenzyl disulphide
+Dibenzyl sulphide
+Dichloromethane
+Dicinnamyl
+Diclofenac sodium
+Dicloxacillin
+Dicyclohexylamine
+Didanosine
+digoxin
+DiHydroxyBenzoFuran
+Dihydroxybenzoic Acid (2,3-DHBA)
+Dihydroxybenzoic Acid (2,4-DHBA)
+Dihydroxybenzoic Acid (3,4-DHBA)
+Di-MB-LF11-215
+Di-MB-LF11-322
+Dimethyl Sulfoxide
+Diphenyl diselenide
+Diphenyl disulphide
+Diphenyl methane
+Dirithromycin
+DispersinB-KSL-W wound gel
+Diterpene phytol
+Djenkolic acid
+DJK5
+DJK6
+D-Leucine
+D-LL-37
+D-Methionine
+Dodecyl beta-maltoside
+Dolutegravir
+Doripenem
+Doxycycline
+D-Phenylalanine
+D-Proline
+D-tert-Leucine
+D-Tryptophan
+D-Tyrosine
+Econazole
+Econazole nitrate
+Efavirenz
+Elemental silver
+Ellagic Acid
+Elliptophenone A
+Emodin
+Emtricitabine
+Enalapril
+Enfuvirtide
+Enoxacin
+Ephedrine
+Epicatechin
+Epicatechin gallate
+Epicatechin-3-gallate
+Epigallocatechin
+Epigallocatechin Gallate
+epsilon-Polylysine
+epsilon-viniferin
+Ertapenem
+Erythritol
+Erythromycin
+Esculentin
+Esculetin
+Esculin
+Esculin hydrate
+Esomeprazole
+Ethambutol
+Ethane-1,2-diamine
+Ethyl acetate
+Ethyl gallate
+Ethylene glycol tetraacetic acid
+Ethylenediametetraacetic acid
+Eucarobustol E
+Eugenol
+Evodiamine
+F2,5,12W
+Farnesol
+faropenem medoxomil
+Fenclonine
+Ferric chloride
+Ferrous
+Ferulic Acid
+FK506
+Flavone
+Flavonoids 3
+Flavonoids 7
+Fleroxacin
+Floxacillin
+Flucloxacillin
+Fluconazole
+Fluperlapine
+Fluspiriline
+Fosamprenavir
+Fosaphenytoin
+Fosfomycin
+Framycetin
+Fraxin
+FS8
+Furanone
+Furanone 56
+Furanone C-30
+Furanone F202
+Furanone-2
+Furanone-3
+Furanone-5
+Furanone-6
+Furanone-8
+Furvina
+Fusidic Acid
+FV7
+G H12
+G10KHc
+G2
+Gallic Acid
+Gallium cation
+Gallium Nitrate
+Gallocatechin
+Gallocatechin gallate
+Ganciclovir
+Garlic extract
+Gatifloxacin
+Gemifloxacin
+Genistein
+Gentamicin
+Ginger oil
+GL13K
+Glipizide
+Glucose
+Glycinamide hydrochloride
+Glycomonoterpenes (G-citral)
+Glycomonoterpenes (G-citron)
+Gossypetin hexamethyl ether
+Grepafloxacin
+Guaiacol
+GW 5074
+GW-9662
+HA14-1
+Hamamelitannin
+HE10
+HE12
+HE4
+Hepcidin 20
+Heptadecanoic acid
+Heptamethoxyflavone
+Hesperetin
+Hesperidin
+Hetacillin
+Hexachlorophene
+Hexameric peptide
+Hexyl gallate
+Hinokitiol
+Histatin 5
+hLF1-11
+Holothuroidin 1
+Holothuroidin 2
+Hsn5 12-mer
+Human beta-defensin 3
+Hydnocarpin D
+Hydrogen peroxide
+Hypericin
+Hyperoside
+Ibuprofen
+Idoxuridine
+IDR-1018
+IG-13
+IG-19
+IG-25
+Imazalil
+IMB-2
+Imipenem
+Imperatorin
+Indinavir
+Indirubin
+Indol AHL
+Indole
+Indole-3-acetaldehyde
+Indole-3-acetamide
+Indole-3-acetic acid
+Indole-3-carboxyaldehyde
+Indole-7-carboxylic acid
+Indolicidin
+Ionic silver
+Irinotecan
+Isatin
+Isobutanol
+Isoconazole
+Isoeugenol
+Isohydnocarpin
+Isoliquiritigenin
+Isoniazid
+Isopropanol
+Isoriccardin C
+Isosilybin A
+Isosinensetin
+Isothiocyanate
+Itraconazole
+Ivalin
+Josamycin
+K4-S4
+KABT-AMP
+Kaempherol
+Kanamycin
+kappa-Pyrosulfite
+Kaurenoic acid
+KD-13
+Ketoconazole
+knightine
+Kojic acid
+KSL
+KSL-W
+KT2
+L- K6L9
+L-2-Bromophenylalanine
+L-4-Carbamoylphenylalanine
+L-744,832
+Lactoferricin B
+Lamivudine
+Lanthanum chloride
+L-Aspartate
+Latamoxef
+L-Canavanine
+L-carnosine
+L-cysteic acid
+Lemon
+Lemon oil
+Levofloxacin
+LF11-215
+LF11-227
+LF11-322
+LF11-324
+LFampin
+Lfcin
+L-fucose cluster
+Limonene
+Linalool
+Linezolid
+lin-SB056
+lin-SB056-1
+Lipoic acid
+Listerine
+L-K6
+LL-13
+LL13-37
+LL-19
+LL-25
+LL-31
+LL-37
+LL7-37
+Lomefloxacin
+Lopinavir
+Lorazepam
+L-ornithine hydrochloride
+Losartran
+L-Phenylalanine
+L-Phenylalanine-D-Lysine
+L-Phenylalanine-L-Lysine
+L-pipecolic acid
+L-tryptophan
+L-Tyrosine
+Luteolin
+Lymecycline
+Lys-a1
+Lysozyme
+M8-33
+M8G2
+Macromomycin B
+Magainin-I
+Magainin-II
+Malabaricone C
+Mefloquine
+Melittin
+Melittin B
+Menthol
+Merimepodib
+Meropenem
+Meta-bromo-thiolactone
+meta-toluidine
+Methacycline
+methanesulfonylbenzene
+Methanol
+Methyl benzethonium chloride
+Methyl eugenol
+Methyl gallate
+Methyl indole-7-carboxylate
+Methylthiopropylamine
+Meticillin
+Metronidazole
+Mezlocillin
+Micafungin
+Miconazole
+Midazolam
+Minocycline
+Mitomycin C
+Monensin sodium salt
+Moxifloxacin
+MUC7 12-mer-D
+MUC7 12-mer-L
+MUC7 12-mer-L4
+MUC7 20-mer
+Mucobromic acid
+Mucochloric acid
+Mustard oil
+Myricetin
+Myricitrin
+Myristic acid
+Myristoyl-DL-carnitine
+Myrrh oil
+Myxinidin
+Myxinidin1
+Myxinidin2
+Myxinidin3
+N -(3-nitro-4-hydroxy-benzylidene)benzohydrazide
+N -(4-trifluoromethyl-benzylidene)benzohydrazide
+N -(5-bromo-2-hydroxy-benzylidene)benzohydrazide
+N -(pyridin-3-yl-methylene)benzohydrazide
+N -[(3-chloro-isoquinolin-4-yl)methylene] benzohydrazide
+N 3-(2-thienylcarbonyl)-4-bromo-1,5-dimethyl-1H-pyrazole-3-carbohydrazide
+N-((1E)-{4-ethoxy-3-[(8-oxo-1,5,6,8-tetrahydro-2H-1,5-methanopyrido[1,2-a][1,5]diazocin-3(4H)-yl)methyl]phenyl}methylene)-3,4,5-trihydroxybenzohydrazide
+N-((2R,3R,4S,5S,6R)-2,4,5-Trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)butyramide
+N-((2R,3R,4S,5S,6R)-2,4,5-Trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)dodecanamide
+N-((2R,3R,4S,5S,6R)-2,4,5-Trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)hexanamide
+N-((2R,3R,4S,5S,6R)-2,4,5-Trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-3-yl)octanamide
+N-(1,3-benzothiazol-2-yl)butanamide
+N-(1,3-Thiazol-2-yl)butanamide
+N-(2-oxothiolan-3-yl)butanamide
+N-(2-Pyridinyl)butanamide
+N-(2-Pyrimidinyl)butanamide
+N-(4,5-Dihydro-1,3-thiazol-2-yl)butanamide
+N-(4-Bromobenzylidene)benzohydrazide
+N-(4-hydroxy-2-methylphenyl)-3-oxododecanamide
+N-(4-Hydroxyphenyl)butanamide
+N-(4-Morpholinyl)butanamide
+N-(4-Pyridinyl)butanamide
+N-(5-Methyl-1,2-oxazol-3-yl)butanamide
+N-(6-tert-butyl-2,3-dihydro- 2-methylpyridazin-4-yl)-5-chlorothiophene-2-carbohydrazide
+N-(pyrrolidin-3-yl)dodecanamide
+N-[(3-chloro-isoquinolin-4-yl)methylene]benzohydrazide
+N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide
+N1-(7-chloroquinolin-4-yl)dodecane-1,12-diamine
+N1-(7-chloroquinolin-4-yl)ethane-1,2-diamine
+N1-(7-chloroquinolin-4-yl)octane-1,8-diamine
+N1-[7-(trifluoromethyl)quinolin-4-yl]dodecane-1,12-diamine
+N1-[7-(trifluoromethyl)quinolin-4-yl]ethane-1,2-diamine
+N1-[7-(trifluoromethyl)quinolin-4-yl]octane-1,8-diamine
+NA10
+NA12
+NA8
+NA8H
+Na-Benzoate
+NA-CATH
+NA-CATH-ATRA1-ATRA1
+N-Acetylcysteine
+NaCl
+Nafcillin
+Na-Propionate
+Na-Pyrosulfite
+Naringenin
+Naringin
+N-Decanoyl cyclopentylamide
+N-decanoyl-L- homoserine benzyl ester
+Nelfinavir
+Neoeriocitrin
+Neohesperidin
+Neomycin
+Nerolidol
+N-Ethylacetanilide
+Netilmicin
+Nevirapine
+n-Hexane
+Niacinamide
+Niclosamide
+nimesulide
+Nisin
+Nitazoxanide
+nitrazepam
+Nitrofural
+Nitrofurantoin
+n-Methyl-D-valine
+N-Nonanoyl-cyclopentylamide
+Nobiletin
+Nodakenetin
+Norbgugaine 12
+Norfloxacin
+Norgestimate
+Norpinguisone
+Norspermidine
+Novobiocin
+NRC-16
+Nystatin
+O-(2,6-Dichlorobenzyl)-D-tyrosine
+Octadecyl gallate
+Octameric peptide
+octane-1,8-diamine
+Octyl gallate
+Ofloxacin
+OHC10HL
+OHC8HL
+Oleanolic Acid
+Oleic Acid
+O-LF11-215
+O-LF11-227
+Olive oil
+Olmesartran
+O-Methyl-D-tyrosine
+Orange extract
+Oregano oil
+Oseltamivir
+OSIP108
+Oxacillin
+Oxantel
+Oxiconazole nitrate
+Oxyresveratrol
+Oxytetracycline
+P10
+P15-CSP
+P60.4Ac
+Palivizumab
+Palmitic acid
+Palmitoyl-DL-carnitine
+Pa-MAP
+Pantaprazole
+para-anisidine
+para-Benzoquinone
+para-ethoxyaniline
+para-ethylaniline
+para-toluidine
+Paromomycin
+Patulin
+p-Coumaric acid
+Pefloxacin
+Pelargonidin
+Penciclovir
+Penicillenol A1
+Penicillenol A2
+Penicillenol B1
+Penicillenol B2
+Penicillenol C1
+Penicillenol C2
+Penicillic acid
+Penicillin G
+Pentagalloylglucose
+Pentamethoxyflavone
+Pentanol
+Peppermint oil
+Peptide 1
+Peptide 1037
+PG-1
+Phenanthrene
+Phenobarbitone
+Phenol,2,4-bis(1,1-dimethylethyl)
+Phenoxymethylpenicillin
+Phenyl-arginine-b-naphthylamide
+Phenytoin
+Phloretin
+Phloridzin
+Phosphate
+Phosphorylserine
+Phylloseptin-1
+phys-GL13K
+Picolinic acid
+Pine needle oil
+Pinguisenol
+Piperacillin
+Piperacillin-Tazobactam
+Pivampicillin
+Pivmecillinam
+Platyphylloside
+Pleurocidin
+PLF
+p-nitrophenyl glycerol
+Polyethyleneimine
+Polymyxin B
+Polysorbate 80
+Posaconazole
+Povidone Iodine
+Praziquantel
+Pro-Gly
+Prolificin A
+prop-2-ene-1-SO-thioperoxol
+Propanol
+Propyl gallate
+Protamine sulphate
+Protocatechuic acid
+Pseudomonas Quinolone Signal
+Psoralen
+PTP-7
+Pyrazinamide
+Pyrimethamine
+Pyrimidinedione
+Pyrogallol
+Pyrvinium pamoate
+Quercetin
+Quercetin Dihydrate
+Quercetin-3-O-glucuronide
+Quinine
+Quinizarin
+Quinolin-8-ol
+Quinupristin
+Quinupristin/dalfopristin
+Raltegravir
+Raspberry KAS 434
+Reserpine
+Resorcinol
+Resveratrol
+R-FV-I16
+Rhein
+Rhodomyrtone
+RI-19
+Ribavirin
+Rifabutin
+Rifalazil
+Rifampicin
+Rifapentine
+Rilpivirine
+Rimantadine
+Ritonavir
+RK-19
+RK-25
+RK-31
+RNAIII-inhibiting Peptide
+Rosmarinic acid
+Rosoxacin
+RT2
+RTA3
+R-Thanatin
+Rufloxacin
+Rutaecarpine
+Rutin
+S-(2-Aminoethyl)-L-cysteine hydrochloride
+S-(2-thiazoyl)-L-cysteine
+S-(2-thienyl)-L-cysteine
+S-(4-tolyl)-L-cysteine
+S6L3-33
+Sage oil
+Salicylic Acid
+Sanguinarine
+Saquinavir
+S-carboxylmethyl-L-cysteine
+Scopoletin
+Scrambled LL-37
+Seg6D
+Seg6L
+Sennidin A
+Sertaconazole nitrate
+S-ethyl-L-cysteine
+Shikonin
+Siamycin I
+Silver dihydrogen citrate
+Silver Ion
+Silver nanoparticles
+Silver nanowires
+Silver nitrate
+Silver sulfadiazine
+Silver sulphate
+Silybin
+Simeprevir
+Sinapic acid
+Sinefungin
+Sinensetin
+Sm6(L1)2C
+Sm6(L2)B33
+Sm6(L3)2C
+SMAP-29
+S-methyl- L-cysteine
+Sodium ascorbate
+Sodium Chloride
+Sodium sulfate
+Sorbitol
+sorivudine
+S-OSIP108
+SP1
+Spermine
+S-phenyl-L-cysteine
+S-phenyl-L-cysteine sulfoxide
+S-propyl-L-cysteine
+SQ109
+Ssp (A4K-A11K)
+Stavudine
+Stearic acid
+Stilbene
+Streptomycin
+Streptorubin B
+Subtilosin
+Sucrose
+Sulbactam
+Sulconazole nitrate
+Sulfacetamide
+Sulfacytine
+Sulfadiazine
+Sulfadoxine
+Sulfalene
+Sulfamerazine
+Sulfamethazine
+Sulfamethizole
+Sulfamethoxazole
+Sulfamoxole
+Sulfanilamide
+Sulfaphenazole
+Sulfathiazole
+Sulfisoxazole
+Syringic acid
+Tachyplesin III
+Tangeretin
+Tangerine oil
+Tannic acid
+Taurine
+Tazobactam
+Tea tree oil
+Teichoplanin
+Telaprevir
+Telekin
+Telithromycin
+Tellurite
+Tenofovir
+Terconazole
+Terpinene-4-ol
+Tert-butanol
+Tet-20
+Tet-213
+Tet-26
+Tetracycline
+Tetrameric peptide
+Tetrazol-1-yl
+Thiazolidinedione-8
+Thimerosal
+Thiophenone TF101
+Thonzonium bromide
+Thymol
+Ticarcillin
+Tigecycline
+Tiliroside
+Timolol
+Tioconazole
+Tipranavir
+Titanium dioxide
+TMB-8
+TMC-151s C
+Tobramycin
+Tobramycin-bismuth-ethanedithiol
+Tomentosin
+Toremifene
+trans-2-dodecenoic acid
+trans-2-Nonenal
+trans-2-Pentenal
+trans-Resveratrol
+trans-Stillbene
+Tricaine
+Triclosan
+Triethyl[2-({10,15,20,24,26,29,31,33,34-nonakis[3-(triethylphosphaniumyl)propoxy]hexacyclo[21.2.2.2,.2,.2,.2]pentatriaconta-1(25),3(35),4,6(34),8,10,13,15,18,20,23,26,28,30,32-pentadecaen-4-yl}oxy)ethyl]phosphanium decabromide
+Triethyl[3-({33-[2-(triethylazaniumyl)ethoxy]-10,15,20,25,27,29,31,34-octakis[3-(triethylazaniumyl)propoxy]hexacyclo[21.2.2.2.2.2.2]pentatriaconta-1(25),3,5,8,10,13,15,18,20,23,26,28,30,32,34-pentadecaen-4-yl}oxy)propyl]azanium decabromide
+Trimethoprim-sulfamethoxazole
+Trimethoxyflavone
+Trimethyl(3-{4-[3-(trimethylazaniumyl)propoxy]phenoxy}propyl)azanium dibromide
+Trimethyl(3-{4-[3-(trimethylphosphaniumyl)propoxy]phenoxy}propyl)phosphanium dibromide
+Trimethyl[2-({10,15,20,24,26,29,31,33,34-nonakis[3-(trimethylphosphaniumyl)propoxy]hexacyclo[21.2.2.2,.2,.2,.2]pentatriaconta-1(25),3(35),4,6(34),8,10,13,15,18,20,23,26,28,30,32-pentadecaen-4-yl}oxy)ethyl]phosphanium decabromide
+Trimethyl[3-({33-[2-(trimethylazaniumyl)ethoxy]-10,15,20,25,27,29,31,34-octakis[3-(trimethylazaniumyl)propoxy]hexacyclo[21.2.2.2,.2,.2,.2]pentatriaconta-1(25),3,5,8,10,13,15,18,20,23,26,28,30,32,34-pentadecaen-4-yl}oxy)propyl]azanium decabromide
+Trovafloxacin
+Tyrosol
+Tyrphostin 9
+Tyrphostin AG1478
+TZD-C8
+Umbelliferone
+Undecanoic acid
+Undecyl beta-maltoside
+Uracil
+Ursolic acid
+Usnic acid
+Vancomycin
+Vanillic acid
+Vanillin
+Vanillylacetone
+Verapamil
+Vidarabine
+Viomycin
+Virginiamycin M1
+Virstatin
+Vitamin C
+Vitamin E
+Vitexin
+Voriconazole
+VS2
+VSL2
+W-7 Hydrochloride
+Wheat bran
+YC-1 compound
+Yohimbine hydrochloride
+Zalcitabine
+Zanamivir
+Zeaxanthin
+Zidovudine
+Zinc
+Zinc Dichloride
+Zinc Nitrate
+Zinc oxide
+Zinc sulfate
+ZnO nanoparticles
+Zotepine

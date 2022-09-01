@@ -1,0 +1,175 @@
+4-HPR (Fenretinide)
+5-Bromovinyldeoxyuridine
+Abacavir
+ABT-263
+Acetylsalicylic acid
+Aciclovir
+Adefovir Dipivoxil
+Alisporivir
+Alpha-lipoic acid
+Amantadine
+Amiodarone
+Amodiaquine
+Amprenavir
+Anisomycin
+Apoptozole
+Aprotinin
+Arbidol (Umifenovir)
+Artesunate
+Asunaprevir
+Atazanavir
+Atovaquone
+Azacitidine
+Azaribine
+Azithromycin
+BCX4430 (Galidesivir)
+Benztropine
+Bepridil
+Berberine
+Bevirimat
+Bithionol
+Bortezomib
+Brecanavir
+Brequinar
+Brincidofovir
+Caffeine
+Calanolide A
+Camostat
+Camptothecin
+Cepharanthine
+Chloroquine
+Chlorpromazine
+Cidofovir
+Clevudine
+Clomipramine
+Cyclosporine
+CYT107
+Daclatasvir
+Dalbavancin
+Darunavir
+Dasatinib
+Delavirdine
+Dibucaine
+Didanosine
+Diphyllin
+Dolutegravir
+Doxycycline
+Efavirenz
+Eflornithine
+EIPA (amiloride)
+Emetine
+Emodin
+Emtricitabine
+Enfuvirtide
+Entecavir
+Erlotinib
+Ezetimibe
+Famciclovir
+Favipiravir
+Filociclovir
+Flavopiridol
+Fluoxetine
+Fluvastatin
+Formoterol
+Fosamprenavir
+Foscarnet
+Ganciclovir
+Gefitinib
+Gemcitabine
+Genistin
+Glycyrrhizin
+Hexachlorophene
+Homoharringtonine
+Hydroxychloroquine
+Idoxuridine
+Imatinib
+Indinavir
+Indomethacin
+Inosine pranobex
+Irbesartan
+Isolanid (lanatoside C)
+Itraconazole
+Ivermectin
+Kasugamycin
+Labyrinthopeptin A1
+Labyrinthopeptin A2
+Lamivudine
+Leflunomide
+Letermovir
+Lobucavir
+Lopinavir
+Lovastatin
+Luteolin
+Manidipine
+Maraviroc
+Mefloquine
+Memantine
+Metformin
+Minocycline
+Mitoxantrone
+Monensin
+Mycophenolic acid
+Nafamostat
+Nelfinavir
+Nevirapine
+Niclosamide
+Nitazoxanide
+N-MCT
+Novobiocin
+Obatoclax
+Oritavancin
+Oseltamivir
+Palivizumab
+Penciclovir
+Pentosan polysulfate
+Phosphonoacetic Acid
+Pirlindole
+Pleconaril
+Posaconazole
+Promethazine
+Quinacrine
+Quinine
+Raloxifene
+Raltegravir
+Rapamycin (Sirolimus)
+Regorafenib
+Remdesivir
+Ribavirin
+Rilpivirine
+Rimantadine
+Ritonavir
+Roscovitine (Seliciclib)
+Salinomycin
+Saquinavir
+Saracatinib
+Silvestrol
+Simeprevir
+Simvastatin
+Sofosbuvir
+Sorafenib
+Stavudine
+Sunitinib
+Suramin
+Tamoxifen
+Teicoplanin
+Telaprevir
+Telavancin
+Telbivudine
+Tenofovir
+Tenofovir disoproxil
+Teriflunomide
+Thymalfasin
+Tilorone (Amixin)
+Tipranavir
+Topotecan
+Toremifene
+Trametinib
+Trifluridine
+Uracil
+Valacyclovir
+Valganciclovir
+Verapamil
+Vidarabine
+Zalcitabine
+Zanamivir
+Zidovudine
