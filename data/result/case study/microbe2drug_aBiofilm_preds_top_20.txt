@@ -1,0 +1,2800 @@
+Achromobacter sp.	Epigallocatechin Gallate	1	0.6089926958084106
+Achromobacter sp.	Bark extract of Tamarix aphylla L.	2	0.5700663328170776
+Achromobacter sp.	Curcumin	3	0.5576305985450745
+Achromobacter sp.	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.54621422290802
+Achromobacter sp.	Stem extract of Acacia arabica	5	0.5450109243392944
+Achromobacter sp.	AHL lactonase	6	0.4877249598503113
+Achromobacter sp.	Limonene	7	0.3914465010166168
+Achromobacter sp.	Betulin	8	0.3802284002304077
+Achromobacter sp.	C4-HSL	9	0.37256380915641785
+Achromobacter sp.	N-Acetylcysteine	10	0.3688267767429352
+Achromobacter sp.	Farnesol	11	0.36816781759262085
+Achromobacter sp.	4-Methoxycarbonylphenylboronic acid	12	0.36631855368614197
+Achromobacter sp.	Bacteriophage	13	0.3650991916656494
+Achromobacter sp.	LL-37	14	0.36457186937332153
+Achromobacter sp.	C6-HSL	15	0.36164307594299316
+Achromobacter sp.	Lys-a1	16	0.3581007719039917
+Achromobacter sp.	Cinnamaldehyde	17	0.3563307821750641
+Achromobacter sp.	Vancomycin	18	0.35219472646713257
+Achromobacter sp.	Chestnut honey	19	0.35096946358680725
+Achromobacter sp.	Toremifene	20	0.338434100151062
+Achromobacter xylosoxidans	Epigallocatechin Gallate	1	0.6187199950218201
+Achromobacter xylosoxidans	Bark extract of Tamarix aphylla L.	2	0.6128138899803162
+Achromobacter xylosoxidans	Curcumin	3	0.5351453423500061
+Achromobacter xylosoxidans	Stem extract of Acacia arabica	4	0.5319993495941162
+Achromobacter xylosoxidans	AHL lactonase	5	0.5206453204154968
+Achromobacter xylosoxidans	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.47596266865730286
+Achromobacter xylosoxidans	C6-HSL	7	0.456267386674881
+Achromobacter xylosoxidans	Hamamelitannin	8	0.4403129518032074
+Achromobacter xylosoxidans	Farnesol	9	0.4362441301345825
+Achromobacter xylosoxidans	Ceftazidime	10	0.4299483895301819
+Achromobacter xylosoxidans	Cinnamaldehyde	11	0.42632970213890076
+Achromobacter xylosoxidans	Lys-a1	12	0.4097207188606262
+Achromobacter xylosoxidans	LL-37	13	0.4094621241092682
+Achromobacter xylosoxidans	BMAP-28	14	0.40881526470184326
+Achromobacter xylosoxidans	4-Methoxycarbonylphenylboronic acid	15	0.40705835819244385
+Achromobacter xylosoxidans	Limonene	16	0.40538328886032104
+Achromobacter xylosoxidans	Vancomycin	17	0.4049373269081116
+Achromobacter xylosoxidans	Betulin	18	0.39540034532546997
+Achromobacter xylosoxidans	N-Acetylcysteine	19	0.39291176199913025
+Achromobacter xylosoxidans	G H12	20	0.39071235060691833
+Acinetobacter baumannii	Epigallocatechin Gallate	1	0.6144450902938843
+Acinetobacter baumannii	Curcumin	2	0.5935239791870117
+Acinetobacter baumannii	Myristic acid	3	0.5848639011383057
+Acinetobacter baumannii	Cinnamaldehyde	4	0.5836682915687561
+Acinetobacter baumannii	Betulin	5	0.5785369277000427
+Acinetobacter baumannii	Toremifene	6	0.5780702829360962
+Acinetobacter baumannii	Ciprofloxacin	7	0.5780448317527771
+Acinetobacter baumannii	Culture supernatant of Bacillus licheniformis sp. SP1	8	0.5763154029846191
+Acinetobacter baumannii	BMAP-28	9	0.575482189655304
+Acinetobacter baumannii	AHL lactonase	10	0.5718178749084473
+Acinetobacter baumannii	Vancomycin	11	0.5644350051879883
+Acinetobacter baumannii	N-Acetylcysteine	12	0.5625543594360352
+Acinetobacter baumannii	Hamamelitannin	13	0.5611315369606018
+Acinetobacter baumannii	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	14	0.5585978031158447
+Acinetobacter baumannii	Undecanoic acid	15	0.554141104221344
+Acinetobacter baumannii	Pyrogallol	16	0.5539987087249756
+Acinetobacter baumannii	Farnesol	17	0.5502849817276001
+Acinetobacter baumannii	Cefixime	18	0.5497725009918213
+Acinetobacter baumannii	3-(4-fluorophenyl)-5-(3-ethoxy- 4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	19	0.5478155612945557
+Acinetobacter baumannii	2-Nitro-cinnamaldehyde	20	0.547681987285614
+Acinetobacter guillouiae	Epigallocatechin Gallate	1	0.5986983180046082
+Acinetobacter guillouiae	Curcumin	2	0.5457546710968018
+Acinetobacter guillouiae	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5000336766242981
+Acinetobacter guillouiae	AHL lactonase	4	0.4755958914756775
+Acinetobacter guillouiae	LL-37	5	0.4405348002910614
+Acinetobacter guillouiae	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	6	0.4359064996242523
+Acinetobacter guillouiae	Farnesol	7	0.43261441588401794
+Acinetobacter guillouiae	Norspermidine	8	0.429967999458313
+Acinetobacter guillouiae	Lys-a1	9	0.4237750172615051
+Acinetobacter guillouiae	Toremifene	10	0.4229062795639038
+Acinetobacter guillouiae	Cinnamaldehyde	11	0.4201516807079315
+Acinetobacter guillouiae	Indole	12	0.4123506546020508
+Acinetobacter guillouiae	Ceftazidime	13	0.4101549983024597
+Acinetobacter guillouiae	Betulin	14	0.4077410101890564
+Acinetobacter guillouiae	C6-HSL	15	0.40213242173194885
+Acinetobacter guillouiae	C4-HSL	16	0.4000500440597534
+Acinetobacter guillouiae	Hamamelitannin	17	0.39655300974845886
+Acinetobacter guillouiae	G H12	18	0.3832193911075592
+Acinetobacter guillouiae	4-Methoxycarbonylphenylboronic acid	19	0.37985649704933167
+Acinetobacter guillouiae	Limonene	20	0.3793114721775055
+Acinetobacter nosocomialis	Epigallocatechin Gallate	1	0.5560548901557922
+Acinetobacter nosocomialis	Curcumin	2	0.5359281301498413
+Acinetobacter nosocomialis	Bark extract of Tamarix aphylla L.	3	0.5280712842941284
+Acinetobacter nosocomialis	Stem extract of Acacia arabica	4	0.5148783922195435
+Acinetobacter nosocomialis	AHL lactonase	5	0.49212774634361267
+Acinetobacter nosocomialis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.4769640862941742
+Acinetobacter nosocomialis	C6-HSL	7	0.47235068678855896
+Acinetobacter nosocomialis	LL-37	8	0.4582365155220032
+Acinetobacter nosocomialis	4-Methoxycarbonylphenylboronic acid	9	0.45536962151527405
+Acinetobacter nosocomialis	Hamamelitannin	10	0.43353530764579773
+Acinetobacter nosocomialis	Farnesol	11	0.4276030361652374
+Acinetobacter nosocomialis	Cinnamaldehyde	12	0.424831748008728
+Acinetobacter nosocomialis	Indole	13	0.4237707555294037
+Acinetobacter nosocomialis	Lys-a1	14	0.4224196970462799
+Acinetobacter nosocomialis	Limonene	15	0.4179987609386444
+Acinetobacter nosocomialis	BMAP-28	16	0.4131811261177063
+Acinetobacter nosocomialis	Patulin	17	0.4118766188621521
+Acinetobacter nosocomialis	C4-HSL	18	0.4047655761241913
+Acinetobacter nosocomialis	Chestnut honey	19	0.40385058522224426
+Acinetobacter nosocomialis	Norspermidine	20	0.3997185230255127
+Acinetobacter oleiovorans	Epigallocatechin Gallate	1	0.6482930183410645
+Acinetobacter oleiovorans	Stem extract of Acacia arabica	2	0.5777193307876587
+Acinetobacter oleiovorans	Bark extract of Tamarix aphylla L.	3	0.5550464987754822
+Acinetobacter oleiovorans	Curcumin	4	0.5305513739585876
+Acinetobacter oleiovorans	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5139960646629333
+Acinetobacter oleiovorans	AHL lactonase	6	0.5128986835479736
+Acinetobacter oleiovorans	Vancomycin	7	0.3882286250591278
+Acinetobacter oleiovorans	C6-HSL	8	0.37636232376098633
+Acinetobacter oleiovorans	Cinnamaldehyde	9	0.37507304549217224
+Acinetobacter oleiovorans	Myristic acid	10	0.3679330348968506
+Acinetobacter oleiovorans	4-Methoxycarbonylphenylboronic acid	11	0.3656506836414337
+Acinetobacter oleiovorans	LL-37	12	0.3640700578689575
+Acinetobacter oleiovorans	Farnesol	13	0.3597978353500366
+Acinetobacter oleiovorans	Betulin	14	0.3563689887523651
+Acinetobacter oleiovorans	Norspermidine	15	0.35544130206108093
+Acinetobacter oleiovorans	Limonene	16	0.35231640934944153
+Acinetobacter oleiovorans	Hamamelitannin	17	0.3508125841617584
+Acinetobacter oleiovorans	Ciprofloxacin	18	0.3502390682697296
+Acinetobacter oleiovorans	Hinokitiol	19	0.34961840510368347
+Acinetobacter oleiovorans	3-(4-fluorophenyl)-5-(3-ethoxy- 4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	20	0.34810853004455566
+Acinetobacter sp.	Epigallocatechin Gallate	1	0.6302265524864197
+Acinetobacter sp.	Curcumin	2	0.5649435520172119
+Acinetobacter sp.	Stem extract of Acacia arabica	3	0.5614125728607178
+Acinetobacter sp.	Bark extract of Tamarix aphylla L.	4	0.5329574346542358
+Acinetobacter sp.	AHL lactonase	5	0.5287138223648071
+Acinetobacter sp.	Hamamelitannin	6	0.4918661415576935
+Acinetobacter sp.	Cinnamaldehyde	7	0.48386651277542114
+Acinetobacter sp.	C4-HSL	8	0.4823205769062042
+Acinetobacter sp.	Pyrogallol	9	0.4704533815383911
+Acinetobacter sp.	LL-37	10	0.4697188138961792
+Acinetobacter sp.	C6-HSL	11	0.45370033383369446
+Acinetobacter sp.	Farnesol	12	0.4507664144039154
+Acinetobacter sp.	Norspermidine	13	0.44826140999794006
+Acinetobacter sp.	IDR-1018	14	0.4365517497062683
+Acinetobacter sp.	Aqueous extract of chestnut honey	15	0.43535172939300537
+Acinetobacter sp.	Ciprofloxacin	16	0.43453311920166016
+Acinetobacter sp.	Hinokitiol	17	0.43283164501190186
+Acinetobacter sp.	Vancomycin	18	0.4292285740375519
+Acinetobacter sp.	Chestnut honey	19	0.42876964807510376
+Acinetobacter sp.	Patulin	20	0.42853549122810364
+Actinomyces oris	Epigallocatechin Gallate	1	0.6106966137886047
+Actinomyces oris	Toremifene	2	0.6034111976623535
+Actinomyces oris	Betulin	3	0.6024344563484192
+Actinomyces oris	2-Nitro-cinnamaldehyde	4	0.5968703627586365
+Actinomyces oris	Vancomycin	5	0.5926210880279541
+Actinomyces oris	Lys-a1	6	0.5876103043556213
+Actinomyces oris	G H12	7	0.5875923037528992
+Actinomyces oris	Hinokitiol	8	0.5867434144020081
+Actinomyces oris	Hamamelitannin	9	0.5790228247642517
+Actinomyces oris	Methanol extracts Thymus vulgaris	10	0.5769858360290527
+Actinomyces oris	DJK6	11	0.5763636827468872
+Actinomyces oris	Bacteriocin	12	0.5760747194290161
+Actinomyces oris	C6-HSL	13	0.5758736729621887
+Actinomyces oris	Curcumin	14	0.5727737545967102
+Actinomyces oris	Cefixime	15	0.5705028176307678
+Actinomyces oris	Pleurocidin	16	0.565054178237915
+Actinomyces oris	Limonene	17	0.5618537068367004
+Actinomyces oris	LL-37	18	0.5609796643257141
+Actinomyces oris	Bacteriophage	19	0.5606029629707336
+Actinomyces oris	Carvacrol	20	0.5602912902832031
+Aeromonas hydrophila	AHL lactonase	1	0.6361939907073975
+Aeromonas hydrophila	Bark extract of Tamarix aphylla L.	2	0.6016710996627808
+Aeromonas hydrophila	Toremifene	3	0.5801233649253845
+Aeromonas hydrophila	Betulin	4	0.5766655206680298
+Aeromonas hydrophila	Cinnamaldehyde	5	0.5701366066932678
+Aeromonas hydrophila	Hamamelitannin	6	0.5686038732528687
+Aeromonas hydrophila	Farnesol	7	0.5670931339263916
+Aeromonas hydrophila	Methanol extracts Thymus vulgaris	8	0.5647733807563782
+Aeromonas hydrophila	C4-HSL	9	0.5637227296829224
+Aeromonas hydrophila	N-Acetylcysteine	10	0.5605897903442383
+Aeromonas hydrophila	DJK5	11	0.5546759366989136
+Aeromonas hydrophila	Limonene	12	0.5503828525543213
+Aeromonas hydrophila	C6-HSL	13	0.5487766265869141
+Aeromonas hydrophila	Vancomycin	14	0.5479917526245117
+Aeromonas hydrophila	Pyrogallol	15	0.547641396522522
+Aeromonas hydrophila	Bacteriophage	16	0.5456684827804565
+Aeromonas hydrophila	LL-37	17	0.5430359840393066
+Aeromonas hydrophila	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	18	0.538907527923584
+Aeromonas hydrophila	Zinc sulfate	19	0.5386964082717896
+Aeromonas hydrophila	L-Aspartate	20	0.538663923740387
+Aeromonas sobria	Epigallocatechin Gallate	1	0.6098170280456543
+Aeromonas sobria	Curcumin	2	0.5650098323822021
+Aeromonas sobria	Bark extract of Tamarix aphylla L.	3	0.5574758648872375
+Aeromonas sobria	AHL lactonase	4	0.5569258332252502
+Aeromonas sobria	Stem extract of Acacia arabica	5	0.5412002205848694
+Aeromonas sobria	LL-37	6	0.5406479239463806
+Aeromonas sobria	Hamamelitannin	7	0.5185022950172424
+Aeromonas sobria	Culture supernatant of Bacillus licheniformis sp. SP1	8	0.5124216079711914
+Aeromonas sobria	Cinnamaldehyde	9	0.4993894398212433
+Aeromonas sobria	Betulin	10	0.4987437129020691
+Aeromonas sobria	Toremifene	11	0.4957861304283142
+Aeromonas sobria	Ciprofloxacin	12	0.49343329668045044
+Aeromonas sobria	Norspermidine	13	0.4916499853134155
+Aeromonas sobria	Penicillic acid	14	0.4815143644809723
+Aeromonas sobria	Lys-a1	15	0.47475552558898926
+Aeromonas sobria	Indole	16	0.4734541177749634
+Aeromonas sobria	L-Aspartate	17	0.47204989194869995
+Aeromonas sobria	BMAP-28	18	0.4709291458129883
+Aeromonas sobria	IDR-1018	19	0.4700387120246887
+Aeromonas sobria	N-Acetylcysteine	20	0.46985942125320435
+Aggregatibacter actinomycetemcomitans	Stem extract of Acacia arabica	1	0.5750462412834167
+Aggregatibacter actinomycetemcomitans	Epigallocatechin Gallate	2	0.5742449164390564
+Aggregatibacter actinomycetemcomitans	Bark extract of Tamarix aphylla L.	3	0.5693493485450745
+Aggregatibacter actinomycetemcomitans	AHL lactonase	4	0.5588869452476501
+Aggregatibacter actinomycetemcomitans	Curcumin	5	0.5480038523674011
+Aggregatibacter actinomycetemcomitans	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.5280150771141052
+Aggregatibacter actinomycetemcomitans	Betulin	7	0.4997321665287018
+Aggregatibacter actinomycetemcomitans	Cinnamaldehyde	8	0.47825881838798523
+Aggregatibacter actinomycetemcomitans	Lys-a1	9	0.4780215919017792
+Aggregatibacter actinomycetemcomitans	Limonene	10	0.4772830307483673
+Aggregatibacter actinomycetemcomitans	Pyrogallol	11	0.47267666459083557
+Aggregatibacter actinomycetemcomitans	Ceftazidime	12	0.4654110074043274
+Aggregatibacter actinomycetemcomitans	Vancomycin	13	0.458197683095932
+Aggregatibacter actinomycetemcomitans	Norspermidine	14	0.4580913782119751
+Aggregatibacter actinomycetemcomitans	BMAP-28	15	0.45351025462150574
+Aggregatibacter actinomycetemcomitans	4-Methoxycarbonylphenylboronic acid	16	0.4491569995880127
+Aggregatibacter actinomycetemcomitans	Hamamelitannin	17	0.4425782263278961
+Aggregatibacter actinomycetemcomitans	C6-HSL	18	0.44255682826042175
+Aggregatibacter actinomycetemcomitans	IDR-1018	19	0.4379025399684906
+Aggregatibacter actinomycetemcomitans	Farnesol	20	0.43633753061294556
+Agrobacterium tumefaciens	Curcumin	1	0.5843663811683655
+Agrobacterium tumefaciens	Ceftazidime	2	0.5799754858016968
+Agrobacterium tumefaciens	LL-37	3	0.5791987776756287
+Agrobacterium tumefaciens	4-Methoxycarbonylphenylboronic acid	4	0.5676726698875427
+Agrobacterium tumefaciens	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5647155046463013
+Agrobacterium tumefaciens	Epigallocatechin Gallate	6	0.5640153884887695
+Agrobacterium tumefaciens	Ciprofloxacin	7	0.5635044574737549
+Agrobacterium tumefaciens	Betulin	8	0.5614179968833923
+Agrobacterium tumefaciens	Farnesol	9	0.557281494140625
+Agrobacterium tumefaciens	Bark extract of Tamarix aphylla L.	10	0.5567936897277832
+Agrobacterium tumefaciens	IDR-1018	11	0.5556944012641907
+Agrobacterium tumefaciens	Lys-a1	12	0.5519272685050964
+Agrobacterium tumefaciens	Cinnamaldehyde	13	0.5499446988105774
+Agrobacterium tumefaciens	L-Aspartate	14	0.548876166343689
+Agrobacterium tumefaciens	Pyrogallol	15	0.5478658676147461
+Agrobacterium tumefaciens	Hamamelitannin	16	0.5467855334281921
+Agrobacterium tumefaciens	Indole	17	0.5420814752578735
+Agrobacterium tumefaciens	G H12	18	0.5397928953170776
+Agrobacterium tumefaciens	Raspberry KAS 434	19	0.5392478704452515
+Agrobacterium tumefaciens	Norspermidine	20	0.5386644601821899
+Alcaligenes faecalis	Epigallocatechin Gallate	1	0.6200962662696838
+Alcaligenes faecalis	Curcumin	2	0.5496370792388916
+Alcaligenes faecalis	AHL lactonase	3	0.5269944071769714
+Alcaligenes faecalis	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.4926259517669678
+Alcaligenes faecalis	C6-HSL	5	0.47690054774284363
+Alcaligenes faecalis	Farnesol	6	0.43161097168922424
+Alcaligenes faecalis	Indole	7	0.4315449595451355
+Alcaligenes faecalis	Betulin	8	0.4286748468875885
+Alcaligenes faecalis	Ciprofloxacin	9	0.41082894802093506
+Alcaligenes faecalis	Myristic acid	10	0.40713274478912354
+Alcaligenes faecalis	Lys-a1	11	0.4007749557495117
+Alcaligenes faecalis	Limonene	12	0.3984890878200531
+Alcaligenes faecalis	Cinnamaldehyde	13	0.39819422364234924
+Alcaligenes faecalis	Patulin	14	0.3977419435977936
+Alcaligenes faecalis	LL-37	15	0.3929206430912018
+Alcaligenes faecalis	Chestnut honey	16	0.3888791501522064
+Alcaligenes faecalis	Methanolic extract of chestnut honey	17	0.3874644935131073
+Alcaligenes faecalis	4-Methoxycarbonylphenylboronic acid	18	0.3870016634464264
+Alcaligenes faecalis	G H12	19	0.3851204812526703
+Alcaligenes faecalis	Vancomycin	20	0.3821098208427429
+Aspergillus fumigatus	Bark extract of Tamarix aphylla L.	1	0.5736047625541687
+Aspergillus fumigatus	Curcumin	2	0.5655305981636047
+Aspergillus fumigatus	AHL lactonase	3	0.5336165428161621
+Aspergillus fumigatus	Epigallocatechin Gallate	4	0.5019246339797974
+Aspergillus fumigatus	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.49125364422798157
+Aspergillus fumigatus	LL-37	6	0.48539915680885315
+Aspergillus fumigatus	Stem extract of Acacia arabica	7	0.48166924715042114
+Aspergillus fumigatus	4-Methoxycarbonylphenylboronic acid	8	0.431243360042572
+Aspergillus fumigatus	Betulin	9	0.4289817214012146
+Aspergillus fumigatus	Lys-a1	10	0.42742064595222473
+Aspergillus fumigatus	Vancomycin	11	0.42631933093070984
+Aspergillus fumigatus	Indole	12	0.42269790172576904
+Aspergillus fumigatus	Ceftazidime	13	0.42242416739463806
+Aspergillus fumigatus	Cinnamaldehyde	14	0.4187583029270172
+Aspergillus fumigatus	Pyrogallol	15	0.4046609103679657
+Aspergillus fumigatus	Undecanoic acid	16	0.4038917124271393
+Aspergillus fumigatus	Hamamelitannin	17	0.4005381464958191
+Aspergillus fumigatus	Ciprofloxacin	18	0.399363249540329
+Aspergillus fumigatus	IDR-1018	19	0.39773479104042053
+Aspergillus fumigatus	G H12	20	0.3935016393661499
+Bacillus amyloliquefaciens	Epigallocatechin Gallate	1	0.6034323573112488
+Bacillus amyloliquefaciens	Stem extract of Acacia arabica	2	0.5856266617774963
+Bacillus amyloliquefaciens	Curcumin	3	0.5637540221214294
+Bacillus amyloliquefaciens	AHL lactonase	4	0.5347676873207092
+Bacillus amyloliquefaciens	G H12	5	0.5190607905387878
+Bacillus amyloliquefaciens	Bark extract of Tamarix aphylla L.	6	0.5178516507148743
+Bacillus amyloliquefaciens	Cinnamaldehyde	7	0.4721805155277252
+Bacillus amyloliquefaciens	C6-HSL	8	0.4658884108066559
+Bacillus amyloliquefaciens	Hinokitiol	9	0.4587419331073761
+Bacillus amyloliquefaciens	Indole	10	0.45614874362945557
+Bacillus amyloliquefaciens	Hamamelitannin	11	0.45499441027641296
+Bacillus amyloliquefaciens	Vancomycin	12	0.4485760033130646
+Bacillus amyloliquefaciens	N-Acetylcysteine	13	0.44796717166900635
+Bacillus amyloliquefaciens	Ceftazidime	14	0.44497764110565186
+Bacillus amyloliquefaciens	Farnesol	15	0.4433213770389557
+Bacillus amyloliquefaciens	4-Methoxycarbonylphenylboronic acid	16	0.44105663895606995
+Bacillus amyloliquefaciens	Toremifene	17	0.4401874244213104
+Bacillus amyloliquefaciens	LL-37	18	0.43938148021698
+Bacillus amyloliquefaciens	Ciprofloxacin	19	0.43487995862960815
+Bacillus amyloliquefaciens	Limonene	20	0.4343301057815552
+Bacillus cereus	AHL lactonase	1	0.6098625063896179
+Bacillus cereus	Betulin	2	0.5968843102455139
+Bacillus cereus	Vancomycin	3	0.5912697315216064
+Bacillus cereus	Bacteriophage	4	0.5907604098320007
+Bacillus cereus	Bark extract of Tamarix aphylla L.	5	0.5897281169891357
+Bacillus cereus	LL-37	6	0.588468074798584
+Bacillus cereus	Epigallocatechin Gallate	7	0.5857585072517395
+Bacillus cereus	Myristic acid	8	0.5788319706916809
+Bacillus cereus	Pyrogallol	9	0.5775254368782043
+Bacillus cereus	Ciprofloxacin	10	0.5737141370773315
+Bacillus cereus	Cinnamaldehyde	11	0.5734574794769287
+Bacillus cereus	Ceftazidime	12	0.5723986625671387
+Bacillus cereus	4-Methoxycarbonylphenylboronic acid	13	0.5709531307220459
+Bacillus cereus	Curcumin	14	0.5680758357048035
+Bacillus cereus	Farnesol	15	0.5680122971534729
+Bacillus cereus	Hamamelitannin	16	0.5624544620513916
+Bacillus cereus	Lys-a1	17	0.5553259253501892
+Bacillus cereus	Hinokitiol	18	0.5490665435791016
+Bacillus cereus	Patulin	19	0.5471423864364624
+Bacillus cereus	BMAP-28	20	0.5460572838783264
+Bacillus pumilus	Epigallocatechin Gallate	1	0.5795102715492249
+Bacillus pumilus	AHL lactonase	2	0.5453854203224182
+Bacillus pumilus	Curcumin	3	0.5337058305740356
+Bacillus pumilus	C6-HSL	4	0.4960133731365204
+Bacillus pumilus	LL-37	5	0.4861104190349579
+Bacillus pumilus	Lys-a1	6	0.4832601249217987
+Bacillus pumilus	Cinnamaldehyde	7	0.47128456830978394
+Bacillus pumilus	Hamamelitannin	8	0.47048789262771606
+Bacillus pumilus	Indole	9	0.4663194715976715
+Bacillus pumilus	Betulin	10	0.4592282772064209
+Bacillus pumilus	Farnesol	11	0.45272594690322876
+Bacillus pumilus	4-Methoxycarbonylphenylboronic acid	12	0.44388988614082336
+Bacillus pumilus	BMAP-28	13	0.4403333365917206
+Bacillus pumilus	G H12	14	0.437302827835083
+Bacillus pumilus	Pyrogallol	15	0.4280930459499359
+Bacillus pumilus	Ceftazidime	16	0.4264930486679077
+Bacillus pumilus	Patulin	17	0.4251731336116791
+Bacillus pumilus	Toremifene	18	0.4241058826446533
+Bacillus pumilus	Limonene	19	0.42367562651634216
+Bacillus pumilus	IDR-1018	20	0.4234851896762848
+Bacillus safensis	Epigallocatechin Gallate	1	0.6063826680183411
+Bacillus safensis	Curcumin	2	0.5330950021743774
+Bacillus safensis	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5165646076202393
+Bacillus safensis	Lys-a1	4	0.46148085594177246
+Bacillus safensis	AHL lactonase	5	0.4509035646915436
+Bacillus safensis	Indole	6	0.4360652565956116
+Bacillus safensis	Farnesol	7	0.43021613359451294
+Bacillus safensis	N-Acetylcysteine	8	0.42174047231674194
+Bacillus safensis	Hamamelitannin	9	0.41940900683403015
+Bacillus safensis	LL-37	10	0.41761258244514465
+Bacillus safensis	Limonene	11	0.4139939844608307
+Bacillus safensis	C4-HSL	12	0.4104801416397095
+Bacillus safensis	Toremifene	13	0.4098890423774719
+Bacillus safensis	Pyrogallol	14	0.4023883044719696
+Bacillus safensis	Vancomycin	15	0.39563560485839844
+Bacillus safensis	Cinnamaldehyde	16	0.39371344447135925
+Bacillus safensis	BMAP-28	17	0.39030149579048157
+Bacillus safensis	Ciprofloxacin	18	0.3900006413459778
+Bacillus safensis	C6-HSL	19	0.38684260845184326
+Bacillus safensis	IDR-1018	20	0.37997838854789734
+Bacillus spp.	Epigallocatechin Gallate	1	0.5842567086219788
+Bacillus spp.	Bark extract of Tamarix aphylla L.	2	0.5552109479904175
+Bacillus spp.	Stem extract of Acacia arabica	3	0.5526862144470215
+Bacillus spp.	Curcumin	4	0.5476903915405273
+Bacillus spp.	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.4588102698326111
+Bacillus spp.	C6-HSL	6	0.4014822840690613
+Bacillus spp.	Myristic acid	7	0.38704776763916016
+Bacillus spp.	Hamamelitannin	8	0.3839389979839325
+Bacillus spp.	Farnesol	9	0.3789618909358978
+Bacillus spp.	Cinnamaldehyde	10	0.36140936613082886
+Bacillus spp.	Limonene	11	0.35863858461380005
+Bacillus spp.	Lys-a1	12	0.35722237825393677
+Bacillus spp.	Aqueous extract of chestnut honey	13	0.34550732374191284
+Bacillus spp.	Pyrogallol	14	0.3379065692424774
+Bacillus spp.	LL-37	15	0.33672311902046204
+Bacillus spp.	Indole	16	0.3349696695804596
+Bacillus spp.	N-Acetylcysteine	17	0.33252179622650146
+Bacillus spp.	Bacteriophage	18	0.32711395621299744
+Bacillus spp.	Patulin	19	0.3217756152153015
+Bacillus spp.	G H12	20	0.32140564918518066
+Bacillus subtilis	(2E)-1-(5-clorotiophen-2-yl)-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one	1	0.6870322823524475
+Bacillus subtilis	Butyl gallate	2	0.6790958642959595
+Bacillus subtilis	Octyl gallate	3	0.6765998005867004
+Bacillus subtilis	Farnesol	4	0.6736730933189392
+Bacillus subtilis	N -(3-nitro-4-hydroxy-benzylidene)benzohydrazide	5	0.6682924032211304
+Bacillus subtilis	Propyl gallate	6	0.6674511432647705
+Bacillus subtilis	N -(5-bromo-2-hydroxy-benzylidene)benzohydrazide	7	0.6672914028167725
+Bacillus subtilis	1-[2-(naphthalen-1-yl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	8	0.6647446155548096
+Bacillus subtilis	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	9	0.6634272336959839
+Bacillus subtilis	N -(4-trifluoromethyl-benzylidene)benzohydrazide	10	0.6624864935874939
+Bacillus subtilis	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-6-methoxy-quinolin-3-yl)-2-propen-1-one	11	0.660414457321167
+Bacillus subtilis	(2E)-1-(3 -methoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	12	0.6595285534858704
+Bacillus subtilis	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one	13	0.6586111783981323
+Bacillus subtilis	Stem extract of Acacia arabica	14	0.6586096882820129
+Bacillus subtilis	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(2-naphthyl)-2-propen-1-one	15	0.6565279364585876
+Bacillus subtilis	(2E)-1-(3 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	16	0.6491532921791077
+Bacillus subtilis	1-[2-(2,4-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	17	0.6485147476196289
+Bacillus subtilis	N-(4-Bromobenzylidene)benzohydrazide	18	0.6485112905502319
+Bacillus subtilis	1-[2-(3,5-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	19	0.647601842880249
+Bacillus subtilis	Chelerythrine	20	0.6454868912696838
+Brevundimonas vesicularis	Epigallocatechin Gallate	1	0.6282332539558411
+Brevundimonas vesicularis	Curcumin	2	0.5597732663154602
+Brevundimonas vesicularis	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5467849969863892
+Brevundimonas vesicularis	AHL lactonase	4	0.5025356411933899
+Brevundimonas vesicularis	LL-37	5	0.451953649520874
+Brevundimonas vesicularis	Farnesol	6	0.44021156430244446
+Brevundimonas vesicularis	4-Methoxycarbonylphenylboronic acid	7	0.4282439947128296
+Brevundimonas vesicularis	Myristic acid	8	0.41520583629608154
+Brevundimonas vesicularis	G H12	9	0.4003502428531647
+Brevundimonas vesicularis	Betulin	10	0.39954328536987305
+Brevundimonas vesicularis	C6-HSL	11	0.3967348039150238
+Brevundimonas vesicularis	Ciprofloxacin	12	0.39600279927253723
+Brevundimonas vesicularis	Hinokitiol	13	0.39329513907432556
+Brevundimonas vesicularis	Vancomycin	14	0.386768639087677
+Brevundimonas vesicularis	Hamamelitannin	15	0.3837398290634155
+Brevundimonas vesicularis	Indole	16	0.3824279010295868
+Brevundimonas vesicularis	N-Acetylcysteine	17	0.3803047239780426
+Brevundimonas vesicularis	Lys-a1	18	0.3800322413444519
+Brevundimonas vesicularis	Toremifene	19	0.37443363666534424
+Brevundimonas vesicularis	Patulin	20	0.37087535858154297
+Burkholderia ambifaria	Epigallocatechin Gallate	1	0.6271529197692871
+Burkholderia ambifaria	Stem extract of Acacia arabica	2	0.5527393817901611
+Burkholderia ambifaria	Curcumin	3	0.5513449311256409
+Burkholderia ambifaria	Bark extract of Tamarix aphylla L.	4	0.5352974534034729
+Burkholderia ambifaria	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.4880845844745636
+Burkholderia ambifaria	4-Methoxycarbonylphenylboronic acid	6	0.4040756821632385
+Burkholderia ambifaria	Cinnamaldehyde	7	0.3982217609882355
+Burkholderia ambifaria	LL-37	8	0.3815705180168152
+Burkholderia ambifaria	BMAP-28	9	0.3751508295536041
+Burkholderia ambifaria	G H12	10	0.3750690817832947
+Burkholderia ambifaria	C6-HSL	11	0.35294410586357117
+Burkholderia ambifaria	Ciprofloxacin	12	0.3490127921104431
+Burkholderia ambifaria	Indole	13	0.34805023670196533
+Burkholderia ambifaria	Farnesol	14	0.347187876701355
+Burkholderia ambifaria	Betulin	15	0.3463026285171509
+Burkholderia ambifaria	L-Aspartate	16	0.3382270336151123
+Burkholderia ambifaria	Zinc sulfate	17	0.3319756090641022
+Burkholderia ambifaria	Methanolic extract of chestnut honey	18	0.32937732338905334
+Burkholderia ambifaria	Toremifene	19	0.32875439524650574
+Burkholderia ambifaria	Ceftazidime	20	0.32577598094940186
+Burkholderia anthina	Stem extract of Acacia arabica	1	0.6038062572479248
+Burkholderia anthina	Curcumin	2	0.550104022026062
+Burkholderia anthina	Epigallocatechin Gallate	3	0.5331524610519409
+Burkholderia anthina	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5248038172721863
+Burkholderia anthina	Bark extract of Tamarix aphylla L.	5	0.5145657062530518
+Burkholderia anthina	Pyrogallol	6	0.4011284410953522
+Burkholderia anthina	Toremifene	7	0.39920279383659363
+Burkholderia anthina	Betulin	8	0.39446020126342773
+Burkholderia anthina	Indole	9	0.3909018337726593
+Burkholderia anthina	LL-37	10	0.3840719759464264
+Burkholderia anthina	BMAP-28	11	0.37988540530204773
+Burkholderia anthina	4-Methoxycarbonylphenylboronic acid	12	0.37353017926216125
+Burkholderia anthina	Hamamelitannin	13	0.3703702688217163
+Burkholderia anthina	C6-HSL	14	0.3690851330757141
+Burkholderia anthina	Myristic acid	15	0.3649076819419861
+Burkholderia anthina	Ceftazidime	16	0.35892146825790405
+Burkholderia anthina	Lys-a1	17	0.35824117064476013
+Burkholderia anthina	Aqueous extract of chestnut honey	18	0.3576962351799011
+Burkholderia anthina	G H12	19	0.3535613417625427
+Burkholderia anthina	C4-HSL	20	0.3452886641025543
+Burkholderia cenocepacia	Myristic acid	1	0.6184884309768677
+Burkholderia cenocepacia	Toremifene	2	0.6152745485305786
+Burkholderia cenocepacia	Ciprofloxacin	3	0.6126053333282471
+Burkholderia cenocepacia	Penicillic acid	4	0.5904438495635986
+Burkholderia cenocepacia	Amikacin	5	0.5871822834014893
+Burkholderia cenocepacia	N-Acetylcysteine	6	0.5843532085418701
+Burkholderia cenocepacia	3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	7	0.5762369632720947
+Burkholderia cenocepacia	Hinokitiol	8	0.5745583176612854
+Burkholderia cenocepacia	G H12	9	0.5722044110298157
+Burkholderia cenocepacia	Raspberry KAS 434	10	0.5716402530670166
+Burkholderia cenocepacia	L-Aspartate	11	0.5655620694160461
+Burkholderia cenocepacia	Limonene	12	0.564506471157074
+Burkholderia cenocepacia	Zinc sulfate	13	0.5626918077468872
+Burkholderia cenocepacia	Norspermidine	14	0.5580607056617737
+Burkholderia cenocepacia	alpha-pinene	15	0.5561102032661438
+Burkholderia cenocepacia	3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	16	0.5558661818504333
+Burkholderia cenocepacia	Terpinene-4-ol	17	0.5555851459503174
+Burkholderia cenocepacia	LL-37	18	0.5549365282058716
+Burkholderia cenocepacia	Lys-a1	19	0.5546751022338867
+Burkholderia cenocepacia	Vancomycin	20	0.5531637668609619
+Burkholderia cepacia	Epigallocatechin Gallate	1	0.6404216885566711
+Burkholderia cepacia	Bark extract of Tamarix aphylla L.	2	0.6317937970161438
+Burkholderia cepacia	Stem extract of Acacia arabica	3	0.5796440839767456
+Burkholderia cepacia	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5693047046661377
+Burkholderia cepacia	Curcumin	5	0.5644530653953552
+Burkholderia cepacia	Hamamelitannin	6	0.5415269732475281
+Burkholderia cepacia	G H12	7	0.5375697612762451
+Burkholderia cepacia	Indole	8	0.5321685075759888
+Burkholderia cepacia	L-Aspartate	9	0.5271304249763489
+Burkholderia cepacia	Norspermidine	10	0.526125967502594
+Burkholderia cepacia	Vancomycin	11	0.5211077928543091
+Burkholderia cepacia	Farnesol	12	0.5189254879951477
+Burkholderia cepacia	Ceftazidime	13	0.5127087831497192
+Burkholderia cepacia	Lys-a1	14	0.509637713432312
+Burkholderia cepacia	Ciprofloxacin	15	0.5032537579536438
+Burkholderia cepacia	Cinnamaldehyde	16	0.502943754196167
+Burkholderia cepacia	Pyrogallol	17	0.5013638138771057
+Burkholderia cepacia	Toremifene	18	0.4976750612258911
+Burkholderia cepacia	Chestnut honey	19	0.4964703917503357
+Burkholderia cepacia	Limonene	20	0.48846349120140076
+Burkholderia dolosa	Epigallocatechin Gallate	1	0.6382905840873718
+Burkholderia dolosa	Bark extract of Tamarix aphylla L.	2	0.5506651997566223
+Burkholderia dolosa	Curcumin	3	0.5391356348991394
+Burkholderia dolosa	Stem extract of Acacia arabica	4	0.5284999012947083
+Burkholderia dolosa	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.47546660900115967
+Burkholderia dolosa	Farnesol	6	0.4111194908618927
+Burkholderia dolosa	C6-HSL	7	0.4098687469959259
+Burkholderia dolosa	LL-37	8	0.3628900945186615
+Burkholderia dolosa	Patulin	9	0.3523688316345215
+Burkholderia dolosa	Lys-a1	10	0.34820595383644104
+Burkholderia dolosa	4-Methoxycarbonylphenylboronic acid	11	0.3463060259819031
+Burkholderia dolosa	Cinnamaldehyde	12	0.3461792767047882
+Burkholderia dolosa	L-Aspartate	13	0.3436063230037689
+Burkholderia dolosa	Indole	14	0.3356383442878723
+Burkholderia dolosa	BMAP-28	15	0.3330126404762268
+Burkholderia dolosa	Hamamelitannin	16	0.3328827917575836
+Burkholderia dolosa	Chestnut honey	17	0.3311564326286316
+Burkholderia dolosa	Toremifene	18	0.3255511522293091
+Burkholderia dolosa	Myristic acid	19	0.3240232467651367
+Burkholderia dolosa	Vancomycin	20	0.32121360301971436
+Burkholderia multivorans	Ceftazidime	1	0.6332164406776428
+Burkholderia multivorans	L-Aspartate	2	0.6034755110740662
+Burkholderia multivorans	C6-HSL	3	0.5871094465255737
+Burkholderia multivorans	Toremifene	4	0.584834098815918
+Burkholderia multivorans	Limonene	5	0.580676257610321
+Burkholderia multivorans	LL-37	6	0.5763053894042969
+Burkholderia multivorans	Betulin	7	0.5757309794425964
+Burkholderia multivorans	Methanol extracts Thymus vulgaris	8	0.5701878070831299
+Burkholderia multivorans	N-Acetylcysteine	9	0.5665284991264343
+Burkholderia multivorans	Bacteriophage	10	0.5659518241882324
+Burkholderia multivorans	MBP-QQ protein (QQ-2)	11	0.5634269118309021
+Burkholderia multivorans	DispersinB-KSL-W wound gel	12	0.5625138878822327
+Burkholderia multivorans	Raspberry KAS 434	13	0.5622039437294006
+Burkholderia multivorans	Tyrosol	14	0.5608591437339783
+Burkholderia multivorans	IDR-1018	15	0.5595822334289551
+Burkholderia multivorans	Undecanoic acid	16	0.5557084679603577
+Burkholderia multivorans	Bacteriocin	17	0.554489254951477
+Burkholderia multivorans	Myristic acid	18	0.5528693199157715
+Burkholderia multivorans	Coprisin	19	0.5489726662635803
+Burkholderia multivorans	Vancomycin	20	0.5474488139152527
+Burkholderia pseudomallei	Limonene	1	0.5960516333580017
+Burkholderia pseudomallei	Linalool	2	0.5914856195449829
+Burkholderia pseudomallei	Lys-a1	3	0.5846554636955261
+Burkholderia pseudomallei	N-Acetylcysteine	4	0.582934558391571
+Burkholderia pseudomallei	Myristic acid	5	0.582396924495697
+Burkholderia pseudomallei	Salicylic acid	6	0.5798318982124329
+Burkholderia pseudomallei	DJK6	7	0.5767632126808167
+Burkholderia pseudomallei	Marjoram	8	0.5747854113578796
+Burkholderia pseudomallei	Epigallocatechin Gallate	9	0.5735421180725098
+Burkholderia pseudomallei	Ciprofloxacin	10	0.5698394179344177
+Burkholderia pseudomallei	3-(4-fluorophenyl)-5-(3-ethoxy- 4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	11	0.5691068172454834
+Burkholderia pseudomallei	Toremifene	12	0.5688704252243042
+Burkholderia pseudomallei	Bacteriophage	13	0.5686573386192322
+Burkholderia pseudomallei	Penicillic acid	14	0.5655649900436401
+Burkholderia pseudomallei	Pyrogallol	15	0.5650818347930908
+Burkholderia pseudomallei	Bark extract of Tamarix aphylla L.	16	0.561204731464386
+Burkholderia pseudomallei	Curcumin	17	0.5605634450912476
+Burkholderia pseudomallei	Anthranilate	18	0.5581926703453064
+Burkholderia pseudomallei	G H12	19	0.5570926666259766
+Burkholderia pseudomallei	Tyrosol	20	0.5519300699234009
+Burkholderia stabilis	Epigallocatechin Gallate	1	0.5978508591651917
+Burkholderia stabilis	Bark extract of Tamarix aphylla L.	2	0.5679665207862854
+Burkholderia stabilis	Stem extract of Acacia arabica	3	0.554210901260376
+Burkholderia stabilis	Curcumin	4	0.5065866112709045
+Burkholderia stabilis	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.44399693608283997
+Burkholderia stabilis	LL-37	6	0.4059775173664093
+Burkholderia stabilis	C6-HSL	7	0.3802104592323303
+Burkholderia stabilis	Myristic acid	8	0.37944290041923523
+Burkholderia stabilis	Bacteriophage	9	0.3665749132633209
+Burkholderia stabilis	Limonene	10	0.3576420247554779
+Burkholderia stabilis	Raspberry KAS 434	11	0.3507448732852936
+Burkholderia stabilis	Patulin	12	0.3478519916534424
+Burkholderia stabilis	Hamamelitannin	13	0.34760916233062744
+Burkholderia stabilis	Zinc sulfate	14	0.3437269926071167
+Burkholderia stabilis	Indole	15	0.3381030857563019
+Burkholderia stabilis	Cinnamaldehyde	16	0.33586400747299194
+Burkholderia stabilis	Pyrogallol	17	0.33440184593200684
+Burkholderia stabilis	N-Acetylcysteine	18	0.3335016965866089
+Burkholderia stabilis	Toremifene	19	0.32737401127815247
+Burkholderia stabilis	G H12	20	0.3266502916812897
+Burkholderia thailandensis	Stem extract of Acacia arabica	1	0.609099268913269
+Burkholderia thailandensis	AHL lactonase	2	0.595527708530426
+Burkholderia thailandensis	Epigallocatechin Gallate	3	0.5929093956947327
+Burkholderia thailandensis	Curcumin	4	0.559115469455719
+Burkholderia thailandensis	Bark extract of Tamarix aphylla L.	5	0.5518640875816345
+Burkholderia thailandensis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.5364511013031006
+Burkholderia thailandensis	Betulin	7	0.5271116495132446
+Burkholderia thailandensis	Farnesol	8	0.5112327933311462
+Burkholderia thailandensis	Indole	9	0.5067906379699707
+Burkholderia thailandensis	Cinnamaldehyde	10	0.5061032176017761
+Burkholderia thailandensis	Pyrogallol	11	0.5024906992912292
+Burkholderia thailandensis	Aqueous extract of chestnut honey	12	0.5008726119995117
+Burkholderia thailandensis	Toremifene	13	0.49688321352005005
+Burkholderia thailandensis	C6-HSL	14	0.49572160840034485
+Burkholderia thailandensis	BMAP-28	15	0.49372127652168274
+Burkholderia thailandensis	Lys-a1	16	0.48688969016075134
+Burkholderia thailandensis	Ciprofloxacin	17	0.48142704367637634
+Burkholderia thailandensis	Myristic acid	18	0.4800114929676056
+Burkholderia thailandensis	Limonene	19	0.47687071561813354
+Burkholderia thailandensis	Hamamelitannin	20	0.4721510112285614
+Burkholderia vietnamiensis	Epigallocatechin Gallate	1	0.5727533102035522
+Burkholderia vietnamiensis	Stem extract of Acacia arabica	2	0.5467666983604431
+Burkholderia vietnamiensis	Curcumin	3	0.541528582572937
+Burkholderia vietnamiensis	Bark extract of Tamarix aphylla L.	4	0.5369529128074646
+Burkholderia vietnamiensis	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.4383717477321625
+Burkholderia vietnamiensis	LL-37	6	0.40435412526130676
+Burkholderia vietnamiensis	Farnesol	7	0.3736806809902191
+Burkholderia vietnamiensis	Hamamelitannin	8	0.37201038002967834
+Burkholderia vietnamiensis	Ciprofloxacin	9	0.36908668279647827
+Burkholderia vietnamiensis	Cinnamaldehyde	10	0.3685740530490875
+Burkholderia vietnamiensis	Indole	11	0.35931727290153503
+Burkholderia vietnamiensis	Lys-a1	12	0.35761719942092896
+Burkholderia vietnamiensis	Patulin	13	0.35020163655281067
+Burkholderia vietnamiensis	C6-HSL	14	0.3490961790084839
+Burkholderia vietnamiensis	Betulin	15	0.33692601323127747
+Burkholderia vietnamiensis	G H12	16	0.33078712224960327
+Burkholderia vietnamiensis	Bacteriophage	17	0.325874388217926
+Burkholderia vietnamiensis	Penicillic acid	18	0.3236313462257385
+Burkholderia vietnamiensis	C4-HSL	19	0.3184858560562134
+Burkholderia vietnamiensis	Ceftazidime	20	0.316361665725708
+Campylobacter jejuni	Bark extract of Tamarix aphylla L.	1	0.5727670788764954
+Campylobacter jejuni	G H12	2	0.5689764618873596
+Campylobacter jejuni	L-Aspartate	3	0.5676116943359375
+Campylobacter jejuni	Ciprofloxacin	4	0.5650879144668579
+Campylobacter jejuni	Hamamelitannin	5	0.5576596856117249
+Campylobacter jejuni	Epigallocatechin Gallate	6	0.5557729601860046
+Campylobacter jejuni	Ceftazidime	7	0.5538905262947083
+Campylobacter jejuni	Betulin	8	0.5536543130874634
+Campylobacter jejuni	Toremifene	9	0.5536094307899475
+Campylobacter jejuni	Farnesol	10	0.5533086061477661
+Campylobacter jejuni	Limonene	11	0.5520758628845215
+Campylobacter jejuni	IDR-1018	12	0.5474307537078857
+Campylobacter jejuni	BMAP-28	13	0.5457307696342468
+Campylobacter jejuni	Aqueous extract of chestnut honey	14	0.5426439046859741
+Campylobacter jejuni	Stem extract of Acacia arabica	15	0.5421226620674133
+Campylobacter jejuni	Cefixime	16	0.5389017462730408
+Campylobacter jejuni	Culture supernatant of Bacillus licheniformis sp. SP1	17	0.5364733934402466
+Campylobacter jejuni	Curcumin	18	0.5352963209152222
+Campylobacter jejuni	Cinnamaldehyde	19	0.53513503074646
+Campylobacter jejuni	Raspberry KAS 434	20	0.5315295457839966
+Candida albicans	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(2-naphthyl)-2-propen-1-one	1	0.8302000164985657
+Candida albicans	(2E)-1-(5-clorotiophen-2-yl)-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one	2	0.8200583457946777
+Candida albicans	Octadecyl gallate	3	0.8160778880119324
+Candida albicans	1-[2-(3,5-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	4	0.8148928284645081
+Candida albicans	(2E)-1-(4 -methoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	5	0.8044117093086243
+Candida albicans	(2E)-1-(1 ,3 -benzodioxol-5-yl)-3-(2-naphthyl)-2-propen-1-one	6	0.8027256727218628
+Candida albicans	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one	7	0.802234947681427
+Candida albicans	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-6-methoxy-quinolin-3-yl)-2-propen-1-one	8	0.7998933792114258
+Candida albicans	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one	9	0.7958971858024597
+Candida albicans	N -(4-trifluoromethyl-benzylidene)benzohydrazide	10	0.7957526445388794
+Candida albicans	Octyl gallate	11	0.7891237735748291
+Candida albicans	Ethyl gallate	12	0.7858017086982727
+Candida albicans	N -(pyridin-3-yl-methylene)benzohydrazide	13	0.7857511639595032
+Candida albicans	N-(4-Bromobenzylidene)benzohydrazide	14	0.7849382162094116
+Candida albicans	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	15	0.7841102480888367
+Candida albicans	1-[2-(2-nitrophenyl)-5-phenyl-1,3,4-oxadiazol-3(2H)-yl]ethanone	16	0.7821705341339111
+Candida albicans	1-[2-(3-bromo-4-hydroxy-5-methoxyphenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	17	0.7817797064781189
+Candida albicans	N -(3-nitro-4-hydroxy-benzylidene)benzohydrazide	18	0.7809523344039917
+Candida albicans	Butyl gallate	19	0.7798334360122681
+Candida albicans	(2E)-1-(2 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	20	0.7783059477806091
+Candida dubliniensis	Epigallocatechin Gallate	1	0.6441839337348938
+Candida dubliniensis	Bark extract of Tamarix aphylla L.	2	0.5682563185691833
+Candida dubliniensis	AHL lactonase	3	0.5572793483734131
+Candida dubliniensis	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5386238694190979
+Candida dubliniensis	Curcumin	5	0.5342243313789368
+Candida dubliniensis	Stem extract of Acacia arabica	6	0.5308894515037537
+Candida dubliniensis	Limonene	7	0.5086624622344971
+Candida dubliniensis	Cinnamaldehyde	8	0.5057220458984375
+Candida dubliniensis	Vancomycin	9	0.4840652048587799
+Candida dubliniensis	LL-37	10	0.4768008291721344
+Candida dubliniensis	C6-HSL	11	0.47342222929000854
+Candida dubliniensis	Myristic acid	12	0.47254469990730286
+Candida dubliniensis	Lys-a1	13	0.46898671984672546
+Candida dubliniensis	N-Acetylcysteine	14	0.45293128490448
+Candida dubliniensis	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	15	0.4522247016429901
+Candida dubliniensis	2-Nitro-cinnamaldehyde	16	0.45142602920532227
+Candida dubliniensis	Hamamelitannin	17	0.44971930980682373
+Candida dubliniensis	Norspermidine	18	0.442484974861145
+Candida dubliniensis	Indole	19	0.44223034381866455
+Candida dubliniensis	Methanolic extract of chestnut honey	20	0.43540796637535095
+Candida glabrata	Culture supernatant of Bacillus licheniformis sp. SP1	1	0.5975383520126343
+Candida glabrata	Epigallocatechin Gallate	2	0.5901519060134888
+Candida glabrata	Stem extract of Acacia arabica	3	0.5829158425331116
+Candida glabrata	Ceftazidime	4	0.5707887411117554
+Candida glabrata	Norspermidine	5	0.5618914365768433
+Candida glabrata	Cinnamaldehyde	6	0.5491951107978821
+Candida glabrata	Farnesol	7	0.5459550619125366
+Candida glabrata	Curcumin	8	0.5438061952590942
+Candida glabrata	C6-HSL	9	0.5418370366096497
+Candida glabrata	L-Aspartate	10	0.5329217314720154
+Candida glabrata	Limonene	11	0.5328835844993591
+Candida glabrata	LL-37	12	0.5311791300773621
+Candida glabrata	Bacteriophage	13	0.5277960896492004
+Candida glabrata	Aqueous extract of chestnut honey	14	0.5218260288238525
+Candida glabrata	AHL lactonase	15	0.5217136144638062
+Candida glabrata	G H12	16	0.5212515592575073
+Candida glabrata	Lys-a1	17	0.5209823846817017
+Candida glabrata	Hamamelitannin	18	0.5203629732131958
+Candida glabrata	Vancomycin	19	0.5190277695655823
+Candida glabrata	Ciprofloxacin	20	0.5168412327766418
+Candida guiliermondi	Epigallocatechin Gallate	1	0.5956850051879883
+Candida guiliermondi	Bark extract of Tamarix aphylla L.	2	0.5545798540115356
+Candida guiliermondi	Curcumin	3	0.5421744585037231
+Candida guiliermondi	Stem extract of Acacia arabica	4	0.5363467931747437
+Candida guiliermondi	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.46256810426712036
+Candida guiliermondi	AHL lactonase	6	0.4438305199146271
+Candida guiliermondi	Farnesol	7	0.39297816157341003
+Candida guiliermondi	LL-37	8	0.38115671277046204
+Candida guiliermondi	Limonene	9	0.3713463544845581
+Candida guiliermondi	Indole	10	0.36830198764801025
+Candida guiliermondi	Betulin	11	0.3660050928592682
+Candida guiliermondi	Patulin	12	0.3618078827857971
+Candida guiliermondi	N-Acetylcysteine	13	0.36160609126091003
+Candida guiliermondi	Vancomycin	14	0.3565094470977783
+Candida guiliermondi	BMAP-28	15	0.35225576162338257
+Candida guiliermondi	Myristic acid	16	0.3517971932888031
+Candida guiliermondi	Pyrogallol	17	0.3509798049926758
+Candida guiliermondi	Hamamelitannin	18	0.3466222584247589
+Candida guiliermondi	Ciprofloxacin	19	0.3456864655017853
+Candida guiliermondi	Lys-a1	20	0.3455503582954407
+Candida krusei	Epigallocatechin Gallate	1	0.6357222199440002
+Candida krusei	Bark extract of Tamarix aphylla L.	2	0.5632997751235962
+Candida krusei	Curcumin	3	0.5605919361114502
+Candida krusei	Stem extract of Acacia arabica	4	0.5496672987937927
+Candida krusei	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5393688082695007
+Candida krusei	AHL lactonase	6	0.5124593377113342
+Candida krusei	Farnesol	7	0.49699854850769043
+Candida krusei	LL-37	8	0.4925505220890045
+Candida krusei	Hamamelitannin	9	0.48546549677848816
+Candida krusei	Cinnamaldehyde	10	0.4625166952610016
+Candida krusei	C6-HSL	11	0.4589550495147705
+Candida krusei	Betulin	12	0.4569997191429138
+Candida krusei	Ceftazidime	13	0.4501240849494934
+Candida krusei	Lys-a1	14	0.44913914799690247
+Candida krusei	4-Methoxycarbonylphenylboronic acid	15	0.4397307336330414
+Candida krusei	Indole	16	0.4387820065021515
+Candida krusei	Cefixime	17	0.43837907910346985
+Candida krusei	Limonene	18	0.4377034604549408
+Candida krusei	Ciprofloxacin	19	0.43727293610572815
+Candida krusei	Penicillic acid	20	0.43492332100868225
+Candida parapsilosis	Epigallocatechin Gallate	1	0.6224474310874939
+Candida parapsilosis	Bark extract of Tamarix aphylla L.	2	0.5628516674041748
+Candida parapsilosis	Curcumin	3	0.5553247332572937
+Candida parapsilosis	AHL lactonase	4	0.5355234742164612
+Candida parapsilosis	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5338606238365173
+Candida parapsilosis	Stem extract of Acacia arabica	6	0.5170927047729492
+Candida parapsilosis	Lys-a1	7	0.4716262221336365
+Candida parapsilosis	C6-HSL	8	0.4649638831615448
+Candida parapsilosis	Cinnamaldehyde	9	0.4631553292274475
+Candida parapsilosis	Ceftazidime	10	0.4625789225101471
+Candida parapsilosis	Pyrogallol	11	0.4591734707355499
+Candida parapsilosis	Hamamelitannin	12	0.45748770236968994
+Candida parapsilosis	4-Methoxycarbonylphenylboronic acid	13	0.45483797788619995
+Candida parapsilosis	Limonene	14	0.4532255232334137
+Candida parapsilosis	N-Acetylcysteine	15	0.4523410201072693
+Candida parapsilosis	LL-37	16	0.4500374495983124
+Candida parapsilosis	Norspermidine	17	0.44813376665115356
+Candida parapsilosis	Betulin	18	0.4477187991142273
+Candida parapsilosis	Cloudberry KAS 444/3	19	0.4449305236339569
+Candida parapsilosis	Indole	20	0.4431725740432739
+Candida spp.	Bark extract of Tamarix aphylla L.	1	0.5959662795066833
+Candida spp.	Epigallocatechin Gallate	2	0.5889827609062195
+Candida spp.	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.579081654548645
+Candida spp.	Curcumin	4	0.5672751665115356
+Candida spp.	Pyrogallol	5	0.5342243909835815
+Candida spp.	Stem extract of Acacia arabica	6	0.5238337516784668
+Candida spp.	Farnesol	7	0.5114634037017822
+Candida spp.	LL-37	8	0.5104183554649353
+Candida spp.	Limonene	9	0.5041213035583496
+Candida spp.	Indole	10	0.5013632774353027
+Candida spp.	Betulin	11	0.5006587505340576
+Candida spp.	Lys-a1	12	0.49963143467903137
+Candida spp.	Ceftazidime	13	0.4989307224750519
+Candida spp.	Hamamelitannin	14	0.4935009479522705
+Candida spp.	Cinnamaldehyde	15	0.48588916659355164
+Candida spp.	G H12	16	0.48084399104118347
+Candida spp.	4-Methoxycarbonylphenylboronic acid	17	0.48030975461006165
+Candida spp.	C6-HSL	18	0.4741497337818146
+Candida spp.	Cefixime	19	0.4698210656642914
+Candida spp.	C4-HSL	20	0.46937888860702515
+Candida tropicalis	Epigallocatechin Gallate	1	0.5816400051116943
+Candida tropicalis	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.5627173185348511
+Candida tropicalis	Stem extract of Acacia arabica	3	0.5610127449035645
+Candida tropicalis	C6-HSL	4	0.5514140129089355
+Candida tropicalis	Lys-a1	5	0.5509441494941711
+Candida tropicalis	Bark extract of Tamarix aphylla L.	6	0.550584077835083
+Candida tropicalis	Indole	7	0.5501030683517456
+Candida tropicalis	Curcumin	8	0.5487020015716553
+Candida tropicalis	G H12	9	0.543319046497345
+Candida tropicalis	4-Methoxycarbonylphenylboronic acid	10	0.5422656536102295
+Candida tropicalis	Ciprofloxacin	11	0.5385397672653198
+Candida tropicalis	N-Acetylcysteine	12	0.538064181804657
+Candida tropicalis	Patulin	13	0.5298119783401489
+Candida tropicalis	Betulin	14	0.5288687944412231
+Candida tropicalis	Cinnamaldehyde	15	0.5286128520965576
+Candida tropicalis	Ceftazidime	16	0.5276650190353394
+Candida tropicalis	L-Aspartate	17	0.5250527858734131
+Candida tropicalis	Limonene	18	0.5202072858810425
+Candida tropicalis	Hamamelitannin	19	0.5196061730384827
+Candida tropicalis	Toremifene	20	0.5162829160690308
+Chromobacterium violaceum	Epigallocatechin Gallate	1	0.6177721619606018
+Chromobacterium violaceum	Stem extract of Acacia arabica	2	0.5912056565284729
+Chromobacterium violaceum	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5630787014961243
+Chromobacterium violaceum	Curcumin	4	0.5592001676559448
+Chromobacterium violaceum	Bark extract of Tamarix aphylla L.	5	0.5419723391532898
+Chromobacterium violaceum	AHL lactonase	6	0.49993276596069336
+Chromobacterium violaceum	Cinnamaldehyde	7	0.45476233959198
+Chromobacterium violaceum	Farnesol	8	0.44273433089256287
+Chromobacterium violaceum	Betulin	9	0.43274179100990295
+Chromobacterium violaceum	Indole	10	0.4257313907146454
+Chromobacterium violaceum	C6-HSL	11	0.41655731201171875
+Chromobacterium violaceum	Aqueous extract of chestnut honey	12	0.4106559455394745
+Chromobacterium violaceum	Vancomycin	13	0.40301379561424255
+Chromobacterium violaceum	Limonene	14	0.39871689677238464
+Chromobacterium violaceum	G H12	15	0.39704248309135437
+Chromobacterium violaceum	Hamamelitannin	16	0.3940827548503876
+Chromobacterium violaceum	Myristic acid	17	0.39292627573013306
+Chromobacterium violaceum	Hinokitiol	18	0.39144784212112427
+Chromobacterium violaceum	2-Nitro-cinnamaldehyde	19	0.3892410099506378
+Chromobacterium violaceum	Bacteriophage	20	0.3836291432380676
+Citrobacter freundii	Bark extract of Tamarix aphylla L.	1	0.583670437335968
+Citrobacter freundii	Stem extract of Acacia arabica	2	0.5577520728111267
+Citrobacter freundii	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5473548173904419
+Citrobacter freundii	Betulin	4	0.4354051649570465
+Citrobacter freundii	AHL lactonase	5	0.43131521344184875
+Citrobacter freundii	4-Methoxycarbonylphenylboronic acid	6	0.42652755975723267
+Citrobacter freundii	Farnesol	7	0.42567890882492065
+Citrobacter freundii	LL-37	8	0.4253789782524109
+Citrobacter freundii	Indole	9	0.4233652353286743
+Citrobacter freundii	BMAP-28	10	0.3962278664112091
+Citrobacter freundii	Myristic acid	11	0.3837684392929077
+Citrobacter freundii	Ceftazidime	12	0.3784153163433075
+Citrobacter freundii	N-Acetylcysteine	13	0.3783758580684662
+Citrobacter freundii	C6-HSL	14	0.37827369570732117
+Citrobacter freundii	Cloudberry KAS 444/3	15	0.3772679269313812
+Citrobacter freundii	Hamamelitannin	16	0.37710270285606384
+Citrobacter freundii	Norspermidine	17	0.3702194392681122
+Citrobacter freundii	IDR-1018	18	0.370065838098526
+Citrobacter freundii	Pyrogallol	19	0.3679502606391907
+Citrobacter freundii	Lys-a1	20	0.36333054304122925
+Coagulase- negative staphylococci	Bark extract of Tamarix aphylla L.	1	0.5857508778572083
+Coagulase- negative staphylococci	Epigallocatechin Gallate	2	0.5692052841186523
+Coagulase- negative staphylococci	Stem extract of Acacia arabica	3	0.5674629807472229
+Coagulase- negative staphylococci	Curcumin	4	0.5447172522544861
+Coagulase- negative staphylococci	AHL lactonase	5	0.5361988544464111
+Coagulase- negative staphylococci	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.5321764349937439
+Coagulase- negative staphylococci	LL-37	7	0.4615454077720642
+Coagulase- negative staphylococci	Indole	8	0.4538417160511017
+Coagulase- negative staphylococci	Farnesol	9	0.44823315739631653
+Coagulase- negative staphylococci	Limonene	10	0.44768762588500977
+Coagulase- negative staphylococci	Hamamelitannin	11	0.4438488781452179
+Coagulase- negative staphylococci	Myristic acid	12	0.4220539629459381
+Coagulase- negative staphylococci	C6-HSL	13	0.40722331404685974
+Coagulase- negative staphylococci	Pyrogallol	14	0.4049975872039795
+Coagulase- negative staphylococci	BMAP-28	15	0.40003448724746704
+Coagulase- negative staphylococci	Cinnamaldehyde	16	0.39391008019447327
+Coagulase- negative staphylococci	4-Methoxycarbonylphenylboronic acid	17	0.39260759949684143
+Coagulase- negative staphylococci	Toremifene	18	0.38854023814201355
+Coagulase- negative staphylococci	Betulin	19	0.38806086778640747
+Coagulase- negative staphylococci	Bacteriophage	20	0.3857657313346863
+Corynebacterium ammoniagenes	Epigallocatechin Gallate	1	0.6533920168876648
+Corynebacterium ammoniagenes	Stem extract of Acacia arabica	2	0.571378767490387
+Corynebacterium ammoniagenes	Bark extract of Tamarix aphylla L.	3	0.5441814661026001
+Corynebacterium ammoniagenes	Curcumin	4	0.5339210629463196
+Corynebacterium ammoniagenes	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5058667659759521
+Corynebacterium ammoniagenes	AHL lactonase	6	0.4661315679550171
+Corynebacterium ammoniagenes	LL-37	7	0.4129432141780853
+Corynebacterium ammoniagenes	Lys-a1	8	0.37858107686042786
+Corynebacterium ammoniagenes	Indole	9	0.37797561287879944
+Corynebacterium ammoniagenes	Methanolic extract of chestnut honey	10	0.3717726767063141
+Corynebacterium ammoniagenes	Betulin	11	0.36959606409072876
+Corynebacterium ammoniagenes	Cinnamaldehyde	12	0.36554592847824097
+Corynebacterium ammoniagenes	Norspermidine	13	0.36348411440849304
+Corynebacterium ammoniagenes	4-Methoxycarbonylphenylboronic acid	14	0.3589547276496887
+Corynebacterium ammoniagenes	BMAP-28	15	0.35558605194091797
+Corynebacterium ammoniagenes	Aqueous extract of chestnut honey	16	0.355236291885376
+Corynebacterium ammoniagenes	C6-HSL	17	0.35259175300598145
+Corynebacterium ammoniagenes	Vancomycin	18	0.35222065448760986
+Corynebacterium ammoniagenes	C4-HSL	19	0.3502800166606903
+Corynebacterium ammoniagenes	L-Aspartate	20	0.3495877981185913
+Cronobacter sakazakii	Epigallocatechin Gallate	1	0.6375767588615417
+Cronobacter sakazakii	AHL lactonase	2	0.5669499039649963
+Cronobacter sakazakii	Curcumin	3	0.5659464597702026
+Cronobacter sakazakii	Betulin	4	0.5579050779342651
+Cronobacter sakazakii	Bacteriophage	5	0.5509017109870911
+Cronobacter sakazakii	Farnesol	6	0.5481328368186951
+Cronobacter sakazakii	L-Aspartate	7	0.5462449789047241
+Cronobacter sakazakii	Toremifene	8	0.5445590615272522
+Cronobacter sakazakii	Ceftazidime	9	0.5433138608932495
+Cronobacter sakazakii	Norspermidine	10	0.5430054068565369
+Cronobacter sakazakii	Myristic acid	11	0.5409402847290039
+Cronobacter sakazakii	C4-HSL	12	0.5403599143028259
+Cronobacter sakazakii	N-Acetylcysteine	13	0.5396203994750977
+Cronobacter sakazakii	Bark extract of Tamarix aphylla L.	14	0.5369102954864502
+Cronobacter sakazakii	Vancomycin	15	0.5341861844062805
+Cronobacter sakazakii	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	16	0.5309860706329346
+Cronobacter sakazakii	4-Methoxycarbonylphenylboronic acid	17	0.5306511521339417
+Cronobacter sakazakii	Hexane extract of Hyptis suaveolens	18	0.5306288003921509
+Cronobacter sakazakii	Hamamelitannin	19	0.5293566584587097
+Cronobacter sakazakii	Culture supernatant of Bacillus licheniformis sp. SP1	20	0.5284624099731445
+Cryptococcus neoformans	Bark extract of Tamarix aphylla L.	1	0.6137012839317322
+Cryptococcus neoformans	Epigallocatechin Gallate	2	0.6123759150505066
+Cryptococcus neoformans	Curcumin	3	0.5592389702796936
+Cryptococcus neoformans	Limonene	4	0.5327807068824768
+Cryptococcus neoformans	Myristic acid	5	0.5267885327339172
+Cryptococcus neoformans	Cinnamaldehyde	6	0.5177141427993774
+Cryptococcus neoformans	Vancomycin	7	0.5107312202453613
+Cryptococcus neoformans	N-Acetylcysteine	8	0.5099877715110779
+Cryptococcus neoformans	Ciprofloxacin	9	0.504902184009552
+Cryptococcus neoformans	AHL lactonase	10	0.5046902298927307
+Cryptococcus neoformans	G H12	11	0.5045149922370911
+Cryptococcus neoformans	Farnesol	12	0.5019448399543762
+Cryptococcus neoformans	Ceftazidime	13	0.4939212203025818
+Cryptococcus neoformans	LL-37	14	0.49270129203796387
+Cryptococcus neoformans	C6-HSL	15	0.4926919639110565
+Cryptococcus neoformans	Stem extract of Acacia arabica	16	0.48656702041625977
+Cryptococcus neoformans	4-Methoxycarbonylphenylboronic acid	17	0.48653462529182434
+Cryptococcus neoformans	2-Nitro-cinnamaldehyde	18	0.4816001057624817
+Cryptococcus neoformans	Indole	19	0.4809485673904419
+Cryptococcus neoformans	C4-HSL	20	0.47669923305511475
+Edwardsiella tarda	Epigallocatechin Gallate	1	0.6346971392631531
+Edwardsiella tarda	Curcumin	2	0.5576814413070679
+Edwardsiella tarda	Bark extract of Tamarix aphylla L.	3	0.5470068454742432
+Edwardsiella tarda	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5352980494499207
+Edwardsiella tarda	Stem extract of Acacia arabica	5	0.47935670614242554
+Edwardsiella tarda	AHL lactonase	6	0.44583389163017273
+Edwardsiella tarda	C6-HSL	7	0.41494008898735046
+Edwardsiella tarda	Patulin	8	0.3980324864387512
+Edwardsiella tarda	Chestnut honey	9	0.3899584412574768
+Edwardsiella tarda	Limonene	10	0.3891648054122925
+Edwardsiella tarda	Indole	11	0.3882485628128052
+Edwardsiella tarda	Pyrogallol	12	0.3707086145877838
+Edwardsiella tarda	Cinnamaldehyde	13	0.3667628765106201
+Edwardsiella tarda	Lys-a1	14	0.36435747146606445
+Edwardsiella tarda	BMAP-28	15	0.364000529050827
+Edwardsiella tarda	Farnesol	16	0.35958781838417053
+Edwardsiella tarda	Myristic acid	17	0.35733944177627563
+Edwardsiella tarda	LL-37	18	0.35680487751960754
+Edwardsiella tarda	Methanol extracts Thymus vulgaris	19	0.3537103235721588
+Edwardsiella tarda	Norspermidine	20	0.35199224948883057
+Eikenella corrodens	Betulin	1	0.6098330020904541
+Eikenella corrodens	Lys-a1	2	0.598207950592041
+Eikenella corrodens	Vancomycin	3	0.5826747417449951
+Eikenella corrodens	N-Acetylcysteine	4	0.581970751285553
+Eikenella corrodens	Curcumin	5	0.5793979167938232
+Eikenella corrodens	C6-HSL	6	0.5749635100364685
+Eikenella corrodens	L-Aspartate	7	0.5741263031959534
+Eikenella corrodens	AHL lactonase	8	0.5675760507583618
+Eikenella corrodens	G H12	9	0.561658501625061
+Eikenella corrodens	Pyrogallol	10	0.5590572953224182
+Eikenella corrodens	IDR-1018	11	0.5570586323738098
+Eikenella corrodens	Stem extract of Acacia arabica	12	0.5516027808189392
+Eikenella corrodens	Limonene	13	0.5510462522506714
+Eikenella corrodens	Cefixime	14	0.5506981015205383
+Eikenella corrodens	DispersinB-KSL-W wound gel	15	0.5504400134086609
+Eikenella corrodens	BMAP-28	16	0.5444880723953247
+Eikenella corrodens	Norspermidine	17	0.5443693995475769
+Eikenella corrodens	Cinnamaldehyde	18	0.5414683222770691
+Eikenella corrodens	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	19	0.5411924123764038
+Eikenella corrodens	Tobramycin	20	0.5411384105682373
+Enterobacter aerogenes	Stem extract of Acacia arabica	1	0.5689319968223572
+Enterobacter aerogenes	Bark extract of Tamarix aphylla L.	2	0.5645583868026733
+Enterobacter aerogenes	Epigallocatechin Gallate	3	0.5604068636894226
+Enterobacter aerogenes	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5512275099754333
+Enterobacter aerogenes	Curcumin	5	0.5493189692497253
+Enterobacter aerogenes	AHL lactonase	6	0.5077197551727295
+Enterobacter aerogenes	C6-HSL	7	0.4128066599369049
+Enterobacter aerogenes	LL-37	8	0.40675225853919983
+Enterobacter aerogenes	Cinnamaldehyde	9	0.39913687109947205
+Enterobacter aerogenes	Patulin	10	0.37687817215919495
+Enterobacter aerogenes	Lys-a1	11	0.36415597796440125
+Enterobacter aerogenes	Hamamelitannin	12	0.36188605427742004
+Enterobacter aerogenes	Indole	13	0.3528236448764801
+Enterobacter aerogenes	Vancomycin	14	0.35229554772377014
+Enterobacter aerogenes	Hinokitiol	15	0.3447163999080658
+Enterobacter aerogenes	Farnesol	16	0.34444108605384827
+Enterobacter aerogenes	G H12	17	0.3407331109046936
+Enterobacter aerogenes	Limonene	18	0.339626282453537
+Enterobacter aerogenes	C4-HSL	19	0.33814212679862976
+Enterobacter aerogenes	N-Acetylcysteine	20	0.3357446491718292
+Enterobacter agglomerans	Epigallocatechin Gallate	1	0.6066932678222656
+Enterobacter agglomerans	Stem extract of Acacia arabica	2	0.5578639507293701
+Enterobacter agglomerans	Curcumin	3	0.551421582698822
+Enterobacter agglomerans	Bark extract of Tamarix aphylla L.	4	0.5509122610092163
+Enterobacter agglomerans	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.49461761116981506
+Enterobacter agglomerans	Farnesol	6	0.4185541272163391
+Enterobacter agglomerans	AHL lactonase	7	0.4080420434474945
+Enterobacter agglomerans	Betulin	8	0.40517064929008484
+Enterobacter agglomerans	Lys-a1	9	0.4007067382335663
+Enterobacter agglomerans	LL-37	10	0.38828447461128235
+Enterobacter agglomerans	C6-HSL	11	0.38671135902404785
+Enterobacter agglomerans	Hamamelitannin	12	0.38136398792266846
+Enterobacter agglomerans	Cinnamaldehyde	13	0.3774394392967224
+Enterobacter agglomerans	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	14	0.3768162429332733
+Enterobacter agglomerans	Pyrogallol	15	0.3647286295890808
+Enterobacter agglomerans	Norspermidine	16	0.3431447148323059
+Enterobacter agglomerans	BMAP-28	17	0.34310412406921387
+Enterobacter agglomerans	L-Aspartate	18	0.34015464782714844
+Enterobacter agglomerans	C4-HSL	19	0.33325299620628357
+Enterobacter agglomerans	Indole	20	0.330865740776062
+Enterobacter cancerogenus	Stem extract of Acacia arabica	1	0.5680719017982483
+Enterobacter cancerogenus	AHL lactonase	2	0.5408499240875244
+Enterobacter cancerogenus	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.513232946395874
+Enterobacter cancerogenus	Bark extract of Tamarix aphylla L.	4	0.5115676522254944
+Enterobacter cancerogenus	C6-HSL	5	0.4824891686439514
+Enterobacter cancerogenus	Cinnamaldehyde	6	0.46011611819267273
+Enterobacter cancerogenus	N-Acetylcysteine	7	0.4259043037891388
+Enterobacter cancerogenus	LL-37	8	0.42197927832603455
+Enterobacter cancerogenus	Indole	9	0.41815322637557983
+Enterobacter cancerogenus	Farnesol	10	0.40317854285240173
+Enterobacter cancerogenus	4-Methoxycarbonylphenylboronic acid	11	0.4024791419506073
+Enterobacter cancerogenus	BMAP-28	12	0.40156152844429016
+Enterobacter cancerogenus	Myristic acid	13	0.399463415145874
+Enterobacter cancerogenus	Hamamelitannin	14	0.3889331519603729
+Enterobacter cancerogenus	Vancomycin	15	0.3884834945201874
+Enterobacter cancerogenus	Chestnut honey	16	0.38748154044151306
+Enterobacter cancerogenus	Lys-a1	17	0.3834693431854248
+Enterobacter cancerogenus	Ceftazidime	18	0.38223037123680115
+Enterobacter cancerogenus	C4-HSL	19	0.38134437799453735
+Enterobacter cancerogenus	Cefixime	20	0.3790438771247864
+Enterobacter ludwigi	Bark extract of Tamarix aphylla L.	1	0.5975828170776367
+Enterobacter ludwigi	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.512147068977356
+Enterobacter ludwigi	AHL lactonase	3	0.5105002522468567
+Enterobacter ludwigi	Stem extract of Acacia arabica	4	0.5072935223579407
+Enterobacter ludwigi	Farnesol	5	0.442442923784256
+Enterobacter ludwigi	Lys-a1	6	0.4419776201248169
+Enterobacter ludwigi	LL-37	7	0.4270114302635193
+Enterobacter ludwigi	N-Acetylcysteine	8	0.4215286374092102
+Enterobacter ludwigi	Hamamelitannin	9	0.41528600454330444
+Enterobacter ludwigi	BMAP-28	10	0.4066498279571533
+Enterobacter ludwigi	C6-HSL	11	0.4057159125804901
+Enterobacter ludwigi	Bacteriophage	12	0.40463584661483765
+Enterobacter ludwigi	Norspermidine	13	0.3958456814289093
+Enterobacter ludwigi	Ceftazidime	14	0.39451050758361816
+Enterobacter ludwigi	Indole	15	0.3877788484096527
+Enterobacter ludwigi	L-Aspartate	16	0.38633161783218384
+Enterobacter ludwigi	Pyrogallol	17	0.3777078688144684
+Enterobacter ludwigi	Cinnamaldehyde	18	0.3774471879005432
+Enterobacter ludwigi	IDR-1018	19	0.37679430842399597
+Enterobacter ludwigi	Limonene	20	0.37645241618156433
+Enterococcus faecalis	Bark extract of Tamarix aphylla L.	1	0.6423960328102112
+Enterococcus faecalis	DJK5	2	0.6277173757553101
+Enterococcus faecalis	2-geranyloxy-4,6-dihydroxybenzophenone	3	0.6243603825569153
+Enterococcus faecalis	Norgestimate	4	0.620449423789978
+Enterococcus faecalis	Stem extract of Acacia arabica	5	0.6188773512840271
+Enterococcus faecalis	Sanguinarine	6	0.6175928711891174
+Enterococcus faecalis	DiHydroxyBenzoFuran	7	0.6163116693496704
+Enterococcus faecalis	RNAIII-inhibiting Peptide	8	0.6157607436180115
+Enterococcus faecalis	DispersinB-KSL-W wound gel	9	0.6139618754386902
+Enterococcus faecalis	Pyrogallol	10	0.6132739782333374
+Enterococcus faecalis	Cloudberry KAS 444/3	11	0.6128684282302856
+Enterococcus faecalis	Linalool	12	0.6125953793525696
+Enterococcus faecalis	Pimento berry oil	13	0.6113106608390808
+Enterococcus faecalis	Dalbavancin	14	0.6088865399360657
+Enterococcus faecalis	Carboxymethyl chitosan	15	0.6080125570297241
+Enterococcus faecalis	Ceftazidime	16	0.6075774431228638
+Enterococcus faecalis	AHL lactonase	17	0.6075491905212402
+Enterococcus faecalis	BisEDT-RIP	18	0.6066721677780151
+Enterococcus faecalis	Elliptophenone A	19	0.6040251851081848
+Enterococcus faecalis	Silver nitrate	20	0.6027568578720093
+Enterococcus faecium	Epigallocatechin Gallate	1	0.6108099222183228
+Enterococcus faecium	Curcumin	2	0.5441172122955322
+Enterococcus faecium	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5406665205955505
+Enterococcus faecium	G H12	4	0.5404702425003052
+Enterococcus faecium	Farnesol	5	0.5389915704727173
+Enterococcus faecium	Cinnamaldehyde	6	0.5373439788818359
+Enterococcus faecium	Indole	7	0.5371860265731812
+Enterococcus faecium	AHL lactonase	8	0.534034013748169
+Enterococcus faecium	Bark extract of Tamarix aphylla L.	9	0.5331644415855408
+Enterococcus faecium	C6-HSL	10	0.5301521420478821
+Enterococcus faecium	Hinokitiol	11	0.5249444842338562
+Enterococcus faecium	2-Nitro-cinnamaldehyde	12	0.5234584212303162
+Enterococcus faecium	Limonene	13	0.5233259201049805
+Enterococcus faecium	LL-37	14	0.5182061195373535
+Enterococcus faecium	Norspermidine	15	0.5138335824012756
+Enterococcus faecium	4-Methoxycarbonylphenylboronic acid	16	0.5127136707305908
+Enterococcus faecium	Bacteriophage	17	0.5125210285186768
+Enterococcus faecium	Vancomycin	18	0.5098822116851807
+Enterococcus faecium	Chestnut honey	19	0.5070183277130127
+Enterococcus faecium	Stem extract of Acacia arabica	20	0.5047737956047058
+Enterococcus gallinarum	Bark extract of Tamarix aphylla L.	1	0.5845925211906433
+Enterococcus gallinarum	Stem extract of Acacia arabica	2	0.5608990788459778
+Enterococcus gallinarum	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5584334135055542
+Enterococcus gallinarum	Curcumin	4	0.5524142980575562
+Enterococcus gallinarum	Farnesol	5	0.5230892896652222
+Enterococcus gallinarum	Epigallocatechin Gallate	6	0.5219768285751343
+Enterococcus gallinarum	AHL lactonase	7	0.5200032591819763
+Enterococcus gallinarum	Indole	8	0.5183781981468201
+Enterococcus gallinarum	Hamamelitannin	9	0.5120498538017273
+Enterococcus gallinarum	Toremifene	10	0.5116416215896606
+Enterococcus gallinarum	C6-HSL	11	0.5024304986000061
+Enterococcus gallinarum	Cinnamaldehyde	12	0.49788007140159607
+Enterococcus gallinarum	G H12	13	0.49593737721443176
+Enterococcus gallinarum	LL-37	14	0.4859783351421356
+Enterococcus gallinarum	Vancomycin	15	0.4838848412036896
+Enterococcus gallinarum	Lys-a1	16	0.4783666133880615
+Enterococcus gallinarum	Limonene	17	0.47495922446250916
+Enterococcus gallinarum	C4-HSL	18	0.4702100157737732
+Enterococcus gallinarum	Patulin	19	0.4695865213871002
+Enterococcus gallinarum	Chestnut honey	20	0.46613809466362
+Erwinia carotovora	Epigallocatechin Gallate	1	0.6035718321800232
+Erwinia carotovora	Bark extract of Tamarix aphylla L.	2	0.5789680480957031
+Erwinia carotovora	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5734016299247742
+Erwinia carotovora	Curcumin	4	0.5455103516578674
+Erwinia carotovora	AHL lactonase	5	0.5348501801490784
+Erwinia carotovora	Stem extract of Acacia arabica	6	0.5290203094482422
+Erwinia carotovora	Farnesol	7	0.4876061677932739
+Erwinia carotovora	C6-HSL	8	0.4815008044242859
+Erwinia carotovora	Betulin	9	0.4790743887424469
+Erwinia carotovora	Hamamelitannin	10	0.4673592150211334
+Erwinia carotovora	Cinnamaldehyde	11	0.4660848379135132
+Erwinia carotovora	4-Methoxycarbonylphenylboronic acid	12	0.46506890654563904
+Erwinia carotovora	LL-37	13	0.46267393231391907
+Erwinia carotovora	Indole	14	0.45303142070770264
+Erwinia carotovora	Norspermidine	15	0.4451701045036316
+Erwinia carotovora	Lys-a1	16	0.4433477818965912
+Erwinia carotovora	Myristic acid	17	0.4426628053188324
+Erwinia carotovora	Pyrogallol	18	0.4392419755458832
+Erwinia carotovora	Toremifene	19	0.43482980132102966
+Erwinia carotovora	C4-HSL	20	0.4327382743358612
+Escherichia coli	N -(4-trifluoromethyl-benzylidene)benzohydrazide	1	0.8478553295135498
+Escherichia coli	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-6-methoxy-quinolin-3-yl)-2-propen-1-one	2	0.8342124223709106
+Escherichia coli	(2E)-1-(1,3-benzodioxol-5-yl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one	3	0.8319579362869263
+Escherichia coli	(2E)-N -(2 -hydroxy-5 -bromo-benzilidene)-3,4,5-trimethoxybenzohydrazide	4	0.8279820084571838
+Escherichia coli	N -(pyridin-3-yl-methylene)benzohydrazide	5	0.8252890110015869
+Escherichia coli	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one	6	0.8241850137710571
+Escherichia coli	N -(3-nitro-4-hydroxy-benzylidene)benzohydrazide	7	0.81796795129776
+Escherichia coli	(2E)-1-(3 ,4 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	8	0.8119337558746338
+Escherichia coli	(2E)-1-(3 ,4 ,5 -trimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	9	0.810752809047699
+Escherichia coli	1-[2-(2-nitrophenyl)-5-phenyl-1,3,4-oxadiazol-3(2H)-yl]ethanone	10	0.808627188205719
+Escherichia coli	Propyl gallate	11	0.8066410422325134
+Escherichia coli	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(2-naphthyl)-2-propen-1-one	12	0.8025777339935303
+Escherichia coli	1-[2-(3-bromo-4-hydroxy-5-methoxyphenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	13	0.8019023537635803
+Escherichia coli	(2E)-1-(1 ,3 -benzodioxol-5-yl)-3-(2-naphthyl)-2-propen-1-one	14	0.7979424595832825
+Escherichia coli	(2E)-1-(3 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	15	0.7973347902297974
+Escherichia coli	Methyl gallate	16	0.7967051267623901
+Escherichia coli	1-[2-(2,4-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	17	0.7954677939414978
+Escherichia coli	1-[2-(3,5-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	18	0.7918906211853027
+Escherichia coli	(2E)-1-(2 ,5 -dimethoxyphenyl)-3-[2,5-dimethyl-1-(3-trifluoromethyl-phenyl)-1H-pirrol-3-yl]-2-propen-1-one	19	0.7904226779937744
+Escherichia coli	Octadecyl gallate	20	0.7834812998771667
+Flavobacterium psychrophilum	Epigallocatechin Gallate	1	0.6364859342575073
+Flavobacterium psychrophilum	Bark extract of Tamarix aphylla L.	2	0.575805127620697
+Flavobacterium psychrophilum	Curcumin	3	0.5562559366226196
+Flavobacterium psychrophilum	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.4985092282295227
+Flavobacterium psychrophilum	AHL lactonase	5	0.49379098415374756
+Flavobacterium psychrophilum	Stem extract of Acacia arabica	6	0.46754759550094604
+Flavobacterium psychrophilum	C6-HSL	7	0.4248858392238617
+Flavobacterium psychrophilum	LL-37	8	0.4225330650806427
+Flavobacterium psychrophilum	Norspermidine	9	0.4091222882270813
+Flavobacterium psychrophilum	Betulin	10	0.4003097116947174
+Flavobacterium psychrophilum	Indole	11	0.3968459665775299
+Flavobacterium psychrophilum	Hamamelitannin	12	0.37503039836883545
+Flavobacterium psychrophilum	Farnesol	13	0.37074893712997437
+Flavobacterium psychrophilum	Chestnut honey	14	0.37049400806427
+Flavobacterium psychrophilum	Lys-a1	15	0.365039587020874
+Flavobacterium psychrophilum	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	16	0.35896962881088257
+Flavobacterium psychrophilum	Pyrogallol	17	0.3568301200866699
+Flavobacterium psychrophilum	Patulin	18	0.3445323705673218
+Flavobacterium psychrophilum	Vancomycin	19	0.34040600061416626
+Flavobacterium psychrophilum	IDR-1018	20	0.33696889877319336
+Francisella novicida	Epigallocatechin Gallate	1	0.6495382189750671
+Francisella novicida	Bark extract of Tamarix aphylla L.	2	0.5717642903327942
+Francisella novicida	Curcumin	3	0.5589234232902527
+Francisella novicida	Stem extract of Acacia arabica	4	0.5465962886810303
+Francisella novicida	AHL lactonase	5	0.47979313135147095
+Francisella novicida	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.45345884561538696
+Francisella novicida	C6-HSL	7	0.45294126868247986
+Francisella novicida	Methanolic extract of chestnut honey	8	0.40612101554870605
+Francisella novicida	Indole	9	0.3928389847278595
+Francisella novicida	Cinnamaldehyde	10	0.38355809450149536
+Francisella novicida	Hamamelitannin	11	0.37971439957618713
+Francisella novicida	Betulin	12	0.3789927661418915
+Francisella novicida	Farnesol	13	0.37183019518852234
+Francisella novicida	4-Methoxycarbonylphenylboronic acid	14	0.3718113899230957
+Francisella novicida	Ceftazidime	15	0.3702341914176941
+Francisella novicida	Norspermidine	16	0.3682517111301422
+Francisella novicida	Vancomycin	17	0.368053138256073
+Francisella novicida	Pyrogallol	18	0.352938175201416
+Francisella novicida	C4-HSL	19	0.34695589542388916
+Francisella novicida	N-Acetylcysteine	20	0.3467928469181061
+Fusarium solani	Epigallocatechin Gallate	1	0.5982437133789062
+Fusarium solani	Bark extract of Tamarix aphylla L.	2	0.581151008605957
+Fusarium solani	Curcumin	3	0.5447753071784973
+Fusarium solani	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5305682420730591
+Fusarium solani	Stem extract of Acacia arabica	5	0.5117089748382568
+Fusarium solani	AHL lactonase	6	0.4853686988353729
+Fusarium solani	Farnesol	7	0.43868783116340637
+Fusarium solani	Cinnamaldehyde	8	0.4121811091899872
+Fusarium solani	G H12	9	0.37430480122566223
+Fusarium solani	Betulin	10	0.37186187505722046
+Fusarium solani	C4-HSL	11	0.36775103211402893
+Fusarium solani	Myristic acid	12	0.3675011992454529
+Fusarium solani	N-Acetylcysteine	13	0.3647022545337677
+Fusarium solani	Lys-a1	14	0.34604597091674805
+Fusarium solani	C6-HSL	15	0.3437817692756653
+Fusarium solani	IDR-1018	16	0.3434566259384155
+Fusarium solani	LL-37	17	0.341827392578125
+Fusarium solani	Vancomycin	18	0.33607402443885803
+Fusarium solani	Pyrogallol	19	0.33512312173843384
+Fusarium solani	4-Methoxycarbonylphenylboronic acid	20	0.3339248597621918
+Fusobacterium nucleatum	Bark extract of Tamarix aphylla L.	1	0.6035428047180176
+Fusobacterium nucleatum	Epigallocatechin Gallate	2	0.5799235701560974
+Fusobacterium nucleatum	Curcumin	3	0.554438054561615
+Fusobacterium nucleatum	Stem extract of Acacia arabica	4	0.5342950224876404
+Fusobacterium nucleatum	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.479532390832901
+Fusobacterium nucleatum	Farnesol	6	0.4570310711860657
+Fusobacterium nucleatum	AHL lactonase	7	0.4302413761615753
+Fusobacterium nucleatum	Cinnamaldehyde	8	0.40051963925361633
+Fusobacterium nucleatum	C6-HSL	9	0.38534894585609436
+Fusobacterium nucleatum	Toremifene	10	0.3803766667842865
+Fusobacterium nucleatum	Limonene	11	0.37933069467544556
+Fusobacterium nucleatum	Pyrogallol	12	0.37183481454849243
+Fusobacterium nucleatum	LL-37	13	0.37063372135162354
+Fusobacterium nucleatum	Lys-a1	14	0.36410388350486755
+Fusobacterium nucleatum	Hamamelitannin	15	0.35981589555740356
+Fusobacterium nucleatum	4-Methoxycarbonylphenylboronic acid	16	0.3572782576084137
+Fusobacterium nucleatum	Betulin	17	0.3566180467605591
+Fusobacterium nucleatum	BMAP-28	18	0.3526866137981415
+Fusobacterium nucleatum	G H12	19	0.3478592336177826
+Fusobacterium nucleatum	Ciprofloxacin	20	0.3471008539199829
+Gardnerella vaginalis	Epigallocatechin Gallate	1	0.5657277703285217
+Gardnerella vaginalis	Stem extract of Acacia arabica	2	0.539837121963501
+Gardnerella vaginalis	Curcumin	3	0.5211576819419861
+Gardnerella vaginalis	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5071693658828735
+Gardnerella vaginalis	AHL lactonase	5	0.5004203915596008
+Gardnerella vaginalis	Bark extract of Tamarix aphylla L.	6	0.4752025604248047
+Gardnerella vaginalis	Farnesol	7	0.4023657441139221
+Gardnerella vaginalis	N-Acetylcysteine	8	0.3958439528942108
+Gardnerella vaginalis	C6-HSL	9	0.38608089089393616
+Gardnerella vaginalis	Indole	10	0.3789346516132355
+Gardnerella vaginalis	LL-37	11	0.369607537984848
+Gardnerella vaginalis	Cinnamaldehyde	12	0.3665863275527954
+Gardnerella vaginalis	Lys-a1	13	0.36316341161727905
+Gardnerella vaginalis	Limonene	14	0.3606140613555908
+Gardnerella vaginalis	G H12	15	0.3506831228733063
+Gardnerella vaginalis	Norspermidine	16	0.35046979784965515
+Gardnerella vaginalis	Toremifene	17	0.3481024503707886
+Gardnerella vaginalis	Aqueous extract of chestnut honey	18	0.3423638343811035
+Gardnerella vaginalis	Betulin	19	0.3376576602458954
+Gardnerella vaginalis	Chestnut honey	20	0.3374875485897064
+Haemophilus influenzae	Bark extract of Tamarix aphylla L.	1	0.5957522392272949
+Haemophilus influenzae	Ceftazidime	2	0.5918502807617188
+Haemophilus influenzae	Indole	3	0.5850453972816467
+Haemophilus influenzae	Epigallocatechin Gallate	4	0.5708856582641602
+Haemophilus influenzae	Lys-a1	5	0.5704858303070068
+Haemophilus influenzae	Curcumin	6	0.5691292881965637
+Haemophilus influenzae	Myristic acid	7	0.567655086517334
+Haemophilus influenzae	LL-37	8	0.5610382556915283
+Haemophilus influenzae	4-Methoxycarbonylphenylboronic acid	9	0.5504248738288879
+Haemophilus influenzae	Toremifene	10	0.5468845963478088
+Haemophilus influenzae	MBP-QQ protein (QQ-2)	11	0.545593798160553
+Haemophilus influenzae	G H12	12	0.5438808798789978
+Haemophilus influenzae	BMAP-28	13	0.5425651669502258
+Haemophilus influenzae	Limonene	14	0.5423371195793152
+Haemophilus influenzae	Amikacin	15	0.5416892170906067
+Haemophilus influenzae	Cinnamaldehyde	16	0.5410876870155334
+Haemophilus influenzae	DJK6	17	0.5409435629844666
+Haemophilus influenzae	3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	18	0.5386848449707031
+Haemophilus influenzae	Stem extract of Acacia arabica	19	0.5383446216583252
+Haemophilus influenzae	Bacteriophage	20	0.536348283290863
+Hafnia alvei	Epigallocatechin Gallate	1	0.6054540276527405
+Hafnia alvei	Stem extract of Acacia arabica	2	0.5806013941764832
+Hafnia alvei	Farnesol	3	0.5542313456535339
+Hafnia alvei	Curcumin	4	0.5469130277633667
+Hafnia alvei	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5416262149810791
+Hafnia alvei	4-Methoxycarbonylphenylboronic acid	6	0.5382885336875916
+Hafnia alvei	Bark extract of Tamarix aphylla L.	7	0.5175188779830933
+Hafnia alvei	Hamamelitannin	8	0.5135484933853149
+Hafnia alvei	LL-37	9	0.5096597075462341
+Hafnia alvei	Limonene	10	0.5088908672332764
+Hafnia alvei	Vancomycin	11	0.4926207363605499
+Hafnia alvei	Lys-a1	12	0.49181297421455383
+Hafnia alvei	Indole	13	0.4828716218471527
+Hafnia alvei	Patulin	14	0.4809730052947998
+Hafnia alvei	Betulin	15	0.47437939047813416
+Hafnia alvei	AHL lactonase	16	0.4717855751514435
+Hafnia alvei	Myristic acid	17	0.46783170104026794
+Hafnia alvei	Cloudberry KAS 444/3	18	0.4653606712818146
+Hafnia alvei	BMAP-28	19	0.4575488865375519
+Hafnia alvei	Toremifene	20	0.45704999566078186
+Hafnia paralvei	Epigallocatechin Gallate	1	0.6109197735786438
+Hafnia paralvei	Bark extract of Tamarix aphylla L.	2	0.5712665915489197
+Hafnia paralvei	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5656322240829468
+Hafnia paralvei	Stem extract of Acacia arabica	4	0.5536687970161438
+Hafnia paralvei	Curcumin	5	0.5517987012863159
+Hafnia paralvei	AHL lactonase	6	0.5182716846466064
+Hafnia paralvei	Pyrogallol	7	0.5096511840820312
+Hafnia paralvei	Cinnamaldehyde	8	0.4998568594455719
+Hafnia paralvei	Vancomycin	9	0.4774191677570343
+Hafnia paralvei	4-Methoxycarbonylphenylboronic acid	10	0.47342798113822937
+Hafnia paralvei	Methanolic extract of chestnut honey	11	0.470149427652359
+Hafnia paralvei	Lys-a1	12	0.46972739696502686
+Hafnia paralvei	Patulin	13	0.46234238147735596
+Hafnia paralvei	Farnesol	14	0.46223193407058716
+Hafnia paralvei	Indole	15	0.45989882946014404
+Hafnia paralvei	Limonene	16	0.444856733083725
+Hafnia paralvei	G H12	17	0.44419658184051514
+Hafnia paralvei	C6-HSL	18	0.43915027379989624
+Hafnia paralvei	Bacteriophage	19	0.4381953179836273
+Hafnia paralvei	Cefixime	20	0.4356783330440521
+Halomonas pacifica	Stem extract of Acacia arabica	1	0.6124775409698486
+Halomonas pacifica	Curcumin	2	0.5559834837913513
+Halomonas pacifica	AHL lactonase	3	0.5527834892272949
+Halomonas pacifica	Epigallocatechin Gallate	4	0.5492211580276489
+Halomonas pacifica	Bark extract of Tamarix aphylla L.	5	0.5480454564094543
+Halomonas pacifica	Farnesol	6	0.5199178457260132
+Halomonas pacifica	Culture supernatant of Bacillus licheniformis sp. SP1	7	0.5050056576728821
+Halomonas pacifica	LL-37	8	0.4439738392829895
+Halomonas pacifica	G H12	9	0.4418242573738098
+Halomonas pacifica	Lys-a1	10	0.435070663690567
+Halomonas pacifica	C6-HSL	11	0.4261210858821869
+Halomonas pacifica	Limonene	12	0.4245734214782715
+Halomonas pacifica	Hamamelitannin	13	0.4219048321247101
+Halomonas pacifica	Toremifene	14	0.4171736538410187
+Halomonas pacifica	Norspermidine	15	0.4132063686847687
+Halomonas pacifica	Pyrogallol	16	0.404238224029541
+Halomonas pacifica	Cinnamaldehyde	17	0.4015958905220032
+Halomonas pacifica	4-Methoxycarbonylphenylboronic acid	18	0.4013476073741913
+Halomonas pacifica	Cefixime	19	0.39155688881874084
+Halomonas pacifica	N-Acetylcysteine	20	0.39019453525543213
+Klebsiella oxytoca	Epigallocatechin Gallate	1	0.5990610718727112
+Klebsiella oxytoca	Stem extract of Acacia arabica	2	0.5560089945793152
+Klebsiella oxytoca	Bark extract of Tamarix aphylla L.	3	0.5503097176551819
+Klebsiella oxytoca	Curcumin	4	0.5447359681129456
+Klebsiella oxytoca	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5142401456832886
+Klebsiella oxytoca	AHL lactonase	6	0.48436930775642395
+Klebsiella oxytoca	LL-37	7	0.4179516136646271
+Klebsiella oxytoca	Vancomycin	8	0.3883083164691925
+Klebsiella oxytoca	Myristic acid	9	0.38814452290534973
+Klebsiella oxytoca	Pyrogallol	10	0.3761231303215027
+Klebsiella oxytoca	Farnesol	11	0.3761000633239746
+Klebsiella oxytoca	Cinnamaldehyde	12	0.3754773437976837
+Klebsiella oxytoca	Limonene	13	0.3659217953681946
+Klebsiella oxytoca	C6-HSL	14	0.36421775817871094
+Klebsiella oxytoca	Patulin	15	0.35506361722946167
+Klebsiella oxytoca	Ciprofloxacin	16	0.34837907552719116
+Klebsiella oxytoca	Toremifene	17	0.34720662236213684
+Klebsiella oxytoca	Hinokitiol	18	0.3439413607120514
+Klebsiella oxytoca	L-Aspartate	19	0.3438400328159332
+Klebsiella oxytoca	Hamamelitannin	20	0.34321075677871704
+Klebsiella planticola	Stem extract of Acacia arabica	1	0.6046423316001892
+Klebsiella planticola	Bark extract of Tamarix aphylla L.	2	0.5773274898529053
+Klebsiella planticola	Norspermidine	3	0.5688455104827881
+Klebsiella planticola	Hamamelitannin	4	0.5657917261123657
+Klebsiella planticola	Pyrogallol	5	0.5610064268112183
+Klebsiella planticola	N-Acetylcysteine	6	0.5604996681213379
+Klebsiella planticola	Curcumin	7	0.5583085417747498
+Klebsiella planticola	Lys-a1	8	0.5495381951332092
+Klebsiella planticola	Epigallocatechin Gallate	9	0.5479326844215393
+Klebsiella planticola	Toremifene	10	0.5458505153656006
+Klebsiella planticola	IDR-1018	11	0.5432794690132141
+Klebsiella planticola	Farnesol	12	0.5403968691825867
+Klebsiella planticola	Ceftazidime	13	0.5398492813110352
+Klebsiella planticola	Limonene	14	0.535546064376831
+Klebsiella planticola	Cinnamaldehyde	15	0.5278275609016418
+Klebsiella planticola	Myristic acid	16	0.52196204662323
+Klebsiella planticola	Cefixime	17	0.5129011273384094
+Klebsiella planticola	Aqueous extract of chestnut honey	18	0.5125133395195007
+Klebsiella planticola	Ethanol extracts of Thymus vulgaris	19	0.5121611952781677
+Klebsiella planticola	BMAP-28	20	0.5106657147407532
+Klebsiella pneumoniae	Hamamelitannin	1	0.6153887510299683
+Klebsiella pneumoniae	N-Acetylcysteine	2	0.6128362417221069
+Klebsiella pneumoniae	Vancomycin	3	0.6098766326904297
+Klebsiella pneumoniae	Stem extract of Acacia arabica	4	0.6001650094985962
+Klebsiella pneumoniae	Limonene	5	0.5877029895782471
+Klebsiella pneumoniae	Pyrogallol	6	0.587150514125824
+Klebsiella pneumoniae	OSIP108	7	0.5869778394699097
+Klebsiella pneumoniae	Epigallocatechin Gallate	8	0.583243191242218
+Klebsiella pneumoniae	Cinnamaldehyde	9	0.582301914691925
+Klebsiella pneumoniae	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	10	0.5805553793907166
+Klebsiella pneumoniae	Terpinene-4-ol	11	0.5792452692985535
+Klebsiella pneumoniae	Hinokitiol	12	0.5787909626960754
+Klebsiella pneumoniae	Curcumin	13	0.5723796486854553
+Klebsiella pneumoniae	Toremifene	14	0.5721318125724792
+Klebsiella pneumoniae	Ceftazidime	15	0.565972626209259
+Klebsiella pneumoniae	Farnesol	16	0.5633429884910583
+Klebsiella pneumoniae	SMAP-29	17	0.5588388442993164
+Klebsiella pneumoniae	C6-HSL	18	0.5567233562469482
+Klebsiella pneumoniae	L-tryptophan	19	0.5565955638885498
+Klebsiella pneumoniae	4-Methoxycarbonylphenylboronic acid	20	0.5529497265815735
+Klebsiella variicola	Bark extract of Tamarix aphylla L.	1	0.5834046006202698
+Klebsiella variicola	Stem extract of Acacia arabica	2	0.48444125056266785
+Klebsiella variicola	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.47629866003990173
+Klebsiella variicola	AHL lactonase	4	0.470040887594223
+Klebsiella variicola	C6-HSL	5	0.4516899585723877
+Klebsiella variicola	LL-37	6	0.4250198006629944
+Klebsiella variicola	Indole	7	0.42304232716560364
+Klebsiella variicola	Cinnamaldehyde	8	0.42071571946144104
+Klebsiella variicola	Farnesol	9	0.4127226769924164
+Klebsiella variicola	BMAP-28	10	0.4013744592666626
+Klebsiella variicola	Norspermidine	11	0.3959111273288727
+Klebsiella variicola	Pyrogallol	12	0.3947272002696991
+Klebsiella variicola	Ethanol extracts of Thymus vulgaris	13	0.3835446536540985
+Klebsiella variicola	Hinokitiol	14	0.3810770511627197
+Klebsiella variicola	Cefixime	15	0.3773922324180603
+Klebsiella variicola	G H12	16	0.37502148747444153
+Klebsiella variicola	Limonene	17	0.3732651174068451
+Klebsiella variicola	Lys-a1	18	0.37223243713378906
+Klebsiella variicola	Hamamelitannin	19	0.3714296221733093
+Klebsiella variicola	Myristic acid	20	0.3695061206817627
+Kocuria rhizophila	Epigallocatechin Gallate	1	0.6233239769935608
+Kocuria rhizophila	Bark extract of Tamarix aphylla L.	2	0.6178867816925049
+Kocuria rhizophila	Stem extract of Acacia arabica	3	0.5830487608909607
+Kocuria rhizophila	AHL lactonase	4	0.5648152828216553
+Kocuria rhizophila	Curcumin	5	0.5451790690422058
+Kocuria rhizophila	N-Acetylcysteine	6	0.515450119972229
+Kocuria rhizophila	Cinnamaldehyde	7	0.5136350989341736
+Kocuria rhizophila	LL-37	8	0.5070813894271851
+Kocuria rhizophila	4-Methoxycarbonylphenylboronic acid	9	0.50018310546875
+Kocuria rhizophila	Hamamelitannin	10	0.49978336691856384
+Kocuria rhizophila	Ciprofloxacin	11	0.49800384044647217
+Kocuria rhizophila	Indole	12	0.4956287145614624
+Kocuria rhizophila	Culture supernatant of Bacillus licheniformis sp. SP1	13	0.4875440001487732
+Kocuria rhizophila	Farnesol	14	0.48659512400627136
+Kocuria rhizophila	C6-HSL	15	0.48485392332077026
+Kocuria rhizophila	Myristic acid	16	0.47879189252853394
+Kocuria rhizophila	Lys-a1	17	0.4780706465244293
+Kocuria rhizophila	Norspermidine	18	0.47644829750061035
+Kocuria rhizophila	G H12	19	0.47335249185562134
+Kocuria rhizophila	Toremifene	20	0.4634724259376526
+Lactobacillus fermenti	Stem extract of Acacia arabica	1	0.6138819456100464
+Lactobacillus fermenti	Bark extract of Tamarix aphylla L.	2	0.5647437572479248
+Lactobacillus fermenti	Curcumin	3	0.548102080821991
+Lactobacillus fermenti	Epigallocatechin Gallate	4	0.540961742401123
+Lactobacillus fermenti	AHL lactonase	5	0.4774012267589569
+Lactobacillus fermenti	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.4574880003929138
+Lactobacillus fermenti	LL-37	7	0.4254362881183624
+Lactobacillus fermenti	Pyrogallol	8	0.41385599970817566
+Lactobacillus fermenti	C6-HSL	9	0.4093422293663025
+Lactobacillus fermenti	Hamamelitannin	10	0.40169939398765564
+Lactobacillus fermenti	Lys-a1	11	0.3912150263786316
+Lactobacillus fermenti	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	12	0.37178921699523926
+Lactobacillus fermenti	Ceftazidime	13	0.3659324049949646
+Lactobacillus fermenti	Cinnamaldehyde	14	0.3611687421798706
+Lactobacillus fermenti	Toremifene	15	0.36064413189888
+Lactobacillus fermenti	Indole	16	0.3580678105354309
+Lactobacillus fermenti	Methanolic extract of chestnut honey	17	0.3558187484741211
+Lactobacillus fermenti	Farnesol	18	0.35183435678482056
+Lactobacillus fermenti	L-Aspartate	19	0.35084182024002075
+Lactobacillus fermenti	Norspermidine	20	0.33742666244506836
+Listeria ivanovii	Epigallocatechin Gallate	1	0.6273319125175476
+Listeria ivanovii	Stem extract of Acacia arabica	2	0.6044304370880127
+Listeria ivanovii	AHL lactonase	3	0.5670375227928162
+Listeria ivanovii	Curcumin	4	0.544219434261322
+Listeria ivanovii	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5266997218132019
+Listeria ivanovii	Bark extract of Tamarix aphylla L.	6	0.4637194573879242
+Listeria ivanovii	LL-37	7	0.44758787751197815
+Listeria ivanovii	Cinnamaldehyde	8	0.4077208936214447
+Listeria ivanovii	4-Methoxycarbonylphenylboronic acid	9	0.4070964455604553
+Listeria ivanovii	Farnesol	10	0.40470677614212036
+Listeria ivanovii	C6-HSL	11	0.39419299364089966
+Listeria ivanovii	N-Acetylcysteine	12	0.3930359482765198
+Listeria ivanovii	Vancomycin	13	0.3848716616630554
+Listeria ivanovii	IDR-1018	14	0.37414559721946716
+Listeria ivanovii	Lys-a1	15	0.3683995008468628
+Listeria ivanovii	BMAP-28	16	0.36576157808303833
+Listeria ivanovii	Betulin	17	0.3633308708667755
+Listeria ivanovii	Ceftazidime	18	0.35803014039993286
+Listeria ivanovii	Norspermidine	19	0.3567686378955841
+Listeria ivanovii	Pyrogallol	20	0.35302942991256714
+Listeria monocytogenes	Stem extract of Acacia arabica	1	0.6285958290100098
+Listeria monocytogenes	Betulin	2	0.6160382032394409
+Listeria monocytogenes	Patulin	3	0.6043498516082764
+Listeria monocytogenes	Salicylic acid	4	0.6014165282249451
+Listeria monocytogenes	G H12	5	0.6013599634170532
+Listeria monocytogenes	Limonene	6	0.5928966403007507
+Listeria monocytogenes	Epigallocatechin Gallate	7	0.5902642011642456
+Listeria monocytogenes	Farnesol	8	0.5900331735610962
+Listeria monocytogenes	C6-HSL	9	0.5874925851821899
+Listeria monocytogenes	DJK5	10	0.5864746570587158
+Listeria monocytogenes	Indole	11	0.5858563780784607
+Listeria monocytogenes	Zinc sulfate	12	0.5845140218734741
+Listeria monocytogenes	Myristic acid	13	0.583452045917511
+Listeria monocytogenes	Curcumin	14	0.5829364061355591
+Listeria monocytogenes	Amikacin	15	0.5811681151390076
+Listeria monocytogenes	Vancomycin	16	0.5780891180038452
+Listeria monocytogenes	Ciprofloxacin	17	0.5750033855438232
+Listeria monocytogenes	Terpinene-4-ol	18	0.5745951533317566
+Listeria monocytogenes	1-{2-[(E)-2-(4-hydroxy-3-methoxyphenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one	19	0.5739154815673828
+Listeria monocytogenes	DJK6	20	0.5732499957084656
+Marinobacter hydrocarbonoclasticus	Epigallocatechin Gallate	1	0.6473445892333984
+Marinobacter hydrocarbonoclasticus	Bark extract of Tamarix aphylla L.	2	0.5909601449966431
+Marinobacter hydrocarbonoclasticus	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5610858798027039
+Marinobacter hydrocarbonoclasticus	Curcumin	4	0.5504569411277771
+Marinobacter hydrocarbonoclasticus	Stem extract of Acacia arabica	5	0.5439857840538025
+Marinobacter hydrocarbonoclasticus	AHL lactonase	6	0.48674747347831726
+Marinobacter hydrocarbonoclasticus	LL-37	7	0.4225318729877472
+Marinobacter hydrocarbonoclasticus	C6-HSL	8	0.40929630398750305
+Marinobacter hydrocarbonoclasticus	Farnesol	9	0.40261703729629517
+Marinobacter hydrocarbonoclasticus	C4-HSL	10	0.3940480947494507
+Marinobacter hydrocarbonoclasticus	BMAP-28	11	0.3818749189376831
+Marinobacter hydrocarbonoclasticus	Hamamelitannin	12	0.3811759352684021
+Marinobacter hydrocarbonoclasticus	Limonene	13	0.36332494020462036
+Marinobacter hydrocarbonoclasticus	Cinnamaldehyde	14	0.3620222210884094
+Marinobacter hydrocarbonoclasticus	Pyrogallol	15	0.36165738105773926
+Marinobacter hydrocarbonoclasticus	Vancomycin	16	0.3557673394680023
+Marinobacter hydrocarbonoclasticus	Lys-a1	17	0.34998539090156555
+Marinobacter hydrocarbonoclasticus	Ciprofloxacin	18	0.34602048993110657
+Marinobacter hydrocarbonoclasticus	2-Nitro-cinnamaldehyde	19	0.34273087978363037
+Marinobacter hydrocarbonoclasticus	Betulin	20	0.34109950065612793
+Microbacterium laevaniformans	Epigallocatechin Gallate	1	0.6421908140182495
+Microbacterium laevaniformans	Curcumin	2	0.5406526923179626
+Microbacterium laevaniformans	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.4787670075893402
+Microbacterium laevaniformans	AHL lactonase	4	0.46227267384529114
+Microbacterium laevaniformans	Lys-a1	5	0.4557128846645355
+Microbacterium laevaniformans	C6-HSL	6	0.45261865854263306
+Microbacterium laevaniformans	LL-37	7	0.43828606605529785
+Microbacterium laevaniformans	Farnesol	8	0.4340481758117676
+Microbacterium laevaniformans	Pyrogallol	9	0.4287865161895752
+Microbacterium laevaniformans	C4-HSL	10	0.4208037257194519
+Microbacterium laevaniformans	Patulin	11	0.41005414724349976
+Microbacterium laevaniformans	Cinnamaldehyde	12	0.40952008962631226
+Microbacterium laevaniformans	4-Methoxycarbonylphenylboronic acid	13	0.4086029827594757
+Microbacterium laevaniformans	Indole	14	0.40132877230644226
+Microbacterium laevaniformans	Vancomycin	15	0.3992740213871002
+Microbacterium laevaniformans	G H12	16	0.39824432134628296
+Microbacterium laevaniformans	2-Nitro-cinnamaldehyde	17	0.38969314098358154
+Microbacterium laevaniformans	Betulin	18	0.3810764253139496
+Microbacterium laevaniformans	Norspermidine	19	0.3809509575366974
+Microbacterium laevaniformans	Limonene	20	0.37731483578681946
+Microbacterium oxydans	Epigallocatechin Gallate	1	0.5870552062988281
+Microbacterium oxydans	Curcumin	2	0.5389182567596436
+Microbacterium oxydans	AHL lactonase	3	0.5143628716468811
+Microbacterium oxydans	C6-HSL	4	0.5110076069831848
+Microbacterium oxydans	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5022227168083191
+Microbacterium oxydans	Farnesol	6	0.44052955508232117
+Microbacterium oxydans	Myristic acid	7	0.434892475605011
+Microbacterium oxydans	Cinnamaldehyde	8	0.4320412576198578
+Microbacterium oxydans	Betulin	9	0.42222392559051514
+Microbacterium oxydans	Methanolic extract of chestnut honey	10	0.4190674126148224
+Microbacterium oxydans	Hamamelitannin	11	0.41864293813705444
+Microbacterium oxydans	Indole	12	0.4164223372936249
+Microbacterium oxydans	LL-37	13	0.4073237180709839
+Microbacterium oxydans	Vancomycin	14	0.3992805480957031
+Microbacterium oxydans	4-Methoxycarbonylphenylboronic acid	15	0.3990659713745117
+Microbacterium oxydans	Toremifene	16	0.39524132013320923
+Microbacterium oxydans	Ceftazidime	17	0.38960373401641846
+Microbacterium oxydans	N-Acetylcysteine	18	0.38913917541503906
+Microbacterium oxydans	Lys-a1	19	0.3850148022174835
+Microbacterium oxydans	Limonene	20	0.3805588185787201
+Micrococcus luteus	Epigallocatechin Gallate	1	0.6280666589736938
+Micrococcus luteus	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.5899494886398315
+Micrococcus luteus	Bark extract of Tamarix aphylla L.	3	0.5859110355377197
+Micrococcus luteus	Cinnamaldehyde	4	0.5742509365081787
+Micrococcus luteus	Stem extract of Acacia arabica	5	0.5688547492027283
+Micrococcus luteus	Curcumin	6	0.5686078071594238
+Micrococcus luteus	Norspermidine	7	0.5577563047409058
+Micrococcus luteus	Betulin	8	0.5556303262710571
+Micrococcus luteus	Methanol extracts Thymus vulgaris	9	0.5487128496170044
+Micrococcus luteus	AHL lactonase	10	0.547198474407196
+Micrococcus luteus	C4-HSL	11	0.540585458278656
+Micrococcus luteus	Hinokitiol	12	0.5392754673957825
+Micrococcus luteus	Undecanoic acid	13	0.5365896821022034
+Micrococcus luteus	Hamamelitannin	14	0.5365374684333801
+Micrococcus luteus	Methanolic extract of chestnut honey	15	0.5350885391235352
+Micrococcus luteus	Ceftazidime	16	0.533139169216156
+Micrococcus luteus	L-Aspartate	17	0.5330522060394287
+Micrococcus luteus	Cloudberry KAS 444/3	18	0.531306803226471
+Micrococcus luteus	Myristic acid	19	0.5268413424491882
+Micrococcus luteus	Raspberry KAS 434	20	0.5256713032722473
+Mixed Culture of bacteria	Bark extract of Tamarix aphylla L.	1	0.6290897130966187
+Mixed Culture of bacteria	Epigallocatechin Gallate	2	0.619921088218689
+Mixed Culture of bacteria	Curcumin	3	0.5571536421775818
+Mixed Culture of bacteria	Stem extract of Acacia arabica	4	0.520927369594574
+Mixed Culture of bacteria	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.4538440406322479
+Mixed Culture of bacteria	AHL lactonase	6	0.44567859172821045
+Mixed Culture of bacteria	LL-37	7	0.38884246349334717
+Mixed Culture of bacteria	Cinnamaldehyde	8	0.3851486146450043
+Mixed Culture of bacteria	Indole	9	0.3833733797073364
+Mixed Culture of bacteria	Lys-a1	10	0.38113290071487427
+Mixed Culture of bacteria	C6-HSL	11	0.3733896315097809
+Mixed Culture of bacteria	Betulin	12	0.37108877301216125
+Mixed Culture of bacteria	Hamamelitannin	13	0.36907780170440674
+Mixed Culture of bacteria	Limonene	14	0.3527742028236389
+Mixed Culture of bacteria	Myristic acid	15	0.3477891683578491
+Mixed Culture of bacteria	G H12	16	0.34413689374923706
+Mixed Culture of bacteria	3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	17	0.34260353446006775
+Mixed Culture of bacteria	Farnesol	18	0.33890414237976074
+Mixed Culture of bacteria	2-Nitro-cinnamaldehyde	19	0.3321755528450012
+Mixed Culture of bacteria	Patulin	20	0.3279363214969635
+Mixed Culture of bacteria and fungus	Stem extract of Acacia arabica	1	0.5796948075294495
+Mixed Culture of bacteria and fungus	Curcumin	2	0.5509465336799622
+Mixed Culture of bacteria and fungus	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.539222776889801
+Mixed Culture of bacteria and fungus	Epigallocatechin Gallate	4	0.528367280960083
+Mixed Culture of bacteria and fungus	AHL lactonase	5	0.5159616470336914
+Mixed Culture of bacteria and fungus	Bark extract of Tamarix aphylla L.	6	0.5020535588264465
+Mixed Culture of bacteria and fungus	Cinnamaldehyde	7	0.45974960923194885
+Mixed Culture of bacteria and fungus	Farnesol	8	0.44744983315467834
+Mixed Culture of bacteria and fungus	Hamamelitannin	9	0.4341179132461548
+Mixed Culture of bacteria and fungus	N-Acetylcysteine	10	0.4326484501361847
+Mixed Culture of bacteria and fungus	LL-37	11	0.42998039722442627
+Mixed Culture of bacteria and fungus	C6-HSL	12	0.4299674332141876
+Mixed Culture of bacteria and fungus	Pyrogallol	13	0.4212885797023773
+Mixed Culture of bacteria and fungus	Toremifene	14	0.42126935720443726
+Mixed Culture of bacteria and fungus	Limonene	15	0.4188137352466583
+Mixed Culture of bacteria and fungus	Lys-a1	16	0.4179178774356842
+Mixed Culture of bacteria and fungus	C4-HSL	17	0.4146709442138672
+Mixed Culture of bacteria and fungus	Bacteriophage	18	0.4097477197647095
+Mixed Culture of bacteria and fungus	4-Methoxycarbonylphenylboronic acid	19	0.4077826142311096
+Mixed Culture of bacteria and fungus	Indole	20	0.399929940700531
+Morganella morganii	Epigallocatechin Gallate	1	0.6308928728103638
+Morganella morganii	Stem extract of Acacia arabica	2	0.596214771270752
+Morganella morganii	Bark extract of Tamarix aphylla L.	3	0.5612366795539856
+Morganella morganii	AHL lactonase	4	0.5410062670707703
+Morganella morganii	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5226468443870544
+Morganella morganii	Curcumin	6	0.5179611444473267
+Morganella morganii	Cinnamaldehyde	7	0.4868830740451813
+Morganella morganii	Lys-a1	8	0.4845353960990906
+Morganella morganii	Farnesol	9	0.4798886477947235
+Morganella morganii	N-Acetylcysteine	10	0.468244731426239
+Morganella morganii	Betulin	11	0.46330177783966064
+Morganella morganii	Vancomycin	12	0.46074727177619934
+Morganella morganii	Indole	13	0.45516592264175415
+Morganella morganii	Limonene	14	0.4520629346370697
+Morganella morganii	BMAP-28	15	0.45188310742378235
+Morganella morganii	C6-HSL	16	0.45160773396492004
+Morganella morganii	LL-37	17	0.45139193534851074
+Morganella morganii	Hamamelitannin	18	0.4503084421157837
+Morganella morganii	Myristic acid	19	0.44576483964920044
+Morganella morganii	Toremifene	20	0.44220855832099915
+Mycobacterium avium	Epigallocatechin Gallate	1	0.6310145854949951
+Mycobacterium avium	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.5731702446937561
+Mycobacterium avium	Stem extract of Acacia arabica	3	0.5623315572738647
+Mycobacterium avium	Curcumin	4	0.5622320771217346
+Mycobacterium avium	AHL lactonase	5	0.5549824237823486
+Mycobacterium avium	Bark extract of Tamarix aphylla L.	6	0.5413511991500854
+Mycobacterium avium	LL-37	7	0.5287767648696899
+Mycobacterium avium	Myristic acid	8	0.4669148921966553
+Mycobacterium avium	Farnesol	9	0.4662820100784302
+Mycobacterium avium	Bacteriophage	10	0.46559807658195496
+Mycobacterium avium	Norspermidine	11	0.4574603736400604
+Mycobacterium avium	Vancomycin	12	0.45608052611351013
+Mycobacterium avium	Cinnamaldehyde	13	0.4511287212371826
+Mycobacterium avium	Betulin	14	0.4504542052745819
+Mycobacterium avium	Indole	15	0.44765040278434753
+Mycobacterium avium	Pyrogallol	16	0.44092899560928345
+Mycobacterium avium	Hinokitiol	17	0.4406166076660156
+Mycobacterium avium	Limonene	18	0.43733397126197815
+Mycobacterium avium	Ceftazidime	19	0.43457022309303284
+Mycobacterium avium	L-Aspartate	20	0.434411883354187
+Mycobacterium smegmatis	Bark extract of Tamarix aphylla L.	1	0.570233166217804
+Mycobacterium smegmatis	Stem extract of Acacia arabica	2	0.5702316164970398
+Mycobacterium smegmatis	C6-HSL	3	0.5696700811386108
+Mycobacterium smegmatis	AHL lactonase	4	0.5544885993003845
+Mycobacterium smegmatis	Limonene	5	0.548799991607666
+Mycobacterium smegmatis	Curcumin	6	0.5428829193115234
+Mycobacterium smegmatis	Epigallocatechin Gallate	7	0.5378055572509766
+Mycobacterium smegmatis	Pyrogallol	8	0.5310608148574829
+Mycobacterium smegmatis	LL-37	9	0.5269577503204346
+Mycobacterium smegmatis	Norspermidine	10	0.5267765522003174
+Mycobacterium smegmatis	G H12	11	0.5252218842506409
+Mycobacterium smegmatis	Cinnamaldehyde	12	0.5185717940330505
+Mycobacterium smegmatis	Hamamelitannin	13	0.5097995400428772
+Mycobacterium smegmatis	Farnesol	14	0.5083452463150024
+Mycobacterium smegmatis	Ceftazidime	15	0.5075834393501282
+Mycobacterium smegmatis	Betulin	16	0.5060881972312927
+Mycobacterium smegmatis	Vancomycin	17	0.5052087306976318
+Mycobacterium smegmatis	Hexane extract of Hyptis suaveolens	18	0.5050937533378601
+Mycobacterium smegmatis	Ciprofloxacin	19	0.5007323026657104
+Mycobacterium smegmatis	Culture supernatant of Bacillus licheniformis sp. SP1	20	0.49346551299095154
+Obesumbacterium proteus	Epigallocatechin Gallate	1	0.6406278610229492
+Obesumbacterium proteus	Stem extract of Acacia arabica	2	0.6313722133636475
+Obesumbacterium proteus	Bark extract of Tamarix aphylla L.	3	0.6039800047874451
+Obesumbacterium proteus	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5974149107933044
+Obesumbacterium proteus	AHL lactonase	5	0.5637000799179077
+Obesumbacterium proteus	Curcumin	6	0.5562704205513
+Obesumbacterium proteus	LL-37	7	0.5268118977546692
+Obesumbacterium proteus	C4-HSL	8	0.5199298858642578
+Obesumbacterium proteus	C6-HSL	9	0.49740004539489746
+Obesumbacterium proteus	Hamamelitannin	10	0.4859492778778076
+Obesumbacterium proteus	Bacteriophage	11	0.48264792561531067
+Obesumbacterium proteus	N-Acetylcysteine	12	0.48194658756256104
+Obesumbacterium proteus	Lys-a1	13	0.48051947355270386
+Obesumbacterium proteus	Farnesol	14	0.47913745045661926
+Obesumbacterium proteus	Limonene	15	0.47674334049224854
+Obesumbacterium proteus	Vancomycin	16	0.4756157398223877
+Obesumbacterium proteus	Patulin	17	0.4720785319805145
+Obesumbacterium proteus	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	18	0.4709516763687134
+Obesumbacterium proteus	Norspermidine	19	0.4682653248310089
+Obesumbacterium proteus	Indole	20	0.4669514298439026
+Pantoea agglomerans	Stem extract of Acacia arabica	1	0.6113305687904358
+Pantoea agglomerans	Epigallocatechin Gallate	2	0.5569664239883423
+Pantoea agglomerans	Curcumin	3	0.5555621385574341
+Pantoea agglomerans	Bark extract of Tamarix aphylla L.	4	0.5419671535491943
+Pantoea agglomerans	AHL lactonase	5	0.4892573058605194
+Pantoea agglomerans	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.45975741744041443
+Pantoea agglomerans	C6-HSL	7	0.419671893119812
+Pantoea agglomerans	Lys-a1	8	0.4058398902416229
+Pantoea agglomerans	LL-37	9	0.40418338775634766
+Pantoea agglomerans	Cinnamaldehyde	10	0.38006511330604553
+Pantoea agglomerans	Toremifene	11	0.3782607913017273
+Pantoea agglomerans	Hamamelitannin	12	0.37546536326408386
+Pantoea agglomerans	Aqueous extract of chestnut honey	13	0.37266114354133606
+Pantoea agglomerans	Vancomycin	14	0.35470524430274963
+Pantoea agglomerans	4-Methoxycarbonylphenylboronic acid	15	0.35400837659835815
+Pantoea agglomerans	Farnesol	16	0.35306352376937866
+Pantoea agglomerans	Bacteriophage	17	0.352715402841568
+Pantoea agglomerans	Pyrogallol	18	0.3446553349494934
+Pantoea agglomerans	Methanolic extract of chestnut honey	19	0.34258371591567993
+Pantoea agglomerans	Norspermidine	20	0.3413808345794678
+Pichia anomala	Epigallocatechin Gallate	1	0.5990176796913147
+Pichia anomala	Hamamelitannin	2	0.5778663158416748
+Pichia anomala	Curcumin	3	0.5726217031478882
+Pichia anomala	Farnesol	4	0.5713582634925842
+Pichia anomala	Stem extract of Acacia arabica	5	0.5689976811408997
+Pichia anomala	Vancomycin	6	0.5581844449043274
+Pichia anomala	C6-HSL	7	0.5557641983032227
+Pichia anomala	Lys-a1	8	0.5518543720245361
+Pichia anomala	BMAP-28	9	0.5487998127937317
+Pichia anomala	Bark extract of Tamarix aphylla L.	10	0.5476940274238586
+Pichia anomala	N-Acetylcysteine	11	0.544021725654602
+Pichia anomala	Culture supernatant of Bacillus licheniformis sp. SP1	12	0.5407958030700684
+Pichia anomala	2-Nitro-cinnamaldehyde	13	0.5407165288925171
+Pichia anomala	LL-37	14	0.5388745069503784
+Pichia anomala	Toremifene	15	0.5379229187965393
+Pichia anomala	Cinnamaldehyde	16	0.5375347137451172
+Pichia anomala	Pyrogallol	17	0.5352850556373596
+Pichia anomala	C4-HSL	18	0.5337009429931641
+Pichia anomala	Myristic acid	19	0.5314093232154846
+Pichia anomala	Undecanoic acid	20	0.5172542333602905
+Porphyromonas gingivalis	Stem extract of Acacia arabica	1	0.6191763877868652
+Porphyromonas gingivalis	Epigallocatechin Gallate	2	0.5894045233726501
+Porphyromonas gingivalis	Toremifene	3	0.5722881555557251
+Porphyromonas gingivalis	LL-37	4	0.5706605911254883
+Porphyromonas gingivalis	4-Methoxycarbonylphenylboronic acid	5	0.5683622360229492
+Porphyromonas gingivalis	Farnesol	6	0.5677884817123413
+Porphyromonas gingivalis	Limonene	7	0.5677769184112549
+Porphyromonas gingivalis	IDR-1018	8	0.5664609670639038
+Porphyromonas gingivalis	Cefixime	9	0.5642926692962646
+Porphyromonas gingivalis	BMAP-28	10	0.5599178671836853
+Porphyromonas gingivalis	Ceftazidime	11	0.5585589408874512
+Porphyromonas gingivalis	Bark extract of Tamarix aphylla L.	12	0.5583267211914062
+Porphyromonas gingivalis	Curcumin	13	0.5532277822494507
+Porphyromonas gingivalis	Ethanol extracts of Thymus vulgaris	14	0.5527021884918213
+Porphyromonas gingivalis	Methanol extracts Thymus vulgaris	15	0.5486250519752502
+Porphyromonas gingivalis	Lys-a1	16	0.5401384234428406
+Porphyromonas gingivalis	Hinokitiol	17	0.5392753481864929
+Porphyromonas gingivalis	Norspermidine	18	0.5375277400016785
+Porphyromonas gingivalis	DispersinB-KSL-W wound gel	19	0.5373548865318298
+Porphyromonas gingivalis	Raspberry KAS 434	20	0.5371410250663757
+Prevotella melaninogenica	Epigallocatechin Gallate	1	0.6417845487594604
+Prevotella melaninogenica	Curcumin	2	0.5656159520149231
+Prevotella melaninogenica	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5290853381156921
+Prevotella melaninogenica	Stem extract of Acacia arabica	4	0.5235217809677124
+Prevotella melaninogenica	AHL lactonase	5	0.4953521192073822
+Prevotella melaninogenica	Bark extract of Tamarix aphylla L.	6	0.4892260730266571
+Prevotella melaninogenica	Hamamelitannin	7	0.3947814702987671
+Prevotella melaninogenica	Cinnamaldehyde	8	0.3877861499786377
+Prevotella melaninogenica	Lys-a1	9	0.3774324357509613
+Prevotella melaninogenica	Farnesol	10	0.3737366795539856
+Prevotella melaninogenica	C6-HSL	11	0.36783358454704285
+Prevotella melaninogenica	G H12	12	0.3673427999019623
+Prevotella melaninogenica	C4-HSL	13	0.3581293225288391
+Prevotella melaninogenica	LL-37	14	0.35784247517585754
+Prevotella melaninogenica	N-Acetylcysteine	15	0.3525007665157318
+Prevotella melaninogenica	Limonene	16	0.3500087559223175
+Prevotella melaninogenica	4-Methoxycarbonylphenylboronic acid	17	0.34999653697013855
+Prevotella melaninogenica	Betulin	18	0.3455708622932434
+Prevotella melaninogenica	Norspermidine	19	0.3452455401420593
+Prevotella melaninogenica	Pyrogallol	20	0.33936744928359985
+Propionibacterium acnes	Epigallocatechin Gallate	1	0.6145148873329163
+Propionibacterium acnes	G H12	2	0.5857861042022705
+Propionibacterium acnes	IDR-1018	3	0.575238823890686
+Propionibacterium acnes	Betulin	4	0.570367157459259
+Propionibacterium acnes	Lys-a1	5	0.5681466460227966
+Propionibacterium acnes	Farnesol	6	0.5676326751708984
+Propionibacterium acnes	Indole	7	0.5643090009689331
+Propionibacterium acnes	Curcumin	8	0.5605485439300537
+Propionibacterium acnes	Pyrogallol	9	0.5598072409629822
+Propionibacterium acnes	Hamamelitannin	10	0.5507252216339111
+Propionibacterium acnes	Limonene	11	0.5495128035545349
+Propionibacterium acnes	Ceftazidime	12	0.5447379946708679
+Propionibacterium acnes	Norspermidine	13	0.5419658422470093
+Propionibacterium acnes	Bark extract of Tamarix aphylla L.	14	0.5401290655136108
+Propionibacterium acnes	Bacteriophage	15	0.5380115509033203
+Propionibacterium acnes	Cefixime	16	0.5379517674446106
+Propionibacterium acnes	Toremifene	17	0.5379267334938049
+Propionibacterium acnes	Aqueous extract of chestnut honey	18	0.5375310778617859
+Propionibacterium acnes	Cinnamaldehyde	19	0.5370346307754517
+Propionibacterium acnes	3-(4-fluorophenyl)-5-(3-ethoxy- 4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	20	0.5301303267478943
+Proteus mirabilis	Stem extract of Acacia arabica	1	0.6496393084526062
+Proteus mirabilis	Farnesol	2	0.6262391209602356
+Proteus mirabilis	Epigallocatechin Gallate	3	0.6244076490402222
+Proteus mirabilis	4-Methoxycarbonylphenylboronic acid	4	0.5943818688392639
+Proteus mirabilis	C6-HSL	5	0.5941606163978577
+Proteus mirabilis	Indole	6	0.5926148891448975
+Proteus mirabilis	Ceftazidime	7	0.5910906791687012
+Proteus mirabilis	LL-37	8	0.5891556739807129
+Proteus mirabilis	Betulin	9	0.581053614616394
+Proteus mirabilis	Toremifene	10	0.577066957950592
+Proteus mirabilis	Methanolic extract of chestnut honey	11	0.5719078779220581
+Proteus mirabilis	Hinokitiol	12	0.5713536739349365
+Proteus mirabilis	Bark extract of Tamarix aphylla L.	13	0.5697554349899292
+Proteus mirabilis	Raspberry KAS 434	14	0.5642769932746887
+Proteus mirabilis	3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	15	0.5633388757705688
+Proteus mirabilis	Vancomycin	16	0.5579541325569153
+Proteus mirabilis	Norspermidine	17	0.5576790571212769
+Proteus mirabilis	Linalool	18	0.5565611720085144
+Proteus mirabilis	C4-HSL	19	0.5533994436264038
+Proteus mirabilis	G H12	20	0.5515701770782471
+Proteus vulgaris	Bark extract of Tamarix aphylla L.	1	0.596730649471283
+Proteus vulgaris	Epigallocatechin Gallate	2	0.5923964381217957
+Proteus vulgaris	AHL lactonase	3	0.5783707499504089
+Proteus vulgaris	Stem extract of Acacia arabica	4	0.5715022087097168
+Proteus vulgaris	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5654041171073914
+Proteus vulgaris	Hamamelitannin	6	0.5639429688453674
+Proteus vulgaris	Curcumin	7	0.5488459467887878
+Proteus vulgaris	Cefixime	8	0.5459595918655396
+Proteus vulgaris	Lys-a1	9	0.5432960391044617
+Proteus vulgaris	Indole	10	0.5418312549591064
+Proteus vulgaris	Patulin	11	0.5406004190444946
+Proteus vulgaris	LL-37	12	0.5398436784744263
+Proteus vulgaris	Toremifene	13	0.5381007790565491
+Proteus vulgaris	C6-HSL	14	0.5371597409248352
+Proteus vulgaris	IDR-1018	15	0.5344504117965698
+Proteus vulgaris	L-Aspartate	16	0.533828854560852
+Proteus vulgaris	Carvacrol	17	0.5284862518310547
+Proteus vulgaris	Cinnamaldehyde	18	0.5163608193397522
+Proteus vulgaris	Chestnut honey	19	0.5134694576263428
+Proteus vulgaris	Cloudberry KAS 444/3	20	0.5117751955986023
+Providencia stuartii	Epigallocatechin Gallate	1	0.604749858379364
+Providencia stuartii	AHL lactonase	2	0.5990262031555176
+Providencia stuartii	Stem extract of Acacia arabica	3	0.561797022819519
+Providencia stuartii	Curcumin	4	0.5549735426902771
+Providencia stuartii	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.538227915763855
+Providencia stuartii	Bark extract of Tamarix aphylla L.	6	0.5122246146202087
+Providencia stuartii	Betulin	7	0.49484753608703613
+Providencia stuartii	LL-37	8	0.4793808162212372
+Providencia stuartii	N-Acetylcysteine	9	0.4775325357913971
+Providencia stuartii	Hamamelitannin	10	0.47464603185653687
+Providencia stuartii	Vancomycin	11	0.4743853807449341
+Providencia stuartii	Farnesol	12	0.47293877601623535
+Providencia stuartii	BMAP-28	13	0.46080002188682556
+Providencia stuartii	Limonene	14	0.45854413509368896
+Providencia stuartii	Toremifene	15	0.45823827385902405
+Providencia stuartii	Cinnamaldehyde	16	0.45820364356040955
+Providencia stuartii	Methanolic extract of chestnut honey	17	0.44965726137161255
+Providencia stuartii	Hinokitiol	18	0.4486317038536072
+Providencia stuartii	C6-HSL	19	0.44265565276145935
+Providencia stuartii	4-Methoxycarbonylphenylboronic acid	20	0.4359171390533447
+Pseudoalteromonas sp.	Stem extract of Acacia arabica	1	0.6172086000442505
+Pseudoalteromonas sp.	Epigallocatechin Gallate	2	0.5993645787239075
+Pseudoalteromonas sp.	Curcumin	3	0.547732412815094
+Pseudoalteromonas sp.	AHL lactonase	4	0.5306522250175476
+Pseudoalteromonas sp.	Bark extract of Tamarix aphylla L.	5	0.529655396938324
+Pseudoalteromonas sp.	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.529181182384491
+Pseudoalteromonas sp.	Farnesol	7	0.4804886281490326
+Pseudoalteromonas sp.	Limonene	8	0.45333412289619446
+Pseudoalteromonas sp.	Lys-a1	9	0.43344569206237793
+Pseudoalteromonas sp.	LL-37	10	0.4312092363834381
+Pseudoalteromonas sp.	4-Methoxycarbonylphenylboronic acid	11	0.42005422711372375
+Pseudoalteromonas sp.	Ceftazidime	12	0.4143088757991791
+Pseudoalteromonas sp.	C6-HSL	13	0.41320520639419556
+Pseudoalteromonas sp.	2-Nitro-cinnamaldehyde	14	0.412592351436615
+Pseudoalteromonas sp.	Indole	15	0.4108907878398895
+Pseudoalteromonas sp.	Myristic acid	16	0.4084720015525818
+Pseudoalteromonas sp.	Cinnamaldehyde	17	0.4017173945903778
+Pseudoalteromonas sp.	Hamamelitannin	18	0.4006829559803009
+Pseudoalteromonas sp.	Patulin	19	0.3978291451931
+Pseudoalteromonas sp.	IDR-1018	20	0.39432477951049805
+Pseudomonas aeruginosa	Tyrosol	1	0.7847084403038025
+Pseudomonas aeruginosa	(2R)-2-amino-3-(thiophene-2-sulfinyl)propanoic acid	2	0.7750949859619141
+Pseudomonas aeruginosa	Pyrimidinedione	3	0.7710515260696411
+Pseudomonas aeruginosa	Hexane extract of Hyptis suaveolens	4	0.7709097266197205
+Pseudomonas aeruginosa	N-Acetylcysteine	5	0.7683064341545105
+Pseudomonas aeruginosa	Taurine	6	0.7645081281661987
+Pseudomonas aeruginosa	Farnesol	7	0.7637802958488464
+Pseudomonas aeruginosa	Carnitine hydrochloride	8	0.7617818117141724
+Pseudomonas aeruginosa	2-amino-3-(4-methylbenzenesulfinyl)propanoic acid	9	0.7609949707984924
+Pseudomonas aeruginosa	Lemon	10	0.7607272863388062
+Pseudomonas aeruginosa	Gallic Acid	11	0.7585384249687195
+Pseudomonas aeruginosa	6-(4-chlorophenyl)-1,3-dimethyl-5-[3-(4-methylphenyl)-1-phenyl-1H-pyrazol-4-yl]-1H,2H,3H,4H,5H,6H-pyrimido[4,5-d][1,3]diazine-2,4-dione	12	0.7489622235298157
+Pseudomonas aeruginosa	1,3-dimethyl-6-(4-methylphenyl)-5-[3-(4-nitrophenyl)-1-phenyl-1H-pyrazol-4-yl]-1H,2H,3H,4H,5H,6H-pyrimido[4,5-d][1,3]diazine-2,4-dione	13	0.7489060163497925
+Pseudomonas aeruginosa	Hinokitiol	14	0.7455936074256897
+Pseudomonas aeruginosa	(10S,11S)-Hydnocarpin D	15	0.7447589039802551
+Pseudomonas aeruginosa	Pine needle oil	16	0.7425655126571655
+Pseudomonas aeruginosa	(2R)-2-amino-3-[(4-chlorophenyl)methanesulfinyl]propanoic acid	17	0.7423964142799377
+Pseudomonas aeruginosa	Lactoferricin B	18	0.7418050765991211
+Pseudomonas aeruginosa	Quinupristin/dalfopristin	19	0.7404688596725464
+Pseudomonas aeruginosa	Myrtle oil	20	0.7404136657714844
+Pseudomonas chlororaphis	Epigallocatechin Gallate	1	0.603905200958252
+Pseudomonas chlororaphis	Bark extract of Tamarix aphylla L.	2	0.5837671756744385
+Pseudomonas chlororaphis	Curcumin	3	0.5538798570632935
+Pseudomonas chlororaphis	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5411491990089417
+Pseudomonas chlororaphis	AHL lactonase	5	0.538963794708252
+Pseudomonas chlororaphis	Stem extract of Acacia arabica	6	0.49457940459251404
+Pseudomonas chlororaphis	Farnesol	7	0.4606759250164032
+Pseudomonas chlororaphis	LL-37	8	0.4448789954185486
+Pseudomonas chlororaphis	Aqueous extract of chestnut honey	9	0.41652804613113403
+Pseudomonas chlororaphis	Hamamelitannin	10	0.4165126383304596
+Pseudomonas chlororaphis	Cinnamaldehyde	11	0.4140613377094269
+Pseudomonas chlororaphis	Vancomycin	12	0.4121525287628174
+Pseudomonas chlororaphis	Indole	13	0.4060267210006714
+Pseudomonas chlororaphis	Ceftazidime	14	0.4029180109500885
+Pseudomonas chlororaphis	Betulin	15	0.399606317281723
+Pseudomonas chlororaphis	Toremifene	16	0.39391911029815674
+Pseudomonas chlororaphis	G H12	17	0.3928796648979187
+Pseudomonas chlororaphis	Myristic acid	18	0.3878406882286072
+Pseudomonas chlororaphis	Methanolic extract of chestnut honey	19	0.38665908575057983
+Pseudomonas chlororaphis	4-Methoxycarbonylphenylboronic acid	20	0.38634052872657776
+Pseudomonas fluorescens	Farnesol	1	0.579442024230957
+Pseudomonas fluorescens	Stem extract of Acacia arabica	2	0.5781199336051941
+Pseudomonas fluorescens	Bark extract of Tamarix aphylla L.	3	0.5717929005622864
+Pseudomonas fluorescens	Limonene	4	0.5597938895225525
+Pseudomonas fluorescens	LL-37	5	0.5559222102165222
+Pseudomonas fluorescens	Hamamelitannin	6	0.548488438129425
+Pseudomonas fluorescens	Curcumin	7	0.5464337468147278
+Pseudomonas fluorescens	Epigallocatechin Gallate	8	0.5451878309249878
+Pseudomonas fluorescens	Hinokitiol	9	0.539082944393158
+Pseudomonas fluorescens	C6-HSL	10	0.5378982424736023
+Pseudomonas fluorescens	Indole	11	0.5360912680625916
+Pseudomonas fluorescens	N-Acetylcysteine	12	0.5355610251426697
+Pseudomonas fluorescens	Myristic acid	13	0.5351921916007996
+Pseudomonas fluorescens	BMAP-28	14	0.5253899097442627
+Pseudomonas fluorescens	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	15	0.5244623422622681
+Pseudomonas fluorescens	Cinnamaldehyde	16	0.5186031460762024
+Pseudomonas fluorescens	Betulin	17	0.5131328701972961
+Pseudomonas fluorescens	Toremifene	18	0.5092271566390991
+Pseudomonas fluorescens	AHL lactonase	19	0.5087160468101501
+Pseudomonas fluorescens	4-Methoxycarbonylphenylboronic acid	20	0.5065269470214844
+Pseudomonas japonica	Stem extract of Acacia arabica	1	0.5493322014808655
+Pseudomonas japonica	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.5387271642684937
+Pseudomonas japonica	Bark extract of Tamarix aphylla L.	3	0.5340241193771362
+Pseudomonas japonica	AHL lactonase	4	0.5133596658706665
+Pseudomonas japonica	C6-HSL	5	0.43424394726753235
+Pseudomonas japonica	Farnesol	6	0.41804859042167664
+Pseudomonas japonica	Vancomycin	7	0.41281557083129883
+Pseudomonas japonica	Pyrogallol	8	0.40906599164009094
+Pseudomonas japonica	N-Acetylcysteine	9	0.40708497166633606
+Pseudomonas japonica	LL-37	10	0.4003942310810089
+Pseudomonas japonica	Toremifene	11	0.4000862240791321
+Pseudomonas japonica	Hamamelitannin	12	0.3936181664466858
+Pseudomonas japonica	Lys-a1	13	0.3919772505760193
+Pseudomonas japonica	Indole	14	0.39135053753852844
+Pseudomonas japonica	4-Methoxycarbonylphenylboronic acid	15	0.3866521120071411
+Pseudomonas japonica	Cinnamaldehyde	16	0.381377249956131
+Pseudomonas japonica	Patulin	17	0.3801245391368866
+Pseudomonas japonica	Norspermidine	18	0.3699866831302643
+Pseudomonas japonica	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	19	0.3666103184223175
+Pseudomonas japonica	Betulin	20	0.3641586899757385
+Pseudomonas libaniensis	Epigallocatechin Gallate	1	0.6161623597145081
+Pseudomonas libaniensis	Stem extract of Acacia arabica	2	0.5753617286682129
+Pseudomonas libaniensis	Curcumin	3	0.572525680065155
+Pseudomonas libaniensis	LL-37	4	0.5208685994148254
+Pseudomonas libaniensis	AHL lactonase	5	0.5200183987617493
+Pseudomonas libaniensis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.519331157207489
+Pseudomonas libaniensis	Bark extract of Tamarix aphylla L.	7	0.5115209221839905
+Pseudomonas libaniensis	Hamamelitannin	8	0.5057665109634399
+Pseudomonas libaniensis	Farnesol	9	0.49742498993873596
+Pseudomonas libaniensis	Toremifene	10	0.49678364396095276
+Pseudomonas libaniensis	Cinnamaldehyde	11	0.49425455927848816
+Pseudomonas libaniensis	C4-HSL	12	0.48166194558143616
+Pseudomonas libaniensis	BMAP-28	13	0.47939977049827576
+Pseudomonas libaniensis	Bacteriocin	14	0.4750887453556061
+Pseudomonas libaniensis	Aqueous extract of chestnut honey	15	0.47504010796546936
+Pseudomonas libaniensis	Lys-a1	16	0.4749777019023895
+Pseudomonas libaniensis	C6-HSL	17	0.4711764454841614
+Pseudomonas libaniensis	4-Methoxycarbonylphenylboronic acid	18	0.4695754051208496
+Pseudomonas libaniensis	Myristic acid	19	0.46336767077445984
+Pseudomonas libaniensis	Pyrogallol	20	0.46005430817604065
+Pseudomonas putida	AHL lactonase	1	0.6016822457313538
+Pseudomonas putida	Epigallocatechin Gallate	2	0.5727767944335938
+Pseudomonas putida	Stem extract of Acacia arabica	3	0.5593175888061523
+Pseudomonas putida	Curcumin	4	0.5578364729881287
+Pseudomonas putida	Toremifene	5	0.556909441947937
+Pseudomonas putida	Ceftazidime	6	0.5450334548950195
+Pseudomonas putida	Patulin	7	0.5425850749015808
+Pseudomonas putida	Culture supernatant of Bacillus licheniformis sp. SP1	8	0.5420987010002136
+Pseudomonas putida	LL-37	9	0.5399872064590454
+Pseudomonas putida	Hamamelitannin	10	0.5326281785964966
+Pseudomonas putida	Vancomycin	11	0.5324976444244385
+Pseudomonas putida	4-Methoxycarbonylphenylboronic acid	12	0.5215855836868286
+Pseudomonas putida	Hinokitiol	13	0.5196369290351868
+Pseudomonas putida	Bark extract of Tamarix aphylla L.	14	0.518018364906311
+Pseudomonas putida	Indole	15	0.517573893070221
+Pseudomonas putida	Betulin	16	0.5155828595161438
+Pseudomonas putida	Ciprofloxacin	17	0.5140222311019897
+Pseudomonas putida	Farnesol	18	0.5114355087280273
+Pseudomonas putida	Bacteriophage	19	0.5090171098709106
+Pseudomonas putida	2-Nitro-cinnamaldehyde	20	0.5089021921157837
+Raoultella ornithinolytica	Bark extract of Tamarix aphylla L.	1	0.5819637179374695
+Raoultella ornithinolytica	Stem extract of Acacia arabica	2	0.5633152723312378
+Raoultella ornithinolytica	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5221973061561584
+Raoultella ornithinolytica	Farnesol	4	0.45069465041160583
+Raoultella ornithinolytica	AHL lactonase	5	0.44395962357521057
+Raoultella ornithinolytica	C6-HSL	6	0.43473556637763977
+Raoultella ornithinolytica	Pyrogallol	7	0.4208766520023346
+Raoultella ornithinolytica	Betulin	8	0.4143502116203308
+Raoultella ornithinolytica	BMAP-28	9	0.4023997485637665
+Raoultella ornithinolytica	Hamamelitannin	10	0.3994995355606079
+Raoultella ornithinolytica	N-Acetylcysteine	11	0.39869558811187744
+Raoultella ornithinolytica	Ceftazidime	12	0.39161068201065063
+Raoultella ornithinolytica	Indole	13	0.39130890369415283
+Raoultella ornithinolytica	Cinnamaldehyde	14	0.39081907272338867
+Raoultella ornithinolytica	Lys-a1	15	0.39006736874580383
+Raoultella ornithinolytica	LL-37	16	0.389715313911438
+Raoultella ornithinolytica	Phenanthrene	17	0.3834192752838135
+Raoultella ornithinolytica	Ciprofloxacin	18	0.36833658814430237
+Raoultella ornithinolytica	Chestnut honey	19	0.3602569103240967
+Raoultella ornithinolytica	Vancomycin	20	0.35998040437698364
+Salmonella enterica	N-Acetylcysteine	1	0.641213059425354
+Salmonella enterica	Bark extract of Tamarix aphylla L.	2	0.6279083490371704
+Salmonella enterica	Farnesol	3	0.6274632215499878
+Salmonella enterica	Vancomycin	4	0.6253748536109924
+Salmonella enterica	Toremifene	5	0.6236631274223328
+Salmonella enterica	Norspermidine	6	0.6217364072799683
+Salmonella enterica	Ciprofloxacin	7	0.620683491230011
+Salmonella enterica	Cloudberry KAS 444/3	8	0.6188346147537231
+Salmonella enterica	Hexane extract of Hyptis suaveolens	9	0.6181023120880127
+Salmonella enterica	C6-HSL	10	0.6084898114204407
+Salmonella enterica	G H12	11	0.5984572172164917
+Salmonella enterica	2-Nitro-cinnamaldehyde	12	0.5984359979629517
+Salmonella enterica	AHL lactonase	13	0.5931312441825867
+Salmonella enterica	(2E)-1-(3 -methoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	14	0.592518150806427
+Salmonella enterica	3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	15	0.5908829569816589
+Salmonella enterica	Zinc sulfate	16	0.5907409191131592
+Salmonella enterica	Myristic acid	17	0.589543879032135
+Salmonella enterica	Ceftazidime	18	0.5883855223655701
+Salmonella enterica	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	19	0.5869980454444885
+Salmonella enterica	LL-37	20	0.5868852734565735
+Salmonella Typhi	Bark extract of Tamarix aphylla L.	1	0.6145609617233276
+Salmonella Typhi	Epigallocatechin Gallate	2	0.6014923453330994
+Salmonella Typhi	Stem extract of Acacia arabica	3	0.5714375376701355
+Salmonella Typhi	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5503467321395874
+Salmonella Typhi	Curcumin	5	0.5483235120773315
+Salmonella Typhi	AHL lactonase	6	0.46183839440345764
+Salmonella Typhi	Farnesol	7	0.4281461834907532
+Salmonella Typhi	Cinnamaldehyde	8	0.40826255083084106
+Salmonella Typhi	Indole	9	0.3900066614151001
+Salmonella Typhi	Limonene	10	0.3879232108592987
+Salmonella Typhi	C6-HSL	11	0.3859761953353882
+Salmonella Typhi	Betulin	12	0.38251951336860657
+Salmonella Typhi	Lys-a1	13	0.38054484128952026
+Salmonella Typhi	IDR-1018	14	0.3745420575141907
+Salmonella Typhi	N-Acetylcysteine	15	0.373308002948761
+Salmonella Typhi	BMAP-28	16	0.36951035261154175
+Salmonella Typhi	G H12	17	0.3679952025413513
+Salmonella Typhi	Ciprofloxacin	18	0.35795655846595764
+Salmonella Typhi	L-Aspartate	19	0.35606494545936584
+Salmonella Typhi	Norspermidine	20	0.35444560647010803
+Serratia liquefaciens	Epigallocatechin Gallate	1	0.6420178413391113
+Serratia liquefaciens	Bark extract of Tamarix aphylla L.	2	0.562971293926239
+Serratia liquefaciens	Curcumin	3	0.5577837824821472
+Serratia liquefaciens	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.556545615196228
+Serratia liquefaciens	AHL lactonase	5	0.5458770394325256
+Serratia liquefaciens	Stem extract of Acacia arabica	6	0.5392420291900635
+Serratia liquefaciens	Lys-a1	7	0.526275098323822
+Serratia liquefaciens	Farnesol	8	0.5177538990974426
+Serratia liquefaciens	G H12	9	0.5146329402923584
+Serratia liquefaciens	Hamamelitannin	10	0.5034757852554321
+Serratia liquefaciens	Norspermidine	11	0.49682289361953735
+Serratia liquefaciens	Ceftazidime	12	0.49371063709259033
+Serratia liquefaciens	Toremifene	13	0.4914054870605469
+Serratia liquefaciens	Myristic acid	14	0.4895172119140625
+Serratia liquefaciens	Vancomycin	15	0.4858754277229309
+Serratia liquefaciens	Betulin	16	0.4810654819011688
+Serratia liquefaciens	Bacteriophage	17	0.47776177525520325
+Serratia liquefaciens	Indole	18	0.4733635485172272
+Serratia liquefaciens	4-Methoxycarbonylphenylboronic acid	19	0.4729915261268616
+Serratia liquefaciens	L-Aspartate	20	0.47131291031837463
+Serratia marcescens	Toremifene	1	0.6209503412246704
+Serratia marcescens	LL-37	2	0.6160705089569092
+Serratia marcescens	N-Acetylcysteine	3	0.6142827272415161
+Serratia marcescens	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.6007992625236511
+Serratia marcescens	G H12	5	0.6003879904747009
+Serratia marcescens	Bark extract of Tamarix aphylla L.	6	0.6001901030540466
+Serratia marcescens	IDR-1018	7	0.599255383014679
+Serratia marcescens	Salicylic acid	8	0.5991988778114319
+Serratia marcescens	Raspberry KAS 434	9	0.5980013012886047
+Serratia marcescens	Ceftazidime	10	0.5969333648681641
+Serratia marcescens	Ciprofloxacin	11	0.5961361527442932
+Serratia marcescens	4-Methoxycarbonylphenylboronic acid	12	0.591452956199646
+Serratia marcescens	1-{2-[(E)-2-(4-methoxyphenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one	13	0.59030681848526
+Serratia marcescens	L-Aspartate	14	0.5866321325302124
+Serratia marcescens	C6-HSL	15	0.5844712853431702
+Serratia marcescens	Cefixime	16	0.5843811631202698
+Serratia marcescens	Penicillic acid	17	0.583243727684021
+Serratia marcescens	Stem extract of Acacia arabica	18	0.5790503025054932
+Serratia marcescens	Lys-a1	19	0.5763341188430786
+Serratia marcescens	Hamamelitannin	20	0.5760048627853394
+Serratia plymuthica	Epigallocatechin Gallate	1	0.6022046804428101
+Serratia plymuthica	Stem extract of Acacia arabica	2	0.5930852890014648
+Serratia plymuthica	Bark extract of Tamarix aphylla L.	3	0.5833306908607483
+Serratia plymuthica	Curcumin	4	0.5274307727813721
+Serratia plymuthica	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.4428595304489136
+Serratia plymuthica	LL-37	6	0.4006158113479614
+Serratia plymuthica	Ceftazidime	7	0.39068344235420227
+Serratia plymuthica	C6-HSL	8	0.3857906460762024
+Serratia plymuthica	Lys-a1	9	0.3816421627998352
+Serratia plymuthica	BMAP-28	10	0.3781680464744568
+Serratia plymuthica	Betulin	11	0.3732692301273346
+Serratia plymuthica	Cinnamaldehyde	12	0.3619728684425354
+Serratia plymuthica	Hamamelitannin	13	0.3556593954563141
+Serratia plymuthica	Limonene	14	0.35125163197517395
+Serratia plymuthica	Chestnut honey	15	0.3496025800704956
+Serratia plymuthica	Toremifene	16	0.347800612449646
+Serratia plymuthica	Vancomycin	17	0.3391813039779663
+Serratia plymuthica	Indole	18	0.3385488986968994
+Serratia plymuthica	Myristic acid	19	0.33724868297576904
+Serratia plymuthica	IDR-1018	20	0.3311675488948822
+Shewanella baltica	Bark extract of Tamarix aphylla L.	1	0.6269316673278809
+Shewanella baltica	Epigallocatechin Gallate	2	0.581824541091919
+Shewanella baltica	Curcumin	3	0.547417402267456
+Shewanella baltica	Stem extract of Acacia arabica	4	0.530857503414154
+Shewanella baltica	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5277236700057983
+Shewanella baltica	AHL lactonase	6	0.4584721326828003
+Shewanella baltica	Cinnamaldehyde	7	0.4550013244152069
+Shewanella baltica	Indole	8	0.4450950622558594
+Shewanella baltica	Hamamelitannin	9	0.4365728795528412
+Shewanella baltica	Farnesol	10	0.4330103397369385
+Shewanella baltica	Limonene	11	0.422647088766098
+Shewanella baltica	Pyrogallol	12	0.42226913571357727
+Shewanella baltica	Lys-a1	13	0.41696712374687195
+Shewanella baltica	LL-37	14	0.41548532247543335
+Shewanella baltica	Betulin	15	0.4133995473384857
+Shewanella baltica	N-Acetylcysteine	16	0.412080854177475
+Shewanella baltica	Vancomycin	17	0.3985083997249603
+Shewanella baltica	Hinokitiol	18	0.397576242685318
+Shewanella baltica	G H12	19	0.3956737518310547
+Shewanella baltica	Norspermidine	20	0.38380637764930725
+Shigella sonneii	Epigallocatechin Gallate	1	0.6365739107131958
+Shigella sonneii	Curcumin	2	0.5313219428062439
+Shigella sonneii	Bark extract of Tamarix aphylla L.	3	0.48719465732574463
+Shigella sonneii	Stem extract of Acacia arabica	4	0.4705539047718048
+Shigella sonneii	AHL lactonase	5	0.4054017961025238
+Shigella sonneii	LL-37	6	0.3991222679615021
+Shigella sonneii	4-Methoxycarbonylphenylboronic acid	7	0.3950870633125305
+Shigella sonneii	C6-HSL	8	0.3746699392795563
+Shigella sonneii	Limonene	9	0.37027642130851746
+Shigella sonneii	Indole	10	0.3691319525241852
+Shigella sonneii	Farnesol	11	0.3668135106563568
+Shigella sonneii	Cefixime	12	0.3531789183616638
+Shigella sonneii	IDR-1018	13	0.34994637966156006
+Shigella sonneii	Bacteriophage	14	0.34544283151626587
+Shigella sonneii	Hamamelitannin	15	0.3454262316226959
+Shigella sonneii	G H12	16	0.3430560529232025
+Shigella sonneii	Pyrogallol	17	0.33919334411621094
+Shigella sonneii	BMAP-28	18	0.326743483543396
+Shigella sonneii	N-Acetylcysteine	19	0.32671889662742615
+Shigella sonneii	Ciprofloxacin	20	0.3260388970375061
+Staphylococcus aureus	Hexane extract of Hyptis suaveolens	1	0.7874444723129272
+Staphylococcus aureus	(2R)-2-amino-3-(benzenesulfinyl)propanoic acid	2	0.7769570350646973
+Staphylococcus aureus	Tannic acid	3	0.7722106575965881
+Staphylococcus aureus	Djenkolic acid	4	0.7690243124961853
+Staphylococcus aureus	alpha-pinene	5	0.7677621841430664
+Staphylococcus aureus	Cloudberry KAS 444/3	6	0.7646570801734924
+Staphylococcus aureus	Zinc nanostructures	7	0.7626092433929443
+Staphylococcus aureus	CSP-C16	8	0.7612046599388123
+Staphylococcus aureus	Catechin	9	0.7600245475769043
+Staphylococcus aureus	Carnitine hydrochloride	10	0.7582897543907166
+Staphylococcus aureus	OSIP108	11	0.7576047778129578
+Staphylococcus aureus	Peptide 1037	12	0.7568098902702332
+Staphylococcus aureus	Esculetin	13	0.7562963962554932
+Staphylococcus aureus	G H12	14	0.7555654644966125
+Staphylococcus aureus	Diphenyl disulphide	15	0.7549957036972046
+Staphylococcus aureus	Phenanthrene	16	0.7529860734939575
+Staphylococcus aureus	Aerial part extract of Monochaetum vulcanicum Cogn.	17	0.752005934715271
+Staphylococcus aureus	Bacteriophage	18	0.7487853169441223
+Staphylococcus aureus	Methanol extracts of burdock roots	19	0.7466834783554077
+Staphylococcus aureus	Lactoferricin B	20	0.7449931502342224
+Staphylococcus capitis	Stem extract of Acacia arabica	1	0.5836127996444702
+Staphylococcus capitis	Epigallocatechin Gallate	2	0.5677674412727356
+Staphylococcus capitis	Curcumin	3	0.5628101825714111
+Staphylococcus capitis	AHL lactonase	4	0.5614640116691589
+Staphylococcus capitis	Bark extract of Tamarix aphylla L.	5	0.5514353513717651
+Staphylococcus capitis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.5197659134864807
+Staphylococcus capitis	C6-HSL	7	0.45899972319602966
+Staphylococcus capitis	Cinnamaldehyde	8	0.45123612880706787
+Staphylococcus capitis	LL-37	9	0.4468705356121063
+Staphylococcus capitis	IDR-1018	10	0.42383694648742676
+Staphylococcus capitis	Farnesol	11	0.4147006869316101
+Staphylococcus capitis	Lys-a1	12	0.4074704051017761
+Staphylococcus capitis	4-Methoxycarbonylphenylboronic acid	13	0.4073239266872406
+Staphylococcus capitis	Indole	14	0.40224790573120117
+Staphylococcus capitis	Limonene	15	0.4011792242527008
+Staphylococcus capitis	Aqueous extract of chestnut honey	16	0.39822787046432495
+Staphylococcus capitis	BMAP-28	17	0.3958677053451538
+Staphylococcus capitis	Betulin	18	0.3954421579837799
+Staphylococcus capitis	Myristic acid	19	0.3948851525783539
+Staphylococcus capitis	Ciprofloxacin	20	0.3940871059894562
+Staphylococcus caprae	Epigallocatechin Gallate	1	0.636603593826294
+Staphylococcus caprae	Stem extract of Acacia arabica	2	0.5728357434272766
+Staphylococcus caprae	Curcumin	3	0.5547373294830322
+Staphylococcus caprae	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5453968048095703
+Staphylococcus caprae	Bark extract of Tamarix aphylla L.	5	0.5440441370010376
+Staphylococcus caprae	AHL lactonase	6	0.45886918902397156
+Staphylococcus caprae	LL-37	7	0.45800936222076416
+Staphylococcus caprae	Farnesol	8	0.45356449484825134
+Staphylococcus caprae	C6-HSL	9	0.4284394681453705
+Staphylococcus caprae	4-Methoxycarbonylphenylboronic acid	10	0.42449119687080383
+Staphylococcus caprae	Limonene	11	0.42317432165145874
+Staphylococcus caprae	Lys-a1	12	0.41565820574760437
+Staphylococcus caprae	Methanolic extract of chestnut honey	13	0.3979390561580658
+Staphylococcus caprae	Norspermidine	14	0.3945407569408417
+Staphylococcus caprae	Cinnamaldehyde	15	0.3880241811275482
+Staphylococcus caprae	Patulin	16	0.3876567482948303
+Staphylococcus caprae	Indole	17	0.38709449768066406
+Staphylococcus caprae	Hinokitiol	18	0.38626277446746826
+Staphylococcus caprae	C4-HSL	19	0.37487414479255676
+Staphylococcus caprae	Betulin	20	0.37245628237724304
+Staphylococcus chromogenes	Stem extract of Acacia arabica	1	0.6080024242401123
+Staphylococcus chromogenes	Curcumin	2	0.560309112071991
+Staphylococcus chromogenes	Epigallocatechin Gallate	3	0.5445632934570312
+Staphylococcus chromogenes	Bark extract of Tamarix aphylla L.	4	0.5390118360519409
+Staphylococcus chromogenes	AHL lactonase	5	0.5378201007843018
+Staphylococcus chromogenes	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.51708984375
+Staphylococcus chromogenes	BMAP-28	7	0.49080079793930054
+Staphylococcus chromogenes	LL-37	8	0.48448580503463745
+Staphylococcus chromogenes	Farnesol	9	0.4791509211063385
+Staphylococcus chromogenes	Lys-a1	10	0.46748343110084534
+Staphylococcus chromogenes	C6-HSL	11	0.4664304554462433
+Staphylococcus chromogenes	G H12	12	0.45980021357536316
+Staphylococcus chromogenes	Betulin	13	0.4597650468349457
+Staphylococcus chromogenes	4-Methoxycarbonylphenylboronic acid	14	0.45441263914108276
+Staphylococcus chromogenes	Pyrogallol	15	0.45078229904174805
+Staphylococcus chromogenes	Bacteriophage	16	0.4478626847267151
+Staphylococcus chromogenes	Norspermidine	17	0.4459160268306732
+Staphylococcus chromogenes	Toremifene	18	0.4448752999305725
+Staphylococcus chromogenes	Limonene	19	0.44062724709510803
+Staphylococcus chromogenes	Ciprofloxacin	20	0.437688410282135
+Staphylococcus cohnii	Bark extract of Tamarix aphylla L.	1	0.5858811140060425
+Staphylococcus cohnii	Curcumin	2	0.5687627792358398
+Staphylococcus cohnii	Stem extract of Acacia arabica	3	0.5584264993667603
+Staphylococcus cohnii	Epigallocatechin Gallate	4	0.5503976345062256
+Staphylococcus cohnii	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5080073475837708
+Staphylococcus cohnii	AHL lactonase	6	0.47861945629119873
+Staphylococcus cohnii	Betulin	7	0.4444916248321533
+Staphylococcus cohnii	Patulin	8	0.42425069212913513
+Staphylococcus cohnii	LL-37	9	0.4213268458843231
+Staphylococcus cohnii	N-Acetylcysteine	10	0.409074068069458
+Staphylococcus cohnii	Pyrogallol	11	0.40807512402534485
+Staphylococcus cohnii	Toremifene	12	0.4005560278892517
+Staphylococcus cohnii	4-Methoxycarbonylphenylboronic acid	13	0.3976208567619324
+Staphylococcus cohnii	C6-HSL	14	0.3850243091583252
+Staphylococcus cohnii	BMAP-28	15	0.3847042918205261
+Staphylococcus cohnii	G H12	16	0.3835521340370178
+Staphylococcus cohnii	Farnesol	17	0.378791868686676
+Staphylococcus cohnii	Ceftazidime	18	0.3777788579463959
+Staphylococcus cohnii	Lys-a1	19	0.3775981068611145
+Staphylococcus cohnii	Aqueous extract of chestnut honey	20	0.37386173009872437
+Staphylococcus epidermidis	3-Methyl-D-phenylalanine	1	0.7236517667770386
+Staphylococcus epidermidis	3-Amino-4-(2,4-difluorophenyl)-2-butanone	2	0.7228564620018005
+Staphylococcus epidermidis	2-Carbamoylphenylalanine	3	0.7214761972427368
+Staphylococcus epidermidis	epsilon-viniferin	4	0.7205930948257446
+Staphylococcus epidermidis	R-FV-I16	5	0.7171753644943237
+Staphylococcus epidermidis	3-Fluoro-DL-phenylalanine	6	0.7171230316162109
+Staphylococcus epidermidis	3,5-Diiodotyrosine	7	0.7134819030761719
+Staphylococcus epidermidis	3-(2-Furyl)-D-alanine	8	0.7129542827606201
+Staphylococcus epidermidis	n-Methyl-D-valine	9	0.7126128673553467
+Staphylococcus epidermidis	1-(2-Chloroacetyl)-5-methylindoline-2,3-dione	10	0.7114749550819397
+Staphylococcus epidermidis	4-Methylphenylalanine	11	0.711151123046875
+Staphylococcus epidermidis	Palmitic acid	12	0.7085993885993958
+Staphylococcus epidermidis	13-(2-chloroquinolin-3-yl)-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione	13	0.7082930207252502
+Staphylococcus epidermidis	2-amino-5-methoxy-5-oxopentanoic acid	14	0.7073060870170593
+Staphylococcus epidermidis	Phytochemical of Carex dimorpholepis	15	0.706853985786438
+Staphylococcus epidermidis	D-Tyrosine	16	0.706554651260376
+Staphylococcus epidermidis	D-Aspartic acid	17	0.7058879137039185
+Staphylococcus epidermidis	D-Cystine	18	0.7058878540992737
+Staphylococcus epidermidis	13-{8-methoxy-[1,2,3,4]tetrazolo[1,5-a]quinolin-4-yl}-3,3-dimethyl-1H,2H,3H,4H,6H,11H,13H-indazolo[1,2-b]phthalazine-1,6,11-trione	19	0.7033596038818359
+Staphylococcus epidermidis	3-(2-Thienyl)alanine	20	0.7030606269836426
+Staphylococcus epidermis	N-(4-Bromobenzylidene)benzohydrazide	1	0.7338160872459412
+Staphylococcus epidermis	1-[2-(naphthalen-1-yl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	2	0.732974112033844
+Staphylococcus epidermis	(2E)-1-(3 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	3	0.7271524667739868
+Staphylococcus epidermis	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one	4	0.7264200448989868
+Staphylococcus epidermis	(2E)-1-(2 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	5	0.724087119102478
+Staphylococcus epidermis	(2E)-1-(1,3-benzodioxol-5-yl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one	6	0.7240259051322937
+Staphylococcus epidermis	Hexyl gallate	7	0.7235558032989502
+Staphylococcus epidermis	(2E)-1-(5-clorotiophen-2-yl)-3-(3-methoxy-4-benzyloxi-phenyl)-2-propen-1-one	8	0.7219200730323792
+Staphylococcus epidermis	Ethyl gallate	9	0.7212386131286621
+Staphylococcus epidermis	N -(3-nitro-4-hydroxy-benzylidene)benzohydrazide	10	0.7205604314804077
+Staphylococcus epidermis	Methyl gallate	11	0.7197781205177307
+Staphylococcus epidermis	1-[2-(3,5-dichlorophenyl)-5-(3,4,5-trimethoxyphenyl)-1,3,4-oxadiazol-3(2H)-yl]ethanone	12	0.7189092636108398
+Staphylococcus epidermis	Butyl gallate	13	0.7160747051239014
+Staphylococcus epidermis	(2E)-1-[4 -(1H-imidazol-1-yl)phenyl]-3-(2-naphthyl)-2-propen-1-one	14	0.7117172479629517
+Staphylococcus epidermis	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	15	0.711342453956604
+Staphylococcus epidermis	(2E)-1-(1 ,3 -benzodioxol-5-yl)-3-(2-naphthyl)-2-propen-1-one	16	0.7088260054588318
+Staphylococcus epidermis	Dichloromethane fraction of Equisetum hyemale	17	0.7067369222640991
+Staphylococcus epidermis	(2E)-1-(2 ,5 -dimethoxyphenyl)-3-[2,5-dimethyl-1-(3-trifluoromethyl-phenyl)-1H-pirrol-3-yl]-2-propen-1-one	18	0.705183207988739
+Staphylococcus epidermis	(2E)-1-(2 ,4 ,5 -trimethoxyphenyl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one	19	0.704626739025116
+Staphylococcus epidermis	(2E)-N -(2 -hydroxy-5 -bromo-benzilidene)-3,4,5-trimethoxybenzohydrazide	20	0.7016602158546448
+Staphylococcus equorum	Epigallocatechin Gallate	1	0.6085526943206787
+Staphylococcus equorum	Curcumin	2	0.5586192011833191
+Staphylococcus equorum	AHL lactonase	3	0.49847567081451416
+Staphylococcus equorum	C6-HSL	4	0.4896319806575775
+Staphylococcus equorum	LL-37	5	0.48169663548469543
+Staphylococcus equorum	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.4759645164012909
+Staphylococcus equorum	Hamamelitannin	7	0.4695685803890228
+Staphylococcus equorum	Indole	8	0.46453553438186646
+Staphylococcus equorum	Pyrogallol	9	0.4502740800380707
+Staphylococcus equorum	Aqueous extract of chestnut honey	10	0.449212908744812
+Staphylococcus equorum	Norspermidine	11	0.4479149281978607
+Staphylococcus equorum	C4-HSL	12	0.4332771897315979
+Staphylococcus equorum	Farnesol	13	0.43228384852409363
+Staphylococcus equorum	Hinokitiol	14	0.42506644129753113
+Staphylococcus equorum	Ciprofloxacin	15	0.4195307195186615
+Staphylococcus equorum	Cinnamaldehyde	16	0.41734784841537476
+Staphylococcus equorum	Lys-a1	17	0.41684505343437195
+Staphylococcus equorum	2-Nitro-cinnamaldehyde	18	0.4133252501487732
+Staphylococcus equorum	Betulin	19	0.4087536633014679
+Staphylococcus equorum	Methanolic extract of chestnut honey	20	0.4051170349121094
+Staphylococcus haemolyticus	Epigallocatechin Gallate	1	0.6107844710350037
+Staphylococcus haemolyticus	Stem extract of Acacia arabica	2	0.6044712066650391
+Staphylococcus haemolyticus	Bark extract of Tamarix aphylla L.	3	0.5771350264549255
+Staphylococcus haemolyticus	Curcumin	4	0.5633669495582581
+Staphylococcus haemolyticus	AHL lactonase	5	0.48065751791000366
+Staphylococcus haemolyticus	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.4493606984615326
+Staphylococcus haemolyticus	Lys-a1	7	0.3987826704978943
+Staphylococcus haemolyticus	4-Methoxycarbonylphenylboronic acid	8	0.3896045386791229
+Staphylococcus haemolyticus	Ceftazidime	9	0.36754804849624634
+Staphylococcus haemolyticus	Hinokitiol	10	0.36077407002449036
+Staphylococcus haemolyticus	C6-HSL	11	0.3603869080543518
+Staphylococcus haemolyticus	Vancomycin	12	0.3567359447479248
+Staphylococcus haemolyticus	N-Acetylcysteine	13	0.35660117864608765
+Staphylococcus haemolyticus	LL-37	14	0.3529791235923767
+Staphylococcus haemolyticus	Aqueous extract of chestnut honey	15	0.34817788004875183
+Staphylococcus haemolyticus	Farnesol	16	0.33795085549354553
+Staphylococcus haemolyticus	Hamamelitannin	17	0.33724305033683777
+Staphylococcus haemolyticus	Betulin	18	0.33573564887046814
+Staphylococcus haemolyticus	Patulin	19	0.3356809616088867
+Staphylococcus haemolyticus	Cinnamaldehyde	20	0.32938939332962036
+Staphylococcus saprophyticus	Epigallocatechin Gallate	1	0.6087964773178101
+Staphylococcus saprophyticus	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.581965446472168
+Staphylococcus saprophyticus	Curcumin	3	0.5659250617027283
+Staphylococcus saprophyticus	AHL lactonase	4	0.5334681272506714
+Staphylococcus saprophyticus	C6-HSL	5	0.5286667346954346
+Staphylococcus saprophyticus	LL-37	6	0.5106397271156311
+Staphylococcus saprophyticus	Hamamelitannin	7	0.5094855427742004
+Staphylococcus saprophyticus	Farnesol	8	0.504693329334259
+Staphylococcus saprophyticus	Patulin	9	0.5019816756248474
+Staphylococcus saprophyticus	Cinnamaldehyde	10	0.5008190870285034
+Staphylococcus saprophyticus	Indole	11	0.47708219289779663
+Staphylococcus saprophyticus	Ceftazidime	12	0.4720771908760071
+Staphylococcus saprophyticus	IDR-1018	13	0.4699529707431793
+Staphylococcus saprophyticus	Pyrogallol	14	0.4685432016849518
+Staphylococcus saprophyticus	Lys-a1	15	0.4679330587387085
+Staphylococcus saprophyticus	Betulin	16	0.4651188850402832
+Staphylococcus saprophyticus	Norspermidine	17	0.46383577585220337
+Staphylococcus saprophyticus	Vancomycin	18	0.4609742760658264
+Staphylococcus saprophyticus	Toremifene	19	0.4531431496143341
+Staphylococcus saprophyticus	Linalool	20	0.4504445791244507
+Stenotrophomonas maltophilia	Epigallocatechin Gallate	1	0.627288281917572
+Stenotrophomonas maltophilia	Vancomycin	2	0.6128597855567932
+Stenotrophomonas maltophilia	Hexane extract of Hyptis suaveolens	3	0.5888389348983765
+Stenotrophomonas maltophilia	Cloudberry KAS 444/3	4	0.584697961807251
+Stenotrophomonas maltophilia	Curcumin	5	0.5846763253211975
+Stenotrophomonas maltophilia	IDR-1018	6	0.570422351360321
+Stenotrophomonas maltophilia	Amikacin	7	0.5673350691795349
+Stenotrophomonas maltophilia	Resveratrol	8	0.5658754110336304
+Stenotrophomonas maltophilia	N-Acetylcysteine	9	0.5657635927200317
+Stenotrophomonas maltophilia	Catechin	10	0.5643659830093384
+Stenotrophomonas maltophilia	Raspberry KAS 434	11	0.5642432570457458
+Stenotrophomonas maltophilia	Culture supernatant of Bacillus licheniformis sp. SP1	12	0.5629699230194092
+Stenotrophomonas maltophilia	LL-37	13	0.5626310706138611
+Stenotrophomonas maltophilia	Bacteriophage	14	0.5617347359657288
+Stenotrophomonas maltophilia	3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	15	0.5602415204048157
+Stenotrophomonas maltophilia	Bacteriocin	16	0.5597900748252869
+Stenotrophomonas maltophilia	Hamamelitannin	17	0.5571963787078857
+Stenotrophomonas maltophilia	Betulin	18	0.5571002960205078
+Stenotrophomonas maltophilia	Norspermidine	19	0.5570406317710876
+Stenotrophomonas maltophilia	Farnesol	20	0.5560033917427063
+Streptococcus epidermidis	Epigallocatechin Gallate	1	0.6008284687995911
+Streptococcus epidermidis	Cefixime	2	0.5894045829772949
+Streptococcus epidermidis	AHL lactonase	3	0.5882672667503357
+Streptococcus epidermidis	Stem extract of Acacia arabica	4	0.5794496536254883
+Streptococcus epidermidis	Bacteriophage	5	0.5705015659332275
+Streptococcus epidermidis	Ciprofloxacin	6	0.5695950388908386
+Streptococcus epidermidis	Ceftazidime	7	0.569158136844635
+Streptococcus epidermidis	Azithromycin	8	0.5626280307769775
+Streptococcus epidermidis	Limonene	9	0.5588932037353516
+Streptococcus epidermidis	Penicillic acid	10	0.5581375956535339
+Streptococcus epidermidis	Cinnamaldehyde	11	0.5563859939575195
+Streptococcus epidermidis	IDR-1018	12	0.555540144443512
+Streptococcus epidermidis	Linalool	13	0.5552350878715515
+Streptococcus epidermidis	Gentamycin Sulphate	14	0.5539640188217163
+Streptococcus epidermidis	Toremifene	15	0.550586998462677
+Streptococcus epidermidis	Vancomycin	16	0.5502672791481018
+Streptococcus epidermidis	DispersinB-KSL-W wound gel	17	0.5497480630874634
+Streptococcus epidermidis	Curcumin	18	0.5475452542304993
+Streptococcus epidermidis	Hamamelitannin	19	0.5470271110534668
+Streptococcus epidermidis	Pyrogallol	20	0.5463280081748962
+Streptococcus gordonii	Stem extract of Acacia arabica	1	0.6087753772735596
+Streptococcus gordonii	Epigallocatechin Gallate	2	0.5963394641876221
+Streptococcus gordonii	Bark extract of Tamarix aphylla L.	3	0.5869153141975403
+Streptococcus gordonii	Curcumin	4	0.5808373093605042
+Streptococcus gordonii	C6-HSL	5	0.5712332129478455
+Streptococcus gordonii	LL-37	6	0.5676037669181824
+Streptococcus gordonii	Farnesol	7	0.5559367537498474
+Streptococcus gordonii	Lys-a1	8	0.5483297109603882
+Streptococcus gordonii	N-Acetylcysteine	9	0.5404478907585144
+Streptococcus gordonii	AHL lactonase	10	0.5387734174728394
+Streptococcus gordonii	Limonene	11	0.5377318859100342
+Streptococcus gordonii	Raspberry KAS 434	12	0.5340920090675354
+Streptococcus gordonii	Betulin	13	0.5333704352378845
+Streptococcus gordonii	Pyrogallol	14	0.5307897925376892
+Streptococcus gordonii	Methanolic extract of chestnut honey	15	0.5303115844726562
+Streptococcus gordonii	L-Aspartate	16	0.5280934572219849
+Streptococcus gordonii	4-Methoxycarbonylphenylboronic acid	17	0.5270835757255554
+Streptococcus gordonii	Culture supernatant of Bacillus licheniformis sp. SP1	18	0.5253510475158691
+Streptococcus gordonii	Indole	19	0.5234450697898865
+Streptococcus gordonii	Cinnamaldehyde	20	0.5193151831626892
+Streptococcus mitis	Epigallocatechin Gallate	1	0.6433526277542114
+Streptococcus mitis	AHL lactonase	2	0.5321970582008362
+Streptococcus mitis	Stem extract of Acacia arabica	3	0.5299038887023926
+Streptococcus mitis	Curcumin	4	0.5286037921905518
+Streptococcus mitis	Bark extract of Tamarix aphylla L.	5	0.5079866647720337
+Streptococcus mitis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.5017918348312378
+Streptococcus mitis	C6-HSL	7	0.46346795558929443
+Streptococcus mitis	LL-37	8	0.4584941864013672
+Streptococcus mitis	Indole	9	0.44755488634109497
+Streptococcus mitis	Lys-a1	10	0.4352226257324219
+Streptococcus mitis	Ciprofloxacin	11	0.4213303327560425
+Streptococcus mitis	Cinnamaldehyde	12	0.4145771861076355
+Streptococcus mitis	Pyrogallol	13	0.4090613126754761
+Streptococcus mitis	Myristic acid	14	0.4076615273952484
+Streptococcus mitis	Ceftazidime	15	0.40634575486183167
+Streptococcus mitis	Farnesol	16	0.4011678099632263
+Streptococcus mitis	Chestnut honey	17	0.3971641957759857
+Streptococcus mitis	Hinokitiol	18	0.3956723213195801
+Streptococcus mitis	Hamamelitannin	19	0.39279797673225403
+Streptococcus mitis	Vancomycin	20	0.3854421079158783
+Streptococcus mutans	alpha-pinene	1	0.7499015927314758
+Streptococcus mutans	Toremifene	2	0.7489374279975891
+Streptococcus mutans	Cinnamaldehyde	3	0.7467930316925049
+Streptococcus mutans	1-{6-nitro-4-phenyl-2-[(E)-2-[4-(trifluoromethoxy)phenyl]ethenyl]quinolin-3-yl}ethan-1-one	4	0.743051290512085
+Streptococcus mutans	OSIP108	5	0.737801730632782
+Streptococcus mutans	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	6	0.7363781929016113
+Streptococcus mutans	MBP-QQ protein (QQ-2)	7	0.7361929416656494
+Streptococcus mutans	Catechin	8	0.7360327839851379
+Streptococcus mutans	Phenanthrene	9	0.7348247170448303
+Streptococcus mutans	DJK5	10	0.7345594167709351
+Streptococcus mutans	BMAP-28	11	0.7342798113822937
+Streptococcus mutans	Bacteriocin	12	0.733386754989624
+Streptococcus mutans	Hesperidin	13	0.7322530150413513
+Streptococcus mutans	4-Methoxycarbonylphenylboronic acid	14	0.731203556060791
+Streptococcus mutans	Resveratrol	15	0.7268157005310059
+Streptococcus mutans	1-{2-[(E)-2-[3,5-bis(trifluoromethyl)phenyl]ethenyl]-4-phenylquinolin-3-yl}ethan-1-one	16	0.7252204418182373
+Streptococcus mutans	Competence Stimulating Peptide	17	0.7244835495948792
+Streptococcus mutans	Lactoferricin B	18	0.7224306464195251
+Streptococcus mutans	Coumarin	19	0.7221638560295105
+Streptococcus mutans	Juniper	20	0.721914529800415
+Streptococcus oralis	Epigallocatechin Gallate	1	0.6059524416923523
+Streptococcus oralis	Bark extract of Tamarix aphylla L.	2	0.5792024731636047
+Streptococcus oralis	Curcumin	3	0.5389342904090881
+Streptococcus oralis	Stem extract of Acacia arabica	4	0.5309014320373535
+Streptococcus oralis	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5242713689804077
+Streptococcus oralis	AHL lactonase	6	0.4789503216743469
+Streptococcus oralis	C6-HSL	7	0.41460809111595154
+Streptococcus oralis	G H12	8	0.4024416506290436
+Streptococcus oralis	Hamamelitannin	9	0.3938441276550293
+Streptococcus oralis	Pyrogallol	10	0.3737533986568451
+Streptococcus oralis	Cinnamaldehyde	11	0.3695451021194458
+Streptococcus oralis	Ceftazidime	12	0.36828503012657166
+Streptococcus oralis	LL-37	13	0.3559280037879944
+Streptococcus oralis	4-Methoxycarbonylphenylboronic acid	14	0.34661635756492615
+Streptococcus oralis	Farnesol	15	0.3442189693450928
+Streptococcus oralis	Betulin	16	0.3402581214904785
+Streptococcus oralis	Chestnut honey	17	0.33836400508880615
+Streptococcus oralis	Indole	18	0.3347356617450714
+Streptococcus oralis	Patulin	19	0.3332037925720215
+Streptococcus oralis	Limonene	20	0.32932472229003906
+Streptococcus parasanguinis	Epigallocatechin Gallate	1	0.632348895072937
+Streptococcus parasanguinis	Stem extract of Acacia arabica	2	0.5534129738807678
+Streptococcus parasanguinis	Curcumin	3	0.5450344085693359
+Streptococcus parasanguinis	Bark extract of Tamarix aphylla L.	4	0.4970872104167938
+Streptococcus parasanguinis	AHL lactonase	5	0.4905093312263489
+Streptococcus parasanguinis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.47247445583343506
+Streptococcus parasanguinis	Farnesol	7	0.4083142876625061
+Streptococcus parasanguinis	C6-HSL	8	0.40190985798835754
+Streptococcus parasanguinis	Indole	9	0.3875858187675476
+Streptococcus parasanguinis	L-Aspartate	10	0.38259512186050415
+Streptococcus parasanguinis	LL-37	11	0.3768393397331238
+Streptococcus parasanguinis	Cinnamaldehyde	12	0.3683713972568512
+Streptococcus parasanguinis	BMAP-28	13	0.35452237725257874
+Streptococcus parasanguinis	Cefixime	14	0.34377405047416687
+Streptococcus parasanguinis	Pyrogallol	15	0.33913540840148926
+Streptococcus parasanguinis	IDR-1018	16	0.33737000823020935
+Streptococcus parasanguinis	G H12	17	0.3300502300262451
+Streptococcus parasanguinis	Aqueous extract of chestnut honey	18	0.3290971517562866
+Streptococcus parasanguinis	Hamamelitannin	19	0.32845526933670044
+Streptococcus parasanguinis	Limonene	20	0.3239891231060028
+Streptococcus pneumoniae	Curcumin	1	0.54325932264328
+Streptococcus pneumoniae	Limonene	2	0.540878176689148
+Streptococcus pneumoniae	Bark extract of Tamarix aphylla L.	3	0.533958911895752
+Streptococcus pneumoniae	BMAP-28	4	0.532114565372467
+Streptococcus pneumoniae	Stem extract of Acacia arabica	5	0.5264398455619812
+Streptococcus pneumoniae	Cinnamaldehyde	6	0.5242986679077148
+Streptococcus pneumoniae	C6-HSL	7	0.5210790634155273
+Streptococcus pneumoniae	AHL lactonase	8	0.5208871364593506
+Streptococcus pneumoniae	LL-37	9	0.5171492099761963
+Streptococcus pneumoniae	Ceftazidime	10	0.5161476135253906
+Streptococcus pneumoniae	Hamamelitannin	11	0.513641357421875
+Streptococcus pneumoniae	Farnesol	12	0.5097517371177673
+Streptococcus pneumoniae	Indole	13	0.508355438709259
+Streptococcus pneumoniae	Culture supernatant of Bacillus licheniformis sp. SP1	14	0.5075040459632874
+Streptococcus pneumoniae	Norspermidine	15	0.5053780674934387
+Streptococcus pneumoniae	Hinokitiol	16	0.5027080178260803
+Streptococcus pneumoniae	Patulin	17	0.5002948641777039
+Streptococcus pneumoniae	Pyrogallol	18	0.5000107288360596
+Streptococcus pneumoniae	Vancomycin	19	0.49915754795074463
+Streptococcus pneumoniae	G H12	20	0.4985491633415222
+Streptococcus pyogenes	Epigallocatechin Gallate	1	0.6055206656455994
+Streptococcus pyogenes	4-Methoxycarbonylphenylboronic acid	2	0.5953425765037537
+Streptococcus pyogenes	Hamamelitannin	3	0.5876597166061401
+Streptococcus pyogenes	Patulin	4	0.5738226771354675
+Streptococcus pyogenes	Stem extract of Acacia arabica	5	0.5630034804344177
+Streptococcus pyogenes	Cloudberry KAS 444/3	6	0.5609772205352783
+Streptococcus pyogenes	Toremifene	7	0.5599763989448547
+Streptococcus pyogenes	2-Nitro-cinnamaldehyde	8	0.5597512722015381
+Streptococcus pyogenes	Norspermidine	9	0.557879626750946
+Streptococcus pyogenes	LL-37	10	0.5552427768707275
+Streptococcus pyogenes	Penicillic acid	11	0.5551233887672424
+Streptococcus pyogenes	Lys-a1	12	0.5535751581192017
+Streptococcus pyogenes	Indole	13	0.5526735782623291
+Streptococcus pyogenes	Hexane extract of Hyptis suaveolens	14	0.5511396527290344
+Streptococcus pyogenes	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	15	0.5473653078079224
+Streptococcus pyogenes	Phenanthrene	16	0.5469862818717957
+Streptococcus pyogenes	Copper sulfate	17	0.5469101667404175
+Streptococcus pyogenes	Curcumin	18	0.5432227253913879
+Streptococcus pyogenes	Linalool	19	0.542924702167511
+Streptococcus pyogenes	N-[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide	20	0.5426578521728516
+Streptococcus salivarius	Epigallocatechin Gallate	1	0.6012336611747742
+Streptococcus salivarius	Curcumin	2	0.5462842583656311
+Streptococcus salivarius	Bark extract of Tamarix aphylla L.	3	0.5432133078575134
+Streptococcus salivarius	Stem extract of Acacia arabica	4	0.5350090861320496
+Streptococcus salivarius	AHL lactonase	5	0.5049644708633423
+Streptococcus salivarius	Limonene	6	0.46978601813316345
+Streptococcus salivarius	Culture supernatant of Bacillus licheniformis sp. SP1	7	0.46849969029426575
+Streptococcus salivarius	LL-37	8	0.4577059745788574
+Streptococcus salivarius	Hamamelitannin	9	0.4534049332141876
+Streptococcus salivarius	C6-HSL	10	0.43911439180374146
+Streptococcus salivarius	C4-HSL	11	0.41545113921165466
+Streptococcus salivarius	N-Acetylcysteine	12	0.4095538556575775
+Streptococcus salivarius	Patulin	13	0.3980860114097595
+Streptococcus salivarius	Ciprofloxacin	14	0.3954879641532898
+Streptococcus salivarius	Myristic acid	15	0.38933926820755005
+Streptococcus salivarius	Aqueous extract of chestnut honey	16	0.38902541995048523
+Streptococcus salivarius	Chestnut honey	17	0.38881877064704895
+Streptococcus salivarius	Indole	18	0.3887903094291687
+Streptococcus salivarius	Vancomycin	19	0.38587766885757446
+Streptococcus salivarius	Pyrogallol	20	0.3824141323566437
+Streptococcus sanguinis	Epigallocatechin Gallate	1	0.6005504131317139
+Streptococcus sanguinis	AHL lactonase	2	0.588203489780426
+Streptococcus sanguinis	Bark extract of Tamarix aphylla L.	3	0.5793833136558533
+Streptococcus sanguinis	Curcumin	4	0.576489269733429
+Streptococcus sanguinis	Pyrogallol	5	0.5711915493011475
+Streptococcus sanguinis	Stem extract of Acacia arabica	6	0.564831554889679
+Streptococcus sanguinis	Norspermidine	7	0.5638947486877441
+Streptococcus sanguinis	Farnesol	8	0.5607417225837708
+Streptococcus sanguinis	LL-37	9	0.5587707757949829
+Streptococcus sanguinis	BMAP-28	10	0.5571261048316956
+Streptococcus sanguinis	Limonene	11	0.5551239252090454
+Streptococcus sanguinis	Ceftazidime	12	0.5532923340797424
+Streptococcus sanguinis	Indole	13	0.5531298518180847
+Streptococcus sanguinis	L-Aspartate	14	0.5510216355323792
+Streptococcus sanguinis	Bacteriophage	15	0.5499758124351501
+Streptococcus sanguinis	Betulin	16	0.5498902201652527
+Streptococcus sanguinis	Cinnamaldehyde	17	0.5463972687721252
+Streptococcus sanguinis	Myristic acid	18	0.5408657789230347
+Streptococcus sanguinis	Amikacin	19	0.5361300110816956
+Streptococcus sanguinis	L-tryptophan	20	0.5328013896942139
+Streptococcus sanguis	LL-37	1	0.6101770401000977
+Streptococcus sanguis	Farnesol	2	0.6029636859893799
+Streptococcus sanguis	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.595414936542511
+Streptococcus sanguis	Curcumin	4	0.5928072333335876
+Streptococcus sanguis	Lys-a1	5	0.5923617482185364
+Streptococcus sanguis	Bacteriophage	6	0.5916411876678467
+Streptococcus sanguis	Ethanol extracts of Thymus vulgaris	7	0.581874668598175
+Streptococcus sanguis	Toremifene	8	0.5811571478843689
+Streptococcus sanguis	BMAP-28	9	0.5783789157867432
+Streptococcus sanguis	C6-HSL	10	0.5781818628311157
+Streptococcus sanguis	6-Amino Penicillinic acid	11	0.5781343579292297
+Streptococcus sanguis	Ciprofloxacin	12	0.5779234170913696
+Streptococcus sanguis	Epigallocatechin Gallate	13	0.5744900107383728
+Streptococcus sanguis	C4-HSL	14	0.5744577646255493
+Streptococcus sanguis	Hamamelitannin	15	0.5735744833946228
+Streptococcus sanguis	Linalool	16	0.5729260444641113
+Streptococcus sanguis	3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	17	0.57221519947052
+Streptococcus sanguis	Bark extract of Tamarix aphylla L.	18	0.5720889568328857
+Streptococcus sanguis	Vancomycin	19	0.5707181096076965
+Streptococcus sanguis	Indole	20	0.567513644695282
+Streptococcus sobrinus	Epigallocatechin Gallate	1	0.5819529294967651
+Streptococcus sobrinus	Curcumin	2	0.5647639036178589
+Streptococcus sobrinus	C6-HSL	3	0.5554649829864502
+Streptococcus sobrinus	Pyrogallol	4	0.5542094707489014
+Streptococcus sobrinus	Cinnamaldehyde	5	0.5476059317588806
+Streptococcus sobrinus	Toremifene	6	0.5422486066818237
+Streptococcus sobrinus	Vancomycin	7	0.5283827185630798
+Streptococcus sobrinus	AHL lactonase	8	0.527260959148407
+Streptococcus sobrinus	Stem extract of Acacia arabica	9	0.5246696472167969
+Streptococcus sobrinus	Hinokitiol	10	0.5219821333885193
+Streptococcus sobrinus	Myristic acid	11	0.51944500207901
+Streptococcus sobrinus	LL-37	12	0.5194002985954285
+Streptococcus sobrinus	Farnesol	13	0.5184898972511292
+Streptococcus sobrinus	2-Nitro-cinnamaldehyde	14	0.5152929425239563
+Streptococcus sobrinus	4-Methoxycarbonylphenylboronic acid	15	0.5142583847045898
+Streptococcus sobrinus	N-Acetylcysteine	16	0.5112216472625732
+Streptococcus sobrinus	Bacteriophage	17	0.5110059976577759
+Streptococcus sobrinus	Penicillic acid	18	0.5062748193740845
+Streptococcus sobrinus	Hamamelitannin	19	0.5052165389060974
+Streptococcus sobrinus	IDR-1018	20	0.5025656819343567
+Streptococcus suis	Epigallocatechin Gallate	1	0.6396568417549133
+Streptococcus suis	Curcumin	2	0.5494276881217957
+Streptococcus suis	Stem extract of Acacia arabica	3	0.5402090549468994
+Streptococcus suis	Bark extract of Tamarix aphylla L.	4	0.5195860862731934
+Streptococcus suis	AHL lactonase	5	0.4837712049484253
+Streptococcus suis	Culture supernatant of Bacillus licheniformis sp. SP1	6	0.4738178551197052
+Streptococcus suis	N-Acetylcysteine	7	0.399749755859375
+Streptococcus suis	C6-HSL	8	0.38425344228744507
+Streptococcus suis	Farnesol	9	0.373550146818161
+Streptococcus suis	Ciprofloxacin	10	0.36971113085746765
+Streptococcus suis	Limonene	11	0.3658301532268524
+Streptococcus suis	C4-HSL	12	0.3608534038066864
+Streptococcus suis	Pyrogallol	13	0.3599725067615509
+Streptococcus suis	Ceftazidime	14	0.35928529500961304
+Streptococcus suis	G H12	15	0.3537684977054596
+Streptococcus suis	LL-37	16	0.350678026676178
+Streptococcus suis	Hamamelitannin	17	0.3472440540790558
+Streptococcus suis	Indole	18	0.34661373496055603
+Streptococcus suis	BMAP-28	19	0.34543097019195557
+Streptococcus suis	Cinnamaldehyde	20	0.34186941385269165
+Streptomyces gordonii	Epigallocatechin Gallate	1	0.5976946353912354
+Streptomyces gordonii	Bark extract of Tamarix aphylla L.	2	0.5664872527122498
+Streptomyces gordonii	Curcumin	3	0.5563382506370544
+Streptomyces gordonii	Stem extract of Acacia arabica	4	0.5182413458824158
+Streptomyces gordonii	Culture supernatant of Bacillus licheniformis sp. SP1	5	0.5168642997741699
+Streptomyces gordonii	AHL lactonase	6	0.47225165367126465
+Streptomyces gordonii	C6-HSL	7	0.4425005316734314
+Streptomyces gordonii	LL-37	8	0.41936060786247253
+Streptomyces gordonii	Hamamelitannin	9	0.39653435349464417
+Streptomyces gordonii	Farnesol	10	0.38151678442955017
+Streptomyces gordonii	Cinnamaldehyde	11	0.37952229380607605
+Streptomyces gordonii	Norspermidine	12	0.3779793083667755
+Streptomyces gordonii	Toremifene	13	0.3765825927257538
+Streptomyces gordonii	Indole	14	0.3753795027732849
+Streptomyces gordonii	Limonene	15	0.36807018518447876
+Streptomyces gordonii	4-Methoxycarbonylphenylboronic acid	16	0.3614616394042969
+Streptomyces gordonii	Ciprofloxacin	17	0.3603389263153076
+Streptomyces gordonii	Lys-a1	18	0.3603326678276062
+Streptomyces gordonii	IDR-1018	19	0.35681241750717163
+Streptomyces gordonii	Pyrogallol	20	0.3534303307533264
+Trueperella pyogenes	Epigallocatechin Gallate	1	0.6095854640007019
+Trueperella pyogenes	Stem extract of Acacia arabica	2	0.6082372665405273
+Trueperella pyogenes	Bark extract of Tamarix aphylla L.	3	0.5411161184310913
+Trueperella pyogenes	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5365021824836731
+Trueperella pyogenes	Curcumin	5	0.5201748609542847
+Trueperella pyogenes	AHL lactonase	6	0.5160261988639832
+Trueperella pyogenes	LL-37	7	0.4901312291622162
+Trueperella pyogenes	C6-HSL	8	0.47158104181289673
+Trueperella pyogenes	Lys-a1	9	0.4453260600566864
+Trueperella pyogenes	Farnesol	10	0.4440563917160034
+Trueperella pyogenes	4-Methoxycarbonylphenylboronic acid	11	0.44125792384147644
+Trueperella pyogenes	Hamamelitannin	12	0.4389974772930145
+Trueperella pyogenes	Vancomycin	13	0.4355761706829071
+Trueperella pyogenes	Betulin	14	0.43348947167396545
+Trueperella pyogenes	Indole	15	0.4303854703903198
+Trueperella pyogenes	Patulin	16	0.43000879883766174
+Trueperella pyogenes	G H12	17	0.42777109146118164
+Trueperella pyogenes	Cinnamaldehyde	18	0.4253697097301483
+Trueperella pyogenes	IDR-1018	19	0.41124045848846436
+Trueperella pyogenes	N-Acetylcysteine	20	0.4087825119495392
+Vibrio anguillarum	Ceftazidime	1	0.6013009548187256
+Vibrio anguillarum	Culture supernatant of Bacillus licheniformis sp. SP1	2	0.5980544090270996
+Vibrio anguillarum	Bark extract of Tamarix aphylla L.	3	0.5935527682304382
+Vibrio anguillarum	Stem extract of Acacia arabica	4	0.5845179557800293
+Vibrio anguillarum	AHL lactonase	5	0.5799333453178406
+Vibrio anguillarum	G H12	6	0.5742011666297913
+Vibrio anguillarum	Curcumin	7	0.5710088014602661
+Vibrio anguillarum	Chestnut honey	8	0.5606228709220886
+Vibrio anguillarum	BMAP-28	9	0.5565454959869385
+Vibrio anguillarum	Bacteriophage	10	0.5562346577644348
+Vibrio anguillarum	Epigallocatechin Gallate	11	0.5561216473579407
+Vibrio anguillarum	Vancomycin	12	0.5492453575134277
+Vibrio anguillarum	IDR-1018	13	0.5482483506202698
+Vibrio anguillarum	Ethanol extracts of Thymus vulgaris	14	0.5435247421264648
+Vibrio anguillarum	Betulin	15	0.5429147481918335
+Vibrio anguillarum	Linalool	16	0.5413247346878052
+Vibrio anguillarum	Hamamelitannin	17	0.5389077067375183
+Vibrio anguillarum	C6-HSL	18	0.5388279557228088
+Vibrio anguillarum	C4-HSL	19	0.5377907156944275
+Vibrio anguillarum	Cloudberry KAS 444/3	20	0.5361747145652771
+Vibrio campbellii	Epigallocatechin Gallate	1	0.5970815420150757
+Vibrio campbellii	Stem extract of Acacia arabica	2	0.596976101398468
+Vibrio campbellii	AHL lactonase	3	0.5772606134414673
+Vibrio campbellii	Curcumin	4	0.5621269941329956
+Vibrio campbellii	Bark extract of Tamarix aphylla L.	5	0.5545935034751892
+Vibrio campbellii	Cinnamaldehyde	6	0.5477596521377563
+Vibrio campbellii	Betulin	7	0.5424699187278748
+Vibrio campbellii	Farnesol	8	0.5394735932350159
+Vibrio campbellii	C4-HSL	9	0.5358434915542603
+Vibrio campbellii	Limonene	10	0.5332233309745789
+Vibrio campbellii	Ceftazidime	11	0.5282149910926819
+Vibrio campbellii	N-Acetylcysteine	12	0.5156957507133484
+Vibrio campbellii	Myristic acid	13	0.5137379169464111
+Vibrio campbellii	BMAP-28	14	0.5135055780410767
+Vibrio campbellii	LL-37	15	0.509674072265625
+Vibrio campbellii	Culture supernatant of Bacillus licheniformis sp. SP1	16	0.5072253942489624
+Vibrio campbellii	Toremifene	17	0.5059413313865662
+Vibrio campbellii	Undecanoic acid	18	0.49927055835723877
+Vibrio campbellii	Aqueous extract of chestnut honey	19	0.4957486093044281
+Vibrio campbellii	Bacteriophage	20	0.49460116028785706
+Vibrio cholerae	Epigallocatechin Gallate	1	0.6215255260467529
+Vibrio cholerae	Indole	2	0.5986266732215881
+Vibrio cholerae	Penicillic acid	3	0.5955598950386047
+Vibrio cholerae	N-Acetylcysteine	4	0.5907081961631775
+Vibrio cholerae	Vancomycin	5	0.5771819353103638
+Vibrio cholerae	C6-HSL	6	0.5762273073196411
+Vibrio cholerae	Betulin	7	0.5742195248603821
+Vibrio cholerae	Cloudberry KAS 444/3	8	0.5725365877151489
+Vibrio cholerae	Hamamelitannin	9	0.571955144405365
+Vibrio cholerae	Bacteriophage	10	0.5640695095062256
+Vibrio cholerae	Ceftazidime	11	0.5635730624198914
+Vibrio cholerae	Stem extract of Acacia arabica	12	0.5634455680847168
+Vibrio cholerae	Farnesol	13	0.5631884932518005
+Vibrio cholerae	AHL lactonase	14	0.562038004398346
+Vibrio cholerae	LL-37	15	0.560983419418335
+Vibrio cholerae	Linalool	16	0.5604527592658997
+Vibrio cholerae	Curcumin	17	0.5597673058509827
+Vibrio cholerae	G H12	18	0.5523419380187988
+Vibrio cholerae	Patulin	19	0.5521909594535828
+Vibrio cholerae	Raspberry KAS 434	20	0.5511913299560547
+Vibrio harveyi	N -(4-trifluoromethyl-benzylidene)benzohydrazide	1	0.6470906138420105
+Vibrio harveyi	Ceftazidime	2	0.6355567574501038
+Vibrio harveyi	Cloudberry KAS 444/3	3	0.630577564239502
+Vibrio harveyi	IDR-1018	4	0.6240473985671997
+Vibrio harveyi	Ethyl gallate	5	0.6235694885253906
+Vibrio harveyi	Limonene	6	0.61857670545578
+Vibrio harveyi	Lys-a1	7	0.6182692050933838
+Vibrio harveyi	Ethanol extracts of Thymus vulgaris	8	0.615696907043457
+Vibrio harveyi	Silver nitrate	9	0.614461362361908
+Vibrio harveyi	N-(4-Bromobenzylidene)benzohydrazide	10	0.6117249727249146
+Vibrio harveyi	G H12	11	0.6098189949989319
+Vibrio harveyi	(2E)-1-(3 ,4 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	12	0.6096242666244507
+Vibrio harveyi	Bacteriophage	13	0.6073750853538513
+Vibrio harveyi	Octyl gallate	14	0.6071287989616394
+Vibrio harveyi	(2E)-1-(1,3-benzodioxol-5-yl)-3-(2-chloro-quinolin-3-yl)-2-propen-1-one	15	0.6068651080131531
+Vibrio harveyi	(2E)-1-(3 ,5 -dimethoxyphenyl)-3-(2-naphthyl)-2-propen-1-one	16	0.6062187552452087
+Vibrio harveyi	Methyl gallate	17	0.606090247631073
+Vibrio harveyi	Vancomycin	18	0.6049291491508484
+Vibrio harveyi	(2E)-N -(2 -hydroxy-5 -bromo-benzilidene)-3,4,5-trimethoxybenzohydrazide	19	0.6047658324241638
+Vibrio harveyi	N -(5-bromo-2-hydroxy-benzylidene)benzohydrazide	20	0.6034806370735168
+Vibrio parahaemolyticus	Epigallocatechin Gallate	1	0.5808284282684326
+Vibrio parahaemolyticus	Bark extract of Tamarix aphylla L.	2	0.5563977956771851
+Vibrio parahaemolyticus	Culture supernatant of Bacillus licheniformis sp. SP1	3	0.5454639196395874
+Vibrio parahaemolyticus	Stem extract of Acacia arabica	4	0.517155110836029
+Vibrio parahaemolyticus	Pyrogallol	5	0.4330310821533203
+Vibrio parahaemolyticus	Cinnamaldehyde	6	0.4257625937461853
+Vibrio parahaemolyticus	Farnesol	7	0.4219588339328766
+Vibrio parahaemolyticus	Lys-a1	8	0.4170697033405304
+Vibrio parahaemolyticus	Patulin	9	0.4144977927207947
+Vibrio parahaemolyticus	C6-HSL	10	0.4074712097644806
+Vibrio parahaemolyticus	LL-37	11	0.3968993127346039
+Vibrio parahaemolyticus	Limonene	12	0.39495420455932617
+Vibrio parahaemolyticus	Hamamelitannin	13	0.39115476608276367
+Vibrio parahaemolyticus	Methanol extracts Thymus vulgaris	14	0.3889220058917999
+Vibrio parahaemolyticus	BMAP-28	15	0.3858138918876648
+Vibrio parahaemolyticus	Myristic acid	16	0.3796127736568451
+Vibrio parahaemolyticus	Indole	17	0.37543216347694397
+Vibrio parahaemolyticus	Ceftazidime	18	0.37169522047042847
+Vibrio parahaemolyticus	Vancomycin	19	0.36847683787345886
+Vibrio parahaemolyticus	N-Acetylcysteine	20	0.3649832308292389
+Vibrio vulnificus	Epigallocatechin Gallate	1	0.5946863889694214
+Vibrio vulnificus	LL-37	2	0.5872440934181213
+Vibrio vulnificus	Toremifene	3	0.5770264267921448
+Vibrio vulnificus	Culture supernatant of Bacillus licheniformis sp. SP1	4	0.5751194953918457
+Vibrio vulnificus	Betulin	5	0.574824869632721
+Vibrio vulnificus	AHL lactonase	6	0.5733408331871033
+Vibrio vulnificus	Lys-a1	7	0.5706745386123657
+Vibrio vulnificus	Indole	8	0.5697943568229675
+Vibrio vulnificus	Farnesol	9	0.5635008811950684
+Vibrio vulnificus	Ethylenediametetraacetic acid	10	0.5631680488586426
+Vibrio vulnificus	Ciprofloxacin	11	0.5616569519042969
+Vibrio vulnificus	IDR-1018	12	0.5595658421516418
+Vibrio vulnificus	Pleurocidin	13	0.553433895111084
+Vibrio vulnificus	C4-HSL	14	0.5502411723136902
+Vibrio vulnificus	3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one	15	0.5486422777175903
+Vibrio vulnificus	Stem extract of Acacia arabica	16	0.5486295223236084
+Vibrio vulnificus	Limonene	17	0.5485256910324097
+Vibrio vulnificus	N-Acetylcysteine	18	0.5471695065498352
+Vibrio vulnificus	3-(2-Furylmethyl)-2-{[(5-hydroxy-1H-pyrazol-3-yl)methyl]sulfanyl}-3,5,6,7-tetrahydro-4H-cyclopenta[4,5]thieno[2,3-d]pyrimidin-4-one	19	0.5470982193946838
+Vibrio vulnificus	MBP-QQ protein (QQ-2)	20	0.5465367436408997
+Yersinia enterocolitica	Epigallocatechin Gallate	1	0.6260624527931213
+Yersinia enterocolitica	Stem extract of Acacia arabica	2	0.5522962808609009
+Yersinia enterocolitica	Curcumin	3	0.5480817556381226
+Yersinia enterocolitica	Indole	4	0.5451482534408569
+Yersinia enterocolitica	Lys-a1	5	0.5376644730567932
+Yersinia enterocolitica	Vancomycin	6	0.5363063812255859
+Yersinia enterocolitica	L-Aspartate	7	0.5329592227935791
+Yersinia enterocolitica	Norspermidine	8	0.5319002270698547
+Yersinia enterocolitica	AHL lactonase	9	0.5276256799697876
+Yersinia enterocolitica	G H12	10	0.5270088911056519
+Yersinia enterocolitica	Limonene	11	0.5262620449066162
+Yersinia enterocolitica	Cinnamaldehyde	12	0.5236449241638184
+Yersinia enterocolitica	Farnesol	13	0.5228543877601624
+Yersinia enterocolitica	4-Methoxycarbonylphenylboronic acid	14	0.5216376185417175
+Yersinia enterocolitica	Ethanol extracts of Thymus vulgaris	15	0.5198647379875183
+Yersinia enterocolitica	Betulin	16	0.5095599293708801
+Yersinia enterocolitica	Phenanthrene	17	0.5094995498657227
+Yersinia enterocolitica	Toremifene	18	0.5081511735916138
+Yersinia enterocolitica	2-Nitro-cinnamaldehyde	19	0.5069484114646912
+Yersinia enterocolitica	IDR-1018	20	0.5061463117599487

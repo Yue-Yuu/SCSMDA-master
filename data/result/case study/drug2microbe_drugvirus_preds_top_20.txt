@@ -1,0 +1,3500 @@
+4-HPR (Fenretinide)	Influenza A virus	1	0.7606473565101624
+4-HPR (Fenretinide)	Herpes simplex virus 1	2	0.6918800473213196
+4-HPR (Fenretinide)	Severe acute respiratory syndrome coronavirus	3	0.6827830672264099
+4-HPR (Fenretinide)	Ebola virus	4	0.6747351884841919
+4-HPR (Fenretinide)	Middle East respiratory syndrome coronavirus	5	0.6675528287887573
+4-HPR (Fenretinide)	Cytomegalovirus	6	0.6314290761947632
+4-HPR (Fenretinide)	Enterovirus B	7	0.6028205752372742
+4-HPR (Fenretinide)	Chikungunya virus	8	0.597011148929596
+4-HPR (Fenretinide)	Hepatitis B virus	9	0.5696350336074829
+4-HPR (Fenretinide)	Epstein-Barr virus	10	0.5527806878089905
+4-HPR (Fenretinide)	Kaposi's sarcoma-associated herpesvirus	11	0.47905728220939636
+4-HPR (Fenretinide)	Enterovirus A	12	0.4675067961215973
+4-HPR (Fenretinide)	Rift Valley fever virus	13	0.4611579477787018
+4-HPR (Fenretinide)	Sindbis virus	14	0.44617682695388794
+4-HPR (Fenretinide)	Herpes simplex virus 2	15	0.4389793276786804
+4-HPR (Fenretinide)	Human Herpesvirus 1	16	0.42633116245269775
+4-HPR (Fenretinide)	Japanese encephalitis virus	17	0.4195648431777954
+4-HPR (Fenretinide)	Vesicular stomatitis virus	18	0.4101974368095398
+4-HPR (Fenretinide)	Yellow fever virus	19	0.39029133319854736
+4-HPR (Fenretinide)	Influenza B virus	20	0.3894166648387909
+5-Bromovinyldeoxyuridine	Human immunodeficiency virus 1	1	0.6845999956130981
+5-Bromovinyldeoxyuridine	Influenza A virus	2	0.5650306940078735
+5-Bromovinyldeoxyuridine	Zika virus	3	0.5258664488792419
+5-Bromovinyldeoxyuridine	Hepatitis C virus	4	0.504504919052124
+5-Bromovinyldeoxyuridine	Herpes simplex virus 1	5	0.42226970195770264
+5-Bromovinyldeoxyuridine	Dengue virus	6	0.40236029028892517
+5-Bromovinyldeoxyuridine	Middle East respiratory syndrome coronavirus	7	0.3865874111652374
+5-Bromovinyldeoxyuridine	Severe acute respiratory syndrome coronavirus	8	0.3541659116744995
+5-Bromovinyldeoxyuridine	Enterovirus B	9	0.3273518681526184
+5-Bromovinyldeoxyuridine	Ebola virus	10	0.3129495084285736
+5-Bromovinyldeoxyuridine	Cytomegalovirus	11	0.30262690782546997
+5-Bromovinyldeoxyuridine	Chikungunya virus	12	0.29290303587913513
+5-Bromovinyldeoxyuridine	Hepatitis B virus	13	0.27182474732398987
+5-Bromovinyldeoxyuridine	Varicella-zoster virus	14	0.2522306740283966
+5-Bromovinyldeoxyuridine	Epstein-Barr virus	15	0.249399796128273
+5-Bromovinyldeoxyuridine	Respiratory syncytial virus	16	0.2250272035598755
+5-Bromovinyldeoxyuridine	Sindbis virus	17	0.21888390183448792
+5-Bromovinyldeoxyuridine	Kaposi's sarcoma-associated herpesvirus	18	0.21803472936153412
+5-Bromovinyldeoxyuridine	Herpes simplex virus 2	19	0.2035965472459793
+5-Bromovinyldeoxyuridine	Vesicular stomatitis virus	20	0.1997312605381012
+Abacavir	Influenza A virus	1	0.4231320321559906
+Abacavir	Dengue virus	2	0.38607165217399597
+Abacavir	Middle East respiratory syndrome coronavirus	3	0.33011505007743835
+Abacavir	Zika virus	4	0.3054523468017578
+Abacavir	Hepatitis C virus	5	0.2796429991722107
+Abacavir	Hepatitis B virus	6	0.25899043679237366
+Abacavir	Chikungunya virus	7	0.16962690651416779
+Abacavir	Rift Valley fever virus	8	0.16842882335186005
+Abacavir	Herpes simplex virus 1	9	0.16733108460903168
+Abacavir	Ebola virus	10	0.15730109810829163
+Abacavir	Vesicular stomatitis virus	11	0.14911310374736786
+Abacavir	Human rhinovirus A	12	0.14578533172607422
+Abacavir	Enterovirus A	13	0.14516285061836243
+Abacavir	West Nile virus	14	0.1443110853433609
+Abacavir	Epstein-Barr virus	15	0.1426650881767273
+Abacavir	Kaposi's sarcoma-associated herpesvirus	16	0.12480037659406662
+Abacavir	Enterovirus B	17	0.1240239068865776
+Abacavir	Respiratory syncytial virus	18	0.12220008671283722
+Abacavir	Yellow fever virus	19	0.12160008400678635
+Abacavir	Cytomegalovirus	20	0.1196216493844986
+ABT-263	Dengue virus	1	0.7953354120254517
+ABT-263	Hepatitis C virus	2	0.7729192972183228
+ABT-263	Severe acute respiratory syndrome coronavirus	3	0.7652357220649719
+ABT-263	Chikungunya virus	4	0.7436500191688538
+ABT-263	Cytomegalovirus	5	0.7258222699165344
+ABT-263	Ebola virus	6	0.6936641931533813
+ABT-263	Epstein-Barr virus	7	0.6843385696411133
+ABT-263	Rift Valley fever virus	8	0.6834143996238708
+ABT-263	Respiratory syncytial virus	9	0.6784765720367432
+ABT-263	Kaposi's sarcoma-associated herpesvirus	10	0.6775108575820923
+ABT-263	Enterovirus A	11	0.6756364703178406
+ABT-263	Vesicular stomatitis virus	12	0.662301778793335
+ABT-263	BK virus	13	0.65577232837677
+ABT-263	West Nile virus	14	0.6359218955039978
+ABT-263	Varicella-zoster virus	15	0.6118116974830627
+ABT-263	Yellow fever virus	16	0.6050620675086975
+ABT-263	Human Herpesvirus 1	17	0.5980324149131775
+ABT-263	Vaccinia virus	18	0.5742480158805847
+ABT-263	Japanese encephalitis virus	19	0.5511193871498108
+ABT-263	SARS-COV-2	20	0.5493652820587158
+Acetylsalicylic acid	Human immunodeficiency virus 1	1	0.7302371263504028
+Acetylsalicylic acid	Dengue virus	2	0.6407405734062195
+Acetylsalicylic acid	Middle East respiratory syndrome coronavirus	3	0.5857218503952026
+Acetylsalicylic acid	Ebola virus	4	0.5620195269584656
+Acetylsalicylic acid	Severe acute respiratory syndrome coronavirus	5	0.5189295411109924
+Acetylsalicylic acid	Chikungunya virus	6	0.5088137984275818
+Acetylsalicylic acid	Cytomegalovirus	7	0.48733651638031006
+Acetylsalicylic acid	Hepatitis B virus	8	0.4806486964225769
+Acetylsalicylic acid	Enterovirus B	9	0.4652743339538574
+Acetylsalicylic acid	Epstein-Barr virus	10	0.4405137300491333
+Acetylsalicylic acid	Enterovirus A	11	0.38251274824142456
+Acetylsalicylic acid	Kaposi's sarcoma-associated herpesvirus	12	0.3765970766544342
+Acetylsalicylic acid	Herpes simplex virus 2	13	0.36385470628738403
+Acetylsalicylic acid	Rift Valley fever virus	14	0.35707199573516846
+Acetylsalicylic acid	BK virus	15	0.35040757060050964
+Acetylsalicylic acid	Vesicular stomatitis virus	16	0.3460584580898285
+Acetylsalicylic acid	Sindbis virus	17	0.34023427963256836
+Acetylsalicylic acid	Human Herpesvirus 1	18	0.33674493432044983
+Acetylsalicylic acid	West Nile virus	19	0.32387062907218933
+Acetylsalicylic acid	Respiratory syncytial virus	20	0.31374746561050415
+Aciclovir	Human immunodeficiency virus 1	1	0.7681039571762085
+Aciclovir	Influenza A virus	2	0.7435510158538818
+Aciclovir	Hepatitis C virus	3	0.7343046069145203
+Aciclovir	Dengue virus	4	0.7249835729598999
+Aciclovir	Ebola virus	5	0.7163415551185608
+Aciclovir	Zika virus	6	0.7145078778266907
+Aciclovir	Severe acute respiratory syndrome coronavirus	7	0.714438259601593
+Aciclovir	Hepatitis B virus	8	0.6925557255744934
+Aciclovir	Cytomegalovirus	9	0.6798887848854065
+Aciclovir	Middle East respiratory syndrome coronavirus	10	0.673410177230835
+Aciclovir	Enterovirus B	11	0.6719351410865784
+Aciclovir	Chikungunya virus	12	0.6402480602264404
+Aciclovir	Enterovirus A	13	0.574752151966095
+Aciclovir	Kaposi's sarcoma-associated herpesvirus	14	0.5677930116653442
+Aciclovir	Rift Valley fever virus	15	0.5559786558151245
+Aciclovir	West Nile virus	16	0.5295735597610474
+Aciclovir	BK virus	17	0.5129282474517822
+Aciclovir	Respiratory syncytial virus	18	0.5064823627471924
+Aciclovir	Sindbis virus	19	0.5020344853401184
+Aciclovir	Yellow fever virus	20	0.4811820387840271
+Adefovir Dipivoxil	Human immunodeficiency virus 1	1	0.6725304126739502
+Adefovir Dipivoxil	Influenza A virus	2	0.6431683301925659
+Adefovir Dipivoxil	Hepatitis C virus	3	0.641410231590271
+Adefovir Dipivoxil	Zika virus	4	0.6262833476066589
+Adefovir Dipivoxil	Dengue virus	5	0.600054144859314
+Adefovir Dipivoxil	Herpes simplex virus 1	6	0.5908055305480957
+Adefovir Dipivoxil	Ebola virus	7	0.5490511059761047
+Adefovir Dipivoxil	Severe acute respiratory syndrome coronavirus	8	0.5448251366615295
+Adefovir Dipivoxil	Middle East respiratory syndrome coronavirus	9	0.5431461930274963
+Adefovir Dipivoxil	Cytomegalovirus	10	0.5116455554962158
+Adefovir Dipivoxil	Chikungunya virus	11	0.4786071181297302
+Adefovir Dipivoxil	Enterovirus B	12	0.4587278664112091
+Adefovir Dipivoxil	Epstein-Barr virus	13	0.4216391146183014
+Adefovir Dipivoxil	Herpes simplex virus 2	14	0.38020583987236023
+Adefovir Dipivoxil	Kaposi's sarcoma-associated herpesvirus	15	0.37758710980415344
+Adefovir Dipivoxil	Sindbis virus	16	0.36873993277549744
+Adefovir Dipivoxil	Enterovirus A	17	0.366046279668808
+Adefovir Dipivoxil	BK virus	18	0.35344547033309937
+Adefovir Dipivoxil	Rift Valley fever virus	19	0.3519380986690521
+Adefovir Dipivoxil	Human Herpesvirus 1	20	0.348073273897171
+Alisporivir	Influenza A virus	1	0.7363221645355225
+Alisporivir	Dengue virus	2	0.6938061118125916
+Alisporivir	Herpes simplex virus 1	3	0.6752228140830994
+Alisporivir	Ebola virus	4	0.6549449563026428
+Alisporivir	Zika virus	5	0.6495243310928345
+Alisporivir	Cytomegalovirus	6	0.5964378714561462
+Alisporivir	Chikungunya virus	7	0.5943410396575928
+Alisporivir	Hepatitis B virus	8	0.5814722776412964
+Alisporivir	Enterovirus B	9	0.5432115793228149
+Alisporivir	Epstein-Barr virus	10	0.5305529832839966
+Alisporivir	Enterovirus A	11	0.47114279866218567
+Alisporivir	Kaposi's sarcoma-associated herpesvirus	12	0.4656542241573334
+Alisporivir	West Nile virus	13	0.44352394342422485
+Alisporivir	Rift Valley fever virus	14	0.44141995906829834
+Alisporivir	Herpes simplex virus 2	15	0.43462979793548584
+Alisporivir	Vesicular stomatitis virus	16	0.4338585436344147
+Alisporivir	Human rhinovirus A	17	0.41541463136672974
+Alisporivir	Respiratory syncytial virus	18	0.40438827872276306
+Alisporivir	Yellow fever virus	19	0.40274158120155334
+Alisporivir	Sindbis virus	20	0.3926214277744293
+Alpha-lipoic acid	Influenza A virus	1	0.6039326190948486
+Alpha-lipoic acid	Zika virus	2	0.5734100937843323
+Alpha-lipoic acid	Hepatitis C virus	3	0.5304362773895264
+Alpha-lipoic acid	Dengue virus	4	0.5067309141159058
+Alpha-lipoic acid	Herpes simplex virus 1	5	0.48795953392982483
+Alpha-lipoic acid	Ebola virus	6	0.42956680059432983
+Alpha-lipoic acid	Middle East respiratory syndrome coronavirus	7	0.40307939052581787
+Alpha-lipoic acid	Cytomegalovirus	8	0.3718564212322235
+Alpha-lipoic acid	Severe acute respiratory syndrome coronavirus	9	0.3617141544818878
+Alpha-lipoic acid	Hepatitis B virus	10	0.3331293761730194
+Alpha-lipoic acid	Kaposi's sarcoma-associated herpesvirus	11	0.3207807242870331
+Alpha-lipoic acid	Chikungunya virus	12	0.30517658591270447
+Alpha-lipoic acid	Enterovirus B	13	0.30005553364753723
+Alpha-lipoic acid	Epstein-Barr virus	14	0.29462501406669617
+Alpha-lipoic acid	Yellow fever virus	15	0.29341310262680054
+Alpha-lipoic acid	Vesicular stomatitis virus	16	0.27738040685653687
+Alpha-lipoic acid	Herpes simplex virus 2	17	0.2669358253479004
+Alpha-lipoic acid	SARS-COV-2	18	0.2654878795146942
+Alpha-lipoic acid	West Nile virus	19	0.2632348835468292
+Alpha-lipoic acid	Rift Valley fever virus	20	0.24979470670223236
+Amantadine	Human immunodeficiency virus 1	1	0.7130582332611084
+Amantadine	Hepatitis C virus	2	0.3655543923377991
+Amantadine	Dengue virus	3	0.33208414912223816
+Amantadine	Zika virus	4	0.319548100233078
+Amantadine	Herpes simplex virus 1	5	0.2984235882759094
+Amantadine	Enterovirus B	6	0.27272722125053406
+Amantadine	Epstein-Barr virus	7	0.25854191184043884
+Amantadine	Cytomegalovirus	8	0.22669565677642822
+Amantadine	Chikungunya virus	9	0.20584306120872498
+Amantadine	Hepatitis B virus	10	0.20055407285690308
+Amantadine	Middle East respiratory syndrome coronavirus	11	0.19323040544986725
+Amantadine	Influenza B virus	12	0.18348857760429382
+Amantadine	Severe acute respiratory syndrome coronavirus	13	0.17876389622688293
+Amantadine	Ebola virus	14	0.16880671679973602
+Amantadine	Sindbis virus	15	0.16860119998455048
+Amantadine	Varicella-zoster virus	16	0.1628618836402893
+Amantadine	Rift Valley fever virus	17	0.14484421908855438
+Amantadine	Kaposi's sarcoma-associated herpesvirus	18	0.14451417326927185
+Amantadine	Vaccinia virus	19	0.13405193388462067
+Amantadine	Measles virus	20	0.13375608623027802
+Amiodarone	Zika virus	1	0.7556424736976624
+Amiodarone	Influenza A virus	2	0.7333805561065674
+Amiodarone	Enterovirus B	3	0.7174362540245056
+Amiodarone	Chikungunya virus	4	0.6990250945091248
+Amiodarone	Middle East respiratory syndrome coronavirus	5	0.6983425617218018
+Amiodarone	Cytomegalovirus	6	0.6778951287269592
+Amiodarone	Epstein-Barr virus	7	0.6751656532287598
+Amiodarone	Hepatitis B virus	8	0.6692653298377991
+Amiodarone	Herpes simplex virus 2	9	0.6635017395019531
+Amiodarone	Human immunodeficiency virus 1	10	0.6575020551681519
+Amiodarone	Enterovirus A	11	0.6372287273406982
+Amiodarone	Kaposi's sarcoma-associated herpesvirus	12	0.619620144367218
+Amiodarone	Rift Valley fever virus	13	0.615981936454773
+Amiodarone	Respiratory syncytial virus	14	0.5760055184364319
+Amiodarone	West Nile virus	15	0.5527791976928711
+Amiodarone	Human Herpesvirus 1	16	0.5527615547180176
+Amiodarone	BK virus	17	0.5421439409255981
+Amiodarone	Human immunodeficiency virus	18	0.5038846135139465
+Amiodarone	Vaccinia virus	19	0.5009406208992004
+Amiodarone	Influenza B virus	20	0.5005861520767212
+Amodiaquine	Influenza A virus	1	0.7953549027442932
+Amodiaquine	Hepatitis B virus	2	0.7569855451583862
+Amodiaquine	Chikungunya virus	3	0.7234254479408264
+Amodiaquine	Epstein-Barr virus	4	0.6929351687431335
+Amodiaquine	Cytomegalovirus	5	0.6874856948852539
+Amodiaquine	Rift Valley fever virus	6	0.6874443292617798
+Amodiaquine	Respiratory syncytial virus	7	0.6696198582649231
+Amodiaquine	Human immunodeficiency virus 1	8	0.6645027995109558
+Amodiaquine	BK virus	9	0.6594140529632568
+Amodiaquine	Herpes simplex virus 2	10	0.6542342901229858
+Amodiaquine	Enterovirus B	11	0.6506488919258118
+Amodiaquine	Human Herpesvirus 1	12	0.6504244804382324
+Amodiaquine	Kaposi's sarcoma-associated herpesvirus	13	0.6489537954330444
+Amodiaquine	Enterovirus A	14	0.6356003284454346
+Amodiaquine	Influenza B virus	15	0.6164199113845825
+Amodiaquine	Varicella-zoster virus	16	0.6093001961708069
+Amodiaquine	SARS-COV-2	17	0.6000463962554932
+Amodiaquine	Vaccinia virus	18	0.599163830280304
+Amodiaquine	Japanese encephalitis virus	19	0.574156641960144
+Amodiaquine	Human immunodeficiency virus	20	0.5676367282867432
+Amprenavir	Influenza A virus	1	0.6274471282958984
+Amprenavir	Zika virus	2	0.5502970218658447
+Amprenavir	Hepatitis C virus	3	0.5406046509742737
+Amprenavir	Herpes simplex virus 1	4	0.5051409006118774
+Amprenavir	Dengue virus	5	0.48762765526771545
+Amprenavir	Severe acute respiratory syndrome coronavirus	6	0.4491170346736908
+Amprenavir	Middle East respiratory syndrome coronavirus	7	0.4416281282901764
+Amprenavir	Ebola virus	8	0.3662649989128113
+Amprenavir	Chikungunya virus	9	0.3654302656650543
+Amprenavir	Enterovirus B	10	0.3644208014011383
+Amprenavir	Cytomegalovirus	11	0.29892829060554504
+Amprenavir	West Nile virus	12	0.29746493697166443
+Amprenavir	Hepatitis B virus	13	0.2911147177219391
+Amprenavir	Kaposi's sarcoma-associated herpesvirus	14	0.2881637215614319
+Amprenavir	Herpes simplex virus 2	15	0.2859436571598053
+Amprenavir	Epstein-Barr virus	16	0.2801893949508667
+Amprenavir	Rift Valley fever virus	17	0.25545528531074524
+Amprenavir	Respiratory syncytial virus	18	0.2458559274673462
+Amprenavir	Enterovirus A	19	0.2408076524734497
+Amprenavir	BK virus	20	0.23076069355010986
+Anisomycin	Influenza A virus	1	0.7306142449378967
+Anisomycin	Human immunodeficiency virus 1	2	0.7271184921264648
+Anisomycin	Hepatitis C virus	3	0.6986637711524963
+Anisomycin	Herpes simplex virus 1	4	0.6971261501312256
+Anisomycin	Ebola virus	5	0.6716652512550354
+Anisomycin	Cytomegalovirus	6	0.6258396506309509
+Anisomycin	Enterovirus B	7	0.593747079372406
+Anisomycin	Hepatitis B virus	8	0.5899293422698975
+Anisomycin	Chikungunya virus	9	0.5539053082466125
+Anisomycin	Epstein-Barr virus	10	0.5211214423179626
+Anisomycin	Kaposi's sarcoma-associated herpesvirus	11	0.48105135560035706
+Anisomycin	Vaccinia virus	12	0.46655580401420593
+Anisomycin	Enterovirus A	13	0.4653875231742859
+Anisomycin	Herpes simplex virus 2	14	0.4615721106529236
+Anisomycin	Respiratory syncytial virus	15	0.4599623680114746
+Anisomycin	BK virus	16	0.4417423605918884
+Anisomycin	Rift Valley fever virus	17	0.42019331455230713
+Anisomycin	Influenza B virus	18	0.41148972511291504
+Anisomycin	Sindbis virus	19	0.41018563508987427
+Anisomycin	Junin virus	20	0.40764057636260986
+Apoptozole	Human immunodeficiency virus 1	1	0.7615780830383301
+Apoptozole	Hepatitis C virus	2	0.6808589100837708
+Apoptozole	Influenza A virus	3	0.6628720760345459
+Apoptozole	Herpes simplex virus 1	4	0.656708836555481
+Apoptozole	Middle East respiratory syndrome coronavirus	5	0.6503474712371826
+Apoptozole	Ebola virus	6	0.6344233155250549
+Apoptozole	Severe acute respiratory syndrome coronavirus	7	0.5974239110946655
+Apoptozole	Hepatitis B virus	8	0.5955781936645508
+Apoptozole	Cytomegalovirus	9	0.5765421390533447
+Apoptozole	Chikungunya virus	10	0.569366991519928
+Apoptozole	Enterovirus B	11	0.5492377877235413
+Apoptozole	Epstein-Barr virus	12	0.5269953608512878
+Apoptozole	Enterovirus A	13	0.45836377143859863
+Apoptozole	Herpes simplex virus 2	14	0.45080769062042236
+Apoptozole	Kaposi's sarcoma-associated herpesvirus	15	0.43578317761421204
+Apoptozole	Vesicular stomatitis virus	16	0.4118785262107849
+Apoptozole	BK virus	17	0.41161540150642395
+Apoptozole	Rift Valley fever virus	18	0.410383403301239
+Apoptozole	Respiratory syncytial virus	19	0.40021812915802
+Apoptozole	West Nile virus	20	0.398252010345459
+Aprotinin	Zika virus	1	0.7614255547523499
+Aprotinin	Hepatitis C virus	2	0.7383804321289062
+Aprotinin	Herpes simplex virus 1	3	0.7329886555671692
+Aprotinin	Human immunodeficiency virus 1	4	0.7204462289810181
+Aprotinin	Severe acute respiratory syndrome coronavirus	5	0.7183791399002075
+Aprotinin	Ebola virus	6	0.7142415046691895
+Aprotinin	Middle East respiratory syndrome coronavirus	7	0.6836887001991272
+Aprotinin	Cytomegalovirus	8	0.6816967129707336
+Aprotinin	Enterovirus B	9	0.662950336933136
+Aprotinin	Chikungunya virus	10	0.6593378782272339
+Aprotinin	Hepatitis B virus	11	0.6548980474472046
+Aprotinin	Epstein-Barr virus	12	0.5946150422096252
+Aprotinin	Herpes simplex virus 2	13	0.579135000705719
+Aprotinin	Kaposi's sarcoma-associated herpesvirus	14	0.5522110462188721
+Aprotinin	Enterovirus A	15	0.5517420172691345
+Aprotinin	BK virus	16	0.5231700539588928
+Aprotinin	Rift Valley fever virus	17	0.5080220103263855
+Aprotinin	Vesicular stomatitis virus	18	0.5015580058097839
+Aprotinin	Respiratory syncytial virus	19	0.5008151531219482
+Aprotinin	Varicella-zoster virus	20	0.4682088792324066
+Arbidol (Umifenovir)	Severe acute respiratory syndrome coronavirus	1	0.7696112990379333
+Arbidol (Umifenovir)	Dengue virus	2	0.7634234428405762
+Arbidol (Umifenovir)	Hepatitis C virus	3	0.7590005397796631
+Arbidol (Umifenovir)	Cytomegalovirus	4	0.7458816170692444
+Arbidol (Umifenovir)	Chikungunya virus	5	0.741529643535614
+Arbidol (Umifenovir)	Hepatitis B virus	6	0.7411568760871887
+Arbidol (Umifenovir)	Enterovirus B	7	0.7341148257255554
+Arbidol (Umifenovir)	Epstein-Barr virus	8	0.713150143623352
+Arbidol (Umifenovir)	Middle East respiratory syndrome coronavirus	9	0.7095422744750977
+Arbidol (Umifenovir)	Human immunodeficiency virus 1	10	0.6829476952552795
+Arbidol (Umifenovir)	Enterovirus A	11	0.6814086437225342
+Arbidol (Umifenovir)	Rift Valley fever virus	12	0.6732320785522461
+Arbidol (Umifenovir)	BK virus	13	0.6448242664337158
+Arbidol (Umifenovir)	Respiratory syncytial virus	14	0.6281023025512695
+Arbidol (Umifenovir)	Kaposi's sarcoma-associated herpesvirus	15	0.610994815826416
+Arbidol (Umifenovir)	Sindbis virus	16	0.6109077334403992
+Arbidol (Umifenovir)	Vesicular stomatitis virus	17	0.5912208557128906
+Arbidol (Umifenovir)	Human Herpesvirus 1	18	0.5887495875358582
+Arbidol (Umifenovir)	Yellow fever virus	19	0.5871399641036987
+Arbidol (Umifenovir)	Varicella-zoster virus	20	0.5669329762458801
+Artesunate	Middle East respiratory syndrome coronavirus	1	0.7579554915428162
+Artesunate	Dengue virus	2	0.7552289962768555
+Artesunate	Zika virus	3	0.7513594627380371
+Artesunate	Influenza A virus	4	0.725190281867981
+Artesunate	Enterovirus B	5	0.7225812077522278
+Artesunate	Severe acute respiratory syndrome coronavirus	6	0.7041608691215515
+Artesunate	Human immunodeficiency virus 1	7	0.7020736932754517
+Artesunate	Chikungunya virus	8	0.6873785257339478
+Artesunate	Hepatitis C virus	9	0.6817116141319275
+Artesunate	Hepatitis B virus	10	0.6661233305931091
+Artesunate	Herpes simplex virus 1	11	0.6517295837402344
+Artesunate	Kaposi's sarcoma-associated herpesvirus	12	0.6336698532104492
+Artesunate	Enterovirus A	13	0.6028215289115906
+Artesunate	Rift Valley fever virus	14	0.5987449884414673
+Artesunate	Herpes simplex virus 2	15	0.5941475033760071
+Artesunate	Sindbis virus	16	0.581156313419342
+Artesunate	Respiratory syncytial virus	17	0.5740034580230713
+Artesunate	Vesicular stomatitis virus	18	0.5531039237976074
+Artesunate	West Nile virus	19	0.5434620380401611
+Artesunate	Yellow fever virus	20	0.5347086191177368
+Asunaprevir	Human immunodeficiency virus 1	1	0.7374261021614075
+Asunaprevir	Influenza A virus	2	0.4148854911327362
+Asunaprevir	Zika virus	3	0.38377732038497925
+Asunaprevir	Dengue virus	4	0.35221531987190247
+Asunaprevir	Cytomegalovirus	5	0.3080720901489258
+Asunaprevir	Herpes simplex virus 1	6	0.300851434469223
+Asunaprevir	Severe acute respiratory syndrome coronavirus	7	0.27772220969200134
+Asunaprevir	Ebola virus	8	0.26429465413093567
+Asunaprevir	Middle East respiratory syndrome coronavirus	9	0.25561901926994324
+Asunaprevir	Hepatitis B virus	10	0.22452665865421295
+Asunaprevir	Rift Valley fever virus	11	0.19910764694213867
+Asunaprevir	Chikungunya virus	12	0.18694384396076202
+Asunaprevir	Sindbis virus	13	0.18253187835216522
+Asunaprevir	Enterovirus B	14	0.17259208858013153
+Asunaprevir	Japanese encephalitis virus	15	0.1657460331916809
+Asunaprevir	Respiratory syncytial virus	16	0.15780626237392426
+Asunaprevir	Human Immunodeficiency Virus 2	17	0.15366822481155396
+Asunaprevir	Herpes simplex virus 2	18	0.14555373787879944
+Asunaprevir	Varicella-zoster virus	19	0.14480072259902954
+Asunaprevir	West Nile virus	20	0.144549161195755
+Atazanavir	Influenza A virus	1	0.6049327850341797
+Atazanavir	Hepatitis C virus	2	0.6037778854370117
+Atazanavir	Zika virus	3	0.5371792912483215
+Atazanavir	Herpes simplex virus 1	4	0.516660749912262
+Atazanavir	Dengue virus	5	0.47256749868392944
+Atazanavir	Ebola virus	6	0.4536474347114563
+Atazanavir	Middle East respiratory syndrome coronavirus	7	0.4315502345561981
+Atazanavir	Severe acute respiratory syndrome coronavirus	8	0.3700486719608307
+Atazanavir	Enterovirus B	9	0.3644258677959442
+Atazanavir	Hepatitis B virus	10	0.3404252529144287
+Atazanavir	Chikungunya virus	11	0.3234085440635681
+Atazanavir	Herpes simplex virus 2	12	0.3211289346218109
+Atazanavir	Epstein-Barr virus	13	0.2993856966495514
+Atazanavir	Cytomegalovirus	14	0.2820475399494171
+Atazanavir	Human metapneumovirus	15	0.279531866312027
+Atazanavir	Yellow fever virus	16	0.2427978664636612
+Atazanavir	Respiratory syncytial virus	17	0.24197988212108612
+Atazanavir	Kaposi's sarcoma-associated herpesvirus	18	0.2321474403142929
+Atazanavir	Vesicular stomatitis virus	19	0.23024478554725647
+Atazanavir	Enterovirus A	20	0.21761469542980194
+Atovaquone	Human immunodeficiency virus 1	1	0.7681679725646973
+Atovaquone	Influenza A virus	2	0.6368457674980164
+Atovaquone	Hepatitis C virus	3	0.5896597504615784
+Atovaquone	Dengue virus	4	0.512645423412323
+Atovaquone	Middle East respiratory syndrome coronavirus	5	0.49110662937164307
+Atovaquone	Herpes simplex virus 1	6	0.4400879442691803
+Atovaquone	Severe acute respiratory syndrome coronavirus	7	0.41775378584861755
+Atovaquone	Ebola virus	8	0.40488961338996887
+Atovaquone	Hepatitis B virus	9	0.3520295321941376
+Atovaquone	Cytomegalovirus	10	0.33955830335617065
+Atovaquone	Epstein-Barr virus	11	0.33065518736839294
+Atovaquone	Enterovirus B	12	0.3215223252773285
+Atovaquone	Respiratory syncytial virus	13	0.2916828393936157
+Atovaquone	Rift Valley fever virus	14	0.2724589705467224
+Atovaquone	Herpes simplex virus 2	15	0.2626570761203766
+Atovaquone	Kaposi's sarcoma-associated herpesvirus	16	0.2616565227508545
+Atovaquone	BK virus	17	0.2585371732711792
+Atovaquone	Sindbis virus	18	0.25827622413635254
+Atovaquone	Enterovirus A	19	0.25046366453170776
+Atovaquone	West Nile virus	20	0.249521866440773
+Azacitidine	Zika virus	1	0.724877655506134
+Azacitidine	Hepatitis C virus	2	0.7212216854095459
+Azacitidine	Severe acute respiratory syndrome coronavirus	3	0.717302143573761
+Azacitidine	Herpes simplex virus 1	4	0.7161840796470642
+Azacitidine	Dengue virus	5	0.7037913799285889
+Azacitidine	Cytomegalovirus	6	0.6820205450057983
+Azacitidine	Ebola virus	7	0.6524924635887146
+Azacitidine	Middle East respiratory syndrome coronavirus	8	0.651712954044342
+Azacitidine	Hepatitis B virus	9	0.6515425443649292
+Azacitidine	Chikungunya virus	10	0.6507967114448547
+Azacitidine	Enterovirus B	11	0.6444320678710938
+Azacitidine	Epstein-Barr virus	12	0.6318739652633667
+Azacitidine	Enterovirus A	13	0.549801230430603
+Azacitidine	Kaposi's sarcoma-associated herpesvirus	14	0.5489488840103149
+Azacitidine	Herpes simplex virus 2	15	0.5287690162658691
+Azacitidine	Respiratory syncytial virus	16	0.5040952563285828
+Azacitidine	Sindbis virus	17	0.492323637008667
+Azacitidine	West Nile virus	18	0.4920971095561981
+Azacitidine	BK virus	19	0.4874931275844574
+Azacitidine	Vaccinia virus	20	0.4735017418861389
+Azaribine	Human immunodeficiency virus 1	1	0.7384578585624695
+Azaribine	Zika virus	2	0.3844955563545227
+Azaribine	Hepatitis C virus	3	0.3634950518608093
+Azaribine	Dengue virus	4	0.36283016204833984
+Azaribine	Herpes simplex virus 1	5	0.32660096883773804
+Azaribine	Middle East respiratory syndrome coronavirus	6	0.2631240785121918
+Azaribine	Ebola virus	7	0.24839864671230316
+Azaribine	Hepatitis B virus	8	0.24335569143295288
+Azaribine	Severe acute respiratory syndrome coronavirus	9	0.23101025819778442
+Azaribine	Cytomegalovirus	10	0.22648589313030243
+Azaribine	Enterovirus B	11	0.20715288817882538
+Azaribine	Chikungunya virus	12	0.1872808337211609
+Azaribine	Rift Valley fever virus	13	0.17507784068584442
+Azaribine	Kaposi's sarcoma-associated herpesvirus	14	0.16849994659423828
+Azaribine	Enterovirus A	15	0.1672966331243515
+Azaribine	Human metapneumovirus	16	0.16026724874973297
+Azaribine	Enterovirus C	17	0.1570461094379425
+Azaribine	Epstein-Barr virus	18	0.15624885261058807
+Azaribine	Varicella-zoster virus	19	0.14716865122318268
+Azaribine	Yellow fever virus	20	0.14514115452766418
+Azithromycin	Middle East respiratory syndrome coronavirus	1	0.741226315498352
+Azithromycin	Dengue virus	2	0.7301578521728516
+Azithromycin	Herpes simplex virus 1	3	0.6995425820350647
+Azithromycin	Severe acute respiratory syndrome coronavirus	4	0.6989091038703918
+Azithromycin	Chikungunya virus	5	0.6827520728111267
+Azithromycin	Hepatitis B virus	6	0.6750887632369995
+Azithromycin	Cytomegalovirus	7	0.6610589623451233
+Azithromycin	Epstein-Barr virus	8	0.6496334671974182
+Azithromycin	Kaposi's sarcoma-associated herpesvirus	9	0.6168224811553955
+Azithromycin	Rift Valley fever virus	10	0.5788187980651855
+Azithromycin	Herpes simplex virus 2	11	0.5727453827857971
+Azithromycin	BK virus	12	0.5554671883583069
+Azithromycin	Vesicular stomatitis virus	13	0.5527041554450989
+Azithromycin	West Nile virus	14	0.5434040427207947
+Azithromycin	Sindbis virus	15	0.5373678803443909
+Azithromycin	Human Herpesvirus 1	16	0.5246128439903259
+Azithromycin	Yellow fever virus	17	0.4916967451572418
+Azithromycin	Varicella-zoster virus	18	0.48883920907974243
+Azithromycin	Human immunodeficiency virus	19	0.47858285903930664
+Azithromycin	Influenza B virus	20	0.470572292804718
+BCX4430 (Galidesivir)	Herpes simplex virus 1	1	0.7578702569007874
+BCX4430 (Galidesivir)	Influenza A virus	2	0.7324821352958679
+BCX4430 (Galidesivir)	Kaposi's sarcoma-associated herpesvirus	3	0.7136080265045166
+BCX4430 (Galidesivir)	Human immunodeficiency virus 1	4	0.7096303701400757
+BCX4430 (Galidesivir)	Epstein-Barr virus	5	0.6995084285736084
+BCX4430 (Galidesivir)	Enterovirus A	6	0.6822692155838013
+BCX4430 (Galidesivir)	Cytomegalovirus	7	0.6811473965644836
+BCX4430 (Galidesivir)	Enterovirus B	8	0.6783654093742371
+BCX4430 (Galidesivir)	Sindbis virus	9	0.6517981290817261
+BCX4430 (Galidesivir)	Vesicular stomatitis virus	10	0.6497101783752441
+BCX4430 (Galidesivir)	Herpes simplex virus 2	11	0.6453186273574829
+BCX4430 (Galidesivir)	Hepatitis B virus	12	0.6413746476173401
+BCX4430 (Galidesivir)	BK virus	13	0.6376885175704956
+BCX4430 (Galidesivir)	Human Herpesvirus 1	14	0.6362808346748352
+BCX4430 (Galidesivir)	Respiratory syncytial virus	15	0.6356986165046692
+BCX4430 (Galidesivir)	Varicella-zoster virus	16	0.6341504454612732
+BCX4430 (Galidesivir)	Chikungunya virus	17	0.6183717250823975
+BCX4430 (Galidesivir)	Influenza B virus	18	0.6166600584983826
+BCX4430 (Galidesivir)	SARS-COV-2	19	0.6102858781814575
+BCX4430 (Galidesivir)	Vaccinia virus	20	0.5645540356636047
+Benztropine	Human immunodeficiency virus 1	1	0.7422930002212524
+Benztropine	Zika virus	2	0.7237614393234253
+Benztropine	Dengue virus	3	0.7094674110412598
+Benztropine	Herpes simplex virus 1	4	0.685918927192688
+Benztropine	Influenza A virus	5	0.6612551212310791
+Benztropine	Cytomegalovirus	6	0.6208817362785339
+Benztropine	Hepatitis B virus	7	0.604129433631897
+Benztropine	Enterovirus B	8	0.5832733511924744
+Benztropine	Chikungunya virus	9	0.5831223726272583
+Benztropine	Epstein-Barr virus	10	0.5472005009651184
+Benztropine	Rift Valley fever virus	11	0.4647693336009979
+Benztropine	Herpes simplex virus 2	12	0.45889973640441895
+Benztropine	Enterovirus A	13	0.4584461748600006
+Benztropine	Sindbis virus	14	0.44127562642097473
+Benztropine	Kaposi's sarcoma-associated herpesvirus	15	0.4400632083415985
+Benztropine	West Nile virus	16	0.43685847520828247
+Benztropine	Vesicular stomatitis virus	17	0.42749905586242676
+Benztropine	Influenza B virus	18	0.4224911332130432
+Benztropine	Respiratory syncytial virus	19	0.41960546374320984
+Benztropine	Human Herpesvirus 1	20	0.4184059798717499
+Bepridil	Human immunodeficiency virus 1	1	0.7830718159675598
+Bepridil	Hepatitis C virus	2	0.6808197498321533
+Bepridil	Zika virus	3	0.6659786105155945
+Bepridil	Influenza A virus	4	0.6606215238571167
+Bepridil	Middle East respiratory syndrome coronavirus	5	0.6238797903060913
+Bepridil	Herpes simplex virus 1	6	0.6173879504203796
+Bepridil	Severe acute respiratory syndrome coronavirus	7	0.5755460858345032
+Bepridil	Cytomegalovirus	8	0.5206102728843689
+Bepridil	Hepatitis B virus	9	0.5204654932022095
+Bepridil	Enterovirus B	10	0.5100063681602478
+Bepridil	Chikungunya virus	11	0.5079697966575623
+Bepridil	Epstein-Barr virus	12	0.4583841562271118
+Bepridil	Enterovirus A	13	0.4159834682941437
+Bepridil	Herpes simplex virus 2	14	0.38640186190605164
+Bepridil	Kaposi's sarcoma-associated herpesvirus	15	0.38321197032928467
+Bepridil	Rift Valley fever virus	16	0.37436601519584656
+Bepridil	Sindbis virus	17	0.3684433102607727
+Bepridil	SARS-COV-2	18	0.3644428849220276
+Bepridil	Human herpesvirus 6	19	0.3634866774082184
+Bepridil	Respiratory syncytial virus	20	0.3582369089126587
+Berberine	Ebola virus	1	0.7621917128562927
+Berberine	Dengue virus	2	0.757580578327179
+Berberine	Severe acute respiratory syndrome coronavirus	3	0.7468363642692566
+Berberine	Middle East respiratory syndrome coronavirus	4	0.7408856153488159
+Berberine	Hepatitis B virus	5	0.7201822400093079
+Berberine	Epstein-Barr virus	6	0.7015905380249023
+Berberine	Rift Valley fever virus	7	0.6744025945663452
+Berberine	Herpes simplex virus 2	8	0.6621074080467224
+Berberine	Kaposi's sarcoma-associated herpesvirus	9	0.6532926559448242
+Berberine	Vesicular stomatitis virus	10	0.6440784335136414
+Berberine	Human Herpesvirus 1	11	0.6270830631256104
+Berberine	West Nile virus	12	0.6242916584014893
+Berberine	BK virus	13	0.6150389313697815
+Berberine	Yellow fever virus	14	0.5845585465431213
+Berberine	Influenza B virus	15	0.5789008736610413
+Berberine	Varicella-zoster virus	16	0.5611280798912048
+Berberine	SARS-COV-2	17	0.5542121529579163
+Berberine	Vaccinia virus	18	0.5494105219841003
+Berberine	Japanese encephalitis virus	19	0.5225545167922974
+Berberine	Human immunodeficiency virus	20	0.5170094966888428
+Bevirimat	Zika virus	1	0.406261682510376
+Bevirimat	Influenza A virus	2	0.4014262855052948
+Bevirimat	Hepatitis C virus	3	0.38219282031059265
+Bevirimat	Cytomegalovirus	4	0.2285359650850296
+Bevirimat	Ebola virus	5	0.19467289745807648
+Bevirimat	Middle East respiratory syndrome coronavirus	6	0.19340883195400238
+Bevirimat	Dengue virus	7	0.19180527329444885
+Bevirimat	Chikungunya virus	8	0.18887047469615936
+Bevirimat	Epstein-Barr virus	9	0.1730426847934723
+Bevirimat	Herpes simplex virus 1	10	0.14563502371311188
+Bevirimat	Herpes simplex virus 2	11	0.14453604817390442
+Bevirimat	Middle East resporitary syndrome coronavirus	12	0.14400315284729004
+Bevirimat	Hepatitis B virus	13	0.13842308521270752
+Bevirimat	West Nile virus	14	0.13513606786727905
+Bevirimat	Kaposi's sarcoma-associated herpesvirus	15	0.1329885721206665
+Bevirimat	Influenza B virus	16	0.12745334208011627
+Bevirimat	Respiratory syncytial virus	17	0.12420959025621414
+Bevirimat	Enterovirus A	18	0.12234161049127579
+Bevirimat	Human Herpesvirus 1	19	0.11440901458263397
+Bevirimat	Varicella-zoster virus	20	0.11314702033996582
+Bithionol	Human immunodeficiency virus 1	1	0.7517812252044678
+Bithionol	Influenza A virus	2	0.6639630794525146
+Bithionol	Hepatitis C virus	3	0.6600785255432129
+Bithionol	Dengue virus	4	0.6537051796913147
+Bithionol	Ebola virus	5	0.6531351804733276
+Bithionol	Middle East respiratory syndrome coronavirus	6	0.6394597291946411
+Bithionol	Severe acute respiratory syndrome coronavirus	7	0.6301661729812622
+Bithionol	Herpes simplex virus 1	8	0.6011137366294861
+Bithionol	Cytomegalovirus	9	0.5520357489585876
+Bithionol	Hepatitis B virus	10	0.5490975975990295
+Bithionol	Chikungunya virus	11	0.5142995119094849
+Bithionol	Enterovirus B	12	0.513668417930603
+Bithionol	Epstein-Barr virus	13	0.498043417930603
+Bithionol	West Nile virus	14	0.4248318076133728
+Bithionol	Rift Valley fever virus	15	0.41790246963500977
+Bithionol	Vaccinia virus	16	0.41321706771850586
+Bithionol	Enterovirus A	17	0.4048204720020294
+Bithionol	Herpes simplex virus 2	18	0.39387020468711853
+Bithionol	Kaposi's sarcoma-associated herpesvirus	19	0.39158087968826294
+Bithionol	Human Herpesvirus 1	20	0.38420480489730835
+Bortezomib	Middle East respiratory syndrome coronavirus	1	0.7705596089363098
+Bortezomib	Hepatitis C virus	2	0.724524199962616
+Bortezomib	Human immunodeficiency virus 1	3	0.712371289730072
+Bortezomib	Ebola virus	4	0.7069321274757385
+Bortezomib	Cytomegalovirus	5	0.7030854225158691
+Bortezomib	Herpes simplex virus 1	6	0.6951892971992493
+Bortezomib	Severe acute respiratory syndrome coronavirus	7	0.6946590542793274
+Bortezomib	Enterovirus B	8	0.6675649285316467
+Bortezomib	Chikungunya virus	9	0.6653000712394714
+Bortezomib	Epstein-Barr virus	10	0.6474053263664246
+Bortezomib	Enterovirus A	11	0.5666636824607849
+Bortezomib	Kaposi's sarcoma-associated herpesvirus	12	0.5578211545944214
+Bortezomib	Herpes simplex virus 2	13	0.5549169182777405
+Bortezomib	Sindbis virus	14	0.5104311108589172
+Bortezomib	BK virus	15	0.5005183815956116
+Bortezomib	West Nile virus	16	0.49203211069107056
+Bortezomib	Human Herpesvirus 1	17	0.47934770584106445
+Bortezomib	Varicella-zoster virus	18	0.45856747031211853
+Bortezomib	Vaccinia virus	19	0.4552660286426544
+Bortezomib	Yellow fever virus	20	0.45067089796066284
+Brecanavir	Hepatitis C virus	1	0.3672086298465729
+Brecanavir	Zika virus	2	0.3584981858730316
+Brecanavir	Influenza A virus	3	0.3480197489261627
+Brecanavir	Ebola virus	4	0.26029539108276367
+Brecanavir	Herpes simplex virus 1	5	0.2271721512079239
+Brecanavir	Middle East respiratory syndrome coronavirus	6	0.21763229370117188
+Brecanavir	Severe acute respiratory syndrome coronavirus	7	0.2123071700334549
+Brecanavir	Dengue virus	8	0.20488353073596954
+Brecanavir	Influenza B virus	9	0.18459978699684143
+Brecanavir	Herpes simplex virus 2	10	0.15977293252944946
+Brecanavir	Vaccinia virus	11	0.1485026478767395
+Brecanavir	Enterovirus A	12	0.14337722957134247
+Brecanavir	Rift Valley fever virus	13	0.1368170529603958
+Brecanavir	Vesicular stomatitis virus	14	0.1366184502840042
+Brecanavir	Chikungunya virus	15	0.135110005736351
+Brecanavir	Epstein-Barr virus	16	0.13400070369243622
+Brecanavir	Cytomegalovirus	17	0.13347026705741882
+Brecanavir	Enterovirus B	18	0.12425635010004044
+Brecanavir	Hepatitis B virus	19	0.11843305826187134
+Brecanavir	Rhinovirus A	20	0.11294392496347427
+Brequinar	Herpes simplex virus 1	1	0.8094179034233093
+Brequinar	Zika virus	2	0.7741343975067139
+Brequinar	Middle East respiratory syndrome coronavirus	3	0.729789137840271
+Brequinar	Epstein-Barr virus	4	0.7287538647651672
+Brequinar	Enterovirus A	5	0.7098682522773743
+Brequinar	Ebola virus	6	0.7056592106819153
+Brequinar	Cytomegalovirus	7	0.7030912041664124
+Brequinar	Hepatitis C virus	8	0.6893288493156433
+Brequinar	Hepatitis B virus	9	0.6872555613517761
+Brequinar	Severe acute respiratory syndrome coronavirus	10	0.6749459505081177
+Brequinar	Enterovirus B	11	0.6725643277168274
+Brequinar	Chikungunya virus	12	0.6641356945037842
+Brequinar	Varicella-zoster virus	13	0.6399574279785156
+Brequinar	Sindbis virus	14	0.63846355676651
+Brequinar	Respiratory syncytial virus	15	0.6374751329421997
+Brequinar	Kaposi's sarcoma-associated herpesvirus	16	0.6356494426727295
+Brequinar	Human Herpesvirus 1	17	0.6347536444664001
+Brequinar	BK virus	18	0.6235431432723999
+Brequinar	Rift Valley fever virus	19	0.6164057850837708
+Brequinar	Herpes simplex virus 2	20	0.6134711503982544
+Brincidofovir	Zika virus	1	0.8016279339790344
+Brincidofovir	Influenza A virus	2	0.7470754981040955
+Brincidofovir	Severe acute respiratory syndrome coronavirus	3	0.7418625950813293
+Brincidofovir	Hepatitis B virus	4	0.7278858423233032
+Brincidofovir	Dengue virus	5	0.726746141910553
+Brincidofovir	Chikungunya virus	6	0.7217427492141724
+Brincidofovir	Rift Valley fever virus	7	0.7092207074165344
+Brincidofovir	Hepatitis C virus	8	0.7036806344985962
+Brincidofovir	Enterovirus A	9	0.6999407410621643
+Brincidofovir	Herpes simplex virus 2	10	0.6786271333694458
+Brincidofovir	West Nile virus	11	0.6745700240135193
+Brincidofovir	Respiratory syncytial virus	12	0.6662565469741821
+Brincidofovir	Vesicular stomatitis virus	13	0.6542694568634033
+Brincidofovir	Human immunodeficiency virus 1	14	0.6500325798988342
+Brincidofovir	Enterovirus B	15	0.6476629376411438
+Brincidofovir	Human Herpesvirus 1	16	0.6372907161712646
+Brincidofovir	Sindbis virus	17	0.6359893679618835
+Brincidofovir	Middle East respiratory syndrome coronavirus	18	0.6322290897369385
+Brincidofovir	Yellow fever virus	19	0.62094646692276
+Brincidofovir	Influenza B virus	20	0.6013140678405762
+Caffeine	Dengue virus	1	0.7085901498794556
+Caffeine	Human immunodeficiency virus 1	2	0.699137270450592
+Caffeine	Zika virus	3	0.6866319179534912
+Caffeine	Middle East respiratory syndrome coronavirus	4	0.6640858054161072
+Caffeine	Cytomegalovirus	5	0.6286768913269043
+Caffeine	Ebola virus	6	0.6250516176223755
+Caffeine	Chikungunya virus	7	0.615169107913971
+Caffeine	Hepatitis B virus	8	0.5953965187072754
+Caffeine	Enterovirus B	9	0.5802937150001526
+Caffeine	Severe acute respiratory syndrome coronavirus	10	0.5757206678390503
+Caffeine	Epstein-Barr virus	11	0.5601981282234192
+Caffeine	Kaposi's sarcoma-associated herpesvirus	12	0.47754406929016113
+Caffeine	Enterovirus A	13	0.47526437044143677
+Caffeine	Respiratory syncytial virus	14	0.460946261882782
+Caffeine	BK virus	15	0.4533453583717346
+Caffeine	Rift Valley fever virus	16	0.4510844349861145
+Caffeine	Sindbis virus	17	0.4435676336288452
+Caffeine	Herpes simplex virus 2	18	0.4394647777080536
+Caffeine	West Nile virus	19	0.4360365867614746
+Caffeine	Yellow fever virus	20	0.4342239797115326
+Calanolide A	Hepatitis C virus	1	0.4258890151977539
+Calanolide A	Zika virus	2	0.40024781227111816
+Calanolide A	Influenza A virus	3	0.38930779695510864
+Calanolide A	Ebola virus	4	0.2805052697658539
+Calanolide A	Dengue virus	5	0.2433416098356247
+Calanolide A	Herpes simplex virus 1	6	0.1917324811220169
+Calanolide A	Middle East respiratory syndrome coronavirus	7	0.18482115864753723
+Calanolide A	Herpes simplex virus 2	8	0.18012532591819763
+Calanolide A	Severe acute respiratory syndrome coronavirus	9	0.17086577415466309
+Calanolide A	Junin virus	10	0.16701027750968933
+Calanolide A	Varicella-zoster virus	11	0.1587056666612625
+Calanolide A	Chikungunya virus	12	0.1542840600013733
+Calanolide A	Enterovirus B	13	0.14595772325992584
+Calanolide A	Epstein-Barr virus	14	0.14461910724639893
+Calanolide A	Vaccinia virus	15	0.13893643021583557
+Calanolide A	Cytomegalovirus	16	0.13428999483585358
+Calanolide A	SARS-COV-2	17	0.13396644592285156
+Calanolide A	Hantavirus	18	0.13366052508354187
+Calanolide A	Hepatitis B virus	19	0.13277147710323334
+Calanolide A	Yellow fever virus	20	0.12435939162969589
+Camostat	Human immunodeficiency virus 1	1	0.6985786557197571
+Camostat	Dengue virus	2	0.6831628680229187
+Camostat	Zika virus	3	0.6812556982040405
+Camostat	Hepatitis C virus	4	0.6618355512619019
+Camostat	Herpes simplex virus 1	5	0.6470462679862976
+Camostat	Ebola virus	6	0.6095534563064575
+Camostat	Cytomegalovirus	7	0.5899218320846558
+Camostat	Enterovirus B	8	0.552301287651062
+Camostat	Chikungunya virus	9	0.5522081851959229
+Camostat	Hepatitis B virus	10	0.5504388809204102
+Camostat	Epstein-Barr virus	11	0.48249778151512146
+Camostat	Enterovirus A	12	0.45070141553878784
+Camostat	Kaposi's sarcoma-associated herpesvirus	13	0.42112767696380615
+Camostat	Herpes simplex virus 2	14	0.4140203893184662
+Camostat	Rift Valley fever virus	15	0.41035956144332886
+Camostat	West Nile virus	16	0.40122148394584656
+Camostat	Vesicular stomatitis virus	17	0.3837894797325134
+Camostat	Sindbis virus	18	0.37576305866241455
+Camostat	SARS-COV-2	19	0.37497299909591675
+Camostat	Varicella-zoster virus	20	0.3661836087703705
+Camptothecin	Middle East respiratory syndrome coronavirus	1	0.7445428967475891
+Camptothecin	Zika virus	2	0.7372018694877625
+Camptothecin	Ebola virus	3	0.6914853453636169
+Camptothecin	Dengue virus	4	0.6789153814315796
+Camptothecin	Severe acute respiratory syndrome coronavirus	5	0.6788412928581238
+Camptothecin	Cytomegalovirus	6	0.6748459935188293
+Camptothecin	Hepatitis B virus	7	0.6241122484207153
+Camptothecin	Chikungunya virus	8	0.6140053272247314
+Camptothecin	Enterovirus B	9	0.6058717966079712
+Camptothecin	Herpes simplex virus 2	10	0.5105500221252441
+Camptothecin	Sindbis virus	11	0.5033940672874451
+Camptothecin	Rift Valley fever virus	12	0.4862551987171173
+Camptothecin	Respiratory syncytial virus	13	0.47513607144355774
+Camptothecin	BK virus	14	0.47038841247558594
+Camptothecin	Human Herpesvirus 1	15	0.46822893619537354
+Camptothecin	Vesicular stomatitis virus	16	0.4644915759563446
+Camptothecin	Yellow fever virus	17	0.4443837106227875
+Camptothecin	Human immunodeficiency virus	18	0.4401351511478424
+Camptothecin	West Nile virus	19	0.43913546204566956
+Camptothecin	Human metapneumovirus	20	0.42241349816322327
+Cepharanthine	Dengue virus	1	0.7484095096588135
+Cepharanthine	Zika virus	2	0.7274666428565979
+Cepharanthine	Middle East respiratory syndrome coronavirus	3	0.7205137610435486
+Cepharanthine	Influenza A virus	4	0.6881884932518005
+Cepharanthine	Ebola virus	5	0.6754879951477051
+Cepharanthine	Hepatitis C virus	6	0.6428610682487488
+Cepharanthine	Hepatitis B virus	7	0.5953862071037292
+Cepharanthine	Enterovirus B	8	0.5893020629882812
+Cepharanthine	Cytomegalovirus	9	0.5860463976860046
+Cepharanthine	Chikungunya virus	10	0.5647982954978943
+Cepharanthine	Enterovirus A	11	0.508918285369873
+Cepharanthine	Epstein-Barr virus	12	0.5047582387924194
+Cepharanthine	Herpes simplex virus 2	13	0.4994978606700897
+Cepharanthine	Kaposi's sarcoma-associated herpesvirus	14	0.49704790115356445
+Cepharanthine	Rift Valley fever virus	15	0.4512864351272583
+Cepharanthine	Respiratory syncytial virus	16	0.4401310980319977
+Cepharanthine	Vesicular stomatitis virus	17	0.43934664130210876
+Cepharanthine	West Nile virus	18	0.43590131402015686
+Cepharanthine	Sindbis virus	19	0.41691356897354126
+Cepharanthine	BK virus	20	0.41410019993782043
+Chloroquine	Herpes simplex virus 1	1	0.7914289832115173
+Chloroquine	Cytomegalovirus	2	0.7503423690795898
+Chloroquine	Epstein-Barr virus	3	0.6904705762863159
+Chloroquine	Hepatitis B virus	4	0.6820908784866333
+Chloroquine	Herpes simplex virus 2	5	0.6755011081695557
+Chloroquine	West Nile virus	6	0.6608367562294006
+Chloroquine	Enterovirus B	7	0.6597356200218201
+Chloroquine	Yellow fever virus	8	0.6540724039077759
+Chloroquine	Sindbis virus	9	0.6538840532302856
+Chloroquine	Vesicular stomatitis virus	10	0.6366090774536133
+Chloroquine	Rift Valley fever virus	11	0.6343755722045898
+Chloroquine	Respiratory syncytial virus	12	0.631600022315979
+Chloroquine	BK virus	13	0.6315522789955139
+Chloroquine	Human Herpesvirus 1	14	0.6219859719276428
+Chloroquine	Influenza B virus	15	0.6155317425727844
+Chloroquine	Varicella-zoster virus	16	0.6002844572067261
+Chloroquine	Vaccinia virus	17	0.5805415511131287
+Chloroquine	Japanese encephalitis virus	18	0.5563499927520752
+Chloroquine	Human immunodeficiency virus	19	0.5435688495635986
+Chloroquine	Lassa virus	20	0.5420355200767517
+Chlorpromazine	Influenza A virus	1	0.7549198269844055
+Chlorpromazine	Herpes simplex virus 1	2	0.7433209419250488
+Chlorpromazine	Human immunodeficiency virus 1	3	0.7426577806472778
+Chlorpromazine	Ebola virus	4	0.7109002470970154
+Chlorpromazine	Hepatitis C virus	5	0.7100033760070801
+Chlorpromazine	Cytomegalovirus	6	0.6944037079811096
+Chlorpromazine	Hepatitis B virus	7	0.6302340626716614
+Chlorpromazine	Enterovirus B	8	0.6275325417518616
+Chlorpromazine	Rift Valley fever virus	9	0.553702175617218
+Chlorpromazine	Kaposi's sarcoma-associated herpesvirus	10	0.5530030131340027
+Chlorpromazine	Herpes simplex virus 2	11	0.5489501357078552
+Chlorpromazine	Sindbis virus	12	0.5484755039215088
+Chlorpromazine	Enterovirus A	13	0.5363985300064087
+Chlorpromazine	Respiratory syncytial virus	14	0.5266143679618835
+Chlorpromazine	BK virus	15	0.5086048245429993
+Chlorpromazine	West Nile virus	16	0.5084388852119446
+Chlorpromazine	Vesicular stomatitis virus	17	0.4888339638710022
+Chlorpromazine	Yellow fever virus	18	0.47957056760787964
+Chlorpromazine	Human Herpesvirus 1	19	0.4710202217102051
+Chlorpromazine	Vaccinia virus	20	0.45267680287361145
+Cidofovir	Influenza A virus	1	0.8047871589660645
+Cidofovir	Middle East respiratory syndrome coronavirus	2	0.7853550314903259
+Cidofovir	Ebola virus	3	0.7720431685447693
+Cidofovir	Zika virus	4	0.7551610469818115
+Cidofovir	Dengue virus	5	0.7226760983467102
+Cidofovir	Chikungunya virus	6	0.7084753513336182
+Cidofovir	Severe acute respiratory syndrome coronavirus	7	0.6972188949584961
+Cidofovir	Enterovirus B	8	0.681169867515564
+Cidofovir	Human immunodeficiency virus 1	9	0.678835391998291
+Cidofovir	Influenza B virus	10	0.6523730754852295
+Cidofovir	Respiratory syncytial virus	11	0.6499725580215454
+Cidofovir	West Nile virus	12	0.6455862522125244
+Cidofovir	Vaccinia virus	13	0.6366908550262451
+Cidofovir	Hepatitis B virus	14	0.6345055103302002
+Cidofovir	SARS-COV-2	15	0.6323845386505127
+Cidofovir	Sindbis virus	16	0.6310437917709351
+Cidofovir	Rift Valley fever virus	17	0.6272677183151245
+Cidofovir	Vesicular stomatitis virus	18	0.6187440752983093
+Cidofovir	Japanese encephalitis virus	19	0.6138179898262024
+Cidofovir	Human Herpesvirus 1	20	0.6072868704795837
+Clevudine	Human immunodeficiency virus 1	1	0.7157160043716431
+Clevudine	Influenza A virus	2	0.5870940685272217
+Clevudine	Hepatitis C virus	3	0.49570274353027344
+Clevudine	Dengue virus	4	0.48099464178085327
+Clevudine	Zika virus	5	0.40610218048095703
+Clevudine	Herpes simplex virus 1	6	0.35290995240211487
+Clevudine	Middle East respiratory syndrome coronavirus	7	0.3487860858440399
+Clevudine	Severe acute respiratory syndrome coronavirus	8	0.34045055508613586
+Clevudine	Ebola virus	9	0.28864654898643494
+Clevudine	Cytomegalovirus	10	0.2834004759788513
+Clevudine	Enterovirus B	11	0.25963982939720154
+Clevudine	Epstein-Barr virus	12	0.23269426822662354
+Clevudine	Kaposi's sarcoma-associated herpesvirus	13	0.23119886219501495
+Clevudine	SARS-COV-2	14	0.2241932600736618
+Clevudine	Rift Valley fever virus	15	0.21733739972114563
+Clevudine	Lassa virus	16	0.2131303995847702
+Clevudine	Vaccinia virus	17	0.20686042308807373
+Clevudine	Chikungunya virus	18	0.2026791125535965
+Clevudine	Herpes simplex virus 2	19	0.1984541267156601
+Clevudine	Yellow fever virus	20	0.18450425565242767
+Clomipramine	Human immunodeficiency virus 1	1	0.7487500905990601
+Clomipramine	Influenza A virus	2	0.6830160617828369
+Clomipramine	Hepatitis C virus	3	0.673016369342804
+Clomipramine	Dengue virus	4	0.6288843154907227
+Clomipramine	Zika virus	5	0.5983114242553711
+Clomipramine	Herpes simplex virus 1	6	0.5859976410865784
+Clomipramine	Cytomegalovirus	7	0.5232755541801453
+Clomipramine	Enterovirus B	8	0.47931572794914246
+Clomipramine	Hepatitis B virus	9	0.47193029522895813
+Clomipramine	Chikungunya virus	10	0.44045504927635193
+Clomipramine	Epstein-Barr virus	11	0.41554683446884155
+Clomipramine	Herpes simplex virus 2	12	0.37337037920951843
+Clomipramine	Enterovirus A	13	0.37179088592529297
+Clomipramine	West Nile virus	14	0.36588507890701294
+Clomipramine	Respiratory syncytial virus	15	0.36072802543640137
+Clomipramine	Vesicular stomatitis virus	16	0.3586770296096802
+Clomipramine	Rift Valley fever virus	17	0.35451170802116394
+Clomipramine	Kaposi's sarcoma-associated herpesvirus	18	0.3373126983642578
+Clomipramine	Sindbis virus	19	0.3310184180736542
+Clomipramine	SARS-COV-2	20	0.3207583725452423
+Cyclosporine	Ebola virus	1	0.7804608941078186
+Cyclosporine	Herpes simplex virus 1	2	0.7628920078277588
+Cyclosporine	Chikungunya virus	3	0.7482253313064575
+Cyclosporine	Severe acute respiratory syndrome coronavirus	4	0.7375751733779907
+Cyclosporine	Middle East respiratory syndrome coronavirus	5	0.7171659469604492
+Cyclosporine	Enterovirus B	6	0.703394889831543
+Cyclosporine	Hepatitis B virus	7	0.6975041627883911
+Cyclosporine	Herpes simplex virus 2	8	0.691735565662384
+Cyclosporine	Epstein-Barr virus	9	0.6912570595741272
+Cyclosporine	Kaposi's sarcoma-associated herpesvirus	10	0.6899828314781189
+Cyclosporine	Sindbis virus	11	0.6802108883857727
+Cyclosporine	Respiratory syncytial virus	12	0.6570852398872375
+Cyclosporine	BK virus	13	0.6456106901168823
+Cyclosporine	Enterovirus A	14	0.6404684782028198
+Cyclosporine	Influenza B virus	15	0.6034026145935059
+Cyclosporine	Varicella-zoster virus	16	0.580786943435669
+Cyclosporine	Human Herpesvirus 1	17	0.5799432992935181
+Cyclosporine	SARS-COV-2	18	0.5381103157997131
+Cyclosporine	Lassa virus	19	0.5298067331314087
+Cyclosporine	Japanese encephalitis virus	20	0.5244896411895752
+CYT107	Influenza A virus	1	0.6674787998199463
+CYT107	Zika virus	2	0.6206023693084717
+CYT107	Dengue virus	3	0.5824698805809021
+CYT107	Herpes simplex virus 1	4	0.542893648147583
+CYT107	Middle East respiratory syndrome coronavirus	5	0.5349135398864746
+CYT107	Ebola virus	6	0.4677217900753021
+CYT107	Severe acute respiratory syndrome coronavirus	7	0.4366142153739929
+CYT107	Cytomegalovirus	8	0.4220358729362488
+CYT107	Chikungunya virus	9	0.41587358713150024
+CYT107	Enterovirus B	10	0.4075203835964203
+CYT107	Epstein-Barr virus	11	0.3457757532596588
+CYT107	Enterovirus A	12	0.3196437656879425
+CYT107	Kaposi's sarcoma-associated herpesvirus	13	0.29953718185424805
+CYT107	Vesicular stomatitis virus	14	0.28883931040763855
+CYT107	Yellow fever virus	15	0.28460296988487244
+CYT107	Rift Valley fever virus	16	0.27658042311668396
+CYT107	Human Herpesvirus 1	17	0.2753978967666626
+CYT107	Herpes simplex virus 2	18	0.27512189745903015
+CYT107	BK virus	19	0.2741045653820038
+CYT107	West Nile virus	20	0.27281832695007324
+Daclatasvir	Human immunodeficiency virus 1	1	0.7299207448959351
+Daclatasvir	Zika virus	2	0.4773635268211365
+Daclatasvir	Influenza A virus	3	0.44741615653038025
+Daclatasvir	Dengue virus	4	0.3418218791484833
+Daclatasvir	Herpes simplex virus 1	5	0.26805365085601807
+Daclatasvir	Ebola virus	6	0.2572299540042877
+Daclatasvir	Hepatitis B virus	7	0.2488800585269928
+Daclatasvir	Middle East respiratory syndrome coronavirus	8	0.2488003373146057
+Daclatasvir	Enterovirus A	9	0.21366459131240845
+Daclatasvir	Sindbis virus	10	0.2108854055404663
+Daclatasvir	Chikungunya virus	11	0.20886695384979248
+Daclatasvir	Enterovirus B	12	0.20082560181617737
+Daclatasvir	Japanese encephalitis virus	13	0.1934356689453125
+Daclatasvir	Epstein-Barr virus	14	0.19130365550518036
+Daclatasvir	Respiratory syncytial virus	15	0.17472052574157715
+Daclatasvir	Yellow fever virus	16	0.17469939589500427
+Daclatasvir	Cytomegalovirus	17	0.1705983281135559
+Daclatasvir	Severe acute respiratory syndrome coronavirus	18	0.1660154014825821
+Daclatasvir	Human immunodeficiency virus	19	0.1638813465833664
+Daclatasvir	Influenza B virus	20	0.16291391849517822
+Dalbavancin	Human immunodeficiency virus 1	1	0.7904151678085327
+Dalbavancin	Dengue virus	2	0.7038033604621887
+Dalbavancin	Herpes simplex virus 1	3	0.6661911010742188
+Dalbavancin	Influenza A virus	4	0.6627225279808044
+Dalbavancin	Hepatitis C virus	5	0.6618059873580933
+Dalbavancin	Hepatitis B virus	6	0.5965938568115234
+Dalbavancin	Chikungunya virus	7	0.5858935117721558
+Dalbavancin	Cytomegalovirus	8	0.5822514891624451
+Dalbavancin	Epstein-Barr virus	9	0.5622107982635498
+Dalbavancin	Kaposi's sarcoma-associated herpesvirus	10	0.485698401927948
+Dalbavancin	Herpes simplex virus 2	11	0.4757133722305298
+Dalbavancin	Rift Valley fever virus	12	0.44461584091186523
+Dalbavancin	Enterovirus A	13	0.4266705811023712
+Dalbavancin	BK virus	14	0.417145699262619
+Dalbavancin	Sindbis virus	15	0.4077853560447693
+Dalbavancin	Vesicular stomatitis virus	16	0.4041284918785095
+Dalbavancin	Respiratory syncytial virus	17	0.40272194147109985
+Dalbavancin	Human Herpesvirus 1	18	0.3942786455154419
+Dalbavancin	Yellow fever virus	19	0.38503801822662354
+Dalbavancin	SARS-COV-2	20	0.38480785489082336
+Darunavir	Influenza A virus	1	0.7116138339042664
+Darunavir	Zika virus	2	0.6732600927352905
+Darunavir	Dengue virus	3	0.65462327003479
+Darunavir	Hepatitis C virus	4	0.6471062302589417
+Darunavir	Herpes simplex virus 1	5	0.5984933376312256
+Darunavir	Middle East respiratory syndrome coronavirus	6	0.5793163180351257
+Darunavir	Ebola virus	7	0.552172064781189
+Darunavir	Severe acute respiratory syndrome coronavirus	8	0.5384244918823242
+Darunavir	Cytomegalovirus	9	0.5318342447280884
+Darunavir	Enterovirus B	10	0.5182582139968872
+Darunavir	Hepatitis B virus	11	0.5119354724884033
+Darunavir	Chikungunya virus	12	0.5086697936058044
+Darunavir	Epstein-Barr virus	13	0.42602768540382385
+Darunavir	Herpes simplex virus 2	14	0.4113726019859314
+Darunavir	Kaposi's sarcoma-associated herpesvirus	15	0.3939802348613739
+Darunavir	Sindbis virus	16	0.38357797265052795
+Darunavir	Enterovirus A	17	0.3824840486049652
+Darunavir	Yellow fever virus	18	0.3823566436767578
+Darunavir	Respiratory syncytial virus	19	0.3689660429954529
+Darunavir	Rift Valley fever virus	20	0.36522459983825684
+Dasatinib	Zika virus	1	0.7276293039321899
+Dasatinib	Herpes simplex virus 1	2	0.7255845665931702
+Dasatinib	Influenza A virus	3	0.7009568810462952
+Dasatinib	Ebola virus	4	0.6712977290153503
+Dasatinib	Cytomegalovirus	5	0.6386864185333252
+Dasatinib	Hepatitis B virus	6	0.637269914150238
+Dasatinib	Chikungunya virus	7	0.6370482444763184
+Dasatinib	Epstein-Barr virus	8	0.5956631302833557
+Dasatinib	Herpes simplex virus 2	9	0.5361912846565247
+Dasatinib	Enterovirus A	10	0.5259777307510376
+Dasatinib	Kaposi's sarcoma-associated herpesvirus	11	0.5123652219772339
+Dasatinib	Rift Valley fever virus	12	0.4959734380245209
+Dasatinib	Respiratory syncytial virus	13	0.47915545105934143
+Dasatinib	Sindbis virus	14	0.4758840501308441
+Dasatinib	Vesicular stomatitis virus	15	0.4595832824707031
+Dasatinib	West Nile virus	16	0.45783236622810364
+Dasatinib	Varicella-zoster virus	17	0.4405841529369354
+Dasatinib	Human Herpesvirus 1	18	0.43569815158843994
+Dasatinib	Yellow fever virus	19	0.42719876766204834
+Dasatinib	Influenza B virus	20	0.4245963394641876
+Delavirdine	Influenza A virus	1	0.45523855090141296
+Delavirdine	Zika virus	2	0.3825589716434479
+Delavirdine	Hepatitis C virus	3	0.32189613580703735
+Delavirdine	Herpes simplex virus 1	4	0.2540299892425537
+Delavirdine	Dengue virus	5	0.22444851696491241
+Delavirdine	Middle East respiratory syndrome coronavirus	6	0.21527095139026642
+Delavirdine	Rubella virus	7	0.21071504056453705
+Delavirdine	West Nile virus	8	0.21057692170143127
+Delavirdine	Ebola virus	9	0.18212735652923584
+Delavirdine	SARS-COV-2	10	0.14560166001319885
+Delavirdine	Enterovirus C	11	0.14292435348033905
+Delavirdine	Rift Valley fever virus	12	0.14212411642074585
+Delavirdine	Yellow fever virus	13	0.13535943627357483
+Delavirdine	Cytomegalovirus	14	0.1314135044813156
+Delavirdine	Enterovirus A	15	0.13080646097660065
+Delavirdine	Influenza B virus	16	0.12957829236984253
+Delavirdine	Hepatitis B virus	17	0.12915033102035522
+Delavirdine	Lassa virus	18	0.12353195250034332
+Delavirdine	Human immunodeficiency virus	19	0.12272205203771591
+Delavirdine	Severe acute respiratory syndrome coronavirus	20	0.12034885585308075
+Dibucaine	Human immunodeficiency virus 1	1	0.7378597259521484
+Dibucaine	Influenza A virus	2	0.7064448595046997
+Dibucaine	Zika virus	3	0.6987853050231934
+Dibucaine	Herpes simplex virus 1	4	0.6947062015533447
+Dibucaine	Dengue virus	5	0.6820874214172363
+Dibucaine	Middle East respiratory syndrome coronavirus	6	0.662010908126831
+Dibucaine	Ebola virus	7	0.6613752841949463
+Dibucaine	Cytomegalovirus	8	0.6205767393112183
+Dibucaine	Severe acute respiratory syndrome coronavirus	9	0.6083890199661255
+Dibucaine	Chikungunya virus	10	0.6033282279968262
+Dibucaine	Hepatitis B virus	11	0.5851916074752808
+Dibucaine	Epstein-Barr virus	12	0.5407252311706543
+Dibucaine	Rift Valley fever virus	13	0.448909729719162
+Dibucaine	Herpes simplex virus 2	14	0.44883280992507935
+Dibucaine	Vesicular stomatitis virus	15	0.44405364990234375
+Dibucaine	Kaposi's sarcoma-associated herpesvirus	16	0.44303157925605774
+Dibucaine	Respiratory syncytial virus	17	0.4343990385532379
+Dibucaine	Human Herpesvirus 1	18	0.42205533385276794
+Dibucaine	BK virus	19	0.4219997823238373
+Dibucaine	Sindbis virus	20	0.420448899269104
+Didanosine	Influenza A virus	1	0.39871636033058167
+Didanosine	Zika virus	2	0.3455279767513275
+Didanosine	Hepatitis C virus	3	0.3314312994480133
+Didanosine	Dengue virus	4	0.2807573676109314
+Didanosine	Herpes simplex virus 1	5	0.26089897751808167
+Didanosine	Middle East respiratory syndrome coronavirus	6	0.2562848925590515
+Didanosine	Severe acute respiratory syndrome coronavirus	7	0.2550036609172821
+Didanosine	Ebola virus	8	0.21992868185043335
+Didanosine	Cytomegalovirus	9	0.19108088314533234
+Didanosine	Varicella-zoster virus	10	0.18468812108039856
+Didanosine	Chikungunya virus	11	0.1700800359249115
+Didanosine	Enterovirus B	12	0.15068760514259338
+Didanosine	Hepatitis B virus	13	0.13843998312950134
+Didanosine	Kaposi's sarcoma-associated herpesvirus	14	0.13374000787734985
+Didanosine	Herpes simplex virus 2	15	0.13150565326213837
+Didanosine	Marburg virus	16	0.12629927694797516
+Didanosine	Rift Valley fever virus	17	0.11533688008785248
+Didanosine	Human immunodeficiency virus	18	0.10908065736293793
+Didanosine	Bunyamwera virus	19	0.10905582457780838
+Didanosine	Lassa virus	20	0.10743832588195801
+Diphyllin	Zika virus	1	0.5921776294708252
+Diphyllin	Hepatitis C virus	2	0.5726374983787537
+Diphyllin	Dengue virus	3	0.5420920848846436
+Diphyllin	Herpes simplex virus 1	4	0.5206281542778015
+Diphyllin	Middle East respiratory syndrome coronavirus	5	0.508612334728241
+Diphyllin	Severe acute respiratory syndrome coronavirus	6	0.4214487075805664
+Diphyllin	Chikungunya virus	7	0.3802932798862457
+Diphyllin	Cytomegalovirus	8	0.3741728365421295
+Diphyllin	Enterovirus B	9	0.35972681641578674
+Diphyllin	Hepatitis B virus	10	0.3504200577735901
+Diphyllin	Epstein-Barr virus	11	0.3300924599170685
+Diphyllin	Enterovirus A	12	0.3156369924545288
+Diphyllin	West Nile virus	13	0.31541207432746887
+Diphyllin	Sindbis virus	14	0.31135299801826477
+Diphyllin	Kaposi's sarcoma-associated herpesvirus	15	0.29015636444091797
+Diphyllin	Rift Valley fever virus	16	0.28568360209465027
+Diphyllin	Human Herpesvirus 1	17	0.26772555708885193
+Diphyllin	Vesicular stomatitis virus	18	0.24916476011276245
+Diphyllin	Respiratory syncytial virus	19	0.24390894174575806
+Diphyllin	Herpes simplex virus 2	20	0.24277397990226746
+Dolutegravir	Influenza A virus	1	0.39484506845474243
+Dolutegravir	Hepatitis C virus	2	0.33412182331085205
+Dolutegravir	Herpes simplex virus 1	3	0.26302504539489746
+Dolutegravir	Zika virus	4	0.25315624475479126
+Dolutegravir	Dengue virus	5	0.2392226904630661
+Dolutegravir	Ebola virus	6	0.23613685369491577
+Dolutegravir	Middle East respiratory syndrome coronavirus	7	0.22952669858932495
+Dolutegravir	Enterovirus B	8	0.21565134823322296
+Dolutegravir	Hepatitis B virus	9	0.17338243126869202
+Dolutegravir	Chikungunya virus	10	0.165072500705719
+Dolutegravir	Yellow fever virus	11	0.15864641964435577
+Dolutegravir	Kaposi's sarcoma-associated herpesvirus	12	0.15479154884815216
+Dolutegravir	Human rhinovirus A	13	0.14903946220874786
+Dolutegravir	BK virus	14	0.1466902196407318
+Dolutegravir	Cytomegalovirus	15	0.13760362565517426
+Dolutegravir	Epstein-Barr virus	16	0.12971161305904388
+Dolutegravir	Vesicular stomatitis virus	17	0.12754453718662262
+Dolutegravir	Sindbis virus	18	0.1257569044828415
+Dolutegravir	Human coronavirus OC43	19	0.12348014861345291
+Dolutegravir	Severe acute respiratory syndrome coronavirus	20	0.12285171449184418
+Doxycycline	Human immunodeficiency virus 1	1	0.7590327858924866
+Doxycycline	Zika virus	2	0.6934121251106262
+Doxycycline	Influenza A virus	3	0.6888365745544434
+Doxycycline	Hepatitis C virus	4	0.6706355214118958
+Doxycycline	Ebola virus	5	0.6069124341011047
+Doxycycline	Herpes simplex virus 1	6	0.6048691272735596
+Doxycycline	Middle East respiratory syndrome coronavirus	7	0.5928472280502319
+Doxycycline	Severe acute respiratory syndrome coronavirus	8	0.5772229433059692
+Doxycycline	Cytomegalovirus	9	0.5508155226707458
+Doxycycline	Hepatitis B virus	10	0.5373514890670776
+Doxycycline	Enterovirus B	11	0.480827271938324
+Doxycycline	Epstein-Barr virus	12	0.4456787407398224
+Doxycycline	Rift Valley fever virus	13	0.4400399923324585
+Doxycycline	Yellow fever virus	14	0.42534253001213074
+Doxycycline	Kaposi's sarcoma-associated herpesvirus	15	0.3920217752456665
+Doxycycline	BK virus	16	0.39118868112564087
+Doxycycline	Enterovirus A	17	0.38530755043029785
+Doxycycline	West Nile virus	18	0.3803112804889679
+Doxycycline	Varicella-zoster virus	19	0.374383807182312
+Doxycycline	Herpes simplex virus 2	20	0.37395694851875305
+Efavirenz	Influenza A virus	1	0.45396697521209717
+Efavirenz	Hepatitis C virus	2	0.39410698413848877
+Efavirenz	Herpes simplex virus 1	3	0.2513830065727234
+Efavirenz	Dengue virus	4	0.22319166362285614
+Efavirenz	Zika virus	5	0.22281882166862488
+Efavirenz	Ebola virus	6	0.21257182955741882
+Efavirenz	Severe acute respiratory syndrome coronavirus	7	0.2121986299753189
+Efavirenz	Rift Valley fever virus	8	0.2098548412322998
+Efavirenz	Middle East respiratory syndrome coronavirus	9	0.20440490543842316
+Efavirenz	Chikungunya virus	10	0.1500152051448822
+Efavirenz	BK virus	11	0.14679844677448273
+Efavirenz	Enterovirus B	12	0.1298423856496811
+Efavirenz	Cytomegalovirus	13	0.12904351949691772
+Efavirenz	Kaposi's sarcoma-associated herpesvirus	14	0.12258359044790268
+Efavirenz	West Nile virus	15	0.12156802415847778
+Efavirenz	Adenovirus	16	0.12060148268938065
+Efavirenz	Vesicular stomatitis virus	17	0.12027863413095474
+Efavirenz	Lassa virus	18	0.11673244088888168
+Efavirenz	Influenza B virus	19	0.11218856275081635
+Efavirenz	Respiratory syncytial virus	20	0.10927235335111618
+Eflornithine	Influenza A virus	1	0.8064681887626648
+Eflornithine	Ebola virus	2	0.7622736692428589
+Eflornithine	Hepatitis C virus	3	0.7599548697471619
+Eflornithine	Human immunodeficiency virus 1	4	0.7081061005592346
+Eflornithine	Hepatitis B virus	5	0.7068476676940918
+Eflornithine	Epstein-Barr virus	6	0.6985688805580139
+Eflornithine	Severe acute respiratory syndrome coronavirus	7	0.6868906617164612
+Eflornithine	Enterovirus A	8	0.6696216464042664
+Eflornithine	Kaposi's sarcoma-associated herpesvirus	9	0.6548802256584167
+Eflornithine	Respiratory syncytial virus	10	0.6317325234413147
+Eflornithine	Rift Valley fever virus	11	0.6243603825569153
+Eflornithine	Herpes simplex virus 2	12	0.6216301321983337
+Eflornithine	West Nile virus	13	0.6141740679740906
+Eflornithine	BK virus	14	0.5923498868942261
+Eflornithine	Human Herpesvirus 1	15	0.576934814453125
+Eflornithine	Varicella-zoster virus	16	0.5402929782867432
+Eflornithine	Yellow fever virus	17	0.5274707674980164
+Eflornithine	Influenza B virus	18	0.5171694159507751
+Eflornithine	Vaccinia virus	19	0.5171365737915039
+Eflornithine	SARS-COV-2	20	0.5047903060913086
+EIPA (amiloride)	Influenza A virus	1	0.821763277053833
+EIPA (amiloride)	Zika virus	2	0.7753151655197144
+EIPA (amiloride)	Hepatitis C virus	3	0.7606199383735657
+EIPA (amiloride)	Middle East respiratory syndrome coronavirus	4	0.7454381585121155
+EIPA (amiloride)	Dengue virus	5	0.7327444553375244
+EIPA (amiloride)	BK virus	6	0.7152339816093445
+EIPA (amiloride)	Severe acute respiratory syndrome coronavirus	7	0.6983261108398438
+EIPA (amiloride)	Epstein-Barr virus	8	0.686735212802887
+EIPA (amiloride)	Herpes simplex virus 2	9	0.6847076416015625
+EIPA (amiloride)	Rift Valley fever virus	10	0.679736316204071
+EIPA (amiloride)	Respiratory syncytial virus	11	0.6765478253364563
+EIPA (amiloride)	Hepatitis B virus	12	0.6716803312301636
+EIPA (amiloride)	Human immunodeficiency virus 1	13	0.6705576777458191
+EIPA (amiloride)	Yellow fever virus	14	0.648481547832489
+EIPA (amiloride)	Human Herpesvirus 1	15	0.6449925899505615
+EIPA (amiloride)	Influenza B virus	16	0.6349626183509827
+EIPA (amiloride)	Varicella-zoster virus	17	0.6325256824493408
+EIPA (amiloride)	West Nile virus	18	0.631507158279419
+EIPA (amiloride)	Cytomegalovirus	19	0.6294986009597778
+EIPA (amiloride)	Vesicular stomatitis virus	20	0.6243058443069458
+Emetine	Dengue virus	1	0.754485547542572
+Emetine	Chikungunya virus	2	0.7476968765258789
+Emetine	Herpes simplex virus 1	3	0.7432347536087036
+Emetine	Influenza A virus	4	0.7399725317955017
+Emetine	Epstein-Barr virus	5	0.7111964225769043
+Emetine	Hepatitis B virus	6	0.6975706219673157
+Emetine	Kaposi's sarcoma-associated herpesvirus	7	0.682558536529541
+Emetine	Enterovirus A	8	0.677245557308197
+Emetine	BK virus	9	0.6529368758201599
+Emetine	Human Herpesvirus 1	10	0.6523149013519287
+Emetine	Hepatitis C virus	11	0.6504508256912231
+Emetine	Vesicular stomatitis virus	12	0.6474546194076538
+Emetine	Yellow fever virus	13	0.6455313563346863
+Emetine	West Nile virus	14	0.6361875534057617
+Emetine	Sindbis virus	15	0.632077157497406
+Emetine	Influenza B virus	16	0.6286486387252808
+Emetine	Respiratory syncytial virus	17	0.6236848831176758
+Emetine	Varicella-zoster virus	18	0.6024646162986755
+Emetine	Japanese encephalitis virus	19	0.6013196706771851
+Emetine	Vaccinia virus	20	0.598459005355835
+Emodin	Middle East respiratory syndrome coronavirus	1	0.7667789459228516
+Emodin	Dengue virus	2	0.759434163570404
+Emodin	Hepatitis C virus	3	0.7474836707115173
+Emodin	Ebola virus	4	0.7413654327392578
+Emodin	Chikungunya virus	5	0.7167520523071289
+Emodin	Human immunodeficiency virus 1	6	0.7140482664108276
+Emodin	Kaposi's sarcoma-associated herpesvirus	7	0.6139835715293884
+Emodin	Herpes simplex virus 2	8	0.5925080180168152
+Emodin	Rift Valley fever virus	9	0.5892559885978699
+Emodin	BK virus	10	0.5782654881477356
+Emodin	Sindbis virus	11	0.5561271905899048
+Emodin	Respiratory syncytial virus	12	0.5520796775817871
+Emodin	West Nile virus	13	0.5452530384063721
+Emodin	Vesicular stomatitis virus	14	0.5448055267333984
+Emodin	Human Herpesvirus 1	15	0.5283073782920837
+Emodin	Yellow fever virus	16	0.5049337148666382
+Emodin	SARS-COV-2	17	0.49237334728240967
+Emodin	Influenza B virus	18	0.4839215576648712
+Emodin	Varicella-zoster virus	19	0.4818285405635834
+Emodin	Japanese encephalitis virus	20	0.4764162003993988
+Emtricitabine	Zika virus	1	0.4031650424003601
+Emtricitabine	Influenza A virus	2	0.39326122403144836
+Emtricitabine	Hepatitis C virus	3	0.31297385692596436
+Emtricitabine	Ebola virus	4	0.23110434412956238
+Emtricitabine	Dengue virus	5	0.22289033234119415
+Emtricitabine	Epstein-Barr virus	6	0.21552222967147827
+Emtricitabine	Middle East respiratory syndrome coronavirus	7	0.21316176652908325
+Emtricitabine	Severe acute respiratory syndrome coronavirus	8	0.19614432752132416
+Emtricitabine	Herpes simplex virus 1	9	0.19146107137203217
+Emtricitabine	Hepatitis B virus	10	0.1773756891489029
+Emtricitabine	Japanese encephalitis virus	11	0.15902958810329437
+Emtricitabine	Yellow fever virus	12	0.14375796914100647
+Emtricitabine	Kaposi's sarcoma-associated herpesvirus	13	0.14078395068645477
+Emtricitabine	Sindbis virus	14	0.1379273533821106
+Emtricitabine	Adenovirus	15	0.1374039500951767
+Emtricitabine	Herpes simplex virus 2	16	0.13353952765464783
+Emtricitabine	Cytomegalovirus	17	0.12912222743034363
+Emtricitabine	Chikungunya virus	18	0.122240349650383
+Emtricitabine	Enterovirus B	19	0.12168388813734055
+Emtricitabine	Enterovirus A	20	0.12079784274101257
+Enfuvirtide	Influenza A virus	1	0.3575398027896881
+Enfuvirtide	Hepatitis C virus	2	0.2949412167072296
+Enfuvirtide	Zika virus	3	0.2695082426071167
+Enfuvirtide	Herpes simplex virus 1	4	0.2685496211051941
+Enfuvirtide	Middle East respiratory syndrome coronavirus	5	0.234697163105011
+Enfuvirtide	Dengue virus	6	0.22014565765857697
+Enfuvirtide	Severe acute respiratory syndrome coronavirus	7	0.18653716146945953
+Enfuvirtide	Cytomegalovirus	8	0.18186677992343903
+Enfuvirtide	Ebola virus	9	0.18017376959323883
+Enfuvirtide	Chikungunya virus	10	0.1761782020330429
+Enfuvirtide	BK virus	11	0.17433027923107147
+Enfuvirtide	Rift Valley fever virus	12	0.17383046448230743
+Enfuvirtide	West Nile virus	13	0.15090647339820862
+Enfuvirtide	Enterovirus B	14	0.13289636373519897
+Enfuvirtide	Human metapneumovirus	15	0.12972578406333923
+Enfuvirtide	Sindbis virus	16	0.127630814909935
+Enfuvirtide	Rubella virus	17	0.12491390109062195
+Enfuvirtide	Respiratory syncytial virus	18	0.12451498210430145
+Enfuvirtide	Enterovirus A	19	0.12404908239841461
+Enfuvirtide	Human rhinovirus A	20	0.1197432279586792
+Entecavir	Human immunodeficiency virus 1	1	0.7397700548171997
+Entecavir	Influenza A virus	2	0.5238965153694153
+Entecavir	Hepatitis C virus	3	0.49678274989128113
+Entecavir	Zika virus	4	0.44085487723350525
+Entecavir	Dengue virus	5	0.41447368264198303
+Entecavir	Herpes simplex virus 1	6	0.41129401326179504
+Entecavir	Epstein-Barr virus	7	0.32385554909706116
+Entecavir	Severe acute respiratory syndrome coronavirus	8	0.3185480833053589
+Entecavir	Enterovirus B	9	0.31741806864738464
+Entecavir	Middle East respiratory syndrome coronavirus	10	0.30482128262519836
+Entecavir	Ebola virus	11	0.2883284091949463
+Entecavir	Cytomegalovirus	12	0.2773842513561249
+Entecavir	Vesicular stomatitis virus	13	0.2244335263967514
+Entecavir	Respiratory syncytial virus	14	0.21239395439624786
+Entecavir	Influenza B virus	15	0.20824185013771057
+Entecavir	Enterovirus A	16	0.189162477850914
+Entecavir	Human Herpesvirus 1	17	0.18144749104976654
+Entecavir	Adenovirus	18	0.18107233941555023
+Entecavir	Kaposi's sarcoma-associated herpesvirus	19	0.17965011298656464
+Entecavir	Yellow fever virus	20	0.17582856118679047
+Erlotinib	Human immunodeficiency virus 1	1	0.764890193939209
+Erlotinib	Influenza A virus	2	0.7230839729309082
+Erlotinib	Zika virus	3	0.6573008894920349
+Erlotinib	Middle East respiratory syndrome coronavirus	4	0.6283731460571289
+Erlotinib	Severe acute respiratory syndrome coronavirus	5	0.6116074919700623
+Erlotinib	Herpes simplex virus 1	6	0.5952361822128296
+Erlotinib	Cytomegalovirus	7	0.5581763982772827
+Erlotinib	Chikungunya virus	8	0.5375542640686035
+Erlotinib	Hepatitis B virus	9	0.5290207266807556
+Erlotinib	Enterovirus B	10	0.49870765209198
+Erlotinib	Epstein-Barr virus	11	0.47499987483024597
+Erlotinib	Enterovirus A	12	0.44113633036613464
+Erlotinib	Kaposi's sarcoma-associated herpesvirus	13	0.40008097887039185
+Erlotinib	Rift Valley fever virus	14	0.3935871422290802
+Erlotinib	Herpes simplex virus 2	15	0.39281293749809265
+Erlotinib	West Nile virus	16	0.379861444234848
+Erlotinib	Respiratory syncytial virus	17	0.37487173080444336
+Erlotinib	SARS-COV-2	18	0.3743119537830353
+Erlotinib	Vesicular stomatitis virus	19	0.3693346381187439
+Erlotinib	Yellow fever virus	20	0.3608737289905548
+Ezetimibe	Dengue virus	1	0.6917937397956848
+Ezetimibe	Herpes simplex virus 1	2	0.6882238984107971
+Ezetimibe	Influenza A virus	3	0.6786020398139954
+Ezetimibe	Middle East respiratory syndrome coronavirus	4	0.6732035875320435
+Ezetimibe	Severe acute respiratory syndrome coronavirus	5	0.6588530540466309
+Ezetimibe	Cytomegalovirus	6	0.6336573958396912
+Ezetimibe	Ebola virus	7	0.627259373664856
+Ezetimibe	Chikungunya virus	8	0.625645637512207
+Ezetimibe	Enterovirus B	9	0.6018474102020264
+Ezetimibe	Epstein-Barr virus	10	0.564642608165741
+Ezetimibe	Respiratory syncytial virus	11	0.5158018469810486
+Ezetimibe	Kaposi's sarcoma-associated herpesvirus	12	0.4998313784599304
+Ezetimibe	Enterovirus A	13	0.4965206980705261
+Ezetimibe	Herpes simplex virus 2	14	0.46497970819473267
+Ezetimibe	West Nile virus	15	0.45400264859199524
+Ezetimibe	Vesicular stomatitis virus	16	0.44859519600868225
+Ezetimibe	Human Herpesvirus 1	17	0.44009652733802795
+Ezetimibe	Sindbis virus	18	0.43708208203315735
+Ezetimibe	BK virus	19	0.437030166387558
+Ezetimibe	Yellow fever virus	20	0.4281664490699768
+Famciclovir	Human immunodeficiency virus 1	1	0.7268592119216919
+Famciclovir	Influenza A virus	2	0.6800010800361633
+Famciclovir	Zika virus	3	0.6744452118873596
+Famciclovir	Hepatitis C virus	4	0.6376594305038452
+Famciclovir	Herpes simplex virus 1	5	0.6166684627532959
+Famciclovir	Ebola virus	6	0.597115159034729
+Famciclovir	Middle East respiratory syndrome coronavirus	7	0.5944573283195496
+Famciclovir	Dengue virus	8	0.5909904837608337
+Famciclovir	Severe acute respiratory syndrome coronavirus	9	0.5473259687423706
+Famciclovir	Cytomegalovirus	10	0.5206061005592346
+Famciclovir	Hepatitis B virus	11	0.48565560579299927
+Famciclovir	Chikungunya virus	12	0.4710657000541687
+Famciclovir	Enterovirus B	13	0.4325945973396301
+Famciclovir	Epstein-Barr virus	14	0.40275606513023376
+Famciclovir	Kaposi's sarcoma-associated herpesvirus	15	0.40139085054397583
+Famciclovir	Enterovirus A	16	0.3961211144924164
+Famciclovir	Rift Valley fever virus	17	0.3855232894420624
+Famciclovir	Respiratory syncytial virus	18	0.3723119795322418
+Famciclovir	Herpes simplex virus 2	19	0.3364923298358917
+Famciclovir	Adenovirus	20	0.3357791006565094
+Favipiravir	Hepatitis C virus	1	0.7788272500038147
+Favipiravir	Middle East respiratory syndrome coronavirus	2	0.7480660676956177
+Favipiravir	Herpes simplex virus 1	3	0.7220544815063477
+Favipiravir	Severe acute respiratory syndrome coronavirus	4	0.7166657447814941
+Favipiravir	Herpes simplex virus 2	5	0.7138687968254089
+Favipiravir	Human Herpesvirus 1	6	0.7016567587852478
+Favipiravir	Enterovirus B	7	0.7004488110542297
+Favipiravir	Kaposi's sarcoma-associated herpesvirus	8	0.6927553415298462
+Favipiravir	Epstein-Barr virus	9	0.6858395934104919
+Favipiravir	Cytomegalovirus	10	0.6775984764099121
+Favipiravir	Vesicular stomatitis virus	11	0.6703945994377136
+Favipiravir	Respiratory syncytial virus	12	0.6701660752296448
+Favipiravir	Sindbis virus	13	0.6669529676437378
+Favipiravir	Dengue virus	14	0.6631357073783875
+Favipiravir	Enterovirus A	15	0.6617207527160645
+Favipiravir	West Nile virus	16	0.6577836275100708
+Favipiravir	Human immunodeficiency virus 1	17	0.6481721997261047
+Favipiravir	Hepatitis B virus	18	0.6456228494644165
+Favipiravir	Japanese encephalitis virus	19	0.6315460205078125
+Favipiravir	BK virus	20	0.6284874677658081
+Filociclovir	Hepatitis C virus	1	0.7642073035240173
+Filociclovir	Influenza A virus	2	0.7427657246589661
+Filociclovir	Dengue virus	3	0.7330818176269531
+Filociclovir	Zika virus	4	0.7226450443267822
+Filociclovir	Herpes simplex virus 1	5	0.7134877443313599
+Filociclovir	Middle East respiratory syndrome coronavirus	6	0.6981199383735657
+Filociclovir	Severe acute respiratory syndrome coronavirus	7	0.6966446042060852
+Filociclovir	Ebola virus	8	0.6814804077148438
+Filociclovir	Human immunodeficiency virus 1	9	0.6628018021583557
+Filociclovir	Enterovirus B	10	0.6583529114723206
+Filociclovir	Hepatitis B virus	11	0.6369668841362
+Filociclovir	Chikungunya virus	12	0.6132649183273315
+Filociclovir	Enterovirus A	13	0.5408159494400024
+Filociclovir	Herpes simplex virus 2	14	0.5273340940475464
+Filociclovir	Rift Valley fever virus	15	0.4924602806568146
+Filociclovir	Respiratory syncytial virus	16	0.48273080587387085
+Filociclovir	BK virus	17	0.47664690017700195
+Filociclovir	Sindbis virus	18	0.47286084294319153
+Filociclovir	Vesicular stomatitis virus	19	0.4710141718387604
+Filociclovir	Human Herpesvirus 1	20	0.4696645438671112
+Flavopiridol	Human immunodeficiency virus 1	1	0.7957687377929688
+Flavopiridol	Hepatitis C virus	2	0.6759013533592224
+Flavopiridol	Zika virus	3	0.648894190788269
+Flavopiridol	Dengue virus	4	0.6277370452880859
+Flavopiridol	Middle East respiratory syndrome coronavirus	5	0.6079796552658081
+Flavopiridol	Severe acute respiratory syndrome coronavirus	6	0.5912405252456665
+Flavopiridol	Ebola virus	7	0.5817093253135681
+Flavopiridol	Hepatitis B virus	8	0.5134538412094116
+Flavopiridol	Chikungunya virus	9	0.5095423460006714
+Flavopiridol	Cytomegalovirus	10	0.4805656671524048
+Flavopiridol	Enterovirus B	11	0.45892372727394104
+Flavopiridol	Epstein-Barr virus	12	0.432228147983551
+Flavopiridol	Enterovirus A	13	0.4050826132297516
+Flavopiridol	Herpes simplex virus 2	14	0.4003700911998749
+Flavopiridol	Sindbis virus	15	0.38347700238227844
+Flavopiridol	Respiratory syncytial virus	16	0.3571721017360687
+Flavopiridol	Kaposi's sarcoma-associated herpesvirus	17	0.34572771191596985
+Flavopiridol	Vesicular stomatitis virus	18	0.34265071153640747
+Flavopiridol	BK virus	19	0.34163498878479004
+Flavopiridol	West Nile virus	20	0.3368004560470581
+Fluoxetine	Human immunodeficiency virus 1	1	0.7461029887199402
+Fluoxetine	Influenza A virus	2	0.6808748245239258
+Fluoxetine	Ebola virus	3	0.666930079460144
+Fluoxetine	Zika virus	4	0.6543484330177307
+Fluoxetine	Middle East respiratory syndrome coronavirus	5	0.6527544856071472
+Fluoxetine	Severe acute respiratory syndrome coronavirus	6	0.6465577483177185
+Fluoxetine	Herpes simplex virus 1	7	0.6413899064064026
+Fluoxetine	Cytomegalovirus	8	0.5852541923522949
+Fluoxetine	Chikungunya virus	9	0.5719031691551208
+Fluoxetine	Hepatitis B virus	10	0.5454201698303223
+Fluoxetine	Epstein-Barr virus	11	0.4996841251850128
+Fluoxetine	Herpes simplex virus 2	12	0.4535614550113678
+Fluoxetine	Rift Valley fever virus	13	0.4288270175457001
+Fluoxetine	Kaposi's sarcoma-associated herpesvirus	14	0.4276486039161682
+Fluoxetine	Vesicular stomatitis virus	15	0.41059932112693787
+Fluoxetine	Enterovirus A	16	0.39349180459976196
+Fluoxetine	Respiratory syncytial virus	17	0.3899425268173218
+Fluoxetine	Varicella-zoster virus	18	0.3830789029598236
+Fluoxetine	West Nile virus	19	0.37859421968460083
+Fluoxetine	Sindbis virus	20	0.3678726255893707
+Fluvastatin	Human immunodeficiency virus 1	1	0.7271133661270142
+Fluvastatin	Herpes simplex virus 1	2	0.5816280245780945
+Fluvastatin	Middle East respiratory syndrome coronavirus	3	0.5709272027015686
+Fluvastatin	Ebola virus	4	0.5660682916641235
+Fluvastatin	Severe acute respiratory syndrome coronavirus	5	0.540771484375
+Fluvastatin	Chikungunya virus	6	0.516857922077179
+Fluvastatin	Cytomegalovirus	7	0.5021462440490723
+Fluvastatin	Hepatitis B virus	8	0.4804919958114624
+Fluvastatin	Enterovirus B	9	0.46642184257507324
+Fluvastatin	Epstein-Barr virus	10	0.41149991750717163
+Fluvastatin	Herpes simplex virus 2	11	0.39826568961143494
+Fluvastatin	Rift Valley fever virus	12	0.3972029387950897
+Fluvastatin	Enterovirus A	13	0.3881816864013672
+Fluvastatin	Influenza B virus	14	0.3686431050300598
+Fluvastatin	Yellow fever virus	15	0.3652455508708954
+Fluvastatin	Vesicular stomatitis virus	16	0.3552476167678833
+Fluvastatin	Respiratory syncytial virus	17	0.3417428135871887
+Fluvastatin	Sindbis virus	18	0.3343489468097687
+Fluvastatin	Kaposi's sarcoma-associated herpesvirus	19	0.3245617747306824
+Fluvastatin	BK virus	20	0.32166457176208496
+Formoterol	Hepatitis C virus	1	0.7084345817565918
+Formoterol	Influenza A virus	2	0.704534649848938
+Formoterol	Human immunodeficiency virus 1	3	0.7045043110847473
+Formoterol	Zika virus	4	0.6944429874420166
+Formoterol	Herpes simplex virus 1	5	0.6888849139213562
+Formoterol	Ebola virus	6	0.6592463850975037
+Formoterol	Middle East respiratory syndrome coronavirus	7	0.6431223750114441
+Formoterol	Severe acute respiratory syndrome coronavirus	8	0.6420700550079346
+Formoterol	Hepatitis B virus	9	0.6320717334747314
+Formoterol	Dengue virus	10	0.6320231556892395
+Formoterol	Chikungunya virus	11	0.6204144954681396
+Formoterol	Cytomegalovirus	12	0.6117311120033264
+Formoterol	Epstein-Barr virus	13	0.5811432003974915
+Formoterol	Kaposi's sarcoma-associated herpesvirus	14	0.5177715420722961
+Formoterol	Rift Valley fever virus	15	0.4978519380092621
+Formoterol	Sindbis virus	16	0.47085925936698914
+Formoterol	Herpes simplex virus 2	17	0.4673633277416229
+Formoterol	Respiratory syncytial virus	18	0.4429143965244293
+Formoterol	Japanese encephalitis virus	19	0.44262000918388367
+Formoterol	Vesicular stomatitis virus	20	0.4357735216617584
+Fosamprenavir	Zika virus	1	0.37859946489334106
+Fosamprenavir	Influenza A virus	2	0.37738317251205444
+Fosamprenavir	Hepatitis C virus	3	0.36598560214042664
+Fosamprenavir	Herpes simplex virus 1	4	0.23867423832416534
+Fosamprenavir	Ebola virus	5	0.2337697595357895
+Fosamprenavir	Dengue virus	6	0.23160073161125183
+Fosamprenavir	Severe acute respiratory syndrome coronavirus	7	0.2158036082983017
+Fosamprenavir	Hepatitis B virus	8	0.2153494954109192
+Fosamprenavir	BK virus	9	0.19792339205741882
+Fosamprenavir	Enterovirus B	10	0.1962461918592453
+Fosamprenavir	Middle East respiratory syndrome coronavirus	11	0.1718965470790863
+Fosamprenavir	Human rhinovirus A	12	0.15993039309978485
+Fosamprenavir	Marburg virus	13	0.14198878407478333
+Fosamprenavir	West Nile virus	14	0.13942117989063263
+Fosamprenavir	Chikungunya virus	15	0.13147583603858948
+Fosamprenavir	Herpes simplex virus 2	16	0.12364030629396439
+Fosamprenavir	Human Herpesvirus 1	17	0.11976528912782669
+Fosamprenavir	Yellow fever virus	18	0.11661889404058456
+Fosamprenavir	Epstein-Barr virus	19	0.11183574795722961
+Fosamprenavir	Cytomegalovirus	20	0.1089828759431839
+Foscarnet	Chikungunya virus	1	0.7667390704154968
+Foscarnet	Hepatitis C virus	2	0.7642240524291992
+Foscarnet	Zika virus	3	0.7626843452453613
+Foscarnet	Human immunodeficiency virus 1	4	0.7605797052383423
+Foscarnet	Dengue virus	5	0.7586548924446106
+Foscarnet	Ebola virus	6	0.7495191097259521
+Foscarnet	Influenza A virus	7	0.7470142841339111
+Foscarnet	Severe acute respiratory syndrome coronavirus	8	0.7125219106674194
+Foscarnet	Middle East respiratory syndrome coronavirus	9	0.7075386047363281
+Foscarnet	Hepatitis B virus	10	0.6932041645050049
+Foscarnet	Enterovirus B	11	0.6915988326072693
+Foscarnet	Rift Valley fever virus	12	0.6434444785118103
+Foscarnet	Sindbis virus	13	0.6428872346878052
+Foscarnet	Respiratory syncytial virus	14	0.6303682327270508
+Foscarnet	BK virus	15	0.609494686126709
+Foscarnet	Vesicular stomatitis virus	16	0.608485758304596
+Foscarnet	Enterovirus A	17	0.6076574325561523
+Foscarnet	West Nile virus	18	0.6005102396011353
+Foscarnet	Yellow fever virus	19	0.5531076192855835
+Foscarnet	Influenza B virus	20	0.5349336862564087
+Ganciclovir	Middle East respiratory syndrome coronavirus	1	0.750321090221405
+Ganciclovir	Zika virus	2	0.7405182719230652
+Ganciclovir	Dengue virus	3	0.7350752353668213
+Ganciclovir	Severe acute respiratory syndrome coronavirus	4	0.7274742722511292
+Ganciclovir	Influenza A virus	5	0.7201508283615112
+Ganciclovir	Human immunodeficiency virus 1	6	0.7113204598426819
+Ganciclovir	Hepatitis B virus	7	0.7102068662643433
+Ganciclovir	Enterovirus B	8	0.6875805258750916
+Ganciclovir	Chikungunya virus	9	0.6786946058273315
+Ganciclovir	Hepatitis C virus	10	0.6751871109008789
+Ganciclovir	Ebola virus	11	0.6530218720436096
+Ganciclovir	Enterovirus A	12	0.6506239771842957
+Ganciclovir	Rift Valley fever virus	13	0.6073673367500305
+Ganciclovir	Kaposi's sarcoma-associated herpesvirus	14	0.6056404709815979
+Ganciclovir	Sindbis virus	15	0.6009616255760193
+Ganciclovir	Vesicular stomatitis virus	16	0.5769180059432983
+Ganciclovir	Respiratory syncytial virus	17	0.5736177563667297
+Ganciclovir	BK virus	18	0.5729711651802063
+Ganciclovir	West Nile virus	19	0.5525209903717041
+Ganciclovir	Yellow fever virus	20	0.529119074344635
+Gefitinib	Influenza A virus	1	0.7119762897491455
+Gefitinib	Zika virus	2	0.7012073993682861
+Gefitinib	Dengue virus	3	0.686254620552063
+Gefitinib	Herpes simplex virus 1	4	0.6837529540061951
+Gefitinib	Middle East respiratory syndrome coronavirus	5	0.6734893918037415
+Gefitinib	Human immunodeficiency virus 1	6	0.6442039012908936
+Gefitinib	Ebola virus	7	0.6371455192565918
+Gefitinib	Severe acute respiratory syndrome coronavirus	8	0.6303114891052246
+Gefitinib	Hepatitis B virus	9	0.5894023776054382
+Gefitinib	Chikungunya virus	10	0.5877799987792969
+Gefitinib	Enterovirus B	11	0.5733731389045715
+Gefitinib	Epstein-Barr virus	12	0.5336561799049377
+Gefitinib	Herpes simplex virus 2	13	0.49524104595184326
+Gefitinib	Kaposi's sarcoma-associated herpesvirus	14	0.4670427441596985
+Gefitinib	Enterovirus A	15	0.4568999409675598
+Gefitinib	Rift Valley fever virus	16	0.4525448679924011
+Gefitinib	Sindbis virus	17	0.43139857053756714
+Gefitinib	Vesicular stomatitis virus	18	0.4217568635940552
+Gefitinib	Yellow fever virus	19	0.4064519703388214
+Gefitinib	Respiratory syncytial virus	20	0.4037492573261261
+Gemcitabine	Ebola virus	1	0.7520487904548645
+Gemcitabine	Cytomegalovirus	2	0.7500061988830566
+Gemcitabine	Dengue virus	3	0.7249162197113037
+Gemcitabine	Herpes simplex virus 2	4	0.6979961395263672
+Gemcitabine	Respiratory syncytial virus	5	0.6975274682044983
+Gemcitabine	Hepatitis B virus	6	0.6821122765541077
+Gemcitabine	Chikungunya virus	7	0.6811926960945129
+Gemcitabine	Kaposi's sarcoma-associated herpesvirus	8	0.6738877296447754
+Gemcitabine	Epstein-Barr virus	9	0.6708205342292786
+Gemcitabine	Rift Valley fever virus	10	0.6661422252655029
+Gemcitabine	Vesicular stomatitis virus	11	0.6607428789138794
+Gemcitabine	Human Herpesvirus 1	12	0.6569786071777344
+Gemcitabine	BK virus	13	0.651520311832428
+Gemcitabine	West Nile virus	14	0.6431413888931274
+Gemcitabine	Yellow fever virus	15	0.6150997281074524
+Gemcitabine	Varicella-zoster virus	16	0.6120439171791077
+Gemcitabine	Influenza B virus	17	0.5939992070198059
+Gemcitabine	SARS-COV-2	18	0.542998194694519
+Gemcitabine	Human metapneumovirus	19	0.5382586121559143
+Gemcitabine	Human immunodeficiency virus	20	0.5327742099761963
+Genistin	Zika virus	1	0.7112830281257629
+Genistin	Hepatitis C virus	2	0.7040068507194519
+Genistin	Dengue virus	3	0.684543251991272
+Genistin	Ebola virus	4	0.6701498627662659
+Genistin	Middle East respiratory syndrome coronavirus	5	0.6622328162193298
+Genistin	Severe acute respiratory syndrome coronavirus	6	0.6366252899169922
+Genistin	Cytomegalovirus	7	0.6029942631721497
+Genistin	Chikungunya virus	8	0.5734567642211914
+Genistin	Enterovirus B	9	0.5457493662834167
+Genistin	Epstein-Barr virus	10	0.5032324194908142
+Genistin	Herpes simplex virus 2	11	0.4664621949195862
+Genistin	Kaposi's sarcoma-associated herpesvirus	12	0.46551716327667236
+Genistin	Enterovirus A	13	0.465229868888855
+Genistin	Vesicular stomatitis virus	14	0.4199308753013611
+Genistin	Respiratory syncytial virus	15	0.3969925343990326
+Genistin	Varicella-zoster virus	16	0.39696580171585083
+Genistin	Human Herpesvirus 1	17	0.3932318687438965
+Genistin	Sindbis virus	18	0.39135172963142395
+Genistin	West Nile virus	19	0.3830954134464264
+Genistin	Influenza B virus	20	0.383048951625824
+Glycyrrhizin	Zika virus	1	0.7601951360702515
+Glycyrrhizin	Middle East respiratory syndrome coronavirus	2	0.75696861743927
+Glycyrrhizin	Ebola virus	3	0.7481494545936584
+Glycyrrhizin	Dengue virus	4	0.7288854122161865
+Glycyrrhizin	Cytomegalovirus	5	0.6979610323905945
+Glycyrrhizin	Hepatitis B virus	6	0.6842458248138428
+Glycyrrhizin	Chikungunya virus	7	0.6826602220535278
+Glycyrrhizin	Rift Valley fever virus	8	0.6538395285606384
+Glycyrrhizin	BK virus	9	0.6463733911514282
+Glycyrrhizin	Respiratory syncytial virus	10	0.6379789113998413
+Glycyrrhizin	Herpes simplex virus 2	11	0.6373088955879211
+Glycyrrhizin	Vesicular stomatitis virus	12	0.6189339756965637
+Glycyrrhizin	Sindbis virus	13	0.607147753238678
+Glycyrrhizin	Human Herpesvirus 1	14	0.5981972217559814
+Glycyrrhizin	West Nile virus	15	0.5834158658981323
+Glycyrrhizin	Yellow fever virus	16	0.5812626481056213
+Glycyrrhizin	Influenza B virus	17	0.5636571049690247
+Glycyrrhizin	Varicella-zoster virus	18	0.5469765067100525
+Glycyrrhizin	SARS-COV-2	19	0.5362589359283447
+Glycyrrhizin	Vaccinia virus	20	0.532492995262146
+Hexachlorophene	Hepatitis C virus	1	0.7534542083740234
+Hexachlorophene	Human immunodeficiency virus 1	2	0.7489107847213745
+Hexachlorophene	Zika virus	3	0.7164508700370789
+Hexachlorophene	Influenza A virus	4	0.7080627083778381
+Hexachlorophene	Herpes simplex virus 1	5	0.7075682282447815
+Hexachlorophene	Dengue virus	6	0.6853653788566589
+Hexachlorophene	Ebola virus	7	0.6751950979232788
+Hexachlorophene	Severe acute respiratory syndrome coronavirus	8	0.6743530631065369
+Hexachlorophene	Cytomegalovirus	9	0.6340299248695374
+Hexachlorophene	Chikungunya virus	10	0.6215564012527466
+Hexachlorophene	Hepatitis B virus	11	0.619598925113678
+Hexachlorophene	Enterovirus B	12	0.5944791436195374
+Hexachlorophene	Epstein-Barr virus	13	0.5869264006614685
+Hexachlorophene	Kaposi's sarcoma-associated herpesvirus	14	0.5226852893829346
+Hexachlorophene	Herpes simplex virus 2	15	0.49748092889785767
+Hexachlorophene	Respiratory syncytial virus	16	0.4738839268684387
+Hexachlorophene	Sindbis virus	17	0.472842812538147
+Hexachlorophene	Rift Valley fever virus	18	0.4702623784542084
+Hexachlorophene	Enterovirus A	19	0.4630282521247864
+Hexachlorophene	SARS-COV-2	20	0.4511582851409912
+Homoharringtonine	Hepatitis C virus	1	0.7810171842575073
+Homoharringtonine	Influenza A virus	2	0.7677088975906372
+Homoharringtonine	Dengue virus	3	0.7590610980987549
+Homoharringtonine	Zika virus	4	0.7526075839996338
+Homoharringtonine	Human immunodeficiency virus 1	5	0.7476521730422974
+Homoharringtonine	Chikungunya virus	6	0.7343157529830933
+Homoharringtonine	Cytomegalovirus	7	0.68914794921875
+Homoharringtonine	Severe acute respiratory syndrome coronavirus	8	0.6674644947052002
+Homoharringtonine	Epstein-Barr virus	9	0.6667140126228333
+Homoharringtonine	Ebola virus	10	0.6597692966461182
+Homoharringtonine	Enterovirus A	11	0.6125044226646423
+Homoharringtonine	Herpes simplex virus 2	12	0.6046187877655029
+Homoharringtonine	Rift Valley fever virus	13	0.5815590620040894
+Homoharringtonine	Respiratory syncytial virus	14	0.571709394454956
+Homoharringtonine	Kaposi's sarcoma-associated herpesvirus	15	0.5715262293815613
+Homoharringtonine	Vesicular stomatitis virus	16	0.560486912727356
+Homoharringtonine	West Nile virus	17	0.5410571098327637
+Homoharringtonine	Sindbis virus	18	0.5392259955406189
+Homoharringtonine	Human Herpesvirus 1	19	0.5363713502883911
+Homoharringtonine	BK virus	20	0.5261446833610535
+Hydroxychloroquine	Influenza A virus	1	0.7614518404006958
+Hydroxychloroquine	Hepatitis C virus	2	0.7423067092895508
+Hydroxychloroquine	Herpes simplex virus 1	3	0.7202606797218323
+Hydroxychloroquine	Ebola virus	4	0.6789747476577759
+Hydroxychloroquine	Cytomegalovirus	5	0.660765528678894
+Hydroxychloroquine	Enterovirus B	6	0.6344560384750366
+Hydroxychloroquine	Hepatitis B virus	7	0.6240323185920715
+Hydroxychloroquine	Epstein-Barr virus	8	0.5737320780754089
+Hydroxychloroquine	Kaposi's sarcoma-associated herpesvirus	9	0.5279329419136047
+Hydroxychloroquine	Herpes simplex virus 2	10	0.527583658695221
+Hydroxychloroquine	Rift Valley fever virus	11	0.5149744749069214
+Hydroxychloroquine	Enterovirus A	12	0.512635350227356
+Hydroxychloroquine	Sindbis virus	13	0.49898961186408997
+Hydroxychloroquine	Vesicular stomatitis virus	14	0.48641732335090637
+Hydroxychloroquine	Respiratory syncytial virus	15	0.470248818397522
+Hydroxychloroquine	West Nile virus	16	0.4663475751876831
+Hydroxychloroquine	BK virus	17	0.458114892244339
+Hydroxychloroquine	Yellow fever virus	18	0.45004841685295105
+Hydroxychloroquine	Human Herpesvirus 1	19	0.44130703806877136
+Hydroxychloroquine	Japanese encephalitis virus	20	0.41518810391426086
+Idoxuridine	Human immunodeficiency virus 1	1	0.6814173460006714
+Idoxuridine	Dengue virus	2	0.5528701543807983
+Idoxuridine	Influenza A virus	3	0.54529869556427
+Idoxuridine	Zika virus	4	0.5364553332328796
+Idoxuridine	Hepatitis C virus	5	0.4868081510066986
+Idoxuridine	Middle East respiratory syndrome coronavirus	6	0.4074722230434418
+Idoxuridine	Herpes simplex virus 1	7	0.3848758041858673
+Idoxuridine	Ebola virus	8	0.35855039954185486
+Idoxuridine	Hepatitis B virus	9	0.35539016127586365
+Idoxuridine	Enterovirus B	10	0.34614789485931396
+Idoxuridine	Chikungunya virus	11	0.3147233724594116
+Idoxuridine	Cytomegalovirus	12	0.30447515845298767
+Idoxuridine	Severe acute respiratory syndrome coronavirus	13	0.26426953077316284
+Idoxuridine	Epstein-Barr virus	14	0.24732756614685059
+Idoxuridine	Enterovirus C	15	0.2327130138874054
+Idoxuridine	Kaposi's sarcoma-associated herpesvirus	16	0.2189299464225769
+Idoxuridine	BK virus	17	0.2152652144432068
+Idoxuridine	Vesicular stomatitis virus	18	0.21188871562480927
+Idoxuridine	West Nile virus	19	0.21078722178936005
+Idoxuridine	Human metapneumovirus	20	0.2047167867422104
+Imatinib	Human immunodeficiency virus 1	1	0.7407336235046387
+Imatinib	Zika virus	2	0.7084429860115051
+Imatinib	Influenza A virus	3	0.6954244375228882
+Imatinib	Herpes simplex virus 1	4	0.6918608546257019
+Imatinib	Dengue virus	5	0.6426421999931335
+Imatinib	Ebola virus	6	0.6284090876579285
+Imatinib	Cytomegalovirus	7	0.5667152404785156
+Imatinib	Chikungunya virus	8	0.5406699776649475
+Imatinib	Hepatitis B virus	9	0.5396952629089355
+Imatinib	Enterovirus B	10	0.5323253870010376
+Imatinib	Epstein-Barr virus	11	0.49739503860473633
+Imatinib	Sindbis virus	12	0.4286504089832306
+Imatinib	West Nile virus	13	0.4275979995727539
+Imatinib	Enterovirus A	14	0.42603760957717896
+Imatinib	Kaposi's sarcoma-associated herpesvirus	15	0.4165969491004944
+Imatinib	Human Herpesvirus 1	16	0.4064200818538666
+Imatinib	Herpes simplex virus 2	17	0.40539684891700745
+Imatinib	Respiratory syncytial virus	18	0.40342894196510315
+Imatinib	Vesicular stomatitis virus	19	0.39512205123901367
+Imatinib	Rift Valley fever virus	20	0.37706345319747925
+Indinavir	Hepatitis C virus	1	0.6719064116477966
+Indinavir	Influenza A virus	2	0.6695762276649475
+Indinavir	Zika virus	3	0.6664751172065735
+Indinavir	Herpes simplex virus 1	4	0.6534068584442139
+Indinavir	Middle East respiratory syndrome coronavirus	5	0.6382776498794556
+Indinavir	Dengue virus	6	0.6280141472816467
+Indinavir	Ebola virus	7	0.6130046844482422
+Indinavir	Severe acute respiratory syndrome coronavirus	8	0.6099119186401367
+Indinavir	Chikungunya virus	9	0.5185070633888245
+Indinavir	Hepatitis B virus	10	0.5158120393753052
+Indinavir	Cytomegalovirus	11	0.49043887853622437
+Indinavir	Enterovirus B	12	0.490066260099411
+Indinavir	Epstein-Barr virus	13	0.46947014331817627
+Indinavir	Enterovirus A	14	0.41469240188598633
+Indinavir	West Nile virus	15	0.40008261799812317
+Indinavir	Sindbis virus	16	0.3912994861602783
+Indinavir	Kaposi's sarcoma-associated herpesvirus	17	0.3823009729385376
+Indinavir	Herpes simplex virus 2	18	0.3807183504104614
+Indinavir	Rift Valley fever virus	19	0.37826740741729736
+Indinavir	BK virus	20	0.3704177737236023
+Indomethacin	Influenza A virus	1	0.67252117395401
+Indomethacin	Hepatitis C virus	2	0.6666815280914307
+Indomethacin	Dengue virus	3	0.6602587103843689
+Indomethacin	Middle East respiratory syndrome coronavirus	4	0.6510655283927917
+Indomethacin	Zika virus	5	0.6500809788703918
+Indomethacin	Ebola virus	6	0.6058018207550049
+Indomethacin	Chikungunya virus	7	0.5413185358047485
+Indomethacin	Hepatitis B virus	8	0.5380323529243469
+Indomethacin	Cytomegalovirus	9	0.5288984179496765
+Indomethacin	Enterovirus B	10	0.5175029039382935
+Indomethacin	Epstein-Barr virus	11	0.4847748577594757
+Indomethacin	Herpes simplex virus 2	12	0.4514079689979553
+Indomethacin	Kaposi's sarcoma-associated herpesvirus	13	0.4353661835193634
+Indomethacin	Rift Valley fever virus	14	0.37601739168167114
+Indomethacin	Enterovirus A	15	0.3753204941749573
+Indomethacin	BK virus	16	0.37148967385292053
+Indomethacin	West Nile virus	17	0.36545330286026
+Indomethacin	Influenza B virus	18	0.3524587154388428
+Indomethacin	Sindbis virus	19	0.35109466314315796
+Indomethacin	Human Herpesvirus 1	20	0.34821435809135437
+Inosine pranobex	Hepatitis C virus	1	0.3731643855571747
+Inosine pranobex	Zika virus	2	0.3424050807952881
+Inosine pranobex	Dengue virus	3	0.33145609498023987
+Inosine pranobex	Severe acute respiratory syndrome coronavirus	4	0.2953382134437561
+Inosine pranobex	Influenza A virus	5	0.2861773669719696
+Inosine pranobex	Enterovirus B	6	0.2313474416732788
+Inosine pranobex	Herpes simplex virus 1	7	0.22513528168201447
+Inosine pranobex	Middle East respiratory syndrome coronavirus	8	0.2201407551765442
+Inosine pranobex	Ebola virus	9	0.20834168791770935
+Inosine pranobex	Cytomegalovirus	10	0.1854414939880371
+Inosine pranobex	Hepatitis B virus	11	0.17413300275802612
+Inosine pranobex	Influenza B virus	12	0.17174507677555084
+Inosine pranobex	Kaposi's sarcoma-associated herpesvirus	13	0.16396920382976532
+Inosine pranobex	West Nile virus	14	0.14555412530899048
+Inosine pranobex	Human Herpesvirus 1	15	0.14365068078041077
+Inosine pranobex	Chikungunya virus	16	0.13778309524059296
+Inosine pranobex	Lassa virus	17	0.134503573179245
+Inosine pranobex	Enterovirus A	18	0.13345608115196228
+Inosine pranobex	Herpes simplex virus 2	19	0.13273245096206665
+Inosine pranobex	Varicella-zoster virus	20	0.123484767973423
+Irbesartan	Human immunodeficiency virus 1	1	0.7023348808288574
+Irbesartan	Influenza A virus	2	0.6843515038490295
+Irbesartan	Zika virus	3	0.6260959506034851
+Irbesartan	Hepatitis C virus	4	0.6086504459381104
+Irbesartan	Dengue virus	5	0.6007395386695862
+Irbesartan	Herpes simplex virus 1	6	0.5830796360969543
+Irbesartan	Middle East respiratory syndrome coronavirus	7	0.5595948696136475
+Irbesartan	Ebola virus	8	0.5529108643531799
+Irbesartan	Chikungunya virus	9	0.5097327828407288
+Irbesartan	Severe acute respiratory syndrome coronavirus	10	0.5083909034729004
+Irbesartan	Cytomegalovirus	11	0.4753817915916443
+Irbesartan	Enterovirus B	12	0.46681949496269226
+Irbesartan	Epstein-Barr virus	13	0.42997682094573975
+Irbesartan	Enterovirus A	14	0.4066399037837982
+Irbesartan	Human Herpesvirus 1	15	0.39599478244781494
+Irbesartan	West Nile virus	16	0.3810964524745941
+Irbesartan	Kaposi's sarcoma-associated herpesvirus	17	0.36483627557754517
+Irbesartan	Vesicular stomatitis virus	18	0.35412538051605225
+Irbesartan	Herpes simplex virus 2	19	0.3459646701812744
+Irbesartan	Rift Valley fever virus	20	0.33844029903411865
+Isolanid (lanatoside C)	Hepatitis C virus	1	0.7317167520523071
+Isolanid (lanatoside C)	Herpes simplex virus 1	2	0.7176167964935303
+Isolanid (lanatoside C)	Human immunodeficiency virus 1	3	0.7126234173774719
+Isolanid (lanatoside C)	Ebola virus	4	0.7098965644836426
+Isolanid (lanatoside C)	Zika virus	5	0.6974608302116394
+Isolanid (lanatoside C)	Severe acute respiratory syndrome coronavirus	6	0.6776764392852783
+Isolanid (lanatoside C)	Influenza A virus	7	0.6751991510391235
+Isolanid (lanatoside C)	Middle East respiratory syndrome coronavirus	8	0.674155592918396
+Isolanid (lanatoside C)	Cytomegalovirus	9	0.641048014163971
+Isolanid (lanatoside C)	Hepatitis B virus	10	0.6278315782546997
+Isolanid (lanatoside C)	Epstein-Barr virus	11	0.6015456914901733
+Isolanid (lanatoside C)	Kaposi's sarcoma-associated herpesvirus	12	0.5174272656440735
+Isolanid (lanatoside C)	Rift Valley fever virus	13	0.5133998394012451
+Isolanid (lanatoside C)	Enterovirus A	14	0.5085820555686951
+Isolanid (lanatoside C)	Herpes simplex virus 2	15	0.5047494769096375
+Isolanid (lanatoside C)	Respiratory syncytial virus	16	0.49536260962486267
+Isolanid (lanatoside C)	West Nile virus	17	0.48071250319480896
+Isolanid (lanatoside C)	BK virus	18	0.47569677233695984
+Isolanid (lanatoside C)	Vesicular stomatitis virus	19	0.47099006175994873
+Isolanid (lanatoside C)	Influenza B virus	20	0.44776347279548645
+Itraconazole	Hepatitis C virus	1	0.7630264163017273
+Itraconazole	Herpes simplex virus 1	2	0.7551711201667786
+Itraconazole	Dengue virus	3	0.7514016032218933
+Itraconazole	Hepatitis B virus	4	0.7472549676895142
+Itraconazole	Ebola virus	5	0.7287355661392212
+Itraconazole	Severe acute respiratory syndrome coronavirus	6	0.727006733417511
+Itraconazole	Zika virus	7	0.7228072881698608
+Itraconazole	Chikungunya virus	8	0.7213771343231201
+Itraconazole	Human immunodeficiency virus 1	9	0.7143968343734741
+Itraconazole	Middle East respiratory syndrome coronavirus	10	0.7059845924377441
+Itraconazole	Epstein-Barr virus	11	0.698802649974823
+Itraconazole	Cytomegalovirus	12	0.6960576772689819
+Itraconazole	Enterovirus A	13	0.6653051376342773
+Itraconazole	Herpes simplex virus 2	14	0.6174556612968445
+Itraconazole	Rift Valley fever virus	15	0.615395188331604
+Itraconazole	Kaposi's sarcoma-associated herpesvirus	16	0.6131119132041931
+Itraconazole	West Nile virus	17	0.6048473715782166
+Itraconazole	Respiratory syncytial virus	18	0.5838269591331482
+Itraconazole	Sindbis virus	19	0.5764011740684509
+Itraconazole	BK virus	20	0.5761711001396179
+Ivermectin	Middle East respiratory syndrome coronavirus	1	0.750859260559082
+Ivermectin	Influenza A virus	2	0.7411776185035706
+Ivermectin	Hepatitis C virus	3	0.7315424680709839
+Ivermectin	Herpes simplex virus 1	4	0.7128977179527283
+Ivermectin	Severe acute respiratory syndrome coronavirus	5	0.7119742035865784
+Ivermectin	Cytomegalovirus	6	0.7010310292243958
+Ivermectin	Ebola virus	7	0.6793991923332214
+Ivermectin	Enterovirus B	8	0.667389988899231
+Ivermectin	Hepatitis B virus	9	0.6604818105697632
+Ivermectin	Epstein-Barr virus	10	0.6511470675468445
+Ivermectin	Enterovirus A	11	0.6475208401679993
+Ivermectin	Herpes simplex virus 2	12	0.6119766235351562
+Ivermectin	Respiratory syncytial virus	13	0.5993049740791321
+Ivermectin	Rift Valley fever virus	14	0.5903331637382507
+Ivermectin	Kaposi's sarcoma-associated herpesvirus	15	0.5722220540046692
+Ivermectin	West Nile virus	16	0.5640424489974976
+Ivermectin	Vesicular stomatitis virus	17	0.5526307821273804
+Ivermectin	BK virus	18	0.5474914908409119
+Ivermectin	Influenza B virus	19	0.5035788416862488
+Ivermectin	Human Herpesvirus 1	20	0.5009268522262573
+Kasugamycin	Human immunodeficiency virus 1	1	0.7829141020774841
+Kasugamycin	Hepatitis C virus	2	0.6812219619750977
+Kasugamycin	Herpes simplex virus 1	3	0.607004702091217
+Kasugamycin	Dengue virus	4	0.6066625118255615
+Kasugamycin	Middle East respiratory syndrome coronavirus	5	0.576770007610321
+Kasugamycin	Ebola virus	6	0.5710335373878479
+Kasugamycin	Severe acute respiratory syndrome coronavirus	7	0.510105550289154
+Kasugamycin	Cytomegalovirus	8	0.4888569414615631
+Kasugamycin	Hepatitis B virus	9	0.4881226718425751
+Kasugamycin	Chikungunya virus	10	0.47582951188087463
+Kasugamycin	Enterovirus B	11	0.45520010590553284
+Kasugamycin	Epstein-Barr virus	12	0.41518616676330566
+Kasugamycin	BK virus	13	0.3991534113883972
+Kasugamycin	Enterovirus A	14	0.3927347660064697
+Kasugamycin	Kaposi's sarcoma-associated herpesvirus	15	0.38865217566490173
+Kasugamycin	Rift Valley fever virus	16	0.3699844777584076
+Kasugamycin	Sindbis virus	17	0.35918208956718445
+Kasugamycin	Respiratory syncytial virus	18	0.3311796188354492
+Kasugamycin	Varicella-zoster virus	19	0.3145311176776886
+Kasugamycin	Vesicular stomatitis virus	20	0.30767321586608887
+Labyrinthopeptin A1	Human immunodeficiency virus 1	1	0.7334073781967163
+Labyrinthopeptin A1	Middle East respiratory syndrome coronavirus	2	0.7025442719459534
+Labyrinthopeptin A1	Severe acute respiratory syndrome coronavirus	3	0.7003365159034729
+Labyrinthopeptin A1	Influenza A virus	4	0.6849629282951355
+Labyrinthopeptin A1	Ebola virus	5	0.6798245906829834
+Labyrinthopeptin A1	Epstein-Barr virus	6	0.6542328000068665
+Labyrinthopeptin A1	Hepatitis B virus	7	0.6491448879241943
+Labyrinthopeptin A1	Enterovirus B	8	0.6365364193916321
+Labyrinthopeptin A1	Enterovirus A	9	0.5773724317550659
+Labyrinthopeptin A1	Herpes simplex virus 2	10	0.5573509931564331
+Labyrinthopeptin A1	Rift Valley fever virus	11	0.5397371053695679
+Labyrinthopeptin A1	Respiratory syncytial virus	12	0.5322978496551514
+Labyrinthopeptin A1	Sindbis virus	13	0.5245118737220764
+Labyrinthopeptin A1	BK virus	14	0.5015583634376526
+Labyrinthopeptin A1	Vesicular stomatitis virus	15	0.48505139350891113
+Labyrinthopeptin A1	Human Herpesvirus 1	16	0.46527135372161865
+Labyrinthopeptin A1	Yellow fever virus	17	0.46494197845458984
+Labyrinthopeptin A1	SARS-COV-2	18	0.4627375304698944
+Labyrinthopeptin A1	Adenovirus	19	0.46066775918006897
+Labyrinthopeptin A1	Influenza B virus	20	0.45695027709007263
+Labyrinthopeptin A2	Influenza A virus	1	0.7578192353248596
+Labyrinthopeptin A2	Ebola virus	2	0.7305285930633545
+Labyrinthopeptin A2	Middle East respiratory syndrome coronavirus	3	0.7156858444213867
+Labyrinthopeptin A2	Severe acute respiratory syndrome coronavirus	4	0.7011730074882507
+Labyrinthopeptin A2	Enterovirus B	5	0.6996521949768066
+Labyrinthopeptin A2	Human immunodeficiency virus 1	6	0.6803784370422363
+Labyrinthopeptin A2	Hepatitis B virus	7	0.6731708645820618
+Labyrinthopeptin A2	Epstein-Barr virus	8	0.655470073223114
+Labyrinthopeptin A2	Enterovirus A	9	0.580389678478241
+Labyrinthopeptin A2	Rift Valley fever virus	10	0.5744497179985046
+Labyrinthopeptin A2	Respiratory syncytial virus	11	0.562480628490448
+Labyrinthopeptin A2	Sindbis virus	12	0.553104817867279
+Labyrinthopeptin A2	BK virus	13	0.5425732731819153
+Labyrinthopeptin A2	Vesicular stomatitis virus	14	0.5375638604164124
+Labyrinthopeptin A2	SARS-COV-2	15	0.5049740076065063
+Labyrinthopeptin A2	Yellow fever virus	16	0.49732303619384766
+Labyrinthopeptin A2	Vaccinia virus	17	0.4882586598396301
+Labyrinthopeptin A2	Human Herpesvirus 1	18	0.4845353364944458
+Labyrinthopeptin A2	Varicella-zoster virus	19	0.4830745458602905
+Labyrinthopeptin A2	Influenza B virus	20	0.4757830500602722
+Lamivudine	Influenza A virus	1	0.7455894947052002
+Lamivudine	Zika virus	2	0.7295645475387573
+Lamivudine	Hepatitis C virus	3	0.6944670677185059
+Lamivudine	Ebola virus	4	0.6654092669487
+Lamivudine	Middle East respiratory syndrome coronavirus	5	0.6497606635093689
+Lamivudine	Dengue virus	6	0.6470062136650085
+Lamivudine	Herpes simplex virus 1	7	0.6439364552497864
+Lamivudine	Severe acute respiratory syndrome coronavirus	8	0.6386552453041077
+Lamivudine	Chikungunya virus	9	0.5952678322792053
+Lamivudine	Cytomegalovirus	10	0.5879457592964172
+Lamivudine	Enterovirus B	11	0.5464324355125427
+Lamivudine	Epstein-Barr virus	12	0.5302294492721558
+Lamivudine	Enterovirus A	13	0.4857321083545685
+Lamivudine	Rift Valley fever virus	14	0.4674268066883087
+Lamivudine	Kaposi's sarcoma-associated herpesvirus	15	0.4641352593898773
+Lamivudine	Herpes simplex virus 2	16	0.4317249655723572
+Lamivudine	Respiratory syncytial virus	17	0.43139877915382385
+Lamivudine	Influenza B virus	18	0.4081058204174042
+Lamivudine	Human Herpesvirus 1	19	0.40780219435691833
+Lamivudine	Sindbis virus	20	0.40669673681259155
+Leflunomide	Hepatitis C virus	1	0.7735996842384338
+Leflunomide	Zika virus	2	0.7437644600868225
+Leflunomide	Human immunodeficiency virus 1	3	0.719624936580658
+Leflunomide	Severe acute respiratory syndrome coronavirus	4	0.7175744771957397
+Leflunomide	Ebola virus	5	0.7155991196632385
+Leflunomide	Middle East respiratory syndrome coronavirus	6	0.7105020880699158
+Leflunomide	Influenza A virus	7	0.7034865021705627
+Leflunomide	Dengue virus	8	0.6798321604728699
+Leflunomide	Enterovirus B	9	0.6725043654441833
+Leflunomide	Chikungunya virus	10	0.6507143378257751
+Leflunomide	Hepatitis B virus	11	0.6290556192398071
+Leflunomide	Herpes simplex virus 2	12	0.5835554003715515
+Leflunomide	Enterovirus A	13	0.5805932283401489
+Leflunomide	Rift Valley fever virus	14	0.5546221137046814
+Leflunomide	Kaposi's sarcoma-associated herpesvirus	15	0.5492621064186096
+Leflunomide	Sindbis virus	16	0.5079969167709351
+Leflunomide	Respiratory syncytial virus	17	0.5026711225509644
+Leflunomide	Yellow fever virus	18	0.5010993480682373
+Leflunomide	Japanese encephalitis virus	19	0.49174973368644714
+Leflunomide	West Nile virus	20	0.4899420738220215
+Letermovir	Hepatitis C virus	1	0.7579523921012878
+Letermovir	Middle East respiratory syndrome coronavirus	2	0.7450907826423645
+Letermovir	Influenza A virus	3	0.7218891978263855
+Letermovir	Dengue virus	4	0.7054137587547302
+Letermovir	Zika virus	5	0.7001970410346985
+Letermovir	Human immunodeficiency virus 1	6	0.6804695129394531
+Letermovir	Chikungunya virus	7	0.6756706833839417
+Letermovir	Severe acute respiratory syndrome coronavirus	8	0.6702290177345276
+Letermovir	Hepatitis B virus	9	0.665647029876709
+Letermovir	Enterovirus B	10	0.6550993919372559
+Letermovir	Ebola virus	11	0.6475893259048462
+Letermovir	Enterovirus A	12	0.5912773609161377
+Letermovir	Kaposi's sarcoma-associated herpesvirus	13	0.5555048584938049
+Letermovir	Rift Valley fever virus	14	0.5406365990638733
+Letermovir	Respiratory syncytial virus	15	0.5367451310157776
+Letermovir	Sindbis virus	16	0.5340426564216614
+Letermovir	West Nile virus	17	0.5249345302581787
+Letermovir	BK virus	18	0.5166769623756409
+Letermovir	Vesicular stomatitis virus	19	0.5113526582717896
+Letermovir	Human Herpesvirus 1	20	0.48189684748649597
+Lobucavir	Hepatitis C virus	1	0.7151331901550293
+Lobucavir	Influenza A virus	2	0.6758989691734314
+Lobucavir	Zika virus	3	0.6746800541877747
+Lobucavir	Dengue virus	4	0.6396035552024841
+Lobucavir	Middle East respiratory syndrome coronavirus	5	0.6191664338111877
+Lobucavir	Severe acute respiratory syndrome coronavirus	6	0.6042410135269165
+Lobucavir	Enterovirus B	7	0.5632233023643494
+Lobucavir	Ebola virus	8	0.5607950687408447
+Lobucavir	Chikungunya virus	9	0.5183019638061523
+Lobucavir	Epstein-Barr virus	10	0.45993053913116455
+Lobucavir	Kaposi's sarcoma-associated herpesvirus	11	0.40919992327690125
+Lobucavir	Rift Valley fever virus	12	0.3978588879108429
+Lobucavir	Enterovirus A	13	0.39597734808921814
+Lobucavir	Herpes simplex virus 2	14	0.39431101083755493
+Lobucavir	Respiratory syncytial virus	15	0.3923281133174896
+Lobucavir	Sindbis virus	16	0.3751676082611084
+Lobucavir	Human Herpesvirus 1	17	0.364269495010376
+Lobucavir	BK virus	18	0.35709521174430847
+Lobucavir	West Nile virus	19	0.35482272505760193
+Lobucavir	Vesicular stomatitis virus	20	0.35216930508613586
+Lopinavir	Influenza A virus	1	0.7603785395622253
+Lopinavir	Herpes simplex virus 1	2	0.739992618560791
+Lopinavir	Chikungunya virus	3	0.7341312766075134
+Lopinavir	Dengue virus	4	0.7045603394508362
+Lopinavir	Hepatitis C virus	5	0.695665717124939
+Lopinavir	Ebola virus	6	0.6930590271949768
+Lopinavir	Severe acute respiratory syndrome coronavirus	7	0.6891487836837769
+Lopinavir	Cytomegalovirus	8	0.6885946393013
+Lopinavir	Hepatitis B virus	9	0.6824329495429993
+Lopinavir	Enterovirus B	10	0.6642568111419678
+Lopinavir	Epstein-Barr virus	11	0.6223109364509583
+Lopinavir	Herpes simplex virus 2	12	0.5764002203941345
+Lopinavir	Enterovirus A	13	0.570673406124115
+Lopinavir	Kaposi's sarcoma-associated herpesvirus	14	0.5680733323097229
+Lopinavir	Rift Valley fever virus	15	0.5548523664474487
+Lopinavir	Sindbis virus	16	0.5505422353744507
+Lopinavir	Respiratory syncytial virus	17	0.5400651693344116
+Lopinavir	BK virus	18	0.5218430161476135
+Lopinavir	West Nile virus	19	0.5164757966995239
+Lopinavir	Vesicular stomatitis virus	20	0.510349452495575
+Lovastatin	Influenza A virus	1	0.7353596091270447
+Lovastatin	Herpes simplex virus 1	2	0.7080806493759155
+Lovastatin	Hepatitis C virus	3	0.7075914740562439
+Lovastatin	Human immunodeficiency virus 1	4	0.6719629168510437
+Lovastatin	Cytomegalovirus	5	0.6544417142868042
+Lovastatin	Middle East respiratory syndrome coronavirus	6	0.6489434242248535
+Lovastatin	Enterovirus B	7	0.6271517872810364
+Lovastatin	Severe acute respiratory syndrome coronavirus	8	0.623765766620636
+Lovastatin	Chikungunya virus	9	0.6148455739021301
+Lovastatin	Hepatitis B virus	10	0.5926081538200378
+Lovastatin	Epstein-Barr virus	11	0.5412330031394958
+Lovastatin	Kaposi's sarcoma-associated herpesvirus	12	0.4987626373767853
+Lovastatin	Herpes simplex virus 2	13	0.47758764028549194
+Lovastatin	Enterovirus A	14	0.4718882441520691
+Lovastatin	Rift Valley fever virus	15	0.4718419313430786
+Lovastatin	Sindbis virus	16	0.47137266397476196
+Lovastatin	Vesicular stomatitis virus	17	0.44368836283683777
+Lovastatin	Influenza B virus	18	0.43307799100875854
+Lovastatin	BK virus	19	0.4285598397254944
+Lovastatin	Human Herpesvirus 1	20	0.42062631249427795
+Luteolin	Hepatitis C virus	1	0.7816004157066345
+Luteolin	Zika virus	2	0.775534987449646
+Luteolin	Ebola virus	3	0.7435417175292969
+Luteolin	Middle East respiratory syndrome coronavirus	4	0.7339506149291992
+Luteolin	Cytomegalovirus	5	0.7297559380531311
+Luteolin	Herpes simplex virus 1	6	0.7037297487258911
+Luteolin	Herpes simplex virus 2	7	0.666654109954834
+Luteolin	Kaposi's sarcoma-associated herpesvirus	8	0.6597769260406494
+Luteolin	Respiratory syncytial virus	9	0.6579176187515259
+Luteolin	Rift Valley fever virus	10	0.6504570245742798
+Luteolin	Sindbis virus	11	0.6415902376174927
+Luteolin	West Nile virus	12	0.6257519721984863
+Luteolin	BK virus	13	0.61184161901474
+Luteolin	Vesicular stomatitis virus	14	0.6034104824066162
+Luteolin	Yellow fever virus	15	0.5962128043174744
+Luteolin	Human Herpesvirus 1	16	0.5892099738121033
+Luteolin	Varicella-zoster virus	17	0.5854266881942749
+Luteolin	SARS-COV-2	18	0.5581337809562683
+Luteolin	Influenza B virus	19	0.5556372404098511
+Luteolin	Vaccinia virus	20	0.535020649433136
+Manidipine	Influenza A virus	1	0.7418396472930908
+Manidipine	Human immunodeficiency virus 1	2	0.706847608089447
+Manidipine	Middle East respiratory syndrome coronavirus	3	0.7061687111854553
+Manidipine	Ebola virus	4	0.6894265413284302
+Manidipine	Herpes simplex virus 1	5	0.6843999624252319
+Manidipine	Hepatitis C virus	6	0.6793662905693054
+Manidipine	Severe acute respiratory syndrome coronavirus	7	0.6414064168930054
+Manidipine	Chikungunya virus	8	0.6357917785644531
+Manidipine	Hepatitis B virus	9	0.599190890789032
+Manidipine	Epstein-Barr virus	10	0.5581769943237305
+Manidipine	Enterovirus B	11	0.5564534664154053
+Manidipine	Enterovirus A	12	0.5056793689727783
+Manidipine	Herpes simplex virus 2	13	0.49661245942115784
+Manidipine	Kaposi's sarcoma-associated herpesvirus	14	0.4875165820121765
+Manidipine	Rift Valley fever virus	15	0.47264567017555237
+Manidipine	Sindbis virus	16	0.4637293517589569
+Manidipine	Respiratory syncytial virus	17	0.4453607201576233
+Manidipine	BK virus	18	0.4360296130180359
+Manidipine	Human Herpesvirus 1	19	0.435952752828598
+Manidipine	Vesicular stomatitis virus	20	0.43111810088157654
+Maraviroc	Hepatitis C virus	1	0.3878391981124878
+Maraviroc	Influenza A virus	2	0.33860987424850464
+Maraviroc	Zika virus	3	0.27804040908813477
+Maraviroc	Herpes simplex virus 1	4	0.26615020632743835
+Maraviroc	Middle East respiratory syndrome coronavirus	5	0.26574140787124634
+Maraviroc	Dengue virus	6	0.26424896717071533
+Maraviroc	Herpes simplex virus 2	7	0.1779041290283203
+Maraviroc	Cytomegalovirus	8	0.17280636727809906
+Maraviroc	Severe acute respiratory syndrome coronavirus	9	0.17274001240730286
+Maraviroc	Hepatitis B virus	10	0.161699578166008
+Maraviroc	Ebola virus	11	0.16069062054157257
+Maraviroc	Human Herpesvirus 1	12	0.15992611646652222
+Maraviroc	Respiratory syncytial virus	13	0.14255064725875854
+Maraviroc	Yellow fever virus	14	0.12949563562870026
+Maraviroc	Enterovirus B	15	0.1262979507446289
+Maraviroc	Sindbis virus	16	0.12230250984430313
+Maraviroc	Chikungunya virus	17	0.12036523967981339
+Maraviroc	Epstein-Barr virus	18	0.11819224059581757
+Maraviroc	Rift Valley fever virus	19	0.11574190109968185
+Maraviroc	BK virus	20	0.11536891013383865
+Mefloquine	Influenza A virus	1	0.7424930334091187
+Mefloquine	Hepatitis C virus	2	0.7262788414955139
+Mefloquine	Dengue virus	3	0.7069857120513916
+Mefloquine	Human immunodeficiency virus 1	4	0.704735279083252
+Mefloquine	Herpes simplex virus 1	5	0.6907897591590881
+Mefloquine	Ebola virus	6	0.6816600561141968
+Mefloquine	Cytomegalovirus	7	0.6568123698234558
+Mefloquine	Enterovirus B	8	0.6321668028831482
+Mefloquine	Chikungunya virus	9	0.6167738437652588
+Mefloquine	Hepatitis B virus	10	0.6002557873725891
+Mefloquine	Epstein-Barr virus	11	0.5766115188598633
+Mefloquine	Respiratory syncytial virus	12	0.4851664900779724
+Mefloquine	Kaposi's sarcoma-associated herpesvirus	13	0.4822266399860382
+Mefloquine	Rift Valley fever virus	14	0.48044905066490173
+Mefloquine	Enterovirus A	15	0.47546547651290894
+Mefloquine	Herpes simplex virus 2	16	0.46568918228149414
+Mefloquine	Sindbis virus	17	0.4607692360877991
+Mefloquine	Yellow fever virus	18	0.4455738067626953
+Mefloquine	Varicella-zoster virus	19	0.4440464675426483
+Mefloquine	West Nile virus	20	0.4411652386188507
+Memantine	Hepatitis C virus	1	0.6570609211921692
+Memantine	Herpes simplex virus 1	2	0.6449295878410339
+Memantine	Dengue virus	3	0.6361803412437439
+Memantine	Ebola virus	4	0.6043636798858643
+Memantine	Middle East respiratory syndrome coronavirus	5	0.6037821769714355
+Memantine	Severe acute respiratory syndrome coronavirus	6	0.5703787207603455
+Memantine	Hepatitis B virus	7	0.5034944415092468
+Memantine	Chikungunya virus	8	0.5028117895126343
+Memantine	Cytomegalovirus	9	0.5024926662445068
+Memantine	Enterovirus B	10	0.49673157930374146
+Memantine	Epstein-Barr virus	11	0.43060609698295593
+Memantine	Respiratory syncytial virus	12	0.4262877404689789
+Memantine	Enterovirus A	13	0.4073944091796875
+Memantine	Rift Valley fever virus	14	0.3975752890110016
+Memantine	Kaposi's sarcoma-associated herpesvirus	15	0.39538902044296265
+Memantine	Herpes simplex virus 2	16	0.38172999024391174
+Memantine	Human Herpesvirus 1	17	0.3769150376319885
+Memantine	West Nile virus	18	0.36996129155158997
+Memantine	Sindbis virus	19	0.35545244812965393
+Memantine	Vesicular stomatitis virus	20	0.35307347774505615
+Metformin	Hepatitis C virus	1	0.7402045726776123
+Metformin	Zika virus	2	0.7249308228492737
+Metformin	Human immunodeficiency virus 1	3	0.7040573954582214
+Metformin	Herpes simplex virus 1	4	0.6868456602096558
+Metformin	Ebola virus	5	0.6845746040344238
+Metformin	Middle East respiratory syndrome coronavirus	6	0.6727350354194641
+Metformin	Severe acute respiratory syndrome coronavirus	7	0.6494974493980408
+Metformin	Cytomegalovirus	8	0.5974491238594055
+Metformin	Chikungunya virus	9	0.5933970212936401
+Metformin	Epstein-Barr virus	10	0.5613916516304016
+Metformin	Herpes simplex virus 2	11	0.49731147289276123
+Metformin	Enterovirus A	12	0.47062861919403076
+Metformin	Sindbis virus	13	0.45726585388183594
+Metformin	Varicella-zoster virus	14	0.452950656414032
+Metformin	Rift Valley fever virus	15	0.4521573781967163
+Metformin	Human Herpesvirus 1	16	0.4419358968734741
+Metformin	Respiratory syncytial virus	17	0.42467865347862244
+Metformin	Influenza B virus	18	0.4168555736541748
+Metformin	Yellow fever virus	19	0.41384726762771606
+Metformin	Vaccinia virus	20	0.4084479808807373
+Minocycline	Zika virus	1	0.6937063336372375
+Minocycline	Severe acute respiratory syndrome coronavirus	2	0.6697357296943665
+Minocycline	Herpes simplex virus 1	3	0.6548603773117065
+Minocycline	Middle East respiratory syndrome coronavirus	4	0.6528183817863464
+Minocycline	Influenza A virus	5	0.6473760008811951
+Minocycline	Ebola virus	6	0.6200609803199768
+Minocycline	Chikungunya virus	7	0.585486114025116
+Minocycline	Cytomegalovirus	8	0.5810102224349976
+Minocycline	Hepatitis B virus	9	0.5782824158668518
+Minocycline	Enterovirus B	10	0.5480740070343018
+Minocycline	Epstein-Barr virus	11	0.5333715081214905
+Minocycline	Sindbis virus	12	0.464327335357666
+Minocycline	Kaposi's sarcoma-associated herpesvirus	13	0.4518578052520752
+Minocycline	Herpes simplex virus 2	14	0.45129916071891785
+Minocycline	Enterovirus A	15	0.44425666332244873
+Minocycline	Respiratory syncytial virus	16	0.4363088309764862
+Minocycline	Influenza B virus	17	0.4292392134666443
+Minocycline	BK virus	18	0.4222109019756317
+Minocycline	Vesicular stomatitis virus	19	0.41697075963020325
+Minocycline	SARS-COV-2	20	0.40936756134033203
+Mitoxantrone	Ebola virus	1	0.7536838054656982
+Mitoxantrone	Human immunodeficiency virus 1	2	0.7457177042961121
+Mitoxantrone	Influenza A virus	3	0.7406041026115417
+Mitoxantrone	Severe acute respiratory syndrome coronavirus	4	0.7309966683387756
+Mitoxantrone	Hepatitis B virus	5	0.7239499688148499
+Mitoxantrone	Middle East respiratory syndrome coronavirus	6	0.7081984877586365
+Mitoxantrone	Enterovirus B	7	0.6885475516319275
+Mitoxantrone	Chikungunya virus	8	0.6840441226959229
+Mitoxantrone	Epstein-Barr virus	9	0.6511144042015076
+Mitoxantrone	Cytomegalovirus	10	0.6347345113754272
+Mitoxantrone	Enterovirus A	11	0.6215929388999939
+Mitoxantrone	Herpes simplex virus 2	12	0.6106734275817871
+Mitoxantrone	Rift Valley fever virus	13	0.591313898563385
+Mitoxantrone	BK virus	14	0.5408403277397156
+Mitoxantrone	Vesicular stomatitis virus	15	0.537351131439209
+Mitoxantrone	West Nile virus	16	0.5313432216644287
+Mitoxantrone	Respiratory syncytial virus	17	0.5296587944030762
+Mitoxantrone	Human Herpesvirus 1	18	0.4912317991256714
+Mitoxantrone	Influenza B virus	19	0.48238807916641235
+Mitoxantrone	Human immunodeficiency virus	20	0.47434836626052856
+Monensin	Hepatitis C virus	1	0.7788123488426208
+Monensin	Middle East respiratory syndrome coronavirus	2	0.7768875956535339
+Monensin	Dengue virus	3	0.7439807057380676
+Monensin	Chikungunya virus	4	0.7412990927696228
+Monensin	Zika virus	5	0.7317662239074707
+Monensin	Ebola virus	6	0.7244969606399536
+Monensin	Severe acute respiratory syndrome coronavirus	7	0.7202224731445312
+Monensin	Human immunodeficiency virus 1	8	0.7065563201904297
+Monensin	Hepatitis B virus	9	0.6792913675308228
+Monensin	Herpes simplex virus 2	10	0.6758172512054443
+Monensin	Kaposi's sarcoma-associated herpesvirus	11	0.6750474572181702
+Monensin	Enterovirus B	12	0.6677963137626648
+Monensin	Epstein-Barr virus	13	0.660504937171936
+Monensin	Sindbis virus	14	0.6464778780937195
+Monensin	Human Herpesvirus 1	15	0.6403068900108337
+Monensin	West Nile virus	16	0.6306284666061401
+Monensin	Enterovirus A	17	0.6301267743110657
+Monensin	BK virus	18	0.6278456449508667
+Monensin	Yellow fever virus	19	0.6155011057853699
+Monensin	Varicella-zoster virus	20	0.5940400958061218
+Mycophenolic acid	Herpes simplex virus 1	1	0.7522624135017395
+Mycophenolic acid	Ebola virus	2	0.7478134632110596
+Mycophenolic acid	Cytomegalovirus	3	0.70026034116745
+Mycophenolic acid	Herpes simplex virus 2	4	0.6980549097061157
+Mycophenolic acid	Middle East respiratory syndrome coronavirus	5	0.6879239678382874
+Mycophenolic acid	Enterovirus A	6	0.6876531839370728
+Mycophenolic acid	Human immunodeficiency virus 1	7	0.6872826218605042
+Mycophenolic acid	Severe acute respiratory syndrome coronavirus	8	0.6862014532089233
+Mycophenolic acid	Hepatitis B virus	9	0.6793909072875977
+Mycophenolic acid	Varicella-zoster virus	10	0.6656177639961243
+Mycophenolic acid	SARS-COV-2	11	0.6653358936309814
+Mycophenolic acid	Human Herpesvirus 1	12	0.6610022783279419
+Mycophenolic acid	Enterovirus B	13	0.6450396776199341
+Mycophenolic acid	Epstein-Barr virus	14	0.6420495510101318
+Mycophenolic acid	Kaposi's sarcoma-associated herpesvirus	15	0.6404821872711182
+Mycophenolic acid	Influenza B virus	16	0.6366089582443237
+Mycophenolic acid	Yellow fever virus	17	0.6351624131202698
+Mycophenolic acid	Sindbis virus	18	0.6317283511161804
+Mycophenolic acid	Human metapneumovirus	19	0.6272050738334656
+Mycophenolic acid	Vesicular stomatitis virus	20	0.6262952089309692
+Nafamostat	Human immunodeficiency virus 1	1	0.7521446943283081
+Nafamostat	Hepatitis C virus	2	0.7028550505638123
+Nafamostat	Zika virus	3	0.6869040131568909
+Nafamostat	Herpes simplex virus 1	4	0.6621893644332886
+Nafamostat	Dengue virus	5	0.6616438627243042
+Nafamostat	Severe acute respiratory syndrome coronavirus	6	0.6164288520812988
+Nafamostat	Cytomegalovirus	7	0.5813876986503601
+Nafamostat	Chikungunya virus	8	0.5535928010940552
+Nafamostat	Hepatitis B virus	9	0.5326359868049622
+Nafamostat	Enterovirus B	10	0.5315930247306824
+Nafamostat	Epstein-Barr virus	11	0.5053454637527466
+Nafamostat	Kaposi's sarcoma-associated herpesvirus	12	0.4392297863960266
+Nafamostat	Sindbis virus	13	0.4284541606903076
+Nafamostat	Herpes simplex virus 2	14	0.42039352655410767
+Nafamostat	Enterovirus A	15	0.4158984124660492
+Nafamostat	Respiratory syncytial virus	16	0.391035795211792
+Nafamostat	Varicella-zoster virus	17	0.38420847058296204
+Nafamostat	BK virus	18	0.3824477195739746
+Nafamostat	Rift Valley fever virus	19	0.38044822216033936
+Nafamostat	Yellow fever virus	20	0.37504327297210693
+Nelfinavir	Influenza A virus	1	0.7055147290229797
+Nelfinavir	Zika virus	2	0.6994383931159973
+Nelfinavir	Middle East respiratory syndrome coronavirus	3	0.6858561635017395
+Nelfinavir	Ebola virus	4	0.668375551700592
+Nelfinavir	Hepatitis B virus	5	0.6650820970535278
+Nelfinavir	Cytomegalovirus	6	0.6564854979515076
+Nelfinavir	Enterovirus B	7	0.6008924245834351
+Nelfinavir	Epstein-Barr virus	8	0.5949579477310181
+Nelfinavir	Kaposi's sarcoma-associated herpesvirus	9	0.5452771782875061
+Nelfinavir	Herpes simplex virus 2	10	0.5368744730949402
+Nelfinavir	Sindbis virus	11	0.5193585157394409
+Nelfinavir	Enterovirus A	12	0.5131871104240417
+Nelfinavir	Respiratory syncytial virus	13	0.4791220724582672
+Nelfinavir	Rift Valley fever virus	14	0.47193363308906555
+Nelfinavir	Human Herpesvirus 1	15	0.46052658557891846
+Nelfinavir	Influenza B virus	16	0.4561672806739807
+Nelfinavir	Vesicular stomatitis virus	17	0.45532888174057007
+Nelfinavir	BK virus	18	0.45292600989341736
+Nelfinavir	Varicella-zoster virus	19	0.45014381408691406
+Nelfinavir	West Nile virus	20	0.44199463725090027
+Nevirapine	Influenza A virus	1	0.40940749645233154
+Nevirapine	Hepatitis C virus	2	0.3054787218570709
+Nevirapine	Dengue virus	3	0.2819264531135559
+Nevirapine	Middle East respiratory syndrome coronavirus	4	0.2686269283294678
+Nevirapine	Zika virus	5	0.2636900842189789
+Nevirapine	Severe acute respiratory syndrome coronavirus	6	0.22736379504203796
+Nevirapine	Hepatitis B virus	7	0.2016264647245407
+Nevirapine	Herpes simplex virus 1	8	0.1866016387939453
+Nevirapine	Rift Valley fever virus	9	0.18057352304458618
+Nevirapine	Ebola virus	10	0.17060911655426025
+Nevirapine	Vaccinia virus	11	0.14359253644943237
+Nevirapine	Chikungunya virus	12	0.1404782384634018
+Nevirapine	SARS-COV-2	13	0.1376088261604309
+Nevirapine	Enterovirus B	14	0.13399508595466614
+Nevirapine	Herpes simplex virus 2	15	0.13167262077331543
+Nevirapine	Varicella-zoster virus	16	0.1288333535194397
+Nevirapine	Epstein-Barr virus	17	0.12326231598854065
+Nevirapine	Vesicular stomatitis virus	18	0.11629681289196014
+Nevirapine	Cytomegalovirus	19	0.11464430391788483
+Nevirapine	Hepatitis B virus D	20	0.11325270682573318
+Niclosamide	Hepatitis C virus	1	0.7627126574516296
+Niclosamide	Influenza A virus	2	0.7460933923721313
+Niclosamide	Middle East respiratory syndrome coronavirus	3	0.7310983538627625
+Niclosamide	Enterovirus A	4	0.7209442853927612
+Niclosamide	Kaposi's sarcoma-associated herpesvirus	5	0.7133263945579529
+Niclosamide	Hepatitis B virus	6	0.7106075286865234
+Niclosamide	Cytomegalovirus	7	0.6951847672462463
+Niclosamide	Enterovirus B	8	0.6863112449645996
+Niclosamide	Human immunodeficiency virus 1	9	0.6847814917564392
+Niclosamide	West Nile virus	10	0.6822822093963623
+Niclosamide	Influenza B virus	11	0.6802745461463928
+Niclosamide	Respiratory syncytial virus	12	0.678662896156311
+Niclosamide	BK virus	13	0.6574636697769165
+Niclosamide	Rift Valley fever virus	14	0.640961229801178
+Niclosamide	Yellow fever virus	15	0.6381359100341797
+Niclosamide	Human Herpesvirus 1	16	0.6273359060287476
+Niclosamide	SARS-COV-2	17	0.6185718774795532
+Niclosamide	Varicella-zoster virus	18	0.5975139141082764
+Niclosamide	Human immunodeficiency virus	19	0.5719819664955139
+Niclosamide	Human metapneumovirus	20	0.557269811630249
+Nitazoxanide	Dengue virus	1	0.7779830694198608
+Nitazoxanide	Severe acute respiratory syndrome coronavirus	2	0.7013483643531799
+Nitazoxanide	Sindbis virus	3	0.6893733739852905
+Nitazoxanide	Herpes simplex virus 1	4	0.6892088055610657
+Nitazoxanide	Human Herpesvirus 1	5	0.682589590549469
+Nitazoxanide	Varicella-zoster virus	6	0.6784190535545349
+Nitazoxanide	Enterovirus B	7	0.6737015247344971
+Nitazoxanide	Enterovirus A	8	0.6735960245132446
+Nitazoxanide	BK virus	9	0.6725456714630127
+Nitazoxanide	Herpes simplex virus 2	10	0.6680977940559387
+Nitazoxanide	Yellow fever virus	11	0.6608996391296387
+Nitazoxanide	Vesicular stomatitis virus	12	0.6539120078086853
+Nitazoxanide	Influenza B virus	13	0.6486850380897522
+Nitazoxanide	Rift Valley fever virus	14	0.6483439803123474
+Nitazoxanide	Epstein-Barr virus	15	0.6460732817649841
+Nitazoxanide	Ebola virus	16	0.6401857733726501
+Nitazoxanide	Kaposi's sarcoma-associated herpesvirus	17	0.6353257894515991
+Nitazoxanide	West Nile virus	18	0.6348612308502197
+Nitazoxanide	Cytomegalovirus	19	0.6313028335571289
+Nitazoxanide	Lassa virus	20	0.6249908208847046
+N-MCT	Human immunodeficiency virus 1	1	0.7614772915840149
+N-MCT	Hepatitis C virus	2	0.7563955187797546
+N-MCT	Influenza A virus	3	0.718583881855011
+N-MCT	Zika virus	4	0.7168216705322266
+N-MCT	Ebola virus	5	0.6979439854621887
+N-MCT	Middle East respiratory syndrome coronavirus	6	0.6955613493919373
+N-MCT	Severe acute respiratory syndrome coronavirus	7	0.6604325175285339
+N-MCT	Dengue virus	8	0.6417776942253113
+N-MCT	Hepatitis B virus	9	0.6377153992652893
+N-MCT	Enterovirus B	10	0.6285810470581055
+N-MCT	Chikungunya virus	11	0.610991895198822
+N-MCT	Cytomegalovirus	12	0.5764274597167969
+N-MCT	Enterovirus A	13	0.5121305584907532
+N-MCT	Human Herpesvirus 1	14	0.4764021933078766
+N-MCT	Rift Valley fever virus	15	0.46816590428352356
+N-MCT	Respiratory syncytial virus	16	0.45518234372138977
+N-MCT	Vesicular stomatitis virus	17	0.453834593296051
+N-MCT	Sindbis virus	18	0.4442058503627777
+N-MCT	BK virus	19	0.4434877038002014
+N-MCT	West Nile virus	20	0.44010043144226074
+Novobiocin	Ebola virus	1	0.741034209728241
+Novobiocin	Influenza A virus	2	0.7338516116142273
+Novobiocin	Dengue virus	3	0.7323852777481079
+Novobiocin	Hepatitis C virus	4	0.7068204879760742
+Novobiocin	Chikungunya virus	5	0.6864739060401917
+Novobiocin	Enterovirus B	6	0.6793083548545837
+Novobiocin	Middle East respiratory syndrome coronavirus	7	0.6721962690353394
+Novobiocin	Severe acute respiratory syndrome coronavirus	8	0.6697937250137329
+Novobiocin	Human immunodeficiency virus 1	9	0.6598424315452576
+Novobiocin	Cytomegalovirus	10	0.6435045599937439
+Novobiocin	Hepatitis B virus	11	0.6379519104957581
+Novobiocin	Rift Valley fever virus	12	0.5487458109855652
+Novobiocin	Enterovirus A	13	0.5456568598747253
+Novobiocin	Herpes simplex virus 2	14	0.5329051613807678
+Novobiocin	Respiratory syncytial virus	15	0.5146457552909851
+Novobiocin	Vesicular stomatitis virus	16	0.4974350929260254
+Novobiocin	BK virus	17	0.4922071099281311
+Novobiocin	West Nile virus	18	0.4909852147102356
+Novobiocin	Varicella-zoster virus	19	0.4799942970275879
+Novobiocin	Sindbis virus	20	0.47640901803970337
+Obatoclax	Herpes simplex virus 1	1	0.7739626169204712
+Obatoclax	Hepatitis B virus	2	0.7729765772819519
+Obatoclax	Epstein-Barr virus	3	0.7323099970817566
+Obatoclax	Dengue virus	4	0.7234433889389038
+Obatoclax	Ebola virus	5	0.7219414114952087
+Obatoclax	Human immunodeficiency virus 1	6	0.7211323380470276
+Obatoclax	Middle East respiratory syndrome coronavirus	7	0.7202879786491394
+Obatoclax	Chikungunya virus	8	0.717654287815094
+Obatoclax	Severe acute respiratory syndrome coronavirus	9	0.7077092528343201
+Obatoclax	Hepatitis C virus	10	0.6813310980796814
+Obatoclax	BK virus	11	0.6798518896102905
+Obatoclax	Vesicular stomatitis virus	12	0.6768999099731445
+Obatoclax	Cytomegalovirus	13	0.6590428948402405
+Obatoclax	Kaposi's sarcoma-associated herpesvirus	14	0.6556511521339417
+Obatoclax	Respiratory syncytial virus	15	0.652527391910553
+Obatoclax	Enterovirus A	16	0.6508163809776306
+Obatoclax	Human Herpesvirus 1	17	0.6233250498771667
+Obatoclax	Vaccinia virus	18	0.6225329637527466
+Obatoclax	SARS-COV-2	19	0.6106590628623962
+Obatoclax	Influenza B virus	20	0.5997825264930725
+Oritavancin	Influenza A virus	1	0.7612969279289246
+Oritavancin	Zika virus	2	0.726864755153656
+Oritavancin	Dengue virus	3	0.7229261994361877
+Oritavancin	Human immunodeficiency virus 1	4	0.7149758338928223
+Oritavancin	Herpes simplex virus 1	5	0.6952623724937439
+Oritavancin	Cytomegalovirus	6	0.6752607226371765
+Oritavancin	Chikungunya virus	7	0.6498000025749207
+Oritavancin	Hepatitis B virus	8	0.6400534510612488
+Oritavancin	Enterovirus B	9	0.6155593991279602
+Oritavancin	Epstein-Barr virus	10	0.593978762626648
+Oritavancin	Kaposi's sarcoma-associated herpesvirus	11	0.5262020826339722
+Oritavancin	Respiratory syncytial virus	12	0.5050071477890015
+Oritavancin	Sindbis virus	13	0.49810391664505005
+Oritavancin	West Nile virus	14	0.49434688687324524
+Oritavancin	Enterovirus A	15	0.49066150188446045
+Oritavancin	Herpes simplex virus 2	16	0.4888611435890198
+Oritavancin	BK virus	17	0.4817751348018646
+Oritavancin	Vesicular stomatitis virus	18	0.4447253942489624
+Oritavancin	Influenza B virus	19	0.43983790278434753
+Oritavancin	Human Herpesvirus 1	20	0.43644195795059204
+Oseltamivir	Human immunodeficiency virus 1	1	0.7783582210540771
+Oseltamivir	Zika virus	2	0.6340311765670776
+Oseltamivir	Hepatitis C virus	3	0.6261429786682129
+Oseltamivir	Dengue virus	4	0.5836300253868103
+Oseltamivir	Herpes simplex virus 1	5	0.549035370349884
+Oseltamivir	Middle East respiratory syndrome coronavirus	6	0.5006312131881714
+Oseltamivir	Severe acute respiratory syndrome coronavirus	7	0.47761499881744385
+Oseltamivir	Ebola virus	8	0.4741675555706024
+Oseltamivir	Cytomegalovirus	9	0.41060444712638855
+Oseltamivir	Epstein-Barr virus	10	0.3801318407058716
+Oseltamivir	Hepatitis B virus	11	0.3795785903930664
+Oseltamivir	Chikungunya virus	12	0.37660959362983704
+Oseltamivir	Kaposi's sarcoma-associated herpesvirus	13	0.3337680399417877
+Oseltamivir	Enterovirus B	14	0.31260398030281067
+Oseltamivir	Sindbis virus	15	0.3025001585483551
+Oseltamivir	Rift Valley fever virus	16	0.28618669509887695
+Oseltamivir	Enterovirus A	17	0.2780054211616516
+Oseltamivir	BK virus	18	0.2761886417865753
+Oseltamivir	Respiratory syncytial virus	19	0.2694556415081024
+Oseltamivir	Human Herpesvirus 1	20	0.2670604884624481
+Palivizumab	Human immunodeficiency virus 1	1	0.7121291160583496
+Palivizumab	Influenza A virus	2	0.6045621633529663
+Palivizumab	Zika virus	3	0.5592197179794312
+Palivizumab	Hepatitis C virus	4	0.5435969233512878
+Palivizumab	Dengue virus	5	0.4235396981239319
+Palivizumab	Ebola virus	6	0.4198160767555237
+Palivizumab	Middle East respiratory syndrome coronavirus	7	0.40800321102142334
+Palivizumab	Herpes simplex virus 1	8	0.3679922819137573
+Palivizumab	Severe acute respiratory syndrome coronavirus	9	0.3435932397842407
+Palivizumab	Enterovirus B	10	0.33943891525268555
+Palivizumab	Chikungunya virus	11	0.3269265592098236
+Palivizumab	Hepatitis B virus	12	0.32331663370132446
+Palivizumab	Cytomegalovirus	13	0.3224774897098541
+Palivizumab	Epstein-Barr virus	14	0.26667147874832153
+Palivizumab	BK virus	15	0.26488977670669556
+Palivizumab	Lassa virus	16	0.25296157598495483
+Palivizumab	Human Herpesvirus 1	17	0.2518303096294403
+Palivizumab	West Nile virus	18	0.24966047704219818
+Palivizumab	Rift Valley fever virus	19	0.24728216230869293
+Palivizumab	Herpes simplex virus 2	20	0.23763863742351532
+Penciclovir	Human immunodeficiency virus 1	1	0.7168810367584229
+Penciclovir	Influenza A virus	2	0.5560596585273743
+Penciclovir	Hepatitis C virus	3	0.5336865782737732
+Penciclovir	Zika virus	4	0.43570584058761597
+Penciclovir	Herpes simplex virus 1	5	0.4210343658924103
+Penciclovir	Dengue virus	6	0.39995133876800537
+Penciclovir	Cytomegalovirus	7	0.35334184765815735
+Penciclovir	Ebola virus	8	0.3399394452571869
+Penciclovir	Middle East respiratory syndrome coronavirus	9	0.33543145656585693
+Penciclovir	Severe acute respiratory syndrome coronavirus	10	0.31022700667381287
+Penciclovir	Hepatitis B virus	11	0.29160407185554504
+Penciclovir	Epstein-Barr virus	12	0.25993573665618896
+Penciclovir	Enterovirus A	13	0.2527730464935303
+Penciclovir	Enterovirus B	14	0.25101640820503235
+Penciclovir	Herpes simplex virus 2	15	0.24392440915107727
+Penciclovir	Chikungunya virus	16	0.2393822818994522
+Penciclovir	BK virus	17	0.23063884675502777
+Penciclovir	Rift Valley fever virus	18	0.21049180626869202
+Penciclovir	Kaposi's sarcoma-associated herpesvirus	19	0.20771721005439758
+Penciclovir	Respiratory syncytial virus	20	0.2034098207950592
+Pentosan polysulfate	Zika virus	1	0.7475005984306335
+Pentosan polysulfate	Dengue virus	2	0.7439478039741516
+Pentosan polysulfate	Middle East respiratory syndrome coronavirus	3	0.7369941473007202
+Pentosan polysulfate	Severe acute respiratory syndrome coronavirus	4	0.7331311106681824
+Pentosan polysulfate	Hepatitis C virus	5	0.7139508128166199
+Pentosan polysulfate	Cytomegalovirus	6	0.6836280226707458
+Pentosan polysulfate	Hepatitis B virus	7	0.679523229598999
+Pentosan polysulfate	Herpes simplex virus 1	8	0.6755233407020569
+Pentosan polysulfate	Chikungunya virus	9	0.6652945876121521
+Pentosan polysulfate	Ebola virus	10	0.6525552272796631
+Pentosan polysulfate	Epstein-Barr virus	11	0.5669824481010437
+Pentosan polysulfate	Kaposi's sarcoma-associated herpesvirus	12	0.5459644794464111
+Pentosan polysulfate	Herpes simplex virus 2	13	0.5322505235671997
+Pentosan polysulfate	Rift Valley fever virus	14	0.511044979095459
+Pentosan polysulfate	BK virus	15	0.500978410243988
+Pentosan polysulfate	Sindbis virus	16	0.49530890583992004
+Pentosan polysulfate	Vesicular stomatitis virus	17	0.4904422163963318
+Pentosan polysulfate	Respiratory syncytial virus	18	0.48655515909194946
+Pentosan polysulfate	Human Herpesvirus 1	19	0.4770207405090332
+Pentosan polysulfate	Yellow fever virus	20	0.4716201722621918
+Phosphonoacetic Acid	Human immunodeficiency virus 1	1	0.7292966842651367
+Phosphonoacetic Acid	Influenza A virus	2	0.5920438170433044
+Phosphonoacetic Acid	Hepatitis C virus	3	0.5825139284133911
+Phosphonoacetic Acid	Zika virus	4	0.511817455291748
+Phosphonoacetic Acid	Dengue virus	5	0.44159334897994995
+Phosphonoacetic Acid	Herpes simplex virus 1	6	0.42730772495269775
+Phosphonoacetic Acid	Middle East respiratory syndrome coronavirus	7	0.4036571681499481
+Phosphonoacetic Acid	Ebola virus	8	0.3700234591960907
+Phosphonoacetic Acid	Severe acute respiratory syndrome coronavirus	9	0.3289104700088501
+Phosphonoacetic Acid	Cytomegalovirus	10	0.31909266114234924
+Phosphonoacetic Acid	Hepatitis B virus	11	0.30996865034103394
+Phosphonoacetic Acid	Enterovirus B	12	0.3097396194934845
+Phosphonoacetic Acid	Chikungunya virus	13	0.26113054156303406
+Phosphonoacetic Acid	Respiratory syncytial virus	14	0.254958838224411
+Phosphonoacetic Acid	Epstein-Barr virus	15	0.24558839201927185
+Phosphonoacetic Acid	West Nile virus	16	0.24221892654895782
+Phosphonoacetic Acid	Vaccinia virus	17	0.23033873736858368
+Phosphonoacetic Acid	Vesicular stomatitis virus	18	0.2275257557630539
+Phosphonoacetic Acid	Rift Valley fever virus	19	0.22728629410266876
+Phosphonoacetic Acid	Enterovirus A	20	0.21553584933280945
+Pirlindole	Human immunodeficiency virus 1	1	0.7876856327056885
+Pirlindole	Hepatitis C virus	2	0.7353025674819946
+Pirlindole	Dengue virus	3	0.7179362177848816
+Pirlindole	Herpes simplex virus 1	4	0.7034056782722473
+Pirlindole	Zika virus	5	0.69113689661026
+Pirlindole	Severe acute respiratory syndrome coronavirus	6	0.686555802822113
+Pirlindole	Ebola virus	7	0.6814391613006592
+Pirlindole	Middle East respiratory syndrome coronavirus	8	0.6584761142730713
+Pirlindole	Influenza A virus	9	0.6552819013595581
+Pirlindole	Cytomegalovirus	10	0.6451582908630371
+Pirlindole	Hepatitis B virus	11	0.6211289763450623
+Pirlindole	Chikungunya virus	12	0.6064168810844421
+Pirlindole	Epstein-Barr virus	13	0.554818868637085
+Pirlindole	Herpes simplex virus 2	14	0.5145347118377686
+Pirlindole	Kaposi's sarcoma-associated herpesvirus	15	0.48721224069595337
+Pirlindole	Human metapneumovirus	16	0.47495970129966736
+Pirlindole	Human Herpesvirus 1	17	0.4731023907661438
+Pirlindole	Yellow fever virus	18	0.44786542654037476
+Pirlindole	Sindbis virus	19	0.4435630142688751
+Pirlindole	Rift Valley fever virus	20	0.4375995695590973
+Pleconaril	Severe acute respiratory syndrome coronavirus	1	0.7899734377861023
+Pleconaril	Zika virus	2	0.7803462743759155
+Pleconaril	Herpes simplex virus 1	3	0.7436839938163757
+Pleconaril	Middle East respiratory syndrome coronavirus	4	0.740949273109436
+Pleconaril	Human immunodeficiency virus 1	5	0.7310224175453186
+Pleconaril	Ebola virus	6	0.7302470803260803
+Pleconaril	Hepatitis C virus	7	0.7278122305870056
+Pleconaril	Epstein-Barr virus	8	0.7112638354301453
+Pleconaril	Enterovirus B	9	0.698093831539154
+Pleconaril	Dengue virus	10	0.6885099411010742
+Pleconaril	Hepatitis B virus	11	0.6864176988601685
+Pleconaril	Cytomegalovirus	12	0.684391438961029
+Pleconaril	Influenza A virus	13	0.6831790804862976
+Pleconaril	Chikungunya virus	14	0.6646208167076111
+Pleconaril	Enterovirus A	15	0.643144965171814
+Pleconaril	Herpes simplex virus 2	16	0.6291667819023132
+Pleconaril	Kaposi's sarcoma-associated herpesvirus	17	0.616486132144928
+Pleconaril	Rift Valley fever virus	18	0.6052560806274414
+Pleconaril	BK virus	19	0.5956335067749023
+Pleconaril	Respiratory syncytial virus	20	0.5924839973449707
+Posaconazole	Hepatitis C virus	1	0.6945607662200928
+Posaconazole	Human immunodeficiency virus 1	2	0.686530351638794
+Posaconazole	Influenza A virus	3	0.678083598613739
+Posaconazole	Herpes simplex virus 1	4	0.6354883909225464
+Posaconazole	Middle East respiratory syndrome coronavirus	5	0.6199835538864136
+Posaconazole	Severe acute respiratory syndrome coronavirus	6	0.5776675939559937
+Posaconazole	Cytomegalovirus	7	0.55101478099823
+Posaconazole	Chikungunya virus	8	0.5497334003448486
+Posaconazole	Hepatitis B virus	9	0.54323810338974
+Posaconazole	Enterovirus B	10	0.528596043586731
+Posaconazole	Epstein-Barr virus	11	0.47306591272354126
+Posaconazole	Enterovirus A	12	0.4436675012111664
+Posaconazole	Herpes simplex virus 2	13	0.41711416840553284
+Posaconazole	Rift Valley fever virus	14	0.41274452209472656
+Posaconazole	Human Herpesvirus 1	15	0.41156336665153503
+Posaconazole	Kaposi's sarcoma-associated herpesvirus	16	0.41084855794906616
+Posaconazole	Respiratory syncytial virus	17	0.3955412805080414
+Posaconazole	Vesicular stomatitis virus	18	0.37684327363967896
+Posaconazole	Sindbis virus	19	0.37070971727371216
+Posaconazole	Vaccinia virus	20	0.37010884284973145
+Promethazine	Human immunodeficiency virus 1	1	0.7209278345108032
+Promethazine	Influenza A virus	2	0.7032670974731445
+Promethazine	Zika virus	3	0.6726648211479187
+Promethazine	Dengue virus	4	0.6675630211830139
+Promethazine	Hepatitis C virus	5	0.6506654620170593
+Promethazine	Herpes simplex virus 1	6	0.6257127523422241
+Promethazine	Ebola virus	7	0.561780571937561
+Promethazine	Hepatitis B virus	8	0.49280375242233276
+Promethazine	Cytomegalovirus	9	0.4906303286552429
+Promethazine	Enterovirus B	10	0.4895646572113037
+Promethazine	Chikungunya virus	11	0.4885738492012024
+Promethazine	Enterovirus A	12	0.44683581590652466
+Promethazine	Herpes simplex virus 2	13	0.3981396555900574
+Promethazine	Vaccinia virus	14	0.386707067489624
+Promethazine	Respiratory syncytial virus	15	0.37932637333869934
+Promethazine	Sindbis virus	16	0.37719470262527466
+Promethazine	Rift Valley fever virus	17	0.3624744117259979
+Promethazine	Kaposi's sarcoma-associated herpesvirus	18	0.35758084058761597
+Promethazine	West Nile virus	19	0.35642337799072266
+Promethazine	BK virus	20	0.34792909026145935
+Quinacrine	Human immunodeficiency virus 1	1	0.7365743517875671
+Quinacrine	Influenza A virus	2	0.7024459838867188
+Quinacrine	Herpes simplex virus 1	3	0.6273244023323059
+Quinacrine	Hepatitis C virus	4	0.6149967312812805
+Quinacrine	Severe acute respiratory syndrome coronavirus	5	0.6106160283088684
+Quinacrine	Middle East respiratory syndrome coronavirus	6	0.5987380743026733
+Quinacrine	Cytomegalovirus	7	0.5746783018112183
+Quinacrine	Chikungunya virus	8	0.5429283380508423
+Quinacrine	Hepatitis B virus	9	0.5356148481369019
+Quinacrine	Enterovirus B	10	0.5287217497825623
+Quinacrine	Epstein-Barr virus	11	0.4754735231399536
+Quinacrine	Kaposi's sarcoma-associated herpesvirus	12	0.42172229290008545
+Quinacrine	Rift Valley fever virus	13	0.4157235622406006
+Quinacrine	Enterovirus C	14	0.4039291739463806
+Quinacrine	Herpes simplex virus 2	15	0.4032759666442871
+Quinacrine	Sindbis virus	16	0.39961859583854675
+Quinacrine	BK virus	17	0.3942849934101105
+Quinacrine	Respiratory syncytial virus	18	0.3884086310863495
+Quinacrine	Human Herpesvirus 1	19	0.36099952459335327
+Quinacrine	Human immunodeficiency virus	20	0.3588654696941376
+Quinine	Human immunodeficiency virus 1	1	0.7623034119606018
+Quinine	Hepatitis C virus	2	0.6342400312423706
+Quinine	Zika virus	3	0.5830639600753784
+Quinine	Middle East respiratory syndrome coronavirus	4	0.5266474485397339
+Quinine	Severe acute respiratory syndrome coronavirus	5	0.5125685930252075
+Quinine	Ebola virus	6	0.5076359510421753
+Quinine	Cytomegalovirus	7	0.43758219480514526
+Quinine	Hepatitis B virus	8	0.42702722549438477
+Quinine	Chikungunya virus	9	0.4208007752895355
+Quinine	Enterovirus B	10	0.39429163932800293
+Quinine	Epstein-Barr virus	11	0.36766380071640015
+Quinine	Rift Valley fever virus	12	0.33816519379615784
+Quinine	Sindbis virus	13	0.33715561032295227
+Quinine	Kaposi's sarcoma-associated herpesvirus	14	0.3324244022369385
+Quinine	Respiratory syncytial virus	15	0.3213387429714203
+Quinine	Enterovirus A	16	0.32025861740112305
+Quinine	West Nile virus	17	0.3118053078651428
+Quinine	Vesicular stomatitis virus	18	0.30230531096458435
+Quinine	Herpes simplex virus 2	19	0.2978716492652893
+Quinine	SARS-COV-2	20	0.2859761714935303
+Raloxifene	Influenza A virus	1	0.7740331292152405
+Raloxifene	Hepatitis C virus	2	0.7724574208259583
+Raloxifene	Middle East respiratory syndrome coronavirus	3	0.7488169074058533
+Raloxifene	Enterovirus B	4	0.7366589903831482
+Raloxifene	Hepatitis B virus	5	0.7236052751541138
+Raloxifene	Severe acute respiratory syndrome coronavirus	6	0.7206718921661377
+Raloxifene	Zika virus	7	0.7188010215759277
+Raloxifene	Chikungunya virus	8	0.7145176529884338
+Raloxifene	Cytomegalovirus	9	0.7090049982070923
+Raloxifene	Epstein-Barr virus	10	0.6979048252105713
+Raloxifene	Kaposi's sarcoma-associated herpesvirus	11	0.6341484785079956
+Raloxifene	Herpes simplex virus 2	12	0.6338645815849304
+Raloxifene	Enterovirus A	13	0.6313940286636353
+Raloxifene	Rift Valley fever virus	14	0.5936846733093262
+Raloxifene	Respiratory syncytial virus	15	0.5877404808998108
+Raloxifene	West Nile virus	16	0.5764426589012146
+Raloxifene	BK virus	17	0.5650399923324585
+Raloxifene	Human Herpesvirus 1	18	0.5405663251876831
+Raloxifene	Influenza B virus	19	0.5143545866012573
+Raloxifene	Varicella-zoster virus	20	0.512977123260498
+Raltegravir	Hepatitis C virus	1	0.40407299995422363
+Raltegravir	Influenza A virus	2	0.3148244023323059
+Raltegravir	Zika virus	3	0.2581583261489868
+Raltegravir	Cytomegalovirus	4	0.24123568832874298
+Raltegravir	Dengue virus	5	0.2312765121459961
+Raltegravir	Middle East respiratory syndrome coronavirus	6	0.21615061163902283
+Raltegravir	Chikungunya virus	7	0.19931617379188538
+Raltegravir	Severe acute respiratory syndrome coronavirus	8	0.1693568378686905
+Raltegravir	BK virus	9	0.1632796823978424
+Raltegravir	Herpes simplex virus 1	10	0.16282761096954346
+Raltegravir	Lassa virus	11	0.15996995568275452
+Raltegravir	Respiratory syncytial virus	12	0.14756187796592712
+Raltegravir	Hepatitis B virus	13	0.12691360712051392
+Raltegravir	Yellow fever virus	14	0.12368932366371155
+Raltegravir	Rift Valley fever virus	15	0.12284304946660995
+Raltegravir	Epstein-Barr virus	16	0.12206043303012848
+Raltegravir	Vesicular stomatitis virus	17	0.12112113833427429
+Raltegravir	Ebola virus	18	0.1152322068810463
+Raltegravir	Kaposi's sarcoma-associated herpesvirus	19	0.1132282093167305
+Raltegravir	Sindbis virus	20	0.1120004877448082
+Rapamycin (Sirolimus)	Herpes simplex virus 1	1	0.7845823168754578
+Rapamycin (Sirolimus)	Zika virus	2	0.7595347166061401
+Rapamycin (Sirolimus)	Dengue virus	3	0.7436323165893555
+Rapamycin (Sirolimus)	Severe acute respiratory syndrome coronavirus	4	0.7220702767372131
+Rapamycin (Sirolimus)	Chikungunya virus	5	0.711140513420105
+Rapamycin (Sirolimus)	Enterovirus A	6	0.7090882062911987
+Rapamycin (Sirolimus)	Ebola virus	7	0.7025431394577026
+Rapamycin (Sirolimus)	Epstein-Barr virus	8	0.698333740234375
+Rapamycin (Sirolimus)	Herpes simplex virus 2	9	0.6956811547279358
+Rapamycin (Sirolimus)	Respiratory syncytial virus	10	0.6860098242759705
+Rapamycin (Sirolimus)	Sindbis virus	11	0.6630003452301025
+Rapamycin (Sirolimus)	West Nile virus	12	0.6562310457229614
+Rapamycin (Sirolimus)	Vesicular stomatitis virus	13	0.6562069058418274
+Rapamycin (Sirolimus)	Human Herpesvirus 1	14	0.630415141582489
+Rapamycin (Sirolimus)	Yellow fever virus	15	0.6291807889938354
+Rapamycin (Sirolimus)	Varicella-zoster virus	16	0.6027988791465759
+Rapamycin (Sirolimus)	Influenza B virus	17	0.5784924626350403
+Rapamycin (Sirolimus)	SARS-COV-2	18	0.5765268802642822
+Rapamycin (Sirolimus)	Vaccinia virus	19	0.5717146396636963
+Rapamycin (Sirolimus)	Human metapneumovirus	20	0.5560515522956848
+Regorafenib	Hepatitis C virus	1	0.7606713175773621
+Regorafenib	Dengue virus	2	0.7336264848709106
+Regorafenib	Zika virus	3	0.7262338995933533
+Regorafenib	Human immunodeficiency virus 1	4	0.7135746479034424
+Regorafenib	Middle East respiratory syndrome coronavirus	5	0.6794473528862
+Regorafenib	Ebola virus	6	0.6659674644470215
+Regorafenib	Severe acute respiratory syndrome coronavirus	7	0.6656769514083862
+Regorafenib	Chikungunya virus	8	0.6351271867752075
+Regorafenib	Cytomegalovirus	9	0.6296254396438599
+Regorafenib	Enterovirus B	10	0.6104634404182434
+Regorafenib	Hepatitis B virus	11	0.6024658679962158
+Regorafenib	Epstein-Barr virus	12	0.5885635614395142
+Regorafenib	Enterovirus A	13	0.5547322034835815
+Regorafenib	Kaposi's sarcoma-associated herpesvirus	14	0.5415503978729248
+Regorafenib	Rift Valley fever virus	15	0.5159578323364258
+Regorafenib	Herpes simplex virus 2	16	0.5148800611495972
+Regorafenib	Respiratory syncytial virus	17	0.4745311439037323
+Regorafenib	BK virus	18	0.4681941270828247
+Regorafenib	West Nile virus	19	0.4541403353214264
+Regorafenib	Varicella-zoster virus	20	0.4511783719062805
+Remdesivir	Chikungunya virus	1	0.7609063982963562
+Remdesivir	Influenza A virus	2	0.7490729093551636
+Remdesivir	Zika virus	3	0.7274106740951538
+Remdesivir	Herpes simplex virus 1	4	0.7081473469734192
+Remdesivir	Cytomegalovirus	5	0.7068233489990234
+Remdesivir	Human immunodeficiency virus 1	6	0.7021870613098145
+Remdesivir	Enterovirus A	7	0.6885946989059448
+Remdesivir	Enterovirus B	8	0.6815608739852905
+Remdesivir	Hepatitis B virus	9	0.6790059208869934
+Remdesivir	Epstein-Barr virus	10	0.6760174632072449
+Remdesivir	Herpes simplex virus 2	11	0.6746057868003845
+Remdesivir	Rift Valley fever virus	12	0.6714948415756226
+Remdesivir	Vesicular stomatitis virus	13	0.6711315512657166
+Remdesivir	BK virus	14	0.6703423857688904
+Remdesivir	Japanese encephalitis virus	15	0.6515526175498962
+Remdesivir	Varicella-zoster virus	16	0.6475258469581604
+Remdesivir	Sindbis virus	17	0.6470721364021301
+Remdesivir	West Nile virus	18	0.6468439102172852
+Remdesivir	Yellow fever virus	19	0.6444289088249207
+Remdesivir	Kaposi's sarcoma-associated herpesvirus	20	0.6391908526420593
+Ribavirin	Zika virus	1	0.7690998911857605
+Ribavirin	Severe acute respiratory syndrome coronavirus	2	0.7572429776191711
+Ribavirin	Dengue virus	3	0.7541803121566772
+Ribavirin	Enterovirus B	4	0.7513276934623718
+Ribavirin	Hepatitis B virus	5	0.7342116236686707
+Ribavirin	Rift Valley fever virus	6	0.7187087535858154
+Ribavirin	Herpes simplex virus 1	7	0.7178163528442383
+Ribavirin	Cytomegalovirus	8	0.6982413530349731
+Ribavirin	Sindbis virus	9	0.6975749731063843
+Ribavirin	Kaposi's sarcoma-associated herpesvirus	10	0.6921828985214233
+Ribavirin	Epstein-Barr virus	11	0.6870291233062744
+Ribavirin	Human Herpesvirus 1	12	0.6826363801956177
+Ribavirin	Vesicular stomatitis virus	13	0.6820375323295593
+Ribavirin	Middle East respiratory syndrome coronavirus	14	0.6767669320106506
+Ribavirin	West Nile virus	15	0.6696083545684814
+Ribavirin	Herpes simplex virus 2	16	0.665683925151825
+Ribavirin	Yellow fever virus	17	0.6597704887390137
+Ribavirin	BK virus	18	0.6506616473197937
+Ribavirin	Varicella-zoster virus	19	0.6502466201782227
+Ribavirin	Vaccinia virus	20	0.649747908115387
+Rilpivirine	Influenza A virus	1	0.49734529852867126
+Rilpivirine	Hepatitis C virus	2	0.38079747557640076
+Rilpivirine	Zika virus	3	0.33233898878097534
+Rilpivirine	Dengue virus	4	0.3134166896343231
+Rilpivirine	Middle East respiratory syndrome coronavirus	5	0.2997109591960907
+Rilpivirine	Epstein-Barr virus	6	0.22875761985778809
+Rilpivirine	Hepatitis B virus	7	0.22292979061603546
+Rilpivirine	Herpes simplex virus 1	8	0.2103905975818634
+Rilpivirine	Severe acute respiratory syndrome coronavirus	9	0.2010776549577713
+Rilpivirine	Rift Valley fever virus	10	0.19424158334732056
+Rilpivirine	Chikungunya virus	11	0.193960040807724
+Rilpivirine	Herpes simplex virus 2	12	0.17277412116527557
+Rilpivirine	Enterovirus B	13	0.16962964832782745
+Rilpivirine	Cytomegalovirus	14	0.15681540966033936
+Rilpivirine	Influenza B virus	15	0.15158715844154358
+Rilpivirine	Ebola virus	16	0.14831165969371796
+Rilpivirine	Human metapneumovirus	17	0.13912996649742126
+Rilpivirine	Respiratory syncytial virus	18	0.12980836629867554
+Rilpivirine	Sindbis virus	19	0.12192823737859726
+Rilpivirine	Vaccinia virus	20	0.12031461298465729
+Rimantadine	Human immunodeficiency virus 1	1	0.7918391227722168
+Rimantadine	Hepatitis C virus	2	0.3921971023082733
+Rimantadine	Zika virus	3	0.3642067015171051
+Rimantadine	Middle East respiratory syndrome coronavirus	4	0.34317779541015625
+Rimantadine	Cytomegalovirus	5	0.2779994308948517
+Rimantadine	Dengue virus	6	0.26532116532325745
+Rimantadine	Kaposi's sarcoma-associated herpesvirus	7	0.24221083521842957
+Rimantadine	Herpes simplex virus 1	8	0.23765060305595398
+Rimantadine	Enterovirus B	9	0.22810979187488556
+Rimantadine	Hepatitis B virus	10	0.21522122621536255
+Rimantadine	Ebola virus	11	0.21407386660575867
+Rimantadine	Severe acute respiratory syndrome coronavirus	12	0.2012694627046585
+Rimantadine	Epstein-Barr virus	13	0.19558723270893097
+Rimantadine	Chikungunya virus	14	0.1888347864151001
+Rimantadine	Respiratory syncytial virus	15	0.18774740397930145
+Rimantadine	Yellow fever virus	16	0.1834341138601303
+Rimantadine	Human Herpesvirus 1	17	0.17668083310127258
+Rimantadine	Human herpesvirus 6	18	0.17032039165496826
+Rimantadine	Human metapneumovirus	19	0.15739868581295013
+Rimantadine	Rubella virus	20	0.15520264208316803
+Ritonavir	Dengue virus	1	0.7239293456077576
+Ritonavir	Zika virus	2	0.7180283069610596
+Ritonavir	Influenza A virus	3	0.7011772990226746
+Ritonavir	Severe acute respiratory syndrome coronavirus	4	0.6775698661804199
+Ritonavir	Hepatitis C virus	5	0.6725603938102722
+Ritonavir	Ebola virus	6	0.6506398916244507
+Ritonavir	Herpes simplex virus 1	7	0.6498665809631348
+Ritonavir	Chikungunya virus	8	0.6169092059135437
+Ritonavir	Cytomegalovirus	9	0.6168566942214966
+Ritonavir	Hepatitis B virus	10	0.6104927659034729
+Ritonavir	Enterovirus B	11	0.5977680087089539
+Ritonavir	Epstein-Barr virus	12	0.5670427680015564
+Ritonavir	Enterovirus A	13	0.49376413226127625
+Ritonavir	Sindbis virus	14	0.47905173897743225
+Ritonavir	Herpes simplex virus 2	15	0.47184449434280396
+Ritonavir	Kaposi's sarcoma-associated herpesvirus	16	0.4717899262905121
+Ritonavir	Respiratory syncytial virus	17	0.4435719847679138
+Ritonavir	BK virus	18	0.4411543905735016
+Ritonavir	West Nile virus	19	0.441046804189682
+Ritonavir	Influenza B virus	20	0.4409010112285614
+Roscovitine (Seliciclib)	Influenza A virus	1	0.7087416052818298
+Roscovitine (Seliciclib)	Ebola virus	2	0.706337034702301
+Roscovitine (Seliciclib)	Hepatitis C virus	3	0.6981840133666992
+Roscovitine (Seliciclib)	Dengue virus	4	0.6640450954437256
+Roscovitine (Seliciclib)	Zika virus	5	0.657234251499176
+Roscovitine (Seliciclib)	Severe acute respiratory syndrome coronavirus	6	0.6534948348999023
+Roscovitine (Seliciclib)	Middle East respiratory syndrome coronavirus	7	0.6525290608406067
+Roscovitine (Seliciclib)	Cytomegalovirus	8	0.6300683617591858
+Roscovitine (Seliciclib)	Chikungunya virus	9	0.6212803721427917
+Roscovitine (Seliciclib)	Enterovirus B	10	0.6205326914787292
+Roscovitine (Seliciclib)	Hepatitis B virus	11	0.6000687479972839
+Roscovitine (Seliciclib)	Rift Valley fever virus	12	0.48466774821281433
+Roscovitine (Seliciclib)	Herpes simplex virus 2	13	0.4806212782859802
+Roscovitine (Seliciclib)	Enterovirus A	14	0.47704145312309265
+Roscovitine (Seliciclib)	Kaposi's sarcoma-associated herpesvirus	15	0.47679775953292847
+Roscovitine (Seliciclib)	Sindbis virus	16	0.47106337547302246
+Roscovitine (Seliciclib)	West Nile virus	17	0.44714632630348206
+Roscovitine (Seliciclib)	BK virus	18	0.432917058467865
+Roscovitine (Seliciclib)	Vesicular stomatitis virus	19	0.4291464388370514
+Roscovitine (Seliciclib)	Japanese encephalitis virus	20	0.42810893058776855
+Salinomycin	Human immunodeficiency virus 1	1	0.7704196572303772
+Salinomycin	Hepatitis C virus	2	0.6912392377853394
+Salinomycin	Zika virus	3	0.678398072719574
+Salinomycin	Middle East respiratory syndrome coronavirus	4	0.6160874366760254
+Salinomycin	Ebola virus	5	0.6033843755722046
+Salinomycin	Dengue virus	6	0.5961632132530212
+Salinomycin	Herpes simplex virus 1	7	0.591124951839447
+Salinomycin	Severe acute respiratory syndrome coronavirus	8	0.5794088244438171
+Salinomycin	Hepatitis B virus	9	0.5193300843238831
+Salinomycin	Chikungunya virus	10	0.49086418747901917
+Salinomycin	Epstein-Barr virus	11	0.4738415777683258
+Salinomycin	Enterovirus B	12	0.4566512107849121
+Salinomycin	Enterovirus A	13	0.41848763823509216
+Salinomycin	Herpes simplex virus 2	14	0.4104248583316803
+Salinomycin	Kaposi's sarcoma-associated herpesvirus	15	0.386093407869339
+Salinomycin	Human Immunodeficiency Virus 2	16	0.37160781025886536
+Salinomycin	Human coronavirus OC43	17	0.3656167984008789
+Salinomycin	Rift Valley fever virus	18	0.362727552652359
+Salinomycin	Influenza B virus	19	0.3520331084728241
+Salinomycin	BK virus	20	0.3498528301715851
+Saquinavir	Influenza A virus	1	0.5814861059188843
+Saquinavir	Hepatitis C virus	2	0.5663295984268188
+Saquinavir	Zika virus	3	0.545757532119751
+Saquinavir	Dengue virus	4	0.4941502809524536
+Saquinavir	Herpes simplex virus 1	5	0.438896507024765
+Saquinavir	Middle East respiratory syndrome coronavirus	6	0.43754109740257263
+Saquinavir	Ebola virus	7	0.40309250354766846
+Saquinavir	Cytomegalovirus	8	0.3598134219646454
+Saquinavir	Hepatitis B virus	9	0.35645052790641785
+Saquinavir	Severe acute respiratory syndrome coronavirus	10	0.3488476276397705
+Saquinavir	Rift Valley fever virus	11	0.3482092618942261
+Saquinavir	Chikungunya virus	12	0.333713561296463
+Saquinavir	Enterovirus B	13	0.3264685273170471
+Saquinavir	Epstein-Barr virus	14	0.30628007650375366
+Saquinavir	Vesicular stomatitis virus	15	0.2721395492553711
+Saquinavir	Human Herpesvirus 1	16	0.2533237934112549
+Saquinavir	Enterovirus A	17	0.2503041923046112
+Saquinavir	Herpes simplex virus 2	18	0.233369842171669
+Saquinavir	Human Immunodeficiency Virus 2	19	0.22902777791023254
+Saquinavir	BK virus	20	0.22598601877689362
+Saracatinib	Human immunodeficiency virus 1	1	0.7314168214797974
+Saracatinib	Hepatitis C virus	2	0.6830143928527832
+Saracatinib	Influenza A virus	3	0.6744364500045776
+Saracatinib	Zika virus	4	0.6334216594696045
+Saracatinib	Herpes simplex virus 1	5	0.5849593281745911
+Saracatinib	Ebola virus	6	0.5559635162353516
+Saracatinib	Severe acute respiratory syndrome coronavirus	7	0.5464654564857483
+Saracatinib	Hepatitis B virus	8	0.5035116672515869
+Saracatinib	Enterovirus B	9	0.49178922176361084
+Saracatinib	Chikungunya virus	10	0.48643243312835693
+Saracatinib	Epstein-Barr virus	11	0.41093719005584717
+Saracatinib	Vesicular stomatitis virus	12	0.39233651757240295
+Saracatinib	Rift Valley fever virus	13	0.3887929320335388
+Saracatinib	Herpes simplex virus 2	14	0.38250747323036194
+Saracatinib	Sindbis virus	15	0.37894007563591003
+Saracatinib	BK virus	16	0.3787514567375183
+Saracatinib	West Nile virus	17	0.36403128504753113
+Saracatinib	Kaposi's sarcoma-associated herpesvirus	18	0.34708234667778015
+Saracatinib	Respiratory syncytial virus	19	0.34656307101249695
+Saracatinib	Enterovirus A	20	0.3444426953792572
+Silvestrol	Dengue virus	1	0.7759017944335938
+Silvestrol	Hepatitis C virus	2	0.7492678761482239
+Silvestrol	Severe acute respiratory syndrome coronavirus	3	0.7326462268829346
+Silvestrol	Herpes simplex virus 1	4	0.7286439538002014
+Silvestrol	Hepatitis B virus	5	0.7129500508308411
+Silvestrol	Epstein-Barr virus	6	0.7104621529579163
+Silvestrol	Human immunodeficiency virus 1	7	0.7086198925971985
+Silvestrol	Cytomegalovirus	8	0.6976393461227417
+Silvestrol	Herpes simplex virus 2	9	0.6709385514259338
+Silvestrol	Enterovirus B	10	0.6690523624420166
+Silvestrol	Kaposi's sarcoma-associated herpesvirus	11	0.6659502387046814
+Silvestrol	Respiratory syncytial virus	12	0.6260927319526672
+Silvestrol	Rift Valley fever virus	13	0.6224545240402222
+Silvestrol	Enterovirus A	14	0.613265335559845
+Silvestrol	BK virus	15	0.6063621640205383
+Silvestrol	Sindbis virus	16	0.6038894057273865
+Silvestrol	Vesicular stomatitis virus	17	0.5800710916519165
+Silvestrol	West Nile virus	18	0.5699865221977234
+Silvestrol	Human Herpesvirus 1	19	0.5551658868789673
+Silvestrol	Yellow fever virus	20	0.5520182847976685
+Simeprevir	Human immunodeficiency virus 1	1	0.7869881987571716
+Simeprevir	Influenza A virus	2	0.6419548988342285
+Simeprevir	Zika virus	3	0.5696169137954712
+Simeprevir	Dengue virus	4	0.559616208076477
+Simeprevir	Herpes simplex virus 1	5	0.5247491598129272
+Simeprevir	Middle East respiratory syndrome coronavirus	6	0.524563729763031
+Simeprevir	Ebola virus	7	0.45863839983940125
+Simeprevir	Severe acute respiratory syndrome coronavirus	8	0.4463712275028229
+Simeprevir	Chikungunya virus	9	0.4221495985984802
+Simeprevir	Epstein-Barr virus	10	0.38918063044548035
+Simeprevir	Cytomegalovirus	11	0.3844299018383026
+Simeprevir	Enterovirus B	12	0.37842509150505066
+Simeprevir	Hepatitis B virus	13	0.3682284355163574
+Simeprevir	Vesicular stomatitis virus	14	0.33911842107772827
+Simeprevir	West Nile virus	15	0.3382105231285095
+Simeprevir	Sindbis virus	16	0.31912824511528015
+Simeprevir	Herpes simplex virus 2	17	0.3117716908454895
+Simeprevir	Human immunodeficiency virus	18	0.30920398235321045
+Simeprevir	Kaposi's sarcoma-associated herpesvirus	19	0.3067275881767273
+Simeprevir	Influenza B virus	20	0.3040190637111664
+Simvastatin	Human immunodeficiency virus 1	1	0.7498621344566345
+Simvastatin	Middle East respiratory syndrome coronavirus	2	0.7191193103790283
+Simvastatin	Ebola virus	3	0.7176368832588196
+Simvastatin	Herpes simplex virus 1	4	0.6779332160949707
+Simvastatin	Enterovirus B	5	0.6539425253868103
+Simvastatin	Chikungunya virus	6	0.6528418064117432
+Simvastatin	Severe acute respiratory syndrome coronavirus	7	0.636225700378418
+Simvastatin	Epstein-Barr virus	8	0.6201415061950684
+Simvastatin	Kaposi's sarcoma-associated herpesvirus	9	0.5431540012359619
+Simvastatin	Enterovirus A	10	0.539855420589447
+Simvastatin	Herpes simplex virus 2	11	0.5194260478019714
+Simvastatin	Rift Valley fever virus	12	0.5063201785087585
+Simvastatin	Respiratory syncytial virus	13	0.5021666288375854
+Simvastatin	Vesicular stomatitis virus	14	0.4846329092979431
+Simvastatin	Sindbis virus	15	0.48293009400367737
+Simvastatin	Human Herpesvirus 1	16	0.46836018562316895
+Simvastatin	BK virus	17	0.4645119905471802
+Simvastatin	Yellow fever virus	18	0.45671525597572327
+Simvastatin	West Nile virus	19	0.453264057636261
+Simvastatin	Influenza B virus	20	0.4405190944671631
+Sofosbuvir	Human immunodeficiency virus 1	1	0.758614718914032
+Sofosbuvir	Influenza A virus	2	0.7097216248512268
+Sofosbuvir	Middle East respiratory syndrome coronavirus	3	0.6922504305839539
+Sofosbuvir	Ebola virus	4	0.6345977187156677
+Sofosbuvir	Severe acute respiratory syndrome coronavirus	5	0.6282934546470642
+Sofosbuvir	Herpes simplex virus 1	6	0.6008331775665283
+Sofosbuvir	Hepatitis B virus	7	0.5977218151092529
+Sofosbuvir	Cytomegalovirus	8	0.5939530730247498
+Sofosbuvir	Enterovirus B	9	0.5539252758026123
+Sofosbuvir	Epstein-Barr virus	10	0.5236455798149109
+Sofosbuvir	Enterovirus A	11	0.4621676802635193
+Sofosbuvir	Kaposi's sarcoma-associated herpesvirus	12	0.45655861496925354
+Sofosbuvir	BK virus	13	0.4470616281032562
+Sofosbuvir	Rift Valley fever virus	14	0.4411098062992096
+Sofosbuvir	Herpes simplex virus 2	15	0.43682003021240234
+Sofosbuvir	Respiratory syncytial virus	16	0.43465137481689453
+Sofosbuvir	Sindbis virus	17	0.43189525604248047
+Sofosbuvir	Vesicular stomatitis virus	18	0.4248655438423157
+Sofosbuvir	Human Herpesvirus 1	19	0.404487669467926
+Sofosbuvir	Varicella-zoster virus	20	0.3908844590187073
+Sorafenib	Middle East respiratory syndrome coronavirus	1	0.7639839053153992
+Sorafenib	Human immunodeficiency virus 1	2	0.7547093033790588
+Sorafenib	Epstein-Barr virus	3	0.7477958798408508
+Sorafenib	Severe acute respiratory syndrome coronavirus	4	0.7424508929252625
+Sorafenib	Dengue virus	5	0.7253600358963013
+Sorafenib	Zika virus	6	0.7012363076210022
+Sorafenib	Hepatitis B virus	7	0.6966918110847473
+Sorafenib	Cytomegalovirus	8	0.6936438679695129
+Sorafenib	Enterovirus B	9	0.6814578175544739
+Sorafenib	Rift Valley fever virus	10	0.679702639579773
+Sorafenib	Ebola virus	11	0.6772342324256897
+Sorafenib	BK virus	12	0.6402533054351807
+Sorafenib	Herpes simplex virus 2	13	0.6348166465759277
+Sorafenib	West Nile virus	14	0.6193001866340637
+Sorafenib	Human Herpesvirus 1	15	0.6116746664047241
+Sorafenib	Respiratory syncytial virus	16	0.6016730666160583
+Sorafenib	Influenza B virus	17	0.5827900767326355
+Sorafenib	Varicella-zoster virus	18	0.5758889317512512
+Sorafenib	Yellow fever virus	19	0.5661342144012451
+Sorafenib	Vaccinia virus	20	0.5551133155822754
+Stavudine	Hepatitis C virus	1	0.4816514849662781
+Stavudine	Influenza A virus	2	0.40353578329086304
+Stavudine	Zika virus	3	0.31474754214286804
+Stavudine	Enterovirus B	4	0.22768016159534454
+Stavudine	Ebola virus	5	0.22520357370376587
+Stavudine	Herpes simplex virus 1	6	0.21724212169647217
+Stavudine	Severe acute respiratory syndrome coronavirus	7	0.2110232412815094
+Stavudine	Dengue virus	8	0.210471048951149
+Stavudine	Human rhinovirus A	9	0.18974106013774872
+Stavudine	Cytomegalovirus	10	0.18945923447608948
+Stavudine	Herpes simplex virus 2	11	0.17567820847034454
+Stavudine	Respiratory syncytial virus	12	0.16836358606815338
+Stavudine	Middle East respiratory syndrome coronavirus	13	0.1660783886909485
+Stavudine	Influenza B virus	14	0.14340147376060486
+Stavudine	Hepatitis E virus	15	0.13135600090026855
+Stavudine	Rift Valley fever virus	16	0.12644287943840027
+Stavudine	Chikungunya virus	17	0.12465127557516098
+Stavudine	Japanese encephalitis virus	18	0.11702815443277359
+Stavudine	SARS-COV-2	19	0.11254602670669556
+Stavudine	Enterovirus A	20	0.11226105690002441
+Sunitinib	Influenza A virus	1	0.7576247453689575
+Sunitinib	Middle East respiratory syndrome coronavirus	2	0.744846522808075
+Sunitinib	Hepatitis B virus	3	0.7107852697372437
+Sunitinib	Herpes simplex virus 1	4	0.7044164538383484
+Sunitinib	Cytomegalovirus	5	0.693084716796875
+Sunitinib	Severe acute respiratory syndrome coronavirus	6	0.6760088801383972
+Sunitinib	Enterovirus B	7	0.6734983325004578
+Sunitinib	Epstein-Barr virus	8	0.6701335310935974
+Sunitinib	Enterovirus A	9	0.6023118495941162
+Sunitinib	Herpes simplex virus 2	10	0.60041743516922
+Sunitinib	Rift Valley fever virus	11	0.589958667755127
+Sunitinib	Kaposi's sarcoma-associated herpesvirus	12	0.5677074193954468
+Sunitinib	West Nile virus	13	0.5616447329521179
+Sunitinib	Sindbis virus	14	0.5547763109207153
+Sunitinib	Vesicular stomatitis virus	15	0.5275365114212036
+Sunitinib	Human Herpesvirus 1	16	0.5165309906005859
+Sunitinib	Yellow fever virus	17	0.51553875207901
+Sunitinib	Human metapneumovirus	18	0.46310868859291077
+Sunitinib	Human rhinovirus A	19	0.46107208728790283
+Sunitinib	Varicella-zoster virus	20	0.46092620491981506
+Suramin	Herpes simplex virus 1	1	0.7456886172294617
+Suramin	Severe acute respiratory syndrome coronavirus	2	0.7370414137840271
+Suramin	Hepatitis B virus	3	0.7232112288475037
+Suramin	Influenza A virus	4	0.7231146097183228
+Suramin	Epstein-Barr virus	5	0.7054113745689392
+Suramin	Middle East respiratory syndrome coronavirus	6	0.6813330054283142
+Suramin	Cytomegalovirus	7	0.6718771457672119
+Suramin	Enterovirus B	8	0.6695458889007568
+Suramin	Kaposi's sarcoma-associated herpesvirus	9	0.6455704569816589
+Suramin	Herpes simplex virus 2	10	0.6420251727104187
+Suramin	Sindbis virus	11	0.5952487587928772
+Suramin	Vesicular stomatitis virus	12	0.5870449542999268
+Suramin	Human Herpesvirus 1	13	0.5852314233779907
+Suramin	West Nile virus	14	0.5846431851387024
+Suramin	Respiratory syncytial virus	15	0.5823974609375
+Suramin	BK virus	16	0.5805469155311584
+Suramin	Yellow fever virus	17	0.5418217778205872
+Suramin	Influenza B virus	18	0.5384650230407715
+Suramin	Varicella-zoster virus	19	0.5180021524429321
+Suramin	SARS-COV-2	20	0.5162051916122437
+Tamoxifen	Influenza A virus	1	0.7463396191596985
+Tamoxifen	Dengue virus	2	0.7119504809379578
+Tamoxifen	Zika virus	3	0.6889893412590027
+Tamoxifen	Cytomegalovirus	4	0.6157089471817017
+Tamoxifen	Hepatitis B virus	5	0.6032259464263916
+Tamoxifen	Chikungunya virus	6	0.5802837610244751
+Tamoxifen	Enterovirus B	7	0.5704128742218018
+Tamoxifen	Epstein-Barr virus	8	0.5154510736465454
+Tamoxifen	Herpes simplex virus 2	9	0.48689767718315125
+Tamoxifen	Enterovirus A	10	0.4722818434238434
+Tamoxifen	Rift Valley fever virus	11	0.4577687978744507
+Tamoxifen	Kaposi's sarcoma-associated herpesvirus	12	0.4422602355480194
+Tamoxifen	Sindbis virus	13	0.4279075860977173
+Tamoxifen	Human Herpesvirus 1	14	0.4264864921569824
+Tamoxifen	Varicella-zoster virus	15	0.4232948422431946
+Tamoxifen	SARS-COV-2	16	0.4130900502204895
+Tamoxifen	Respiratory syncytial virus	17	0.4114271402359009
+Tamoxifen	West Nile virus	18	0.4106265604496002
+Tamoxifen	Yellow fever virus	19	0.4090425670146942
+Tamoxifen	Vesicular stomatitis virus	20	0.3972918689250946
+Teicoplanin	Hepatitis C virus	1	0.7082197666168213
+Teicoplanin	Human immunodeficiency virus 1	2	0.7053629159927368
+Teicoplanin	Herpes simplex virus 1	3	0.676215410232544
+Teicoplanin	Dengue virus	4	0.6660315990447998
+Teicoplanin	Zika virus	5	0.6421716213226318
+Teicoplanin	Chikungunya virus	6	0.6084336042404175
+Teicoplanin	Cytomegalovirus	7	0.5990407466888428
+Teicoplanin	Hepatitis B virus	8	0.5809480547904968
+Teicoplanin	Enterovirus B	9	0.5695897340774536
+Teicoplanin	Epstein-Barr virus	10	0.5397440195083618
+Teicoplanin	Herpes simplex virus 2	11	0.47018319368362427
+Teicoplanin	Kaposi's sarcoma-associated herpesvirus	12	0.4570021331310272
+Teicoplanin	Enterovirus A	13	0.4567844569683075
+Teicoplanin	Vesicular stomatitis virus	14	0.44795286655426025
+Teicoplanin	BK virus	15	0.44637396931648254
+Teicoplanin	Rift Valley fever virus	16	0.4381576180458069
+Teicoplanin	Respiratory syncytial virus	17	0.42536771297454834
+Teicoplanin	Human Herpesvirus 1	18	0.4249785244464874
+Teicoplanin	Sindbis virus	19	0.40592482686042786
+Teicoplanin	Adenovirus	20	0.39759328961372375
+Telaprevir	Human immunodeficiency virus 1	1	0.7789151072502136
+Telaprevir	Influenza A virus	2	0.6232936978340149
+Telaprevir	Dengue virus	3	0.5698679089546204
+Telaprevir	Zika virus	4	0.5604500770568848
+Telaprevir	Middle East respiratory syndrome coronavirus	5	0.5588051676750183
+Telaprevir	Herpes simplex virus 1	6	0.5263822078704834
+Telaprevir	Ebola virus	7	0.4870563745498657
+Telaprevir	Severe acute respiratory syndrome coronavirus	8	0.4515289068222046
+Telaprevir	Hepatitis B virus	9	0.3987169861793518
+Telaprevir	Cytomegalovirus	10	0.39390918612480164
+Telaprevir	Chikungunya virus	11	0.37750789523124695
+Telaprevir	Enterovirus B	12	0.3626514971256256
+Telaprevir	Epstein-Barr virus	13	0.3375589847564697
+Telaprevir	Enterovirus A	14	0.30420178174972534
+Telaprevir	BK virus	15	0.2895691394805908
+Telaprevir	Herpes simplex virus 2	16	0.28421491384506226
+Telaprevir	West Nile virus	17	0.26197972893714905
+Telaprevir	Rift Valley fever virus	18	0.25977787375450134
+Telaprevir	Varicella-zoster virus	19	0.2594485580921173
+Telaprevir	Kaposi's sarcoma-associated herpesvirus	20	0.2592560350894928
+Telavancin	Human immunodeficiency virus 1	1	0.7552273273468018
+Telavancin	Influenza A virus	2	0.661072313785553
+Telavancin	Zika virus	3	0.6587802767753601
+Telavancin	Hepatitis C virus	4	0.6396185755729675
+Telavancin	Dengue virus	5	0.6392433643341064
+Telavancin	Herpes simplex virus 1	6	0.6048852205276489
+Telavancin	Cytomegalovirus	7	0.4934968650341034
+Telavancin	Hepatitis B virus	8	0.4721328914165497
+Telavancin	Chikungunya virus	9	0.4571531116962433
+Telavancin	Epstein-Barr virus	10	0.4322790205478668
+Telavancin	Enterovirus B	11	0.42580747604370117
+Telavancin	Enterovirus A	12	0.41809743642807007
+Telavancin	Herpes simplex virus 2	13	0.35310015082359314
+Telavancin	Respiratory syncytial virus	14	0.3484463393688202
+Telavancin	West Nile virus	15	0.3419823944568634
+Telavancin	Rift Valley fever virus	16	0.3335261940956116
+Telavancin	Human Herpesvirus 1	17	0.3323180079460144
+Telavancin	Human rhinovirus A	18	0.32902905344963074
+Telavancin	BK virus	19	0.32666146755218506
+Telavancin	Sindbis virus	20	0.3158416450023651
+Telbivudine	Human immunodeficiency virus 1	1	0.7762800455093384
+Telbivudine	Influenza A virus	2	0.48015332221984863
+Telbivudine	Dengue virus	3	0.474238783121109
+Telbivudine	Zika virus	4	0.4532528519630432
+Telbivudine	Hepatitis C virus	5	0.42579716444015503
+Telbivudine	Herpes simplex virus 1	6	0.33672112226486206
+Telbivudine	Ebola virus	7	0.3297397792339325
+Telbivudine	Middle East respiratory syndrome coronavirus	8	0.30639201402664185
+Telbivudine	Severe acute respiratory syndrome coronavirus	9	0.287790447473526
+Telbivudine	Cytomegalovirus	10	0.26535847783088684
+Telbivudine	Chikungunya virus	11	0.24040600657463074
+Telbivudine	Epstein-Barr virus	12	0.23705948889255524
+Telbivudine	Human Herpesvirus 1	13	0.21880295872688293
+Telbivudine	Enterovirus A	14	0.21720196306705475
+Telbivudine	Kaposi's sarcoma-associated herpesvirus	15	0.2131320983171463
+Telbivudine	BK virus	16	0.21104444563388824
+Telbivudine	Enterovirus B	17	0.198028564453125
+Telbivudine	West Nile virus	18	0.19140441715717316
+Telbivudine	Sindbis virus	19	0.19042743742465973
+Telbivudine	Influenza B virus	20	0.1878833919763565
+Tenofovir	Influenza A virus	1	0.7512935996055603
+Tenofovir	Hepatitis C virus	2	0.7203370928764343
+Tenofovir	Middle East respiratory syndrome coronavirus	3	0.6738101840019226
+Tenofovir	Zika virus	4	0.6635144948959351
+Tenofovir	Dengue virus	5	0.649490237236023
+Tenofovir	Herpes simplex virus 1	6	0.6465060114860535
+Tenofovir	Severe acute respiratory syndrome coronavirus	7	0.6421974897384644
+Tenofovir	Ebola virus	8	0.6237175464630127
+Tenofovir	Chikungunya virus	9	0.6069852709770203
+Tenofovir	Cytomegalovirus	10	0.5656855702400208
+Tenofovir	Enterovirus B	11	0.5521522164344788
+Tenofovir	Epstein-Barr virus	12	0.5071437358856201
+Tenofovir	Enterovirus A	13	0.46039435267448425
+Tenofovir	Rift Valley fever virus	14	0.4412976801395416
+Tenofovir	BK virus	15	0.4290769100189209
+Tenofovir	Kaposi's sarcoma-associated herpesvirus	16	0.42538926005363464
+Tenofovir	Vesicular stomatitis virus	17	0.40500086545944214
+Tenofovir	Sindbis virus	18	0.3991115391254425
+Tenofovir	Respiratory syncytial virus	19	0.3990509510040283
+Tenofovir	Human immunodeficiency virus	20	0.3776836693286896
+Tenofovir disoproxil	Influenza A virus	1	0.40071171522140503
+Tenofovir disoproxil	Zika virus	2	0.3361761271953583
+Tenofovir disoproxil	Dengue virus	3	0.32271239161491394
+Tenofovir disoproxil	Hepatitis C virus	4	0.3130504786968231
+Tenofovir disoproxil	Herpes simplex virus 1	5	0.25615015625953674
+Tenofovir disoproxil	Middle East respiratory syndrome coronavirus	6	0.2520713806152344
+Tenofovir disoproxil	Rift Valley fever virus	7	0.2211470901966095
+Tenofovir disoproxil	Severe acute respiratory syndrome coronavirus	8	0.2036486715078354
+Tenofovir disoproxil	Enterovirus A	9	0.2031375616788864
+Tenofovir disoproxil	Ebola virus	10	0.1922980546951294
+Tenofovir disoproxil	Human Herpesvirus 1	11	0.16576948761940002
+Tenofovir disoproxil	Chikungunya virus	12	0.16076785326004028
+Tenofovir disoproxil	Vesicular stomatitis virus	13	0.15977998077869415
+Tenofovir disoproxil	Enterovirus B	14	0.14553914964199066
+Tenofovir disoproxil	Kaposi's sarcoma-associated herpesvirus	15	0.13426698744297028
+Tenofovir disoproxil	Adenovirus	16	0.13211508095264435
+Tenofovir disoproxil	Hepatitis B virus	17	0.11482847481966019
+Tenofovir disoproxil	Cytomegalovirus	18	0.1134021058678627
+Tenofovir disoproxil	Lassa virus	19	0.10909571498632431
+Tenofovir disoproxil	Japanese encephalitis virus	20	0.10745144635438919
+Teriflunomide	Hepatitis C virus	1	0.7203997373580933
+Teriflunomide	Human immunodeficiency virus 1	2	0.6873874068260193
+Teriflunomide	Herpes simplex virus 1	3	0.626849889755249
+Teriflunomide	Dengue virus	4	0.6143585443496704
+Teriflunomide	Middle East respiratory syndrome coronavirus	5	0.6063030958175659
+Teriflunomide	Severe acute respiratory syndrome coronavirus	6	0.6051412224769592
+Teriflunomide	Chikungunya virus	7	0.5295361876487732
+Teriflunomide	Cytomegalovirus	8	0.5212811231613159
+Teriflunomide	Hepatitis B virus	9	0.5137709975242615
+Teriflunomide	Enterovirus B	10	0.5028604865074158
+Teriflunomide	Herpes simplex virus 2	11	0.4326985478401184
+Teriflunomide	Rift Valley fever virus	12	0.4209758937358856
+Teriflunomide	Enterovirus A	13	0.4142632484436035
+Teriflunomide	Kaposi's sarcoma-associated herpesvirus	14	0.4115797281265259
+Teriflunomide	Sindbis virus	15	0.4056810438632965
+Teriflunomide	BK virus	16	0.3879097104072571
+Teriflunomide	Vesicular stomatitis virus	17	0.38255906105041504
+Teriflunomide	Yellow fever virus	18	0.3801238536834717
+Teriflunomide	West Nile virus	19	0.3733549416065216
+Teriflunomide	Lassa virus	20	0.3707350492477417
+Thymalfasin	Influenza A virus	1	0.6458562612533569
+Thymalfasin	Zika virus	2	0.6253765225410461
+Thymalfasin	Herpes simplex virus 1	3	0.5453805327415466
+Thymalfasin	Dengue virus	4	0.5272589921951294
+Thymalfasin	Middle East respiratory syndrome coronavirus	5	0.5021082758903503
+Thymalfasin	Ebola virus	6	0.4915274977684021
+Thymalfasin	Severe acute respiratory syndrome coronavirus	7	0.4580881893634796
+Thymalfasin	Cytomegalovirus	8	0.41628602147102356
+Thymalfasin	Enterovirus A	9	0.3858809173107147
+Thymalfasin	Enterovirus B	10	0.37295570969581604
+Thymalfasin	Chikungunya virus	11	0.3670507073402405
+Thymalfasin	Rift Valley fever virus	12	0.34516650438308716
+Thymalfasin	Epstein-Barr virus	13	0.3369036912918091
+Thymalfasin	Varicella-zoster virus	14	0.33369719982147217
+Thymalfasin	Yellow fever virus	15	0.3164234459400177
+Thymalfasin	Influenza B virus	16	0.31441953778266907
+Thymalfasin	Vesicular stomatitis virus	17	0.3086089789867401
+Thymalfasin	Respiratory syncytial virus	18	0.30758029222488403
+Thymalfasin	Herpes simplex virus 2	19	0.30431655049324036
+Thymalfasin	Sindbis virus	20	0.3030640184879303
+Tilorone (Amixin)	Zika virus	1	0.7796247005462646
+Tilorone (Amixin)	Enterovirus B	2	0.764151930809021
+Tilorone (Amixin)	Severe acute respiratory syndrome coronavirus	3	0.7559689283370972
+Tilorone (Amixin)	Dengue virus	4	0.7557831406593323
+Tilorone (Amixin)	Influenza A virus	5	0.7509384751319885
+Tilorone (Amixin)	Human immunodeficiency virus 1	6	0.725096583366394
+Tilorone (Amixin)	Epstein-Barr virus	7	0.7046288847923279
+Tilorone (Amixin)	Rift Valley fever virus	8	0.6607795357704163
+Tilorone (Amixin)	Respiratory syncytial virus	9	0.6579861044883728
+Tilorone (Amixin)	Enterovirus A	10	0.6565948128700256
+Tilorone (Amixin)	Sindbis virus	11	0.6422432661056519
+Tilorone (Amixin)	Yellow fever virus	12	0.6305599808692932
+Tilorone (Amixin)	Human Herpesvirus 1	13	0.6228485703468323
+Tilorone (Amixin)	Kaposi's sarcoma-associated herpesvirus	14	0.6203791499137878
+Tilorone (Amixin)	BK virus	15	0.6175731420516968
+Tilorone (Amixin)	Influenza B virus	16	0.6058862805366516
+Tilorone (Amixin)	Vesicular stomatitis virus	17	0.589421272277832
+Tilorone (Amixin)	Vaccinia virus	18	0.5857365727424622
+Tilorone (Amixin)	Varicella-zoster virus	19	0.5805575847625732
+Tilorone (Amixin)	SARS-COV-2	20	0.5579614043235779
+Tipranavir	Influenza A virus	1	0.61649090051651
+Tipranavir	Hepatitis C virus	2	0.558954656124115
+Tipranavir	Zika virus	3	0.5189537405967712
+Tipranavir	Herpes simplex virus 1	4	0.49916598200798035
+Tipranavir	Dengue virus	5	0.49744653701782227
+Tipranavir	Middle East respiratory syndrome coronavirus	6	0.4165267050266266
+Tipranavir	Ebola virus	7	0.3876144289970398
+Tipranavir	Severe acute respiratory syndrome coronavirus	8	0.3764290511608124
+Tipranavir	Hepatitis B virus	9	0.35172033309936523
+Tipranavir	Cytomegalovirus	10	0.3252263069152832
+Tipranavir	Herpes simplex virus 2	11	0.293376624584198
+Tipranavir	Enterovirus A	12	0.2929639220237732
+Tipranavir	Epstein-Barr virus	13	0.2796115279197693
+Tipranavir	BK virus	14	0.27917739748954773
+Tipranavir	Enterovirus B	15	0.26951488852500916
+Tipranavir	Rift Valley fever virus	16	0.26791244745254517
+Tipranavir	Influenza B virus	17	0.25426483154296875
+Tipranavir	Chikungunya virus	18	0.24913913011550903
+Tipranavir	Vesicular stomatitis virus	19	0.2479240745306015
+Tipranavir	Respiratory syncytial virus	20	0.2284662425518036
+Topotecan	Zika virus	1	0.7336967587471008
+Topotecan	Herpes simplex virus 1	2	0.7035370469093323
+Topotecan	Middle East respiratory syndrome coronavirus	3	0.6715936064720154
+Topotecan	Severe acute respiratory syndrome coronavirus	4	0.6458542346954346
+Topotecan	Cytomegalovirus	5	0.6086047291755676
+Topotecan	Hepatitis B virus	6	0.6039509177207947
+Topotecan	Enterovirus B	7	0.5954179763793945
+Topotecan	Chikungunya virus	8	0.5884627103805542
+Topotecan	Epstein-Barr virus	9	0.553106427192688
+Topotecan	Herpes simplex virus 2	10	0.49527281522750854
+Topotecan	Enterovirus A	11	0.48293545842170715
+Topotecan	Sindbis virus	12	0.4818051755428314
+Topotecan	Kaposi's sarcoma-associated herpesvirus	13	0.477407306432724
+Topotecan	Rift Valley fever virus	14	0.4693215787410736
+Topotecan	Respiratory syncytial virus	15	0.43046581745147705
+Topotecan	BK virus	16	0.41579580307006836
+Topotecan	SARS-COV-2	17	0.415203720331192
+Topotecan	Yellow fever virus	18	0.4038933515548706
+Topotecan	Vesicular stomatitis virus	19	0.3982091248035431
+Topotecan	Varicella-zoster virus	20	0.3954576849937439
+Toremifene	Human immunodeficiency virus 1	1	0.7425118684768677
+Toremifene	Influenza A virus	2	0.6597390174865723
+Toremifene	Hepatitis C virus	3	0.6557585000991821
+Toremifene	Zika virus	4	0.6366372108459473
+Toremifene	Dengue virus	5	0.6147185564041138
+Toremifene	Herpes simplex virus 1	6	0.6049399375915527
+Toremifene	Cytomegalovirus	7	0.4971654415130615
+Toremifene	Hepatitis B virus	8	0.46950361132621765
+Toremifene	Chikungunya virus	9	0.4554676413536072
+Toremifene	Enterovirus B	10	0.4423644244670868
+Toremifene	Rift Valley fever virus	11	0.4249885678291321
+Toremifene	Epstein-Barr virus	12	0.4242125451564789
+Toremifene	Respiratory syncytial virus	13	0.387484610080719
+Toremifene	Herpes simplex virus 2	14	0.3839368522167206
+Toremifene	Enterovirus A	15	0.36379197239875793
+Toremifene	Human Herpesvirus 1	16	0.3616119921207428
+Toremifene	Kaposi's sarcoma-associated herpesvirus	17	0.3569098114967346
+Toremifene	SARS-COV-2	18	0.33461299538612366
+Toremifene	BK virus	19	0.334232896566391
+Toremifene	Sindbis virus	20	0.32607749104499817
+Trametinib	Hepatitis C virus	1	0.6264190673828125
+Trametinib	Zika virus	2	0.4818136990070343
+Trametinib	Dengue virus	3	0.48008227348327637
+Trametinib	Ebola virus	4	0.4629916250705719
+Trametinib	Herpes simplex virus 1	5	0.46258845925331116
+Trametinib	Severe acute respiratory syndrome coronavirus	6	0.42007705569267273
+Trametinib	Chikungunya virus	7	0.40752431750297546
+Trametinib	Hepatitis B virus	8	0.38313376903533936
+Trametinib	Enterovirus B	9	0.37509074807167053
+Trametinib	Cytomegalovirus	10	0.36876022815704346
+Trametinib	Epstein-Barr virus	11	0.3373057544231415
+Trametinib	Human Herpesvirus 1	12	0.31191733479499817
+Trametinib	Enterovirus A	13	0.30630072951316833
+Trametinib	West Nile virus	14	0.28395599126815796
+Trametinib	Sindbis virus	15	0.2723614573478699
+Trametinib	Herpes simplex virus 2	16	0.26348555088043213
+Trametinib	Kaposi's sarcoma-associated herpesvirus	17	0.24903646111488342
+Trametinib	Respiratory syncytial virus	18	0.2451784461736679
+Trametinib	Influenza B virus	19	0.23684273660182953
+Trametinib	Vaccinia virus	20	0.2307179868221283
+Trifluridine	Human immunodeficiency virus 1	1	0.6843425631523132
+Trifluridine	Hepatitis C virus	2	0.575043797492981
+Trifluridine	Influenza A virus	3	0.5395712852478027
+Trifluridine	Zika virus	4	0.5039665102958679
+Trifluridine	Dengue virus	5	0.44911107420921326
+Trifluridine	Middle East respiratory syndrome coronavirus	6	0.4285443425178528
+Trifluridine	Herpes simplex virus 1	7	0.35402002930641174
+Trifluridine	Ebola virus	8	0.29841166734695435
+Trifluridine	Severe acute respiratory syndrome coronavirus	9	0.2918369472026825
+Trifluridine	Chikungunya virus	10	0.28617793321609497
+Trifluridine	Hepatitis B virus	11	0.2633094787597656
+Trifluridine	Kaposi's sarcoma-associated herpesvirus	12	0.2428041696548462
+Trifluridine	Enterovirus B	13	0.23260682821273804
+Trifluridine	Respiratory syncytial virus	14	0.2252061367034912
+Trifluridine	Epstein-Barr virus	15	0.22125501930713654
+Trifluridine	Cytomegalovirus	16	0.21714085340499878
+Trifluridine	Varicella-zoster virus	17	0.21703748404979706
+Trifluridine	Lassa virus	18	0.19866275787353516
+Trifluridine	Enterovirus A	19	0.1962227076292038
+Trifluridine	Sindbis virus	20	0.19597449898719788
+Uracil	Human immunodeficiency virus 1	1	0.7046875357627869
+Uracil	Influenza A virus	2	0.5610651969909668
+Uracil	Hepatitis C virus	3	0.5510921478271484
+Uracil	Zika virus	4	0.4704882502555847
+Uracil	Dengue virus	5	0.4152243435382843
+Uracil	Ebola virus	6	0.36590301990509033
+Uracil	Herpes simplex virus 1	7	0.36194169521331787
+Uracil	Severe acute respiratory syndrome coronavirus	8	0.3259451687335968
+Uracil	Hepatitis B virus	9	0.3100004494190216
+Uracil	Middle East respiratory syndrome coronavirus	10	0.2890751361846924
+Uracil	Enterovirus B	11	0.27668872475624084
+Uracil	Cytomegalovirus	12	0.27538368105888367
+Uracil	Herpes simplex virus 2	13	0.27266547083854675
+Uracil	Vesicular stomatitis virus	14	0.2724820673465729
+Uracil	Kaposi's sarcoma-associated herpesvirus	15	0.2393830120563507
+Uracil	Enterovirus A	16	0.23400543630123138
+Uracil	Chikungunya virus	17	0.22816364467144012
+Uracil	Junin virus	18	0.22405187785625458
+Uracil	Respiratory syncytial virus	19	0.2211817055940628
+Uracil	Rift Valley fever virus	20	0.21436269581317902
+Valacyclovir	Hepatitis C virus	1	0.739624559879303
+Valacyclovir	Dengue virus	2	0.7295331358909607
+Valacyclovir	Zika virus	3	0.7292593121528625
+Valacyclovir	Middle East respiratory syndrome coronavirus	4	0.725905179977417
+Valacyclovir	Human immunodeficiency virus 1	5	0.7251853942871094
+Valacyclovir	Influenza A virus	6	0.719740629196167
+Valacyclovir	Ebola virus	7	0.7041075229644775
+Valacyclovir	Enterovirus B	8	0.6789264678955078
+Valacyclovir	Severe acute respiratory syndrome coronavirus	9	0.660577654838562
+Valacyclovir	Enterovirus A	10	0.5964827537536621
+Valacyclovir	Chikungunya virus	11	0.5956099629402161
+Valacyclovir	Kaposi's sarcoma-associated herpesvirus	12	0.567042887210846
+Valacyclovir	Rift Valley fever virus	13	0.5658353567123413
+Valacyclovir	Sindbis virus	14	0.5466263294219971
+Valacyclovir	Respiratory syncytial virus	15	0.5363807082176208
+Valacyclovir	West Nile virus	16	0.5295758247375488
+Valacyclovir	Vesicular stomatitis virus	17	0.5226126313209534
+Valacyclovir	BK virus	18	0.5162058472633362
+Valacyclovir	SARS-COV-2	19	0.49804624915122986
+Valacyclovir	Yellow fever virus	20	0.4885091185569763
+Valganciclovir	Human immunodeficiency virus 1	1	0.770194411277771
+Valganciclovir	Hepatitis C virus	2	0.5971924066543579
+Valganciclovir	Influenza A virus	3	0.5934020280838013
+Valganciclovir	Zika virus	4	0.4970695972442627
+Valganciclovir	Dengue virus	5	0.4340130686759949
+Valganciclovir	Herpes simplex virus 1	6	0.40578246116638184
+Valganciclovir	Middle East respiratory syndrome coronavirus	7	0.38804882764816284
+Valganciclovir	Severe acute respiratory syndrome coronavirus	8	0.3581955134868622
+Valganciclovir	Ebola virus	9	0.35078585147857666
+Valganciclovir	Epstein-Barr virus	10	0.34103843569755554
+Valganciclovir	Hepatitis B virus	11	0.31697356700897217
+Valganciclovir	Enterovirus B	12	0.29760393500328064
+Valganciclovir	Respiratory syncytial virus	13	0.2913461923599243
+Valganciclovir	Chikungunya virus	14	0.28325939178466797
+Valganciclovir	Cytomegalovirus	15	0.26559504866600037
+Valganciclovir	Herpes simplex virus 2	16	0.23779883980751038
+Valganciclovir	Human immunodeficiency virus	17	0.2317650020122528
+Valganciclovir	Varicella-zoster virus	18	0.22534170746803284
+Valganciclovir	Rift Valley fever virus	19	0.2251223474740982
+Valganciclovir	West Nile virus	20	0.21528145670890808
+Verapamil	Hepatitis C virus	1	0.7082923650741577
+Verapamil	Zika virus	2	0.7023515701293945
+Verapamil	Middle East respiratory syndrome coronavirus	3	0.6841764450073242
+Verapamil	Human immunodeficiency virus 1	4	0.6686186194419861
+Verapamil	Dengue virus	5	0.6488330364227295
+Verapamil	Herpes simplex virus 1	6	0.6371965408325195
+Verapamil	Severe acute respiratory syndrome coronavirus	7	0.6275387406349182
+Verapamil	Enterovirus B	8	0.5855283737182617
+Verapamil	Hepatitis B virus	9	0.5805656909942627
+Verapamil	Chikungunya virus	10	0.5611003041267395
+Verapamil	Epstein-Barr virus	11	0.5037674307823181
+Verapamil	Rift Valley fever virus	12	0.4697892665863037
+Verapamil	Enterovirus A	13	0.4366459548473358
+Verapamil	Kaposi's sarcoma-associated herpesvirus	14	0.4358581602573395
+Verapamil	Sindbis virus	15	0.431415855884552
+Verapamil	Vesicular stomatitis virus	16	0.4229106903076172
+Verapamil	Respiratory syncytial virus	17	0.41542792320251465
+Verapamil	BK virus	18	0.4013998508453369
+Verapamil	Herpes simplex virus 2	19	0.39433717727661133
+Verapamil	Varicella-zoster virus	20	0.39215514063835144
+Vidarabine	Human immunodeficiency virus 1	1	0.7517485022544861
+Vidarabine	Hepatitis C virus	2	0.7306374907493591
+Vidarabine	Zika virus	3	0.7169879674911499
+Vidarabine	Influenza A virus	4	0.716905415058136
+Vidarabine	Dengue virus	5	0.6868258118629456
+Vidarabine	Ebola virus	6	0.6760033369064331
+Vidarabine	Middle East respiratory syndrome coronavirus	7	0.6639376282691956
+Vidarabine	Herpes simplex virus 1	8	0.6635057926177979
+Vidarabine	Severe acute respiratory syndrome coronavirus	9	0.6481633186340332
+Vidarabine	Cytomegalovirus	10	0.6034765839576721
+Vidarabine	Hepatitis B virus	11	0.5877540707588196
+Vidarabine	Chikungunya virus	12	0.5779228210449219
+Vidarabine	Enterovirus B	13	0.5529643297195435
+Vidarabine	Epstein-Barr virus	14	0.5329549312591553
+Vidarabine	Enterovirus A	15	0.4620143473148346
+Vidarabine	Yellow fever virus	16	0.4469757378101349
+Vidarabine	Herpes simplex virus 2	17	0.446841835975647
+Vidarabine	Rift Valley fever virus	18	0.4392971694469452
+Vidarabine	Kaposi's sarcoma-associated herpesvirus	19	0.43726176023483276
+Vidarabine	SARS-COV-2	20	0.42405208945274353
+Zalcitabine	Influenza A virus	1	0.41154512763023376
+Zalcitabine	Zika virus	2	0.4018368124961853
+Zalcitabine	Severe acute respiratory syndrome coronavirus	3	0.3566974997520447
+Zalcitabine	Hepatitis C virus	4	0.31129929423332214
+Zalcitabine	Dengue virus	5	0.2614302337169647
+Zalcitabine	Herpes simplex virus 1	6	0.25673553347587585
+Zalcitabine	Ebola virus	7	0.23794715106487274
+Zalcitabine	Chikungunya virus	8	0.18023653328418732
+Zalcitabine	Middle East respiratory syndrome coronavirus	9	0.16416701674461365
+Zalcitabine	Sindbis virus	10	0.14189308881759644
+Zalcitabine	Enterovirus A	11	0.1340973675251007
+Zalcitabine	Hepatitis B virus	12	0.1323024481534958
+Zalcitabine	Enterovirus B	13	0.1312234103679657
+Zalcitabine	Respiratory syncytial virus	14	0.13078051805496216
+Zalcitabine	Epstein-Barr virus	15	0.12803944945335388
+Zalcitabine	Yellow fever virus	16	0.12211025506258011
+Zalcitabine	Vaccinia virus	17	0.11942893266677856
+Zalcitabine	Human Herpesvirus 1	18	0.11629103124141693
+Zalcitabine	Rift Valley fever virus	19	0.11043566465377808
+Zalcitabine	Junin virus	20	0.10909798741340637
+Zanamivir	Human immunodeficiency virus 1	1	0.7317571043968201
+Zanamivir	Hepatitis C virus	2	0.7127413749694824
+Zanamivir	Zika virus	3	0.6878491640090942
+Zanamivir	Dengue virus	4	0.6827403903007507
+Zanamivir	Ebola virus	5	0.6800504922866821
+Zanamivir	Herpes simplex virus 1	6	0.6597739458084106
+Zanamivir	Cytomegalovirus	7	0.647800624370575
+Zanamivir	Severe acute respiratory syndrome coronavirus	8	0.6442569494247437
+Zanamivir	Middle East respiratory syndrome coronavirus	9	0.6327850818634033
+Zanamivir	Hepatitis B virus	10	0.6098411083221436
+Zanamivir	Chikungunya virus	11	0.6071842312812805
+Zanamivir	Enterovirus B	12	0.5615746974945068
+Zanamivir	Epstein-Barr virus	13	0.5584450364112854
+Zanamivir	Enterovirus A	14	0.49228930473327637
+Zanamivir	Herpes simplex virus 2	15	0.48779621720314026
+Zanamivir	Kaposi's sarcoma-associated herpesvirus	16	0.4514986276626587
+Zanamivir	Respiratory syncytial virus	17	0.45145383477211
+Zanamivir	Varicella-zoster virus	18	0.443768709897995
+Zanamivir	Rift Valley fever virus	19	0.4407164752483368
+Zanamivir	Sindbis virus	20	0.4225488007068634
+Zidovudine	Influenza A virus	1	0.4528559148311615
+Zidovudine	Hepatitis C virus	2	0.37840133905410767
+Zidovudine	Zika virus	3	0.3442423641681671
+Zidovudine	Dengue virus	4	0.30493447184562683
+Zidovudine	Herpes simplex virus 1	5	0.28603991866111755
+Zidovudine	Cytomegalovirus	6	0.24325932562351227
+Zidovudine	Middle East respiratory syndrome coronavirus	7	0.20936919748783112
+Zidovudine	Hepatitis B virus	8	0.2092723399400711
+Zidovudine	Ebola virus	9	0.20498287677764893
+Zidovudine	Enterovirus A	10	0.17362408339977264
+Zidovudine	Herpes simplex virus 2	11	0.14956535398960114
+Zidovudine	Chikungunya virus	12	0.14108477532863617
+Zidovudine	Severe acute respiratory syndrome coronavirus	13	0.1369582563638687
+Zidovudine	Varicella-zoster virus	14	0.13579529523849487
+Zidovudine	Human Herpesvirus 1	15	0.13238511979579926
+Zidovudine	Human metapneumovirus	16	0.1250569373369217
+Zidovudine	Japanese encephalitis virus	17	0.121165931224823
+Zidovudine	Influenza B virus	18	0.12077801674604416
+Zidovudine	Vesicular stomatitis virus	19	0.11921757459640503
+Zidovudine	Yellow fever virus	20	0.11701606214046478

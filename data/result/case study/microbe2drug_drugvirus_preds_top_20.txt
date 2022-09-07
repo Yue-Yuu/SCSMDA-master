@@ -1,0 +1,1900 @@
+SARS-COV-2	Mycophenolic acid	1	0.6653358936309814
+SARS-COV-2	Cidofovir	2	0.6323845386505127
+SARS-COV-2	Nitazoxanide	3	0.622916579246521
+SARS-COV-2	Niclosamide	4	0.6185718774795532
+SARS-COV-2	Obatoclax	5	0.6106590628623962
+SARS-COV-2	BCX4430 (Galidesivir)	6	0.6102858781814575
+SARS-COV-2	Amodiaquine	7	0.6000463962554932
+SARS-COV-2	EIPA (amiloride)	8	0.598532497882843
+SARS-COV-2	Favipiravir	9	0.5845913887023926
+SARS-COV-2	Monensin	10	0.5802862644195557
+SARS-COV-2	Brequinar	11	0.577435314655304
+SARS-COV-2	Rapamycin (Sirolimus)	12	0.5765268802642822
+SARS-COV-2	Brincidofovir	13	0.574260413646698
+SARS-COV-2	Emetine	14	0.5728341937065125
+SARS-COV-2	Luteolin	15	0.5581337809562683
+SARS-COV-2	Tilorone (Amixin)	16	0.5579614043235779
+SARS-COV-2	Berberine	17	0.5542121529579163
+SARS-COV-2	ABT-263	18	0.5493652820587158
+SARS-COV-2	Sorafenib	19	0.5481199026107788
+SARS-COV-2	Gemcitabine	20	0.542998194694519
+Adenovirus	Mycophenolic acid	1	0.6170045137405396
+Adenovirus	Ribavirin	2	0.6043100357055664
+Adenovirus	Favipiravir	3	0.585860550403595
+Adenovirus	Remdesivir	4	0.5844710469245911
+Adenovirus	Obatoclax	5	0.561016857624054
+Adenovirus	EIPA (amiloride)	6	0.5604912042617798
+Adenovirus	Niclosamide	7	0.5473290085792542
+Adenovirus	Amodiaquine	8	0.5343510508537292
+Adenovirus	Brequinar	9	0.5316023230552673
+Adenovirus	ABT-263	10	0.5237924456596375
+Adenovirus	Emetine	11	0.5192800164222717
+Adenovirus	Chloroquine	12	0.515190839767456
+Adenovirus	Gemcitabine	13	0.5123567581176758
+Adenovirus	BCX4430 (Galidesivir)	14	0.5109947919845581
+Adenovirus	Monensin	15	0.508159875869751
+Adenovirus	Rapamycin (Sirolimus)	16	0.5043626427650452
+Adenovirus	Cyclosporine	17	0.4929331839084625
+Adenovirus	Berberine	18	0.4907299280166626
+Adenovirus	Eflornithine	19	0.4903993308544159
+Adenovirus	Tilorone (Amixin)	20	0.4895220100879669
+Andes virus	Ribavirin	1	0.365770161151886
+Andes virus	Mycophenolic acid	2	0.3304271697998047
+Andes virus	Nitazoxanide	3	0.3270033597946167
+Andes virus	Chloroquine	4	0.31366801261901855
+Andes virus	Brequinar	5	0.3125222623348236
+Andes virus	Remdesivir	6	0.2962532341480255
+Andes virus	BCX4430 (Galidesivir)	7	0.29502296447753906
+Andes virus	Brincidofovir	8	0.2683493196964264
+Andes virus	Foscarnet	9	0.2573602497577667
+Andes virus	Cidofovir	10	0.24938976764678955
+Andes virus	Niclosamide	11	0.24732981622219086
+Andes virus	Emetine	12	0.23372653126716614
+Andes virus	EIPA (amiloride)	13	0.2320476472377777
+Andes virus	Cyclosporine	14	0.22455823421478271
+Andes virus	Gemcitabine	15	0.2229558527469635
+Andes virus	Obatoclax	16	0.22247427701950073
+Andes virus	Amodiaquine	17	0.22012726962566376
+Andes virus	Monensin	18	0.2180625945329666
+Andes virus	Rapamycin (Sirolimus)	19	0.21605828404426575
+Andes virus	Tilorone (Amixin)	20	0.2119244635105133
+BK virus	EIPA (amiloride)	1	0.7152339816093445
+BK virus	Obatoclax	2	0.6798518896102905
+BK virus	Nitazoxanide	3	0.6725456714630127
+BK virus	Remdesivir	4	0.6703423857688904
+BK virus	Amodiaquine	5	0.6594140529632568
+BK virus	Niclosamide	6	0.6574636697769165
+BK virus	ABT-263	7	0.65577232837677
+BK virus	Emetine	8	0.6529368758201599
+BK virus	Gemcitabine	9	0.651520311832428
+BK virus	Ribavirin	10	0.6506616473197937
+BK virus	Glycyrrhizin	11	0.6463733911514282
+BK virus	Cyclosporine	12	0.6456106901168823
+BK virus	Arbidol (Umifenovir)	13	0.6448242664337158
+BK virus	Sorafenib	14	0.6402533054351807
+BK virus	BCX4430 (Galidesivir)	15	0.6376885175704956
+BK virus	Chloroquine	16	0.6315522789955139
+BK virus	Favipiravir	17	0.6284874677658081
+BK virus	Monensin	18	0.6278456449508667
+BK virus	Brequinar	19	0.6235431432723999
+BK virus	Tilorone (Amixin)	20	0.6175731420516968
+Bunyamwera virus	Cidofovir	1	0.403566837310791
+Bunyamwera virus	Ribavirin	2	0.3824318051338196
+Bunyamwera virus	Brincidofovir	3	0.3306550979614258
+Bunyamwera virus	Mycophenolic acid	4	0.32874611020088196
+Bunyamwera virus	Favipiravir	5	0.3255504369735718
+Bunyamwera virus	BCX4430 (Galidesivir)	6	0.31998664140701294
+Bunyamwera virus	Nitazoxanide	7	0.31841719150543213
+Bunyamwera virus	EIPA (amiloride)	8	0.3170977234840393
+Bunyamwera virus	Brequinar	9	0.3091047406196594
+Bunyamwera virus	Remdesivir	10	0.30631038546562195
+Bunyamwera virus	Emetine	11	0.3056855797767639
+Bunyamwera virus	Niclosamide	12	0.2815167009830475
+Bunyamwera virus	Eflornithine	13	0.26767218112945557
+Bunyamwera virus	Amodiaquine	14	0.2537296414375305
+Bunyamwera virus	Rapamycin (Sirolimus)	15	0.2434922456741333
+Bunyamwera virus	Arbidol (Umifenovir)	16	0.24191980063915253
+Bunyamwera virus	Foscarnet	17	0.23502089083194733
+Bunyamwera virus	Chloroquine	18	0.23491831123828888
+Bunyamwera virus	Obatoclax	19	0.2331218421459198
+Bunyamwera virus	Gemcitabine	20	0.23206192255020142
+Chikungunya virus	Foscarnet	1	0.7667390704154968
+Chikungunya virus	Remdesivir	2	0.7609063982963562
+Chikungunya virus	Cyclosporine	3	0.7482253313064575
+Chikungunya virus	Emetine	4	0.7476968765258789
+Chikungunya virus	ABT-263	5	0.7436500191688538
+Chikungunya virus	Arbidol (Umifenovir)	6	0.741529643535614
+Chikungunya virus	Monensin	7	0.7412990927696228
+Chikungunya virus	Homoharringtonine	8	0.7343157529830933
+Chikungunya virus	Lopinavir	9	0.7341312766075134
+Chikungunya virus	Amodiaquine	10	0.7234254479408264
+Chikungunya virus	Brincidofovir	11	0.7217427492141724
+Chikungunya virus	Itraconazole	12	0.7213771343231201
+Chikungunya virus	Obatoclax	13	0.717654287815094
+Chikungunya virus	Emodin	14	0.7167520523071289
+Chikungunya virus	Raloxifene	15	0.7145176529884338
+Chikungunya virus	Rapamycin (Sirolimus)	16	0.711140513420105
+Chikungunya virus	Cidofovir	17	0.7084753513336182
+Chikungunya virus	Amiodarone	18	0.6990250945091248
+Chikungunya virus	Artesunate	19	0.6873785257339478
+Chikungunya virus	Novobiocin	20	0.6864739060401917
+Crimean-Congo hemorrhagic fever virus	Ribavirin	1	0.49662670493125916
+Crimean-Congo hemorrhagic fever virus	Nitazoxanide	2	0.4854312241077423
+Crimean-Congo hemorrhagic fever virus	Remdesivir	3	0.4698663353919983
+Crimean-Congo hemorrhagic fever virus	Cidofovir	4	0.46687841415405273
+Crimean-Congo hemorrhagic fever virus	EIPA (amiloride)	5	0.4545700252056122
+Crimean-Congo hemorrhagic fever virus	Mycophenolic acid	6	0.4517386555671692
+Crimean-Congo hemorrhagic fever virus	Niclosamide	7	0.4175420105457306
+Crimean-Congo hemorrhagic fever virus	BCX4430 (Galidesivir)	8	0.4123622179031372
+Crimean-Congo hemorrhagic fever virus	Obatoclax	9	0.41000649333000183
+Crimean-Congo hemorrhagic fever virus	Emetine	10	0.40439537167549133
+Crimean-Congo hemorrhagic fever virus	Brincidofovir	11	0.37694859504699707
+Crimean-Congo hemorrhagic fever virus	Monensin	12	0.37607714533805847
+Crimean-Congo hemorrhagic fever virus	Brequinar	13	0.3725088834762573
+Crimean-Congo hemorrhagic fever virus	Sorafenib	14	0.36659562587738037
+Crimean-Congo hemorrhagic fever virus	ABT-263	15	0.36073926091194153
+Crimean-Congo hemorrhagic fever virus	Amodiaquine	16	0.34696513414382935
+Crimean-Congo hemorrhagic fever virus	Arbidol (Umifenovir)	17	0.34258222579956055
+Crimean-Congo hemorrhagic fever virus	Rapamycin (Sirolimus)	18	0.34184759855270386
+Crimean-Congo hemorrhagic fever virus	Gemcitabine	19	0.3363799452781677
+Crimean-Congo hemorrhagic fever virus	Tilorone (Amixin)	20	0.33298829197883606
+Cytomegalovirus	Chloroquine	1	0.7503423690795898
+Cytomegalovirus	Gemcitabine	2	0.7500061988830566
+Cytomegalovirus	Arbidol (Umifenovir)	3	0.7458816170692444
+Cytomegalovirus	Luteolin	4	0.7297559380531311
+Cytomegalovirus	ABT-263	5	0.7258222699165344
+Cytomegalovirus	Raloxifene	6	0.7090049982070923
+Cytomegalovirus	Remdesivir	7	0.7068233489990234
+Cytomegalovirus	Brequinar	8	0.7030912041664124
+Cytomegalovirus	Bortezomib	9	0.7030854225158691
+Cytomegalovirus	Ivermectin	10	0.7010310292243958
+Cytomegalovirus	Mycophenolic acid	11	0.70026034116745
+Cytomegalovirus	Ribavirin	12	0.6982413530349731
+Cytomegalovirus	Glycyrrhizin	13	0.6979610323905945
+Cytomegalovirus	Silvestrol	14	0.6976393461227417
+Cytomegalovirus	Itraconazole	15	0.6960576772689819
+Cytomegalovirus	Niclosamide	16	0.6951847672462463
+Cytomegalovirus	Chlorpromazine	17	0.6944037079811096
+Cytomegalovirus	Sorafenib	18	0.6936438679695129
+Cytomegalovirus	Sunitinib	19	0.693084716796875
+Cytomegalovirus	Homoharringtonine	20	0.68914794921875
+Dengue virus	ABT-263	1	0.7953354120254517
+Dengue virus	Nitazoxanide	2	0.7779830694198608
+Dengue virus	Silvestrol	3	0.7759017944335938
+Dengue virus	Arbidol (Umifenovir)	4	0.7634234428405762
+Dengue virus	Emodin	5	0.759434163570404
+Dengue virus	Homoharringtonine	6	0.7590610980987549
+Dengue virus	Foscarnet	7	0.7586548924446106
+Dengue virus	Berberine	8	0.757580578327179
+Dengue virus	Tilorone (Amixin)	9	0.7557831406593323
+Dengue virus	Artesunate	10	0.7552289962768555
+Dengue virus	Emetine	11	0.754485547542572
+Dengue virus	Ribavirin	12	0.7541803121566772
+Dengue virus	Itraconazole	13	0.7514016032218933
+Dengue virus	Cepharanthine	14	0.7484095096588135
+Dengue virus	Monensin	15	0.7439807057380676
+Dengue virus	Pentosan polysulfate	16	0.7439478039741516
+Dengue virus	Rapamycin (Sirolimus)	17	0.7436323165893555
+Dengue virus	Ganciclovir	18	0.7350752353668213
+Dengue virus	Regorafenib	19	0.7336264848709106
+Dengue virus	Filociclovir	20	0.7330818176269531
+Dengue Virus Type 2	Cidofovir	1	0.3855808675289154
+Dengue Virus Type 2	Remdesivir	2	0.3292166590690613
+Dengue Virus Type 2	Nitazoxanide	3	0.3176799416542053
+Dengue Virus Type 2	Emetine	4	0.3165283799171448
+Dengue Virus Type 2	Favipiravir	5	0.31478214263916016
+Dengue Virus Type 2	BCX4430 (Galidesivir)	6	0.28315332531929016
+Dengue Virus Type 2	Tilorone (Amixin)	7	0.2830653786659241
+Dengue Virus Type 2	Cyclosporine	8	0.26059088110923767
+Dengue Virus Type 2	Niclosamide	9	0.2561626732349396
+Dengue Virus Type 2	Sorafenib	10	0.250789076089859
+Dengue Virus Type 2	Berberine	11	0.2460436373949051
+Dengue Virus Type 2	Mycophenolic acid	12	0.24505966901779175
+Dengue Virus Type 2	Foscarnet	13	0.24433918297290802
+Dengue Virus Type 2	Brequinar	14	0.24104389548301697
+Dengue Virus Type 2	ABT-263	15	0.2398775964975357
+Dengue Virus Type 2	Pleconaril	16	0.2307525873184204
+Dengue Virus Type 2	Gemcitabine	17	0.2301921248435974
+Dengue Virus Type 2	Brincidofovir	18	0.22701558470726013
+Dengue Virus Type 2	Luteolin	19	0.22660201787948608
+Dengue Virus Type 2	Obatoclax	20	0.22613032162189484
+Ebola virus	Cyclosporine	1	0.7804608941078186
+Ebola virus	Cidofovir	2	0.7720431685447693
+Ebola virus	Eflornithine	3	0.7622736692428589
+Ebola virus	Berberine	4	0.7621917128562927
+Ebola virus	Mitoxantrone	5	0.7536838054656982
+Ebola virus	Gemcitabine	6	0.7520487904548645
+Ebola virus	Foscarnet	7	0.7495191097259521
+Ebola virus	Glycyrrhizin	8	0.7481494545936584
+Ebola virus	Mycophenolic acid	9	0.7478134632110596
+Ebola virus	Luteolin	10	0.7435417175292969
+Ebola virus	Emodin	11	0.7413654327392578
+Ebola virus	Novobiocin	12	0.741034209728241
+Ebola virus	Labyrinthopeptin A2	13	0.7305285930633545
+Ebola virus	Pleconaril	14	0.7302470803260803
+Ebola virus	Itraconazole	15	0.7287355661392212
+Ebola virus	Monensin	16	0.7244969606399536
+Ebola virus	Obatoclax	17	0.7219414114952087
+Ebola virus	Simvastatin	18	0.7176368832588196
+Ebola virus	Aciclovir	19	0.7163415551185608
+Ebola virus	Leflunomide	20	0.7155991196632385
+Echovirus 1	Remdesivir	1	0.3797757029533386
+Echovirus 1	Ribavirin	2	0.32956141233444214
+Echovirus 1	Brincidofovir	3	0.3283471167087555
+Echovirus 1	Mycophenolic acid	4	0.3252556324005127
+Echovirus 1	Nitazoxanide	5	0.3239186704158783
+Echovirus 1	Favipiravir	6	0.3206510841846466
+Echovirus 1	Amodiaquine	7	0.31932905316352844
+Echovirus 1	EIPA (amiloride)	8	0.30361655354499817
+Echovirus 1	Emetine	9	0.277484267950058
+Echovirus 1	Niclosamide	10	0.27199864387512207
+Echovirus 1	Gemcitabine	11	0.2614343464374542
+Echovirus 1	Tilorone (Amixin)	12	0.2510979175567627
+Echovirus 1	Obatoclax	13	0.24906568229198456
+Echovirus 1	Cyclosporine	14	0.2485639899969101
+Echovirus 1	Cidofovir	15	0.24845364689826965
+Echovirus 1	Brequinar	16	0.24566791951656342
+Echovirus 1	Monensin	17	0.23522014915943146
+Echovirus 1	ABT-263	18	0.2307051718235016
+Echovirus 1	Rapamycin (Sirolimus)	19	0.2284836769104004
+Echovirus 1	Ganciclovir	20	0.2280799150466919
+Enterovirus A	Niclosamide	1	0.7209442853927612
+Enterovirus A	Brequinar	2	0.7098682522773743
+Enterovirus A	Rapamycin (Sirolimus)	3	0.7090882062911987
+Enterovirus A	Brincidofovir	4	0.6999407410621643
+Enterovirus A	Remdesivir	5	0.6885946989059448
+Enterovirus A	Mycophenolic acid	6	0.6876531839370728
+Enterovirus A	BCX4430 (Galidesivir)	7	0.6822692155838013
+Enterovirus A	Arbidol (Umifenovir)	8	0.6814086437225342
+Enterovirus A	Emetine	9	0.677245557308197
+Enterovirus A	ABT-263	10	0.6756364703178406
+Enterovirus A	Nitazoxanide	11	0.6735960245132446
+Enterovirus A	Eflornithine	12	0.6696216464042664
+Enterovirus A	Itraconazole	13	0.6653051376342773
+Enterovirus A	Favipiravir	14	0.6617207527160645
+Enterovirus A	Tilorone (Amixin)	15	0.6565948128700256
+Enterovirus A	Obatoclax	16	0.6508163809776306
+Enterovirus A	Ganciclovir	17	0.6506239771842957
+Enterovirus A	Ivermectin	18	0.6475208401679993
+Enterovirus A	Pleconaril	19	0.643144965171814
+Enterovirus A	Cyclosporine	20	0.6404684782028198
+Enterovirus B	Tilorone (Amixin)	1	0.764151930809021
+Enterovirus B	Ribavirin	2	0.7513276934623718
+Enterovirus B	Raloxifene	3	0.7366589903831482
+Enterovirus B	Arbidol (Umifenovir)	4	0.7341148257255554
+Enterovirus B	Artesunate	5	0.7225812077522278
+Enterovirus B	Amiodarone	6	0.7174362540245056
+Enterovirus B	Cyclosporine	7	0.703394889831543
+Enterovirus B	Favipiravir	8	0.7004488110542297
+Enterovirus B	Labyrinthopeptin A2	9	0.6996521949768066
+Enterovirus B	Pleconaril	10	0.698093831539154
+Enterovirus B	Foscarnet	11	0.6915988326072693
+Enterovirus B	Mitoxantrone	12	0.6885475516319275
+Enterovirus B	Ganciclovir	13	0.6875805258750916
+Enterovirus B	Niclosamide	14	0.6863112449645996
+Enterovirus B	Remdesivir	15	0.6815608739852905
+Enterovirus B	Sorafenib	16	0.6814578175544739
+Enterovirus B	Cidofovir	17	0.681169867515564
+Enterovirus B	Novobiocin	18	0.6793083548545837
+Enterovirus B	Valacyclovir	19	0.6789264678955078
+Enterovirus B	BCX4430 (Galidesivir)	20	0.6783654093742371
+Enterovirus C	Nitazoxanide	1	0.5931339263916016
+Enterovirus C	Remdesivir	2	0.5731446146965027
+Enterovirus C	Cidofovir	3	0.5680441856384277
+Enterovirus C	Ribavirin	4	0.5654584169387817
+Enterovirus C	Mycophenolic acid	5	0.5552171468734741
+Enterovirus C	Favipiravir	6	0.5540072917938232
+Enterovirus C	Obatoclax	7	0.5399084687232971
+Enterovirus C	BCX4430 (Galidesivir)	8	0.5290063619613647
+Enterovirus C	Amodiaquine	9	0.5251004099845886
+Enterovirus C	Brequinar	10	0.520738422870636
+Enterovirus C	Niclosamide	11	0.5100138783454895
+Enterovirus C	Emetine	12	0.5057653188705444
+Enterovirus C	Berberine	13	0.4950685501098633
+Enterovirus C	Brincidofovir	14	0.4942629337310791
+Enterovirus C	Rapamycin (Sirolimus)	15	0.49114876985549927
+Enterovirus C	Monensin	16	0.48871999979019165
+Enterovirus C	Chloroquine	17	0.4815106987953186
+Enterovirus C	Foscarnet	18	0.47713980078697205
+Enterovirus C	Sorafenib	19	0.47698530554771423
+Enterovirus C	Cyclosporine	20	0.469716876745224
+Enterovirus D	Ribavirin	1	0.528521716594696
+Enterovirus D	Favipiravir	2	0.5227919220924377
+Enterovirus D	EIPA (amiloride)	3	0.5139846801757812
+Enterovirus D	Remdesivir	4	0.513418436050415
+Enterovirus D	Mycophenolic acid	5	0.5083815455436707
+Enterovirus D	Cidofovir	6	0.5004447102546692
+Enterovirus D	Nitazoxanide	7	0.4868223965167999
+Enterovirus D	Niclosamide	8	0.47907155752182007
+Enterovirus D	Emetine	9	0.4758501946926117
+Enterovirus D	Arbidol (Umifenovir)	10	0.4611964523792267
+Enterovirus D	Obatoclax	11	0.4610919952392578
+Enterovirus D	Rapamycin (Sirolimus)	12	0.44928979873657227
+Enterovirus D	Amodiaquine	13	0.44729629158973694
+Enterovirus D	Brincidofovir	14	0.44451430439949036
+Enterovirus D	ABT-263	15	0.44326138496398926
+Enterovirus D	Brequinar	16	0.43925467133522034
+Enterovirus D	BCX4430 (Galidesivir)	17	0.4392494261264801
+Enterovirus D	Chloroquine	18	0.43679168820381165
+Enterovirus D	Tilorone (Amixin)	19	0.4347013831138611
+Enterovirus D	Cyclosporine	20	0.42766883969306946
+Enterovirus J	Favipiravir	1	0.3919069468975067
+Enterovirus J	Nitazoxanide	2	0.3873159885406494
+Enterovirus J	Remdesivir	3	0.3789205253124237
+Enterovirus J	Ribavirin	4	0.3393731415271759
+Enterovirus J	Mycophenolic acid	5	0.29976996779441833
+Enterovirus J	Brequinar	6	0.28402474522590637
+Enterovirus J	EIPA (amiloride)	7	0.28165242075920105
+Enterovirus J	Obatoclax	8	0.27592238783836365
+Enterovirus J	Chloroquine	9	0.27350369095802307
+Enterovirus J	Monensin	10	0.2703244090080261
+Enterovirus J	Cidofovir	11	0.26679107546806335
+Enterovirus J	Amodiaquine	12	0.264731764793396
+Enterovirus J	Brincidofovir	13	0.2579367458820343
+Enterovirus J	Emetine	14	0.2544911205768585
+Enterovirus J	BCX4430 (Galidesivir)	15	0.24640080332756042
+Enterovirus J	Niclosamide	16	0.24597784876823425
+Enterovirus J	Ivermectin	17	0.24267075955867767
+Enterovirus J	Raloxifene	18	0.23385581374168396
+Enterovirus J	ABT-263	19	0.22876466810703278
+Enterovirus J	Gemcitabine	20	0.22686514258384705
+Epstein-Barr virus	Sorafenib	1	0.7477958798408508
+Epstein-Barr virus	Obatoclax	2	0.7323099970817566
+Epstein-Barr virus	Brequinar	3	0.7287538647651672
+Epstein-Barr virus	Arbidol (Umifenovir)	4	0.713150143623352
+Epstein-Barr virus	Pleconaril	5	0.7112638354301453
+Epstein-Barr virus	Emetine	6	0.7111964225769043
+Epstein-Barr virus	Silvestrol	7	0.7104621529579163
+Epstein-Barr virus	Suramin	8	0.7054113745689392
+Epstein-Barr virus	Tilorone (Amixin)	9	0.7046288847923279
+Epstein-Barr virus	Berberine	10	0.7015905380249023
+Epstein-Barr virus	BCX4430 (Galidesivir)	11	0.6995084285736084
+Epstein-Barr virus	Itraconazole	12	0.698802649974823
+Epstein-Barr virus	Eflornithine	13	0.6985688805580139
+Epstein-Barr virus	Rapamycin (Sirolimus)	14	0.698333740234375
+Epstein-Barr virus	Raloxifene	15	0.6979048252105713
+Epstein-Barr virus	Amodiaquine	16	0.6929351687431335
+Epstein-Barr virus	Cyclosporine	17	0.6912570595741272
+Epstein-Barr virus	Chloroquine	18	0.6904705762863159
+Epstein-Barr virus	Ribavirin	19	0.6870291233062744
+Epstein-Barr virus	EIPA (amiloride)	20	0.686735212802887
+Hantavirus	Ribavirin	1	0.42435020208358765
+Hantavirus	Favipiravir	2	0.4122574031352997
+Hantavirus	Cidofovir	3	0.3978777229785919
+Hantavirus	Remdesivir	4	0.3961891531944275
+Hantavirus	Mycophenolic acid	5	0.39179739356040955
+Hantavirus	Emetine	6	0.37179431319236755
+Hantavirus	Nitazoxanide	7	0.3613296449184418
+Hantavirus	Niclosamide	8	0.3555137515068054
+Hantavirus	Monensin	9	0.34607213735580444
+Hantavirus	Obatoclax	10	0.34481674432754517
+Hantavirus	EIPA (amiloride)	11	0.34361401200294495
+Hantavirus	BCX4430 (Galidesivir)	12	0.3345794379711151
+Hantavirus	Brequinar	13	0.33063676953315735
+Hantavirus	Brincidofovir	14	0.32595691084861755
+Hantavirus	Amodiaquine	15	0.3235161304473877
+Hantavirus	Cyclosporine	16	0.31804895401000977
+Hantavirus	Eflornithine	17	0.31795573234558105
+Hantavirus	Suramin	18	0.3096487820148468
+Hantavirus	Foscarnet	19	0.3011194169521332
+Hantavirus	Ganciclovir	20	0.2974209487438202
+Hendra virus	Favipiravir	1	0.3772708773612976
+Hendra virus	Cidofovir	2	0.36188384890556335
+Hendra virus	Ribavirin	3	0.3517778515815735
+Hendra virus	Mycophenolic acid	4	0.3201810121536255
+Hendra virus	Remdesivir	5	0.3184075653553009
+Hendra virus	Nitazoxanide	6	0.30412593483924866
+Hendra virus	Niclosamide	7	0.3039059042930603
+Hendra virus	Emetine	8	0.2905864715576172
+Hendra virus	EIPA (amiloride)	9	0.28835418820381165
+Hendra virus	Brequinar	10	0.2765565812587738
+Hendra virus	Brincidofovir	11	0.25752967596054077
+Hendra virus	Silvestrol	12	0.25011375546455383
+Hendra virus	Obatoclax	13	0.24955756962299347
+Hendra virus	Amodiaquine	14	0.24505364894866943
+Hendra virus	Monensin	15	0.24324297904968262
+Hendra virus	ABT-263	16	0.23528894782066345
+Hendra virus	Rapamycin (Sirolimus)	17	0.2308368682861328
+Hendra virus	Tilorone (Amixin)	18	0.22521832585334778
+Hendra virus	Arbidol (Umifenovir)	19	0.22435371577739716
+Hendra virus	Gemcitabine	20	0.22141966223716736
+Hepatitis A virus	Favipiravir	1	0.3407112956047058
+Hepatitis A virus	Mycophenolic acid	2	0.3252314031124115
+Hepatitis A virus	Ribavirin	3	0.32400059700012207
+Hepatitis A virus	Cidofovir	4	0.3224094808101654
+Hepatitis A virus	Niclosamide	5	0.29725250601768494
+Hepatitis A virus	Glycyrrhizin	6	0.2802767753601074
+Hepatitis A virus	Remdesivir	7	0.27823010087013245
+Hepatitis A virus	ABT-263	8	0.27756333351135254
+Hepatitis A virus	Nitazoxanide	9	0.2770727574825287
+Hepatitis A virus	Emetine	10	0.2759857475757599
+Hepatitis A virus	Brequinar	11	0.2704840302467346
+Hepatitis A virus	EIPA (amiloride)	12	0.2682664394378662
+Hepatitis A virus	BCX4430 (Galidesivir)	13	0.26690542697906494
+Hepatitis A virus	Brincidofovir	14	0.2611759305000305
+Hepatitis A virus	Foscarnet	15	0.2558327913284302
+Hepatitis A virus	Gemcitabine	16	0.24574966728687286
+Hepatitis A virus	Obatoclax	17	0.244050070643425
+Hepatitis A virus	Amodiaquine	18	0.24178849160671234
+Hepatitis A virus	Berberine	19	0.2403314858675003
+Hepatitis A virus	Monensin	20	0.2304084151983261
+Hepatitis B virus	Obatoclax	1	0.7729765772819519
+Hepatitis B virus	Amodiaquine	2	0.7569855451583862
+Hepatitis B virus	Itraconazole	3	0.7472549676895142
+Hepatitis B virus	Arbidol (Umifenovir)	4	0.7411568760871887
+Hepatitis B virus	Ribavirin	5	0.7342116236686707
+Hepatitis B virus	Brincidofovir	6	0.7278858423233032
+Hepatitis B virus	Mitoxantrone	7	0.7239499688148499
+Hepatitis B virus	Raloxifene	8	0.7236052751541138
+Hepatitis B virus	Suramin	9	0.7232112288475037
+Hepatitis B virus	Berberine	10	0.7201822400093079
+Hepatitis B virus	Silvestrol	11	0.7129500508308411
+Hepatitis B virus	Sunitinib	12	0.7107852697372437
+Hepatitis B virus	Niclosamide	13	0.7106075286865234
+Hepatitis B virus	Ganciclovir	14	0.7102068662643433
+Hepatitis B virus	Eflornithine	15	0.7068476676940918
+Hepatitis B virus	Emetine	16	0.6975706219673157
+Hepatitis B virus	Cyclosporine	17	0.6975041627883911
+Hepatitis B virus	Sorafenib	18	0.6966918110847473
+Hepatitis B virus	Foscarnet	19	0.6932041645050049
+Hepatitis B virus	Aciclovir	20	0.6925557255744934
+Hepatitis B virus D	Amodiaquine	1	0.3731098771095276
+Hepatitis B virus D	Remdesivir	2	0.34561777114868164
+Hepatitis B virus D	Ribavirin	3	0.3377167880535126
+Hepatitis B virus D	Favipiravir	4	0.32597672939300537
+Hepatitis B virus D	Mycophenolic acid	5	0.3213341534137726
+Hepatitis B virus D	Nitazoxanide	6	0.31796231865882874
+Hepatitis B virus D	EIPA (amiloride)	7	0.29510390758514404
+Hepatitis B virus D	Cidofovir	8	0.2810422480106354
+Hepatitis B virus D	Obatoclax	9	0.2721995711326599
+Hepatitis B virus D	Niclosamide	10	0.2690967321395874
+Hepatitis B virus D	Foscarnet	11	0.264142781496048
+Hepatitis B virus D	Emetine	12	0.2562010884284973
+Hepatitis B virus D	Brincidofovir	13	0.24863822758197784
+Hepatitis B virus D	Eflornithine	14	0.2442014515399933
+Hepatitis B virus D	ABT-263	15	0.24185502529144287
+Hepatitis B virus D	Monensin	16	0.2410622090101242
+Hepatitis B virus D	Cyclosporine	17	0.23908856511116028
+Hepatitis B virus D	Gemcitabine	18	0.23646241426467896
+Hepatitis B virus D	BCX4430 (Galidesivir)	19	0.23489201068878174
+Hepatitis B virus D	Arbidol (Umifenovir)	20	0.23360848426818848
+Hepatitis B virus F	Favipiravir	1	0.40494808554649353
+Hepatitis B virus F	Ribavirin	2	0.3814060389995575
+Hepatitis B virus F	Nitazoxanide	3	0.33843865990638733
+Hepatitis B virus F	Chloroquine	4	0.3160340189933777
+Hepatitis B virus F	Remdesivir	5	0.3143477439880371
+Hepatitis B virus F	Cidofovir	6	0.3123966157436371
+Hepatitis B virus F	Mycophenolic acid	7	0.3094990849494934
+Hepatitis B virus F	Brequinar	8	0.3000675439834595
+Hepatitis B virus F	EIPA (amiloride)	9	0.29446056485176086
+Hepatitis B virus F	Emetine	10	0.29077234864234924
+Hepatitis B virus F	Obatoclax	11	0.2887395918369293
+Hepatitis B virus F	Brincidofovir	12	0.28695574402809143
+Hepatitis B virus F	Niclosamide	13	0.2589086592197418
+Hepatitis B virus F	BCX4430 (Galidesivir)	14	0.2476205825805664
+Hepatitis B virus F	Cyclosporine	15	0.2420777529478073
+Hepatitis B virus F	Luteolin	16	0.23986327648162842
+Hepatitis B virus F	Gemcitabine	17	0.2389400601387024
+Hepatitis B virus F	Arbidol (Umifenovir)	18	0.23389874398708344
+Hepatitis B virus F	Rapamycin (Sirolimus)	19	0.22617560625076294
+Hepatitis B virus F	Glycyrrhizin	20	0.2175469994544983
+Hepatitis C virus	Luteolin	1	0.7816004157066345
+Hepatitis C virus	Homoharringtonine	2	0.7810171842575073
+Hepatitis C virus	Favipiravir	3	0.7788272500038147
+Hepatitis C virus	Monensin	4	0.7788123488426208
+Hepatitis C virus	Leflunomide	5	0.7735996842384338
+Hepatitis C virus	ABT-263	6	0.7729192972183228
+Hepatitis C virus	Raloxifene	7	0.7724574208259583
+Hepatitis C virus	Foscarnet	8	0.7642240524291992
+Hepatitis C virus	Filociclovir	9	0.7642073035240173
+Hepatitis C virus	Itraconazole	10	0.7630264163017273
+Hepatitis C virus	Niclosamide	11	0.7627126574516296
+Hepatitis C virus	Regorafenib	12	0.7606713175773621
+Hepatitis C virus	EIPA (amiloride)	13	0.7606199383735657
+Hepatitis C virus	Eflornithine	14	0.7599548697471619
+Hepatitis C virus	Arbidol (Umifenovir)	15	0.7590005397796631
+Hepatitis C virus	Letermovir	16	0.7579523921012878
+Hepatitis C virus	N-MCT	17	0.7563955187797546
+Hepatitis C virus	Hexachlorophene	18	0.7534542083740234
+Hepatitis C virus	Silvestrol	19	0.7492678761482239
+Hepatitis C virus	Emodin	20	0.7474836707115173
+Hepatitis D virus	Favipiravir	1	0.5420159697532654
+Hepatitis D virus	Remdesivir	2	0.528251051902771
+Hepatitis D virus	Ribavirin	3	0.5170140862464905
+Hepatitis D virus	Nitazoxanide	4	0.5132772922515869
+Hepatitis D virus	Cidofovir	5	0.5108047127723694
+Hepatitis D virus	EIPA (amiloride)	6	0.4958696961402893
+Hepatitis D virus	Mycophenolic acid	7	0.4897046983242035
+Hepatitis D virus	Amodiaquine	8	0.466241717338562
+Hepatitis D virus	Obatoclax	9	0.46432238817214966
+Hepatitis D virus	BCX4430 (Galidesivir)	10	0.4629978537559509
+Hepatitis D virus	Niclosamide	11	0.45064687728881836
+Hepatitis D virus	Brincidofovir	12	0.45035260915756226
+Hepatitis D virus	Emetine	13	0.4490126967430115
+Hepatitis D virus	Monensin	14	0.4484507143497467
+Hepatitis D virus	Brequinar	15	0.44463756680488586
+Hepatitis D virus	Chloroquine	16	0.4328535199165344
+Hepatitis D virus	Gemcitabine	17	0.426459401845932
+Hepatitis D virus	ABT-263	18	0.4242521822452545
+Hepatitis D virus	Eflornithine	19	0.42313075065612793
+Hepatitis D virus	Tilorone (Amixin)	20	0.4168258309364319
+Hepatitis E virus	Nitazoxanide	1	0.4561745226383209
+Hepatitis E virus	Favipiravir	2	0.4450578987598419
+Hepatitis E virus	Obatoclax	3	0.439130961894989
+Hepatitis E virus	Cidofovir	4	0.42990362644195557
+Hepatitis E virus	Mycophenolic acid	5	0.41742783784866333
+Hepatitis E virus	Brincidofovir	6	0.41275250911712646
+Hepatitis E virus	BCX4430 (Galidesivir)	7	0.40365809202194214
+Hepatitis E virus	EIPA (amiloride)	8	0.3954637944698334
+Hepatitis E virus	Emetine	9	0.3803926706314087
+Hepatitis E virus	Niclosamide	10	0.37386953830718994
+Hepatitis E virus	Brequinar	11	0.36633166670799255
+Hepatitis E virus	Monensin	12	0.364107221364975
+Hepatitis E virus	Chloroquine	13	0.35026755928993225
+Hepatitis E virus	ABT-263	14	0.34237855672836304
+Hepatitis E virus	Amodiaquine	15	0.3353428244590759
+Hepatitis E virus	Sorafenib	16	0.3333694040775299
+Hepatitis E virus	Berberine	17	0.3265528380870819
+Hepatitis E virus	Rapamycin (Sirolimus)	18	0.3169671297073364
+Hepatitis E virus	Gemcitabine	19	0.31512388586997986
+Hepatitis E virus	Cyclosporine	20	0.3086288273334503
+Herpes simplex virus 1	Brequinar	1	0.8094179034233093
+Herpes simplex virus 1	Chloroquine	2	0.7914289832115173
+Herpes simplex virus 1	Rapamycin (Sirolimus)	3	0.7845823168754578
+Herpes simplex virus 1	Obatoclax	4	0.7739626169204712
+Herpes simplex virus 1	Cyclosporine	5	0.7628920078277588
+Herpes simplex virus 1	BCX4430 (Galidesivir)	6	0.7578702569007874
+Herpes simplex virus 1	Itraconazole	7	0.7551711201667786
+Herpes simplex virus 1	Mycophenolic acid	8	0.7522624135017395
+Herpes simplex virus 1	Suramin	9	0.7456886172294617
+Herpes simplex virus 1	Pleconaril	10	0.7436839938163757
+Herpes simplex virus 1	Chlorpromazine	11	0.7433209419250488
+Herpes simplex virus 1	Emetine	12	0.7432347536087036
+Herpes simplex virus 1	Lopinavir	13	0.739992618560791
+Herpes simplex virus 1	Aprotinin	14	0.7329886555671692
+Herpes simplex virus 1	Silvestrol	15	0.7286439538002014
+Herpes simplex virus 1	Dasatinib	16	0.7255845665931702
+Herpes simplex virus 1	Favipiravir	17	0.7220544815063477
+Herpes simplex virus 1	Hydroxychloroquine	18	0.7202606797218323
+Herpes simplex virus 1	Ribavirin	19	0.7178163528442383
+Herpes simplex virus 1	Isolanid (lanatoside C)	20	0.7176167964935303
+Herpes simplex virus 2	Favipiravir	1	0.7138687968254089
+Herpes simplex virus 2	Mycophenolic acid	2	0.6980549097061157
+Herpes simplex virus 2	Gemcitabine	3	0.6979961395263672
+Herpes simplex virus 2	Rapamycin (Sirolimus)	4	0.6956811547279358
+Herpes simplex virus 2	Cyclosporine	5	0.691735565662384
+Herpes simplex virus 2	EIPA (amiloride)	6	0.6847076416015625
+Herpes simplex virus 2	Brincidofovir	7	0.6786271333694458
+Herpes simplex virus 2	Monensin	8	0.6758172512054443
+Herpes simplex virus 2	Chloroquine	9	0.6755011081695557
+Herpes simplex virus 2	Remdesivir	10	0.6746057868003845
+Herpes simplex virus 2	Silvestrol	11	0.6709385514259338
+Herpes simplex virus 2	Nitazoxanide	12	0.6680977940559387
+Herpes simplex virus 2	Luteolin	13	0.666654109954834
+Herpes simplex virus 2	Ribavirin	14	0.665683925151825
+Herpes simplex virus 2	Amiodarone	15	0.6635017395019531
+Herpes simplex virus 2	Berberine	16	0.6621074080467224
+Herpes simplex virus 2	Amodiaquine	17	0.6542342901229858
+Herpes simplex virus 2	BCX4430 (Galidesivir)	18	0.6453186273574829
+Herpes simplex virus 2	Suramin	19	0.6420251727104187
+Herpes simplex virus 2	Glycyrrhizin	20	0.6373088955879211
+Human Astrovirus	Mycophenolic acid	1	0.40323102474212646
+Human Astrovirus	Remdesivir	2	0.392144113779068
+Human Astrovirus	Niclosamide	3	0.37153753638267517
+Human Astrovirus	Nitazoxanide	4	0.37153729796409607
+Human Astrovirus	Cidofovir	5	0.3605079650878906
+Human Astrovirus	EIPA (amiloride)	6	0.32202255725860596
+Human Astrovirus	BCX4430 (Galidesivir)	7	0.3126796782016754
+Human Astrovirus	Arbidol (Umifenovir)	8	0.31157633662223816
+Human Astrovirus	Chloroquine	9	0.30991411209106445
+Human Astrovirus	Amodiaquine	10	0.30418336391448975
+Human Astrovirus	ABT-263	11	0.29761022329330444
+Human Astrovirus	Rapamycin (Sirolimus)	12	0.2846743166446686
+Human Astrovirus	Obatoclax	13	0.284106969833374
+Human Astrovirus	Emetine	14	0.2817380428314209
+Human Astrovirus	Brequinar	15	0.2796783745288849
+Human Astrovirus	Gemcitabine	16	0.2759282886981964
+Human Astrovirus	Luteolin	17	0.26933735609054565
+Human Astrovirus	Brincidofovir	18	0.26391661167144775
+Human Astrovirus	Tilorone (Amixin)	19	0.2589288353919983
+Human Astrovirus	Cyclosporine	20	0.25832492113113403
+Human coronavirus OC43	Favipiravir	1	0.5980389714241028
+Human coronavirus OC43	Ribavirin	2	0.5772574543952942
+Human coronavirus OC43	Nitazoxanide	3	0.5657204389572144
+Human coronavirus OC43	EIPA (amiloride)	4	0.5362666845321655
+Human coronavirus OC43	Niclosamide	5	0.5339714884757996
+Human coronavirus OC43	Brequinar	6	0.5308744311332703
+Human coronavirus OC43	Cidofovir	7	0.5308629870414734
+Human coronavirus OC43	Obatoclax	8	0.5300207138061523
+Human coronavirus OC43	Brincidofovir	9	0.5085678100585938
+Human coronavirus OC43	Rapamycin (Sirolimus)	10	0.4917639493942261
+Human coronavirus OC43	Luteolin	11	0.4864724278450012
+Human coronavirus OC43	BCX4430 (Galidesivir)	12	0.48471444845199585
+Human coronavirus OC43	Amodiaquine	13	0.4839313328266144
+Human coronavirus OC43	Tilorone (Amixin)	14	0.4826755225658417
+Human coronavirus OC43	Gemcitabine	15	0.47378864884376526
+Human coronavirus OC43	ABT-263	16	0.4664989709854126
+Human coronavirus OC43	Arbidol (Umifenovir)	17	0.4661218225955963
+Human coronavirus OC43	Cyclosporine	18	0.46295595169067383
+Human coronavirus OC43	Letermovir	19	0.4610830843448639
+Human coronavirus OC43	Berberine	20	0.46102458238601685
+Human coronavirus strain 229E	Ribavirin	1	0.5022673010826111
+Human coronavirus strain 229E	Favipiravir	2	0.5006712675094604
+Human coronavirus strain 229E	Mycophenolic acid	3	0.48731502890586853
+Human coronavirus strain 229E	Cidofovir	4	0.4733293652534485
+Human coronavirus strain 229E	Nitazoxanide	5	0.4721912443637848
+Human coronavirus strain 229E	Brequinar	6	0.4359614849090576
+Human coronavirus strain 229E	Niclosamide	7	0.4211159646511078
+Human coronavirus strain 229E	EIPA (amiloride)	8	0.41411882638931274
+Human coronavirus strain 229E	Emetine	9	0.4095149338245392
+Human coronavirus strain 229E	Gemcitabine	10	0.40699395537376404
+Human coronavirus strain 229E	Rapamycin (Sirolimus)	11	0.3928276002407074
+Human coronavirus strain 229E	Brincidofovir	12	0.390484094619751
+Human coronavirus strain 229E	Amodiaquine	13	0.3901682496070862
+Human coronavirus strain 229E	Obatoclax	14	0.38977354764938354
+Human coronavirus strain 229E	Arbidol (Umifenovir)	15	0.373757928609848
+Human coronavirus strain 229E	Luteolin	16	0.3720441162586212
+Human coronavirus strain 229E	Monensin	17	0.3613733947277069
+Human coronavirus strain 229E	BCX4430 (Galidesivir)	18	0.35179752111434937
+Human coronavirus strain 229E	Tilorone (Amixin)	19	0.34495410323143005
+Human coronavirus strain 229E	Chloroquine	20	0.342068076133728
+Human coronavirus strain NL63	Ribavirin	1	0.4953280985355377
+Human coronavirus strain NL63	Nitazoxanide	2	0.4849989712238312
+Human coronavirus strain NL63	Favipiravir	3	0.4674655795097351
+Human coronavirus strain NL63	Cidofovir	4	0.44834861159324646
+Human coronavirus strain NL63	Remdesivir	5	0.43964889645576477
+Human coronavirus strain NL63	Brequinar	6	0.43836909532546997
+Human coronavirus strain NL63	Obatoclax	7	0.4288935959339142
+Human coronavirus strain NL63	EIPA (amiloride)	8	0.4243842363357544
+Human coronavirus strain NL63	Niclosamide	9	0.40661701560020447
+Human coronavirus strain NL63	Tilorone (Amixin)	10	0.37841272354125977
+Human coronavirus strain NL63	Amodiaquine	11	0.3771084249019623
+Human coronavirus strain NL63	BCX4430 (Galidesivir)	12	0.37440019845962524
+Human coronavirus strain NL63	Brincidofovir	13	0.3617054224014282
+Human coronavirus strain NL63	Gemcitabine	14	0.3530396521091461
+Human coronavirus strain NL63	Berberine	15	0.352163165807724
+Human coronavirus strain NL63	Foscarnet	16	0.3440844416618347
+Human coronavirus strain NL63	Rapamycin (Sirolimus)	17	0.34215763211250305
+Human coronavirus strain NL63	ABT-263	18	0.3360461890697479
+Human coronavirus strain NL63	Chloroquine	19	0.3338484466075897
+Human coronavirus strain NL63	Luteolin	20	0.33343833684921265
+Human Herpesvirus 1	Favipiravir	1	0.7016567587852478
+Human Herpesvirus 1	Ribavirin	2	0.6826363801956177
+Human Herpesvirus 1	Nitazoxanide	3	0.682589590549469
+Human Herpesvirus 1	Mycophenolic acid	4	0.6610022783279419
+Human Herpesvirus 1	Gemcitabine	5	0.6569786071777344
+Human Herpesvirus 1	Emetine	6	0.6523149013519287
+Human Herpesvirus 1	Amodiaquine	7	0.6504244804382324
+Human Herpesvirus 1	EIPA (amiloride)	8	0.6449925899505615
+Human Herpesvirus 1	Monensin	9	0.6403068900108337
+Human Herpesvirus 1	Brincidofovir	10	0.6372907161712646
+Human Herpesvirus 1	BCX4430 (Galidesivir)	11	0.6362808346748352
+Human Herpesvirus 1	Brequinar	12	0.6347536444664001
+Human Herpesvirus 1	Rapamycin (Sirolimus)	13	0.630415141582489
+Human Herpesvirus 1	Niclosamide	14	0.6273359060287476
+Human Herpesvirus 1	Berberine	15	0.6270830631256104
+Human Herpesvirus 1	Obatoclax	16	0.6233250498771667
+Human Herpesvirus 1	Tilorone (Amixin)	17	0.6228485703468323
+Human Herpesvirus 1	Chloroquine	18	0.6219859719276428
+Human Herpesvirus 1	Remdesivir	19	0.6218569874763489
+Human Herpesvirus 1	Sorafenib	20	0.6116746664047241
+Human Herpesvirus 3	Mycophenolic acid	1	0.5148261189460754
+Human Herpesvirus 3	Nitazoxanide	2	0.505433976650238
+Human Herpesvirus 3	Ribavirin	3	0.5049434304237366
+Human Herpesvirus 3	Cidofovir	4	0.493652880191803
+Human Herpesvirus 3	Remdesivir	5	0.49186983704566956
+Human Herpesvirus 3	EIPA (amiloride)	6	0.4735166132450104
+Human Herpesvirus 3	Favipiravir	7	0.4589543640613556
+Human Herpesvirus 3	Niclosamide	8	0.44944921135902405
+Human Herpesvirus 3	Brequinar	9	0.4481903314590454
+Human Herpesvirus 3	Obatoclax	10	0.4276876449584961
+Human Herpesvirus 3	Brincidofovir	11	0.42678576707839966
+Human Herpesvirus 3	BCX4430 (Galidesivir)	12	0.4152655303478241
+Human Herpesvirus 3	Emetine	13	0.410722017288208
+Human Herpesvirus 3	ABT-263	14	0.4018688201904297
+Human Herpesvirus 3	Amodiaquine	15	0.4018568694591522
+Human Herpesvirus 3	Gemcitabine	16	0.3949856162071228
+Human Herpesvirus 3	Cyclosporine	17	0.3779761791229248
+Human Herpesvirus 3	Berberine	18	0.3778400421142578
+Human Herpesvirus 3	Chloroquine	19	0.37102025747299194
+Human Herpesvirus 3	Arbidol (Umifenovir)	20	0.3704548478126526
+Human Herpesvirus 4	Favipiravir	1	0.3741726577281952
+Human Herpesvirus 4	Ribavirin	2	0.35825487971305847
+Human Herpesvirus 4	Cidofovir	3	0.35280221700668335
+Human Herpesvirus 4	Amodiaquine	4	0.3361116647720337
+Human Herpesvirus 4	Remdesivir	5	0.31668058037757874
+Human Herpesvirus 4	EIPA (amiloride)	6	0.3129371106624603
+Human Herpesvirus 4	Berberine	7	0.31176748871803284
+Human Herpesvirus 4	Brequinar	8	0.2982349097728729
+Human Herpesvirus 4	Mycophenolic acid	9	0.2964054346084595
+Human Herpesvirus 4	Niclosamide	10	0.2780328392982483
+Human Herpesvirus 4	Rapamycin (Sirolimus)	11	0.27775314450263977
+Human Herpesvirus 4	Itraconazole	12	0.2768290340900421
+Human Herpesvirus 4	Gemcitabine	13	0.27476879954338074
+Human Herpesvirus 4	Nitazoxanide	14	0.2742733061313629
+Human Herpesvirus 4	Emetine	15	0.26965072751045227
+Human Herpesvirus 4	Brincidofovir	16	0.24769215285778046
+Human Herpesvirus 4	Tilorone (Amixin)	17	0.24559368193149567
+Human Herpesvirus 4	BCX4430 (Galidesivir)	18	0.23878218233585358
+Human Herpesvirus 4	Chloroquine	19	0.23851603269577026
+Human Herpesvirus 4	Obatoclax	20	0.23467467725276947
+Human Herpesvirus 5	Mycophenolic acid	1	0.5065330862998962
+Human Herpesvirus 5	Ribavirin	2	0.49664297699928284
+Human Herpesvirus 5	Nitazoxanide	3	0.4922715127468109
+Human Herpesvirus 5	Favipiravir	4	0.4798831045627594
+Human Herpesvirus 5	Remdesivir	5	0.4744167625904083
+Human Herpesvirus 5	EIPA (amiloride)	6	0.4620819389820099
+Human Herpesvirus 5	Niclosamide	7	0.44180211424827576
+Human Herpesvirus 5	Amodiaquine	8	0.4361419677734375
+Human Herpesvirus 5	Brequinar	9	0.4241962432861328
+Human Herpesvirus 5	Emetine	10	0.4081408679485321
+Human Herpesvirus 5	Obatoclax	11	0.39932721853256226
+Human Herpesvirus 5	BCX4430 (Galidesivir)	12	0.3950554132461548
+Human Herpesvirus 5	Brincidofovir	13	0.3807106018066406
+Human Herpesvirus 5	Glycyrrhizin	14	0.3690444529056549
+Human Herpesvirus 5	Monensin	15	0.3639647662639618
+Human Herpesvirus 5	Cyclosporine	16	0.36153072118759155
+Human Herpesvirus 5	Tilorone (Amixin)	17	0.361492782831192
+Human Herpesvirus 5	Rapamycin (Sirolimus)	18	0.36052948236465454
+Human Herpesvirus 5	Chloroquine	19	0.3598421514034271
+Human Herpesvirus 5	ABT-263	20	0.34765976667404175
+Human herpesvirus 6	Ribavirin	1	0.591014564037323
+Human herpesvirus 6	Mycophenolic acid	2	0.5889748930931091
+Human herpesvirus 6	Favipiravir	3	0.5761235952377319
+Human herpesvirus 6	Remdesivir	4	0.5743083953857422
+Human herpesvirus 6	EIPA (amiloride)	5	0.5521388649940491
+Human herpesvirus 6	Nitazoxanide	6	0.5453922152519226
+Human herpesvirus 6	Obatoclax	7	0.5228863954544067
+Human herpesvirus 6	Brequinar	8	0.5175990462303162
+Human herpesvirus 6	Niclosamide	9	0.5142239928245544
+Human herpesvirus 6	BCX4430 (Galidesivir)	10	0.5035929679870605
+Human herpesvirus 6	Amodiaquine	11	0.49633654952049255
+Human herpesvirus 6	Monensin	12	0.495526522397995
+Human herpesvirus 6	Chloroquine	13	0.49110203981399536
+Human herpesvirus 6	Luteolin	14	0.4872240722179413
+Human herpesvirus 6	Rapamycin (Sirolimus)	15	0.48420193791389465
+Human herpesvirus 6	Itraconazole	16	0.48418334126472473
+Human herpesvirus 6	Gemcitabine	17	0.48280757665634155
+Human herpesvirus 6	Emetine	18	0.4780389964580536
+Human herpesvirus 6	ABT-263	19	0.4753219783306122
+Human herpesvirus 6	Berberine	20	0.47455498576164246
+Human herpesvirus 7	Favipiravir	1	0.3780997097492218
+Human herpesvirus 7	Ribavirin	2	0.36081331968307495
+Human herpesvirus 7	Brequinar	3	0.339801549911499
+Human herpesvirus 7	Mycophenolic acid	4	0.3197047710418701
+Human herpesvirus 7	Cidofovir	5	0.3146871328353882
+Human herpesvirus 7	Emetine	6	0.3011455535888672
+Human herpesvirus 7	Nitazoxanide	7	0.29934120178222656
+Human herpesvirus 7	Silvestrol	8	0.29724445939064026
+Human herpesvirus 7	Remdesivir	9	0.29414302110671997
+Human herpesvirus 7	EIPA (amiloride)	10	0.2814146876335144
+Human herpesvirus 7	Brincidofovir	11	0.2808142602443695
+Human herpesvirus 7	Amodiaquine	12	0.2779146432876587
+Human herpesvirus 7	Niclosamide	13	0.26729464530944824
+Human herpesvirus 7	Obatoclax	14	0.262117475271225
+Human herpesvirus 7	Chloroquine	15	0.25811347365379333
+Human herpesvirus 7	BCX4430 (Galidesivir)	16	0.2557530403137207
+Human herpesvirus 7	Monensin	17	0.24238434433937073
+Human herpesvirus 7	Berberine	18	0.23949205875396729
+Human herpesvirus 7	Tilorone (Amixin)	19	0.2360772043466568
+Human herpesvirus 7	Cyclosporine	20	0.2288995385169983
+Human immunodeficiency virus	Favipiravir	1	0.6269846558570862
+Human immunodeficiency virus	Remdesivir	2	0.6226189732551575
+Human immunodeficiency virus	Nitazoxanide	3	0.6216370463371277
+Human immunodeficiency virus	Ribavirin	4	0.6204870939254761
+Human immunodeficiency virus	EIPA (amiloride)	5	0.6123000979423523
+Human immunodeficiency virus	Brequinar	6	0.5972696542739868
+Human immunodeficiency virus	Emetine	7	0.5928093791007996
+Human immunodeficiency virus	Cidofovir	8	0.5845028758049011
+Human immunodeficiency virus	Mycophenolic acid	9	0.5813180804252625
+Human immunodeficiency virus	Niclosamide	10	0.5719819664955139
+Human immunodeficiency virus	Amodiaquine	11	0.5676367282867432
+Human immunodeficiency virus	Obatoclax	12	0.5666922926902771
+Human immunodeficiency virus	BCX4430 (Galidesivir)	13	0.5642383098602295
+Human immunodeficiency virus	Chloroquine	14	0.5435688495635986
+Human immunodeficiency virus	Brincidofovir	15	0.542743980884552
+Human immunodeficiency virus	ABT-263	16	0.5403482913970947
+Human immunodeficiency virus	Tilorone (Amixin)	17	0.535292387008667
+Human immunodeficiency virus	Gemcitabine	18	0.5327742099761963
+Human immunodeficiency virus	Arbidol (Umifenovir)	19	0.5278540849685669
+Human immunodeficiency virus	Monensin	20	0.5221338272094727
+Human immunodeficiency virus 1	Flavopiridol	1	0.7957687377929688
+Human immunodeficiency virus 1	Rimantadine	2	0.7918391227722168
+Human immunodeficiency virus 1	Dalbavancin	3	0.7904151678085327
+Human immunodeficiency virus 1	Pirlindole	4	0.7876856327056885
+Human immunodeficiency virus 1	Simeprevir	5	0.7869881987571716
+Human immunodeficiency virus 1	Bepridil	6	0.7830718159675598
+Human immunodeficiency virus 1	Kasugamycin	7	0.7829141020774841
+Human immunodeficiency virus 1	Telaprevir	8	0.7789151072502136
+Human immunodeficiency virus 1	Oseltamivir	9	0.7783582210540771
+Human immunodeficiency virus 1	Telbivudine	10	0.7762800455093384
+Human immunodeficiency virus 1	Salinomycin	11	0.7704196572303772
+Human immunodeficiency virus 1	Valganciclovir	12	0.770194411277771
+Human immunodeficiency virus 1	Atovaquone	13	0.7681679725646973
+Human immunodeficiency virus 1	Aciclovir	14	0.7681039571762085
+Human immunodeficiency virus 1	Erlotinib	15	0.764890193939209
+Human immunodeficiency virus 1	Quinine	16	0.7623034119606018
+Human immunodeficiency virus 1	Apoptozole	17	0.7615780830383301
+Human immunodeficiency virus 1	N-MCT	18	0.7614772915840149
+Human immunodeficiency virus 1	Foscarnet	19	0.7605797052383423
+Human immunodeficiency virus 1	Doxycycline	20	0.7590327858924866
+Human Immunodeficiency Virus 2	Favipiravir	1	0.6117709279060364
+Human Immunodeficiency Virus 2	Mycophenolic acid	2	0.6000906825065613
+Human Immunodeficiency Virus 2	Remdesivir	3	0.5999043583869934
+Human Immunodeficiency Virus 2	Ribavirin	4	0.5992534756660461
+Human Immunodeficiency Virus 2	EIPA (amiloride)	5	0.5897509455680847
+Human Immunodeficiency Virus 2	Nitazoxanide	6	0.5756270885467529
+Human Immunodeficiency Virus 2	Cidofovir	7	0.5482783317565918
+Human Immunodeficiency Virus 2	Obatoclax	8	0.5376349091529846
+Human Immunodeficiency Virus 2	Niclosamide	9	0.5371429324150085
+Human Immunodeficiency Virus 2	Brequinar	10	0.5289576649665833
+Human Immunodeficiency Virus 2	Amodiaquine	11	0.524414598941803
+Human Immunodeficiency Virus 2	Emetine	12	0.5243439674377441
+Human Immunodeficiency Virus 2	BCX4430 (Galidesivir)	13	0.5074125528335571
+Human Immunodeficiency Virus 2	Monensin	14	0.5029030442237854
+Human Immunodeficiency Virus 2	Gemcitabine	15	0.5028415322303772
+Human Immunodeficiency Virus 2	Brincidofovir	16	0.49905651807785034
+Human Immunodeficiency Virus 2	Chloroquine	17	0.4967588186264038
+Human Immunodeficiency Virus 2	Rapamycin (Sirolimus)	18	0.49058401584625244
+Human Immunodeficiency Virus 2	Tilorone (Amixin)	19	0.48996245861053467
+Human Immunodeficiency Virus 2	Berberine	20	0.48927757143974304
+Human metapneumovirus	Ribavirin	1	0.6459168195724487
+Human metapneumovirus	Mycophenolic acid	2	0.6272050738334656
+Human metapneumovirus	Favipiravir	3	0.6144492030143738
+Human metapneumovirus	EIPA (amiloride)	4	0.6122342944145203
+Human metapneumovirus	Cidofovir	5	0.5880367159843445
+Human metapneumovirus	Brincidofovir	6	0.5750626921653748
+Human metapneumovirus	Brequinar	7	0.5600033402442932
+Human metapneumovirus	Niclosamide	8	0.557269811630249
+Human metapneumovirus	Rapamycin (Sirolimus)	9	0.5560515522956848
+Human metapneumovirus	BCX4430 (Galidesivir)	10	0.5531566739082336
+Human metapneumovirus	Amodiaquine	11	0.548419713973999
+Human metapneumovirus	ABT-263	12	0.5452145934104919
+Human metapneumovirus	Gemcitabine	13	0.5382586121559143
+Human metapneumovirus	Tilorone (Amixin)	14	0.5285580158233643
+Human metapneumovirus	Cyclosporine	15	0.5224351286888123
+Human metapneumovirus	Chloroquine	16	0.5216596126556396
+Human metapneumovirus	Sorafenib	17	0.5128596425056458
+Human metapneumovirus	Suramin	18	0.5123814344406128
+Human metapneumovirus	Luteolin	19	0.5076200366020203
+Human metapneumovirus	Berberine	20	0.5046188831329346
+Human papillomavirus	Favipiravir	1	0.5108418464660645
+Human papillomavirus	Ribavirin	2	0.4981023371219635
+Human papillomavirus	Nitazoxanide	3	0.4766470193862915
+Human papillomavirus	Remdesivir	4	0.4515300393104553
+Human papillomavirus	EIPA (amiloride)	5	0.4447554051876068
+Human papillomavirus	Niclosamide	6	0.439950168132782
+Human papillomavirus	Mycophenolic acid	7	0.4236551821231842
+Human papillomavirus	BCX4430 (Galidesivir)	8	0.39339590072631836
+Human papillomavirus	Amodiaquine	9	0.39178401231765747
+Human papillomavirus	Gemcitabine	10	0.3915556073188782
+Human papillomavirus	Obatoclax	11	0.390414834022522
+Human papillomavirus	Brequinar	12	0.3821220099925995
+Human papillomavirus	Brincidofovir	13	0.36637645959854126
+Human papillomavirus	Emetine	14	0.36320799589157104
+Human papillomavirus	ABT-263	15	0.359866201877594
+Human papillomavirus	Monensin	16	0.3480629026889801
+Human papillomavirus	Cyclosporine	17	0.33987438678741455
+Human papillomavirus	Tilorone (Amixin)	18	0.33364054560661316
+Human papillomavirus	Chloroquine	19	0.33346953988075256
+Human papillomavirus	Rapamycin (Sirolimus)	20	0.32588300108909607
+Human parainfluenza virus 1	Mycophenolic acid	1	0.36547890305519104
+Human parainfluenza virus 1	Favipiravir	2	0.3468555808067322
+Human parainfluenza virus 1	Remdesivir	3	0.33057278394699097
+Human parainfluenza virus 1	Cidofovir	4	0.318244606256485
+Human parainfluenza virus 1	Ribavirin	5	0.31448498368263245
+Human parainfluenza virus 1	Nitazoxanide	6	0.31063321232795715
+Human parainfluenza virus 1	Niclosamide	7	0.30576497316360474
+Human parainfluenza virus 1	EIPA (amiloride)	8	0.3044501543045044
+Human parainfluenza virus 1	Foscarnet	9	0.3039458692073822
+Human parainfluenza virus 1	Chloroquine	10	0.292400598526001
+Human parainfluenza virus 1	Obatoclax	11	0.2868252098560333
+Human parainfluenza virus 1	ABT-263	12	0.27535536885261536
+Human parainfluenza virus 1	Rapamycin (Sirolimus)	13	0.2682095170021057
+Human parainfluenza virus 1	Arbidol (Umifenovir)	14	0.26639261841773987
+Human parainfluenza virus 1	Luteolin	15	0.26326215267181396
+Human parainfluenza virus 1	Brequinar	16	0.2629505693912506
+Human parainfluenza virus 1	Tilorone (Amixin)	17	0.2622271180152893
+Human parainfluenza virus 1	Emetine	18	0.2508968710899353
+Human parainfluenza virus 1	Eflornithine	19	0.2498658448457718
+Human parainfluenza virus 1	Amodiaquine	20	0.24541741609573364
+Human parainfluenza virus 2	Favipiravir	1	0.4412512481212616
+Human parainfluenza virus 2	Mycophenolic acid	2	0.41594815254211426
+Human parainfluenza virus 2	Nitazoxanide	3	0.400542676448822
+Human parainfluenza virus 2	EIPA (amiloride)	4	0.3975997865200043
+Human parainfluenza virus 2	Remdesivir	5	0.3894575834274292
+Human parainfluenza virus 2	Brincidofovir	6	0.3806804120540619
+Human parainfluenza virus 2	Cidofovir	7	0.3655535876750946
+Human parainfluenza virus 2	Amodiaquine	8	0.3436746597290039
+Human parainfluenza virus 2	Niclosamide	9	0.33402928709983826
+Human parainfluenza virus 2	BCX4430 (Galidesivir)	10	0.3275926113128662
+Human parainfluenza virus 2	Obatoclax	11	0.3252814710140228
+Human parainfluenza virus 2	Emetine	12	0.3215634524822235
+Human parainfluenza virus 2	Brequinar	13	0.31452733278274536
+Human parainfluenza virus 2	ABT-263	14	0.30515357851982117
+Human parainfluenza virus 2	Foscarnet	15	0.3008621633052826
+Human parainfluenza virus 2	Monensin	16	0.29571303725242615
+Human parainfluenza virus 2	Tilorone (Amixin)	17	0.28788691759109497
+Human parainfluenza virus 2	Rapamycin (Sirolimus)	18	0.278571754693985
+Human parainfluenza virus 2	Chloroquine	19	0.26764607429504395
+Human parainfluenza virus 2	Gemcitabine	20	0.26744773983955383
+Human Parainfluenza Virus 3	Favipiravir	1	0.37318456172943115
+Human Parainfluenza Virus 3	Ribavirin	2	0.3640505075454712
+Human Parainfluenza Virus 3	EIPA (amiloride)	3	0.3344064950942993
+Human Parainfluenza Virus 3	Remdesivir	4	0.3075768053531647
+Human Parainfluenza Virus 3	Mycophenolic acid	5	0.3040640652179718
+Human Parainfluenza Virus 3	Nitazoxanide	6	0.3006059229373932
+Human Parainfluenza Virus 3	Brequinar	7	0.2880557179450989
+Human Parainfluenza Virus 3	Cyclosporine	8	0.28551122546195984
+Human Parainfluenza Virus 3	Niclosamide	9	0.27319619059562683
+Human Parainfluenza Virus 3	Raloxifene	10	0.27312713861465454
+Human Parainfluenza Virus 3	Obatoclax	11	0.2729990482330322
+Human Parainfluenza Virus 3	Monensin	12	0.26753804087638855
+Human Parainfluenza Virus 3	Arbidol (Umifenovir)	13	0.26720142364501953
+Human Parainfluenza Virus 3	Brincidofovir	14	0.2667369544506073
+Human Parainfluenza Virus 3	Cidofovir	15	0.26398810744285583
+Human Parainfluenza Virus 3	Rapamycin (Sirolimus)	16	0.2539095878601074
+Human Parainfluenza Virus 3	BCX4430 (Galidesivir)	17	0.2512434124946594
+Human Parainfluenza Virus 3	ABT-263	18	0.24879060685634613
+Human Parainfluenza Virus 3	Amodiaquine	19	0.24802660942077637
+Human Parainfluenza Virus 3	Tilorone (Amixin)	20	0.24375468492507935
+Human parainfluenza virus type 2	Remdesivir	1	0.34448426961898804
+Human parainfluenza virus type 2	Nitazoxanide	2	0.31347137689590454
+Human parainfluenza virus type 2	Mycophenolic acid	3	0.30388975143432617
+Human parainfluenza virus type 2	Cidofovir	4	0.29727423191070557
+Human parainfluenza virus type 2	EIPA (amiloride)	5	0.28222137689590454
+Human parainfluenza virus type 2	Brincidofovir	6	0.2810409367084503
+Human parainfluenza virus type 2	ABT-263	7	0.2768356204032898
+Human parainfluenza virus type 2	Favipiravir	8	0.27274826169013977
+Human parainfluenza virus type 2	Obatoclax	9	0.2652767300605774
+Human parainfluenza virus type 2	Luteolin	10	0.26461800932884216
+Human parainfluenza virus type 2	Rapamycin (Sirolimus)	11	0.25355836749076843
+Human parainfluenza virus type 2	Berberine	12	0.253429114818573
+Human parainfluenza virus type 2	Emetine	13	0.2529672682285309
+Human parainfluenza virus type 2	Amodiaquine	14	0.23606020212173462
+Human parainfluenza virus type 2	Niclosamide	15	0.2334931641817093
+Human parainfluenza virus type 2	Brequinar	16	0.23163121938705444
+Human parainfluenza virus type 2	Cyclosporine	17	0.22219304740428925
+Human parainfluenza virus type 2	Dalbavancin	18	0.21885520219802856
+Human parainfluenza virus type 2	Itraconazole	19	0.21687956154346466
+Human parainfluenza virus type 2	Chloroquine	20	0.21567563712596893
+Human respiratory syncytial virus B	Ribavirin	1	0.37488633394241333
+Human respiratory syncytial virus B	Remdesivir	2	0.36642879247665405
+Human respiratory syncytial virus B	Nitazoxanide	3	0.35637426376342773
+Human respiratory syncytial virus B	EIPA (amiloride)	4	0.33209434151649475
+Human respiratory syncytial virus B	Cidofovir	5	0.3312683403491974
+Human respiratory syncytial virus B	Favipiravir	6	0.32951053977012634
+Human respiratory syncytial virus B	Niclosamide	7	0.3151484429836273
+Human respiratory syncytial virus B	Mycophenolic acid	8	0.3089209794998169
+Human respiratory syncytial virus B	Emetine	9	0.307522714138031
+Human respiratory syncytial virus B	Obatoclax	10	0.29069653153419495
+Human respiratory syncytial virus B	Rapamycin (Sirolimus)	11	0.2701800763607025
+Human respiratory syncytial virus B	Gemcitabine	12	0.2610017955303192
+Human respiratory syncytial virus B	Chloroquine	13	0.26007136702537537
+Human respiratory syncytial virus B	Brequinar	14	0.259177029132843
+Human respiratory syncytial virus B	Brincidofovir	15	0.25218480825424194
+Human respiratory syncytial virus B	Amodiaquine	16	0.2407613843679428
+Human respiratory syncytial virus B	Eflornithine	17	0.23074457049369812
+Human respiratory syncytial virus B	Suramin	18	0.23039111495018005
+Human respiratory syncytial virus B	Monensin	19	0.22926433384418488
+Human respiratory syncytial virus B	BCX4430 (Galidesivir)	20	0.22774776816368103
+Human rhinovirus A	Ribavirin	1	0.5943371057510376
+Human rhinovirus A	Mycophenolic acid	2	0.5904214978218079
+Human rhinovirus A	Remdesivir	3	0.5662925243377686
+Human rhinovirus A	Favipiravir	4	0.5608917474746704
+Human rhinovirus A	Cidofovir	5	0.556969165802002
+Human rhinovirus A	Obatoclax	6	0.5525879859924316
+Human rhinovirus A	Emetine	7	0.5488107800483704
+Human rhinovirus A	BCX4430 (Galidesivir)	8	0.5475096702575684
+Human rhinovirus A	Niclosamide	9	0.5422336459159851
+Human rhinovirus A	Brequinar	10	0.5327690243721008
+Human rhinovirus A	Amodiaquine	11	0.5264073014259338
+Human rhinovirus A	Chloroquine	12	0.5253297686576843
+Human rhinovirus A	Brincidofovir	13	0.5149449706077576
+Human rhinovirus A	Rapamycin (Sirolimus)	14	0.5144999027252197
+Human rhinovirus A	Sorafenib	15	0.5136489868164062
+Human rhinovirus A	ABT-263	16	0.5070344805717468
+Human rhinovirus A	Tilorone (Amixin)	17	0.49961692094802856
+Human rhinovirus A	Cyclosporine	18	0.4982891380786896
+Human rhinovirus A	Monensin	19	0.4971739947795868
+Human rhinovirus A	Berberine	20	0.4916074573993683
+Human rhinovirus B	Nitazoxanide	1	0.4903334975242615
+Human rhinovirus B	Ribavirin	2	0.48875170946121216
+Human rhinovirus B	Remdesivir	3	0.48618584871292114
+Human rhinovirus B	Mycophenolic acid	4	0.4846072196960449
+Human rhinovirus B	Favipiravir	5	0.47301751375198364
+Human rhinovirus B	Cidofovir	6	0.45631638169288635
+Human rhinovirus B	Rapamycin (Sirolimus)	7	0.42597490549087524
+Human rhinovirus B	Brequinar	8	0.4030512869358063
+Human rhinovirus B	Niclosamide	9	0.40085142850875854
+Human rhinovirus B	Obatoclax	10	0.39941197633743286
+Human rhinovirus B	BCX4430 (Galidesivir)	11	0.3877069652080536
+Human rhinovirus B	Amodiaquine	12	0.38742199540138245
+Human rhinovirus B	Emetine	13	0.3845822513103485
+Human rhinovirus B	ABT-263	14	0.37085670232772827
+Human rhinovirus B	Cyclosporine	15	0.365770548582077
+Human rhinovirus B	Raloxifene	16	0.3622142970561981
+Human rhinovirus B	Brincidofovir	17	0.3531334102153778
+Human rhinovirus B	Berberine	18	0.34959954023361206
+Human rhinovirus B	Gemcitabine	19	0.34805595874786377
+Human rhinovirus B	Chloroquine	20	0.34313565492630005
+Human T-Lymphotropic Virus 1	Cidofovir	1	0.3541358411312103
+Human T-Lymphotropic Virus 1	Obatoclax	2	0.3509313464164734
+Human T-Lymphotropic Virus 1	Remdesivir	3	0.34624335169792175
+Human T-Lymphotropic Virus 1	Favipiravir	4	0.3315504491329193
+Human T-Lymphotropic Virus 1	Ribavirin	5	0.32781583070755005
+Human T-Lymphotropic Virus 1	Nitazoxanide	6	0.3141491413116455
+Human T-Lymphotropic Virus 1	Mycophenolic acid	7	0.29966476559638977
+Human T-Lymphotropic Virus 1	Brincidofovir	8	0.293292760848999
+Human T-Lymphotropic Virus 1	Berberine	9	0.2913234531879425
+Human T-Lymphotropic Virus 1	BCX4430 (Galidesivir)	10	0.29038006067276
+Human T-Lymphotropic Virus 1	EIPA (amiloride)	11	0.29022911190986633
+Human T-Lymphotropic Virus 1	Gemcitabine	12	0.2895972430706024
+Human T-Lymphotropic Virus 1	ABT-263	13	0.25437474250793457
+Human T-Lymphotropic Virus 1	Emetine	14	0.2484176754951477
+Human T-Lymphotropic Virus 1	Niclosamide	15	0.2443363070487976
+Human T-Lymphotropic Virus 1	Chloroquine	16	0.24027875065803528
+Human T-Lymphotropic Virus 1	Amodiaquine	17	0.22734574973583221
+Human T-Lymphotropic Virus 1	Arbidol (Umifenovir)	18	0.22601133584976196
+Human T-Lymphotropic Virus 1	Labyrinthopeptin A1	19	0.2247520089149475
+Human T-Lymphotropic Virus 1	Brequinar	20	0.2219770848751068
+Influenza A virus	EIPA (amiloride)	1	0.821763277053833
+Influenza A virus	Eflornithine	2	0.8064681887626648
+Influenza A virus	Cidofovir	3	0.8047871589660645
+Influenza A virus	Amodiaquine	4	0.7953549027442932
+Influenza A virus	Raloxifene	5	0.7740331292152405
+Influenza A virus	Homoharringtonine	6	0.7677088975906372
+Influenza A virus	Hydroxychloroquine	7	0.7614518404006958
+Influenza A virus	Oritavancin	8	0.7612969279289246
+Influenza A virus	4-HPR (Fenretinide)	9	0.7606473565101624
+Influenza A virus	Lopinavir	10	0.7603785395622253
+Influenza A virus	Labyrinthopeptin A2	11	0.7578192353248596
+Influenza A virus	Sunitinib	12	0.7576247453689575
+Influenza A virus	Chlorpromazine	13	0.7549198269844055
+Influenza A virus	Tenofovir	14	0.7512935996055603
+Influenza A virus	Tilorone (Amixin)	15	0.7509384751319885
+Influenza A virus	Remdesivir	16	0.7490729093551636
+Influenza A virus	Brincidofovir	17	0.7470754981040955
+Influenza A virus	Foscarnet	18	0.7470142841339111
+Influenza A virus	Tamoxifen	19	0.7463396191596985
+Influenza A virus	Niclosamide	20	0.7460933923721313
+Influenza B virus	Niclosamide	1	0.6802745461463928
+Influenza B virus	Cidofovir	2	0.6523730754852295
+Influenza B virus	Nitazoxanide	3	0.6486850380897522
+Influenza B virus	Remdesivir	4	0.6367853283882141
+Influenza B virus	Mycophenolic acid	5	0.6366089582443237
+Influenza B virus	EIPA (amiloride)	6	0.6349626183509827
+Influenza B virus	Emetine	7	0.6286486387252808
+Influenza B virus	BCX4430 (Galidesivir)	8	0.6166600584983826
+Influenza B virus	Amodiaquine	9	0.6164199113845825
+Influenza B virus	Chloroquine	10	0.6155317425727844
+Influenza B virus	Tilorone (Amixin)	11	0.6058862805366516
+Influenza B virus	Cyclosporine	12	0.6034026145935059
+Influenza B virus	Brincidofovir	13	0.6013140678405762
+Influenza B virus	Obatoclax	14	0.5997825264930725
+Influenza B virus	Gemcitabine	15	0.5939992070198059
+Influenza B virus	Sorafenib	16	0.5827900767326355
+Influenza B virus	Monensin	17	0.5805730819702148
+Influenza B virus	Berberine	18	0.5789008736610413
+Influenza B virus	Rapamycin (Sirolimus)	19	0.5784924626350403
+Influenza B virus	Glycyrrhizin	20	0.5636571049690247
+Influenza C virus	Nitazoxanide	1	0.37439489364624023
+Influenza C virus	Mycophenolic acid	2	0.32977983355522156
+Influenza C virus	Remdesivir	3	0.3271656334400177
+Influenza C virus	Ribavirin	4	0.3226313889026642
+Influenza C virus	EIPA (amiloride)	5	0.30303114652633667
+Influenza C virus	Obatoclax	6	0.30262577533721924
+Influenza C virus	Cidofovir	7	0.2859567701816559
+Influenza C virus	BCX4430 (Galidesivir)	8	0.28437843918800354
+Influenza C virus	ABT-263	9	0.2788561284542084
+Influenza C virus	Chloroquine	10	0.2762724459171295
+Influenza C virus	Cyclosporine	11	0.2625761330127716
+Influenza C virus	Emetine	12	0.261640340089798
+Influenza C virus	Brincidofovir	13	0.2495092898607254
+Influenza C virus	Niclosamide	14	0.2442886382341385
+Influenza C virus	Amodiaquine	15	0.23135142028331757
+Influenza C virus	Rapamycin (Sirolimus)	16	0.2313118577003479
+Influenza C virus	Monensin	17	0.2279556393623352
+Influenza C virus	Raloxifene	18	0.21350546181201935
+Influenza C virus	Tilorone (Amixin)	19	0.21257807314395905
+Influenza C virus	Brequinar	20	0.21256160736083984
+Japanese encephalitis virus	Remdesivir	1	0.6515526175498962
+Japanese encephalitis virus	Favipiravir	2	0.6315460205078125
+Japanese encephalitis virus	Ribavirin	3	0.6279241442680359
+Japanese encephalitis virus	EIPA (amiloride)	4	0.614205539226532
+Japanese encephalitis virus	Cidofovir	5	0.6138179898262024
+Japanese encephalitis virus	Brequinar	6	0.6056385040283203
+Japanese encephalitis virus	Emetine	7	0.6013196706771851
+Japanese encephalitis virus	Mycophenolic acid	8	0.5953003764152527
+Japanese encephalitis virus	Obatoclax	9	0.5826500058174133
+Japanese encephalitis virus	Amodiaquine	10	0.574156641960144
+Japanese encephalitis virus	Brincidofovir	11	0.569649875164032
+Japanese encephalitis virus	Chloroquine	12	0.5563499927520752
+Japanese encephalitis virus	ABT-263	13	0.5511193871498108
+Japanese encephalitis virus	Monensin	14	0.5452384352684021
+Japanese encephalitis virus	Rapamycin (Sirolimus)	15	0.5438824892044067
+Japanese encephalitis virus	Arbidol (Umifenovir)	16	0.5362268090248108
+Japanese encephalitis virus	Tilorone (Amixin)	17	0.5358030200004578
+Japanese encephalitis virus	Cyclosporine	18	0.5244896411895752
+Japanese encephalitis virus	Berberine	19	0.5225545167922974
+Japanese encephalitis virus	Glycyrrhizin	20	0.5111365914344788
+John Cunningham virus	Favipiravir	1	0.5705047845840454
+John Cunningham virus	Mycophenolic acid	2	0.5652071833610535
+John Cunningham virus	Remdesivir	3	0.544880747795105
+John Cunningham virus	Ribavirin	4	0.5371061563491821
+John Cunningham virus	Nitazoxanide	5	0.5357414484024048
+John Cunningham virus	EIPA (amiloride)	6	0.530845582485199
+John Cunningham virus	BCX4430 (Galidesivir)	7	0.520087718963623
+John Cunningham virus	Brequinar	8	0.5087944865226746
+John Cunningham virus	Niclosamide	9	0.49605298042297363
+John Cunningham virus	Rapamycin (Sirolimus)	10	0.4955390393733978
+John Cunningham virus	Obatoclax	11	0.49517515301704407
+John Cunningham virus	Emetine	12	0.48846688866615295
+John Cunningham virus	Chloroquine	13	0.4861411154270172
+John Cunningham virus	Amodiaquine	14	0.47385743260383606
+John Cunningham virus	Luteolin	15	0.47217902541160583
+John Cunningham virus	ABT-263	16	0.46493491530418396
+John Cunningham virus	Glycyrrhizin	17	0.4634203016757965
+John Cunningham virus	Cyclosporine	18	0.46090856194496155
+John Cunningham virus	Foscarnet	19	0.4517449736595154
+John Cunningham virus	Berberine	20	0.44944313168525696
+Junin virus	Ribavirin	1	0.6074845194816589
+Junin virus	Cidofovir	2	0.5802049040794373
+Junin virus	Nitazoxanide	3	0.5725552439689636
+Junin virus	Amodiaquine	4	0.5404417514801025
+Junin virus	Emetine	5	0.5402713418006897
+Junin virus	Niclosamide	6	0.5335654616355896
+Junin virus	Tilorone (Amixin)	7	0.5334895849227905
+Junin virus	Favipiravir	8	0.5323867201805115
+Junin virus	BCX4430 (Galidesivir)	9	0.5233935713768005
+Junin virus	Brincidofovir	10	0.5160487294197083
+Junin virus	Chloroquine	11	0.5095066428184509
+Junin virus	Gemcitabine	12	0.5056276917457581
+Junin virus	Rapamycin (Sirolimus)	13	0.5033254027366638
+Junin virus	ABT-263	14	0.497707724571228
+Junin virus	Cyclosporine	15	0.49426543712615967
+Junin virus	Berberine	16	0.4937678873538971
+Junin virus	Monensin	17	0.4893797039985657
+Junin virus	Sorafenib	18	0.4864649772644043
+Junin virus	Glycyrrhizin	19	0.48541438579559326
+Junin virus	Suramin	20	0.4823620021343231
+Kaposi's sarcoma-associated herpesvirus	BCX4430 (Galidesivir)	1	0.7136080265045166
+Kaposi's sarcoma-associated herpesvirus	Niclosamide	2	0.7133263945579529
+Kaposi's sarcoma-associated herpesvirus	Favipiravir	3	0.6927553415298462
+Kaposi's sarcoma-associated herpesvirus	Ribavirin	4	0.6921828985214233
+Kaposi's sarcoma-associated herpesvirus	Cyclosporine	5	0.6899828314781189
+Kaposi's sarcoma-associated herpesvirus	Emetine	6	0.682558536529541
+Kaposi's sarcoma-associated herpesvirus	ABT-263	7	0.6775108575820923
+Kaposi's sarcoma-associated herpesvirus	Monensin	8	0.6750474572181702
+Kaposi's sarcoma-associated herpesvirus	Gemcitabine	9	0.6738877296447754
+Kaposi's sarcoma-associated herpesvirus	Silvestrol	10	0.6659502387046814
+Kaposi's sarcoma-associated herpesvirus	Luteolin	11	0.6597769260406494
+Kaposi's sarcoma-associated herpesvirus	Obatoclax	12	0.6556511521339417
+Kaposi's sarcoma-associated herpesvirus	Eflornithine	13	0.6548802256584167
+Kaposi's sarcoma-associated herpesvirus	Berberine	14	0.6532926559448242
+Kaposi's sarcoma-associated herpesvirus	Amodiaquine	15	0.6489537954330444
+Kaposi's sarcoma-associated herpesvirus	Suramin	16	0.6455704569816589
+Kaposi's sarcoma-associated herpesvirus	Mycophenolic acid	17	0.6404821872711182
+Kaposi's sarcoma-associated herpesvirus	Remdesivir	18	0.6391908526420593
+Kaposi's sarcoma-associated herpesvirus	Brequinar	19	0.6356494426727295
+Kaposi's sarcoma-associated herpesvirus	Nitazoxanide	20	0.6353257894515991
+Kunjin virus	Favipiravir	1	0.37546536326408386
+Kunjin virus	Remdesivir	2	0.35539907217025757
+Kunjin virus	Ribavirin	3	0.34621384739875793
+Kunjin virus	Chloroquine	4	0.3194810748100281
+Kunjin virus	Nitazoxanide	5	0.3103446364402771
+Kunjin virus	Mycophenolic acid	6	0.3089733123779297
+Kunjin virus	Cidofovir	7	0.30184927582740784
+Kunjin virus	Rapamycin (Sirolimus)	8	0.29808562994003296
+Kunjin virus	EIPA (amiloride)	9	0.29604974389076233
+Kunjin virus	Gemcitabine	10	0.2929964065551758
+Kunjin virus	Obatoclax	11	0.28791797161102295
+Kunjin virus	Berberine	12	0.26916396617889404
+Kunjin virus	Brincidofovir	13	0.2663915455341339
+Kunjin virus	Niclosamide	14	0.2632538378238678
+Kunjin virus	Tilorone (Amixin)	15	0.2631344199180603
+Kunjin virus	Glycyrrhizin	16	0.2577650547027588
+Kunjin virus	Emetine	17	0.25556501746177673
+Kunjin virus	Monensin	18	0.2522895932197571
+Kunjin virus	BCX4430 (Galidesivir)	19	0.24265341460704803
+Kunjin virus	Brequinar	20	0.24042703211307526
+Lassa virus	Nitazoxanide	1	0.6249908208847046
+Lassa virus	Cidofovir	2	0.5902627110481262
+Lassa virus	BCX4430 (Galidesivir)	3	0.5622292160987854
+Lassa virus	Emetine	4	0.5505232810974121
+Lassa virus	Brincidofovir	5	0.5477002263069153
+Lassa virus	Rapamycin (Sirolimus)	6	0.545747697353363
+Lassa virus	Chloroquine	7	0.5420355200767517
+Lassa virus	Monensin	8	0.5364391803741455
+Lassa virus	Cyclosporine	9	0.5298067331314087
+Lassa virus	Tilorone (Amixin)	10	0.527230978012085
+Lassa virus	Glycyrrhizin	11	0.5252931118011475
+Lassa virus	ABT-263	12	0.5038962960243225
+Lassa virus	Luteolin	13	0.5038840770721436
+Lassa virus	Berberine	14	0.502621591091156
+Lassa virus	Gemcitabine	15	0.4972137212753296
+Lassa virus	Sorafenib	16	0.49625879526138306
+Lassa virus	Raloxifene	17	0.492418497800827
+Lassa virus	Amiodarone	18	0.48044487833976746
+Lassa virus	Itraconazole	19	0.47815626859664917
+Lassa virus	Foscarnet	20	0.4778493046760559
+Mammarenavirus lymphocytic choriomeningitis virus	Remdesivir	1	0.5329663157463074
+Mammarenavirus lymphocytic choriomeningitis virus	Cidofovir	2	0.5034171342849731
+Mammarenavirus lymphocytic choriomeningitis virus	EIPA (amiloride)	3	0.48715940117836
+Mammarenavirus lymphocytic choriomeningitis virus	Nitazoxanide	4	0.48132145404815674
+Mammarenavirus lymphocytic choriomeningitis virus	BCX4430 (Galidesivir)	5	0.4693756401538849
+Mammarenavirus lymphocytic choriomeningitis virus	Brincidofovir	6	0.4590543210506439
+Mammarenavirus lymphocytic choriomeningitis virus	Niclosamide	7	0.4574679434299469
+Mammarenavirus lymphocytic choriomeningitis virus	Emetine	8	0.4537348449230194
+Mammarenavirus lymphocytic choriomeningitis virus	Amodiaquine	9	0.4517190158367157
+Mammarenavirus lymphocytic choriomeningitis virus	Chloroquine	10	0.4467483460903168
+Mammarenavirus lymphocytic choriomeningitis virus	Rapamycin (Sirolimus)	11	0.4463706612586975
+Mammarenavirus lymphocytic choriomeningitis virus	ABT-263	12	0.43572181463241577
+Mammarenavirus lymphocytic choriomeningitis virus	Gemcitabine	13	0.43258291482925415
+Mammarenavirus lymphocytic choriomeningitis virus	Tilorone (Amixin)	14	0.43207743763923645
+Mammarenavirus lymphocytic choriomeningitis virus	Monensin	15	0.42923420667648315
+Mammarenavirus lymphocytic choriomeningitis virus	Luteolin	16	0.4190777838230133
+Mammarenavirus lymphocytic choriomeningitis virus	Arbidol (Umifenovir)	17	0.41745972633361816
+Mammarenavirus lymphocytic choriomeningitis virus	Sorafenib	18	0.40783506631851196
+Mammarenavirus lymphocytic choriomeningitis virus	Glycyrrhizin	19	0.40687018632888794
+Mammarenavirus lymphocytic choriomeningitis virus	Cyclosporine	20	0.40483182668685913
+Marburg virus	Cidofovir	1	0.5655862092971802
+Marburg virus	Mycophenolic acid	2	0.5556716322898865
+Marburg virus	Nitazoxanide	3	0.5445209741592407
+Marburg virus	Ribavirin	4	0.5418106913566589
+Marburg virus	Brequinar	5	0.5302723050117493
+Marburg virus	Niclosamide	6	0.5196532607078552
+Marburg virus	Amodiaquine	7	0.5119112730026245
+Marburg virus	Obatoclax	8	0.5075962543487549
+Marburg virus	Brincidofovir	9	0.4997195303440094
+Marburg virus	Emetine	10	0.49751827120780945
+Marburg virus	Monensin	11	0.4888938069343567
+Marburg virus	Berberine	12	0.4826909005641937
+Marburg virus	Arbidol (Umifenovir)	13	0.47913897037506104
+Marburg virus	Chloroquine	14	0.47822391986846924
+Marburg virus	Luteolin	15	0.4776199758052826
+Marburg virus	ABT-263	16	0.4775317311286926
+Marburg virus	Rapamycin (Sirolimus)	17	0.4739688038825989
+Marburg virus	Sorafenib	18	0.467338889837265
+Marburg virus	Cyclosporine	19	0.4667307734489441
+Marburg virus	Glycyrrhizin	20	0.4665290117263794
+Measles virus	Favipiravir	1	0.5207206010818481
+Measles virus	Remdesivir	2	0.5066220760345459
+Measles virus	Cidofovir	3	0.48506784439086914
+Measles virus	Niclosamide	4	0.4812255799770355
+Measles virus	Mycophenolic acid	5	0.4660838544368744
+Measles virus	Obatoclax	6	0.4646677076816559
+Measles virus	Emetine	7	0.4357442855834961
+Measles virus	Tilorone (Amixin)	8	0.4318450689315796
+Measles virus	Brequinar	9	0.42911651730537415
+Measles virus	Brincidofovir	10	0.42896491289138794
+Measles virus	Amodiaquine	11	0.4289647042751312
+Measles virus	BCX4430 (Galidesivir)	12	0.4249213635921478
+Measles virus	Chloroquine	13	0.42316803336143494
+Measles virus	Monensin	14	0.422208696603775
+Measles virus	Arbidol (Umifenovir)	15	0.41461268067359924
+Measles virus	Gemcitabine	16	0.41200897097587585
+Measles virus	Cyclosporine	17	0.40403124690055847
+Measles virus	Rapamycin (Sirolimus)	18	0.37128886580467224
+Measles virus	Glycyrrhizin	19	0.3600616455078125
+Measles virus	Berberine	20	0.3566608130931854
+Middle East respiratory syndrome coronavirus	Cidofovir	1	0.7853550314903259
+Middle East respiratory syndrome coronavirus	Monensin	2	0.7768875956535339
+Middle East respiratory syndrome coronavirus	Bortezomib	3	0.7705596089363098
+Middle East respiratory syndrome coronavirus	Emodin	4	0.7667789459228516
+Middle East respiratory syndrome coronavirus	Sorafenib	5	0.7639839053153992
+Middle East respiratory syndrome coronavirus	Artesunate	6	0.7579554915428162
+Middle East respiratory syndrome coronavirus	Glycyrrhizin	7	0.75696861743927
+Middle East respiratory syndrome coronavirus	Ivermectin	8	0.750859260559082
+Middle East respiratory syndrome coronavirus	Ganciclovir	9	0.750321090221405
+Middle East respiratory syndrome coronavirus	Raloxifene	10	0.7488169074058533
+Middle East respiratory syndrome coronavirus	Favipiravir	11	0.7480660676956177
+Middle East respiratory syndrome coronavirus	EIPA (amiloride)	12	0.7454381585121155
+Middle East respiratory syndrome coronavirus	Letermovir	13	0.7450907826423645
+Middle East respiratory syndrome coronavirus	Sunitinib	14	0.744846522808075
+Middle East respiratory syndrome coronavirus	Camptothecin	15	0.7445428967475891
+Middle East respiratory syndrome coronavirus	Azithromycin	16	0.741226315498352
+Middle East respiratory syndrome coronavirus	Pleconaril	17	0.740949273109436
+Middle East respiratory syndrome coronavirus	Berberine	18	0.7408856153488159
+Middle East respiratory syndrome coronavirus	Pentosan polysulfate	19	0.7369941473007202
+Middle East respiratory syndrome coronavirus	Luteolin	20	0.7339506149291992
+Middle east respiratory tract syndrome coronavirus	EIPA (amiloride)	1	0.37820690870285034
+Middle east respiratory tract syndrome coronavirus	Favipiravir	2	0.34799593687057495
+Middle east respiratory tract syndrome coronavirus	Ribavirin	3	0.34751662611961365
+Middle east respiratory tract syndrome coronavirus	Remdesivir	4	0.31878480315208435
+Middle east respiratory tract syndrome coronavirus	Niclosamide	5	0.29670414328575134
+Middle east respiratory tract syndrome coronavirus	Emetine	6	0.2951803207397461
+Middle east respiratory tract syndrome coronavirus	Nitazoxanide	7	0.2932135760784149
+Middle east respiratory tract syndrome coronavirus	Mycophenolic acid	8	0.2874688506126404
+Middle east respiratory tract syndrome coronavirus	Obatoclax	9	0.28365179896354675
+Middle east respiratory tract syndrome coronavirus	Berberine	10	0.27688363194465637
+Middle east respiratory tract syndrome coronavirus	Cidofovir	11	0.2762582302093506
+Middle east respiratory tract syndrome coronavirus	Amodiaquine	12	0.26895537972450256
+Middle east respiratory tract syndrome coronavirus	Rapamycin (Sirolimus)	13	0.2686130106449127
+Middle east respiratory tract syndrome coronavirus	Brequinar	14	0.2594037652015686
+Middle east respiratory tract syndrome coronavirus	BCX4430 (Galidesivir)	15	0.25916582345962524
+Middle east respiratory tract syndrome coronavirus	Chloroquine	16	0.2522985637187958
+Middle east respiratory tract syndrome coronavirus	Brincidofovir	17	0.23853126168251038
+Middle east respiratory tract syndrome coronavirus	Cyclosporine	18	0.22916185855865479
+Middle east respiratory tract syndrome coronavirus	Glycyrrhizin	19	0.22631216049194336
+Middle east respiratory tract syndrome coronavirus	Lovastatin	20	0.22268886864185333
+Middle East resporitary syndrome coronavirus	Cidofovir	1	0.3245490491390228
+Middle East resporitary syndrome coronavirus	Favipiravir	2	0.29508838057518005
+Middle East resporitary syndrome coronavirus	Remdesivir	3	0.2943982481956482
+Middle East resporitary syndrome coronavirus	Ribavirin	4	0.28490304946899414
+Middle East resporitary syndrome coronavirus	Gemcitabine	5	0.28146862983703613
+Middle East resporitary syndrome coronavirus	Nitazoxanide	6	0.2755492627620697
+Middle East resporitary syndrome coronavirus	Brequinar	7	0.2678525745868683
+Middle East resporitary syndrome coronavirus	Chloroquine	8	0.2633429765701294
+Middle East resporitary syndrome coronavirus	Niclosamide	9	0.2619927227497101
+Middle East resporitary syndrome coronavirus	Rapamycin (Sirolimus)	10	0.2587679624557495
+Middle East resporitary syndrome coronavirus	Amodiaquine	11	0.25844886898994446
+Middle East resporitary syndrome coronavirus	EIPA (amiloride)	12	0.25044479966163635
+Middle East resporitary syndrome coronavirus	Tilorone (Amixin)	13	0.23929329216480255
+Middle East resporitary syndrome coronavirus	Arbidol (Umifenovir)	14	0.23797039687633514
+Middle East resporitary syndrome coronavirus	BCX4430 (Galidesivir)	15	0.23672179877758026
+Middle East resporitary syndrome coronavirus	Cyclosporine	16	0.235686793923378
+Middle East resporitary syndrome coronavirus	Obatoclax	17	0.23062215745449066
+Middle East resporitary syndrome coronavirus	Emetine	18	0.22764551639556885
+Middle East resporitary syndrome coronavirus	ABT-263	19	0.22410200536251068
+Middle East resporitary syndrome coronavirus	Brincidofovir	20	0.22364936769008636
+Middle eastern respiratory syndrome virus	Favipiravir	1	0.3579625189304352
+Middle eastern respiratory syndrome virus	Ribavirin	2	0.34361302852630615
+Middle eastern respiratory syndrome virus	EIPA (amiloride)	3	0.3326123058795929
+Middle eastern respiratory syndrome virus	Remdesivir	4	0.3214142918586731
+Middle eastern respiratory syndrome virus	Cidofovir	5	0.3138674199581146
+Middle eastern respiratory syndrome virus	Nitazoxanide	6	0.3096395432949066
+Middle eastern respiratory syndrome virus	Chloroquine	7	0.30164816975593567
+Middle eastern respiratory syndrome virus	Amodiaquine	8	0.29155656695365906
+Middle eastern respiratory syndrome virus	Niclosamide	9	0.29109135270118713
+Middle eastern respiratory syndrome virus	Brequinar	10	0.2907522916793823
+Middle eastern respiratory syndrome virus	BCX4430 (Galidesivir)	11	0.2792232036590576
+Middle eastern respiratory syndrome virus	Brincidofovir	12	0.27871379256248474
+Middle eastern respiratory syndrome virus	Obatoclax	13	0.27720072865486145
+Middle eastern respiratory syndrome virus	Emetine	14	0.27305367588996887
+Middle eastern respiratory syndrome virus	Mycophenolic acid	15	0.2718764841556549
+Middle eastern respiratory syndrome virus	Itraconazole	16	0.26771974563598633
+Middle eastern respiratory syndrome virus	Sorafenib	17	0.2502186894416809
+Middle eastern respiratory syndrome virus	Tilorone (Amixin)	18	0.24396172165870667
+Middle eastern respiratory syndrome virus	Silvestrol	19	0.2416216880083084
+Middle eastern respiratory syndrome virus	Glycyrrhizin	20	0.2384970784187317
+Molluscum contagiosum virus	Remdesivir	1	0.3936763405799866
+Molluscum contagiosum virus	Favipiravir	2	0.3316880166530609
+Molluscum contagiosum virus	Mycophenolic acid	3	0.3201238512992859
+Molluscum contagiosum virus	Nitazoxanide	4	0.29608154296875
+Molluscum contagiosum virus	Monensin	5	0.2943839430809021
+Molluscum contagiosum virus	Obatoclax	6	0.29339897632598877
+Molluscum contagiosum virus	Ribavirin	7	0.28934863209724426
+Molluscum contagiosum virus	Niclosamide	8	0.2605924904346466
+Molluscum contagiosum virus	Gemcitabine	9	0.2594071626663208
+Molluscum contagiosum virus	BCX4430 (Galidesivir)	10	0.2512434124946594
+Molluscum contagiosum virus	Amodiaquine	11	0.24288320541381836
+Molluscum contagiosum virus	EIPA (amiloride)	12	0.238128662109375
+Molluscum contagiosum virus	Brincidofovir	13	0.23754185438156128
+Molluscum contagiosum virus	ABT-263	14	0.23365162312984467
+Molluscum contagiosum virus	Suramin	15	0.2303047627210617
+Molluscum contagiosum virus	Cyclosporine	16	0.2279205173254013
+Molluscum contagiosum virus	Brequinar	17	0.22692230343818665
+Molluscum contagiosum virus	Chloroquine	18	0.22517533600330353
+Molluscum contagiosum virus	Sorafenib	19	0.22371269762516022
+Molluscum contagiosum virus	Hydroxychloroquine	20	0.2189711034297943
+Nipah virus	Mycophenolic acid	1	0.38225430250167847
+Nipah virus	Ribavirin	2	0.36001813411712646
+Nipah virus	Nitazoxanide	3	0.34857213497161865
+Nipah virus	Emetine	4	0.3430972993373871
+Nipah virus	EIPA (amiloride)	5	0.32971876859664917
+Nipah virus	Cidofovir	6	0.3224647641181946
+Nipah virus	Obatoclax	7	0.3207578659057617
+Nipah virus	Tilorone (Amixin)	8	0.31280869245529175
+Nipah virus	Niclosamide	9	0.3127608597278595
+Nipah virus	Monensin	10	0.3005185127258301
+Nipah virus	Amodiaquine	11	0.2927292585372925
+Nipah virus	Rapamycin (Sirolimus)	12	0.27740269899368286
+Nipah virus	Brequinar	13	0.2771053910255432
+Nipah virus	Gemcitabine	14	0.27415648102760315
+Nipah virus	Brincidofovir	15	0.2707361578941345
+Nipah virus	Chloroquine	16	0.26665863394737244
+Nipah virus	Glycyrrhizin	17	0.26286807656288147
+Nipah virus	ABT-263	18	0.26270297169685364
+Nipah virus	Pleconaril	19	0.257958322763443
+Nipah virus	BCX4430 (Galidesivir)	20	0.2563096880912781
+Norovirus	Favipiravir	1	0.49147123098373413
+Norovirus	EIPA (amiloride)	2	0.4583887755870819
+Norovirus	Cidofovir	3	0.4530331492424011
+Norovirus	Remdesivir	4	0.4529480040073395
+Norovirus	Ribavirin	5	0.44902554154396057
+Norovirus	Obatoclax	6	0.4229257106781006
+Norovirus	Niclosamide	7	0.38915348052978516
+Norovirus	Brincidofovir	8	0.3834024667739868
+Norovirus	Amodiaquine	9	0.37613898515701294
+Norovirus	BCX4430 (Galidesivir)	10	0.372847318649292
+Norovirus	Emetine	11	0.3728003203868866
+Norovirus	Cyclosporine	12	0.36340370774269104
+Norovirus	Brequinar	13	0.3619544208049774
+Norovirus	Chloroquine	14	0.3590213358402252
+Norovirus	Rapamycin (Sirolimus)	15	0.35625359416007996
+Norovirus	Luteolin	16	0.3532782793045044
+Norovirus	ABT-263	17	0.3414991497993469
+Norovirus	Gemcitabine	18	0.3311849534511566
+Norovirus	Sorafenib	19	0.3288942873477936
+Norovirus	Monensin	20	0.3282361328601837
+Parechovirus A3	Ribavirin	1	0.5143860578536987
+Parechovirus A3	Remdesivir	2	0.5072947144508362
+Parechovirus A3	Mycophenolic acid	3	0.5063944458961487
+Parechovirus A3	Favipiravir	4	0.49214422702789307
+Parechovirus A3	Nitazoxanide	5	0.48307961225509644
+Parechovirus A3	EIPA (amiloride)	6	0.4826744496822357
+Parechovirus A3	Cidofovir	7	0.47182443737983704
+Parechovirus A3	Obatoclax	8	0.46352753043174744
+Parechovirus A3	Amodiaquine	9	0.4494715631008148
+Parechovirus A3	Brequinar	10	0.4416600465774536
+Parechovirus A3	Niclosamide	11	0.42725372314453125
+Parechovirus A3	Brincidofovir	12	0.4268141984939575
+Parechovirus A3	Emetine	13	0.425778329372406
+Parechovirus A3	BCX4430 (Galidesivir)	14	0.41048479080200195
+Parechovirus A3	Arbidol (Umifenovir)	15	0.40593409538269043
+Parechovirus A3	Chloroquine	16	0.3951943516731262
+Parechovirus A3	Cyclosporine	17	0.38494834303855896
+Parechovirus A3	Rapamycin (Sirolimus)	18	0.3826822340488434
+Parechovirus A3	ABT-263	19	0.37251707911491394
+Parechovirus A3	Monensin	20	0.3537277281284332
+Parvovirus B19	Nitazoxanide	1	0.4033447802066803
+Parvovirus B19	Ribavirin	2	0.38870081305503845
+Parvovirus B19	Mycophenolic acid	3	0.3844648003578186
+Parvovirus B19	Remdesivir	4	0.3804822862148285
+Parvovirus B19	Favipiravir	5	0.3639760911464691
+Parvovirus B19	ABT-263	6	0.3520728051662445
+Parvovirus B19	EIPA (amiloride)	7	0.34388113021850586
+Parvovirus B19	Emetine	8	0.33762311935424805
+Parvovirus B19	Brequinar	9	0.3330594003200531
+Parvovirus B19	Niclosamide	10	0.329620897769928
+Parvovirus B19	Obatoclax	11	0.31736519932746887
+Parvovirus B19	Gemcitabine	12	0.30688944458961487
+Parvovirus B19	Cyclosporine	13	0.2920326888561249
+Parvovirus B19	BCX4430 (Galidesivir)	14	0.2873963713645935
+Parvovirus B19	Sorafenib	15	0.2870812714099884
+Parvovirus B19	Berberine	16	0.2858208119869232
+Parvovirus B19	Amodiaquine	17	0.285334050655365
+Parvovirus B19	Tilorone (Amixin)	18	0.2819136083126068
+Parvovirus B19	Chloroquine	19	0.2723272740840912
+Parvovirus B19	Eflornithine	20	0.2648252248764038
+Powassan virus	Mycophenolic acid	1	0.38688230514526367
+Powassan virus	Nitazoxanide	2	0.33074891567230225
+Powassan virus	Ribavirin	3	0.3238833248615265
+Powassan virus	Remdesivir	4	0.32289138436317444
+Powassan virus	Niclosamide	5	0.3197370767593384
+Powassan virus	Cidofovir	6	0.3169057071208954
+Powassan virus	Favipiravir	7	0.3070532977581024
+Powassan virus	Berberine	8	0.2741006910800934
+Powassan virus	EIPA (amiloride)	9	0.27232006192207336
+Powassan virus	Brincidofovir	10	0.26582756638526917
+Powassan virus	ABT-263	11	0.26455631852149963
+Powassan virus	Amodiaquine	12	0.26250016689300537
+Powassan virus	Emetine	13	0.25901296734809875
+Powassan virus	Obatoclax	14	0.253743976354599
+Powassan virus	Cyclosporine	15	0.25101780891418457
+Powassan virus	Monensin	16	0.24157686531543732
+Powassan virus	Emodin	17	0.23465724289417267
+Powassan virus	Glycyrrhizin	18	0.2305966168642044
+Powassan virus	Chloroquine	19	0.2278948724269867
+Powassan virus	BCX4430 (Galidesivir)	20	0.21722844243049622
+Rabies virus	Remdesivir	1	0.5628297328948975
+Rabies virus	Nitazoxanide	2	0.542384922504425
+Rabies virus	EIPA (amiloride)	3	0.5332964062690735
+Rabies virus	Mycophenolic acid	4	0.5310545563697815
+Rabies virus	Cidofovir	5	0.5241855382919312
+Rabies virus	BCX4430 (Galidesivir)	6	0.523952066898346
+Rabies virus	Brincidofovir	7	0.5187414288520813
+Rabies virus	Obatoclax	8	0.5028426051139832
+Rabies virus	Gemcitabine	9	0.49702683091163635
+Rabies virus	Brequinar	10	0.4933067858219147
+Rabies virus	ABT-263	11	0.4902772307395935
+Rabies virus	Rapamycin (Sirolimus)	12	0.4875089228153229
+Rabies virus	Chloroquine	13	0.475722074508667
+Rabies virus	Monensin	14	0.4574877917766571
+Rabies virus	Tilorone (Amixin)	15	0.45712772011756897
+Rabies virus	Eflornithine	16	0.45417630672454834
+Rabies virus	Cyclosporine	17	0.4538142681121826
+Rabies virus	Foscarnet	18	0.4514631927013397
+Rabies virus	Arbidol (Umifenovir)	19	0.45088136196136475
+Rabies virus	Silvestrol	20	0.4437330365180969
+Ravn virus	Ribavirin	1	0.3846409320831299
+Ravn virus	Remdesivir	2	0.3227977156639099
+Ravn virus	Favipiravir	3	0.31774258613586426
+Ravn virus	Mycophenolic acid	4	0.30488133430480957
+Ravn virus	Nitazoxanide	5	0.2881942689418793
+Ravn virus	Cidofovir	6	0.2860037684440613
+Ravn virus	EIPA (amiloride)	7	0.28504031896591187
+Ravn virus	Niclosamide	8	0.2847048044204712
+Ravn virus	Amodiaquine	9	0.27764037251472473
+Ravn virus	Emetine	10	0.27731040120124817
+Ravn virus	Obatoclax	11	0.27313393354415894
+Ravn virus	Brincidofovir	12	0.2526693642139435
+Ravn virus	ABT-263	13	0.24936436116695404
+Ravn virus	Brequinar	14	0.23821203410625458
+Ravn virus	Tilorone (Amixin)	15	0.22962099313735962
+Ravn virus	Chloroquine	16	0.22920069098472595
+Ravn virus	Glycyrrhizin	17	0.22733473777770996
+Ravn virus	Cyclosporine	18	0.223785400390625
+Ravn virus	Itraconazole	19	0.21772156655788422
+Ravn virus	Gemcitabine	20	0.20902079343795776
+Respiratory syncytial virus	Gemcitabine	1	0.6975274682044983
+Respiratory syncytial virus	Rapamycin (Sirolimus)	2	0.6860098242759705
+Respiratory syncytial virus	Niclosamide	3	0.678662896156311
+Respiratory syncytial virus	ABT-263	4	0.6784765720367432
+Respiratory syncytial virus	EIPA (amiloride)	5	0.6765478253364563
+Respiratory syncytial virus	Favipiravir	6	0.6701660752296448
+Respiratory syncytial virus	Amodiaquine	7	0.6696198582649231
+Respiratory syncytial virus	Brincidofovir	8	0.6662565469741821
+Respiratory syncytial virus	Tilorone (Amixin)	9	0.6579861044883728
+Respiratory syncytial virus	Luteolin	10	0.6579176187515259
+Respiratory syncytial virus	Cyclosporine	11	0.6570852398872375
+Respiratory syncytial virus	Obatoclax	12	0.652527391910553
+Respiratory syncytial virus	Cidofovir	13	0.6499725580215454
+Respiratory syncytial virus	Glycyrrhizin	14	0.6379789113998413
+Respiratory syncytial virus	Brequinar	15	0.6374751329421997
+Respiratory syncytial virus	BCX4430 (Galidesivir)	16	0.6356986165046692
+Respiratory syncytial virus	Eflornithine	17	0.6317325234413147
+Respiratory syncytial virus	Chloroquine	18	0.631600022315979
+Respiratory syncytial virus	Foscarnet	19	0.6303682327270508
+Respiratory syncytial virus	Arbidol (Umifenovir)	20	0.6281023025512695
+Rhinovirus A	Favipiravir	1	0.40491923689842224
+Rhinovirus A	Remdesivir	2	0.36835354566574097
+Rhinovirus A	Cidofovir	3	0.35313549637794495
+Rhinovirus A	Ribavirin	4	0.31308186054229736
+Rhinovirus A	Mycophenolic acid	5	0.31212297081947327
+Rhinovirus A	EIPA (amiloride)	6	0.3008705675601959
+Rhinovirus A	Niclosamide	7	0.29139286279678345
+Rhinovirus A	Emetine	8	0.28370803594589233
+Rhinovirus A	Monensin	9	0.277200311422348
+Rhinovirus A	Brequinar	10	0.2746368646621704
+Rhinovirus A	Chloroquine	11	0.268876850605011
+Rhinovirus A	Amodiaquine	12	0.2655278742313385
+Rhinovirus A	Berberine	13	0.25617918372154236
+Rhinovirus A	Silvestrol	14	0.2543199360370636
+Rhinovirus A	Obatoclax	15	0.25117021799087524
+Rhinovirus A	Nitazoxanide	16	0.2455308586359024
+Rhinovirus A	Gemcitabine	17	0.23771369457244873
+Rhinovirus A	Cyclosporine	18	0.23650014400482178
+Rhinovirus A	Brincidofovir	19	0.22736839950084686
+Rhinovirus A	Itraconazole	20	0.22339697182178497
+Rhinovirus B	Favipiravir	1	0.3406231999397278
+Rhinovirus B	Ribavirin	2	0.32671302556991577
+Rhinovirus B	Remdesivir	3	0.32609105110168457
+Rhinovirus B	Cidofovir	4	0.3256297707557678
+Rhinovirus B	Nitazoxanide	5	0.32228848338127136
+Rhinovirus B	Mycophenolic acid	6	0.30792632699012756
+Rhinovirus B	BCX4430 (Galidesivir)	7	0.2970484793186188
+Rhinovirus B	Obatoclax	8	0.2908404767513275
+Rhinovirus B	EIPA (amiloride)	9	0.2773102819919586
+Rhinovirus B	Brincidofovir	10	0.2704976201057434
+Rhinovirus B	ABT-263	11	0.2694231867790222
+Rhinovirus B	Tilorone (Amixin)	12	0.2613151967525482
+Rhinovirus B	Emetine	13	0.2536471486091614
+Rhinovirus B	Luteolin	14	0.25009140372276306
+Rhinovirus B	Niclosamide	15	0.24953921139240265
+Rhinovirus B	Chloroquine	16	0.24803458154201508
+Rhinovirus B	Arbidol (Umifenovir)	17	0.2427552044391632
+Rhinovirus B	Amodiaquine	18	0.24114331603050232
+Rhinovirus B	Cyclosporine	19	0.23470152914524078
+Rhinovirus B	Brequinar	20	0.2321225255727768
+Rift Valley fever virus	Ribavirin	1	0.7187087535858154
+Rift Valley fever virus	Brincidofovir	2	0.7092207074165344
+Rift Valley fever virus	Amodiaquine	3	0.6874443292617798
+Rift Valley fever virus	ABT-263	4	0.6834143996238708
+Rift Valley fever virus	EIPA (amiloride)	5	0.679736316204071
+Rift Valley fever virus	Sorafenib	6	0.679702639579773
+Rift Valley fever virus	Berberine	7	0.6744025945663452
+Rift Valley fever virus	Arbidol (Umifenovir)	8	0.6732320785522461
+Rift Valley fever virus	Remdesivir	9	0.6714948415756226
+Rift Valley fever virus	Gemcitabine	10	0.6661422252655029
+Rift Valley fever virus	Tilorone (Amixin)	11	0.6607795357704163
+Rift Valley fever virus	Glycyrrhizin	12	0.6538395285606384
+Rift Valley fever virus	Luteolin	13	0.6504570245742798
+Rift Valley fever virus	Nitazoxanide	14	0.6483439803123474
+Rift Valley fever virus	Foscarnet	15	0.6434444785118103
+Rift Valley fever virus	Niclosamide	16	0.640961229801178
+Rift Valley fever virus	Chloroquine	17	0.6343755722045898
+Rift Valley fever virus	Cidofovir	18	0.6272677183151245
+Rift Valley fever virus	Eflornithine	19	0.6243603825569153
+Rift Valley fever virus	Silvestrol	20	0.6224545240402222
+Ross River virus	Ribavirin	1	0.5424018502235413
+Ross River virus	Remdesivir	2	0.5377688407897949
+Ross River virus	Favipiravir	3	0.5280867218971252
+Ross River virus	Cidofovir	4	0.522063136100769
+Ross River virus	EIPA (amiloride)	5	0.5158458352088928
+Ross River virus	Emetine	6	0.4941225051879883
+Ross River virus	Nitazoxanide	7	0.493237167596817
+Ross River virus	Brequinar	8	0.4932194948196411
+Ross River virus	Niclosamide	9	0.4895227551460266
+Ross River virus	BCX4430 (Galidesivir)	10	0.4867141544818878
+Ross River virus	Monensin	11	0.4844001829624176
+Ross River virus	Obatoclax	12	0.47948142886161804
+Ross River virus	Chloroquine	13	0.4768871068954468
+Ross River virus	Brincidofovir	14	0.4747576117515564
+Ross River virus	Rapamycin (Sirolimus)	15	0.45392119884490967
+Ross River virus	Gemcitabine	16	0.45228251814842224
+Ross River virus	Tilorone (Amixin)	17	0.44520193338394165
+Ross River virus	ABT-263	18	0.44448018074035645
+Ross River virus	Sorafenib	19	0.431968092918396
+Ross River virus	Berberine	20	0.4290746748447418
+Rubella virus	Favipiravir	1	0.5860378742218018
+Rubella virus	Remdesivir	2	0.5846096873283386
+Rubella virus	Cidofovir	3	0.5605450868606567
+Rubella virus	Obatoclax	4	0.5527534484863281
+Rubella virus	EIPA (amiloride)	5	0.5494282841682434
+Rubella virus	Niclosamide	6	0.5416415929794312
+Rubella virus	Emetine	7	0.5249958634376526
+Rubella virus	BCX4430 (Galidesivir)	8	0.5183025002479553
+Rubella virus	Amodiaquine	9	0.5163436532020569
+Rubella virus	Brincidofovir	10	0.5137722492218018
+Rubella virus	Chloroquine	11	0.5033006072044373
+Rubella virus	Monensin	12	0.4985502064228058
+Rubella virus	ABT-263	13	0.4926912188529968
+Rubella virus	Berberine	14	0.49266287684440613
+Rubella virus	Gemcitabine	15	0.4887990951538086
+Rubella virus	Tilorone (Amixin)	16	0.4879951775074005
+Rubella virus	Cyclosporine	17	0.48448479175567627
+Rubella virus	Sorafenib	18	0.47047850489616394
+Rubella virus	Arbidol (Umifenovir)	19	0.46558496356010437
+Rubella virus	Foscarnet	20	0.45757320523262024
+Saffold virus	Ribavirin	1	0.3672337532043457
+Saffold virus	Remdesivir	2	0.3556636869907379
+Saffold virus	Favipiravir	3	0.3467748165130615
+Saffold virus	Nitazoxanide	4	0.3300716280937195
+Saffold virus	Cidofovir	5	0.3113865852355957
+Saffold virus	Obatoclax	6	0.29580244421958923
+Saffold virus	Emetine	7	0.29439109563827515
+Saffold virus	Mycophenolic acid	8	0.29412370920181274
+Saffold virus	Cyclosporine	9	0.289041668176651
+Saffold virus	Monensin	10	0.28667497634887695
+Saffold virus	Niclosamide	11	0.280829519033432
+Saffold virus	Chloroquine	12	0.2694992125034332
+Saffold virus	Amodiaquine	13	0.25916314125061035
+Saffold virus	EIPA (amiloride)	14	0.2528042197227478
+Saffold virus	Berberine	15	0.250142902135849
+Saffold virus	Raloxifene	16	0.24338851869106293
+Saffold virus	Gemcitabine	17	0.24272887408733368
+Saffold virus	Brequinar	18	0.2386295646429062
+Saffold virus	Rapamycin (Sirolimus)	19	0.23787660896778107
+Saffold virus	Sorafenib	20	0.23618975281715393
+Severe acute respiratory syndrome coronavirus	Pleconaril	1	0.7899734377861023
+Severe acute respiratory syndrome coronavirus	Arbidol (Umifenovir)	2	0.7696112990379333
+Severe acute respiratory syndrome coronavirus	ABT-263	3	0.7652357220649719
+Severe acute respiratory syndrome coronavirus	Ribavirin	4	0.7572429776191711
+Severe acute respiratory syndrome coronavirus	Tilorone (Amixin)	5	0.7559689283370972
+Severe acute respiratory syndrome coronavirus	Berberine	6	0.7468363642692566
+Severe acute respiratory syndrome coronavirus	Sorafenib	7	0.7424508929252625
+Severe acute respiratory syndrome coronavirus	Brincidofovir	8	0.7418625950813293
+Severe acute respiratory syndrome coronavirus	Cyclosporine	9	0.7375751733779907
+Severe acute respiratory syndrome coronavirus	Suramin	10	0.7370414137840271
+Severe acute respiratory syndrome coronavirus	Pentosan polysulfate	11	0.7331311106681824
+Severe acute respiratory syndrome coronavirus	Silvestrol	12	0.7326462268829346
+Severe acute respiratory syndrome coronavirus	Mitoxantrone	13	0.7309966683387756
+Severe acute respiratory syndrome coronavirus	Ganciclovir	14	0.7274742722511292
+Severe acute respiratory syndrome coronavirus	Itraconazole	15	0.727006733417511
+Severe acute respiratory syndrome coronavirus	Rapamycin (Sirolimus)	16	0.7220702767372131
+Severe acute respiratory syndrome coronavirus	Raloxifene	17	0.7206718921661377
+Severe acute respiratory syndrome coronavirus	Monensin	18	0.7202224731445312
+Severe acute respiratory syndrome coronavirus	Aprotinin	19	0.7183791399002075
+Severe acute respiratory syndrome coronavirus	Leflunomide	20	0.7175744771957397
+Severe fever with thrombocytopenia syndrome virus	Favipiravir	1	0.451224148273468
+Severe fever with thrombocytopenia syndrome virus	Ribavirin	2	0.44775718450546265
+Severe fever with thrombocytopenia syndrome virus	Nitazoxanide	3	0.4340971112251282
+Severe fever with thrombocytopenia syndrome virus	Remdesivir	4	0.4127494692802429
+Severe fever with thrombocytopenia syndrome virus	Mycophenolic acid	5	0.4125343859195709
+Severe fever with thrombocytopenia syndrome virus	EIPA (amiloride)	6	0.40177565813064575
+Severe fever with thrombocytopenia syndrome virus	Niclosamide	7	0.3936847448348999
+Severe fever with thrombocytopenia syndrome virus	Cidofovir	8	0.3930191993713379
+Severe fever with thrombocytopenia syndrome virus	Chloroquine	9	0.3814218044281006
+Severe fever with thrombocytopenia syndrome virus	Amodiaquine	10	0.3743951618671417
+Severe fever with thrombocytopenia syndrome virus	Obatoclax	11	0.3723362386226654
+Severe fever with thrombocytopenia syndrome virus	Brincidofovir	12	0.3571803867816925
+Severe fever with thrombocytopenia syndrome virus	BCX4430 (Galidesivir)	13	0.3543383777141571
+Severe fever with thrombocytopenia syndrome virus	Arbidol (Umifenovir)	14	0.3527006506919861
+Severe fever with thrombocytopenia syndrome virus	Gemcitabine	15	0.33474498987197876
+Severe fever with thrombocytopenia syndrome virus	ABT-263	16	0.32996317744255066
+Severe fever with thrombocytopenia syndrome virus	Brequinar	17	0.31933364272117615
+Severe fever with thrombocytopenia syndrome virus	Berberine	18	0.3046954572200775
+Severe fever with thrombocytopenia syndrome virus	Suramin	19	0.299473375082016
+Severe fever with thrombocytopenia syndrome virus	Cyclosporine	20	0.2968183755874634
+Simian vacuolating virus 40	Mycophenolic acid	1	0.4765531122684479
+Simian vacuolating virus 40	Nitazoxanide	2	0.44466081261634827
+Simian vacuolating virus 40	Ribavirin	3	0.44377538561820984
+Simian vacuolating virus 40	Favipiravir	4	0.42185118794441223
+Simian vacuolating virus 40	Remdesivir	5	0.4162082076072693
+Simian vacuolating virus 40	EIPA (amiloride)	6	0.3985643684864044
+Simian vacuolating virus 40	Cidofovir	7	0.39809587597846985
+Simian vacuolating virus 40	Niclosamide	8	0.369386225938797
+Simian vacuolating virus 40	Obatoclax	9	0.36098095774650574
+Simian vacuolating virus 40	Cyclosporine	10	0.35685986280441284
+Simian vacuolating virus 40	Brincidofovir	11	0.3520141839981079
+Simian vacuolating virus 40	Brequinar	12	0.3425300121307373
+Simian vacuolating virus 40	Emetine	13	0.3424111008644104
+Simian vacuolating virus 40	Sorafenib	14	0.3316277265548706
+Simian vacuolating virus 40	Rapamycin (Sirolimus)	15	0.32963356375694275
+Simian vacuolating virus 40	Chloroquine	16	0.3234030306339264
+Simian vacuolating virus 40	Berberine	17	0.31430524587631226
+Simian vacuolating virus 40	Amodiaquine	18	0.31346243619918823
+Simian vacuolating virus 40	Glycyrrhizin	19	0.3097926080226898
+Simian vacuolating virus 40	BCX4430 (Galidesivir)	20	0.30899137258529663
+Sin Nombre virus	Ribavirin	1	0.3675418496131897
+Sin Nombre virus	EIPA (amiloride)	2	0.3442998230457306
+Sin Nombre virus	Remdesivir	3	0.3373950719833374
+Sin Nombre virus	Cidofovir	4	0.3054419755935669
+Sin Nombre virus	Mycophenolic acid	5	0.28777483105659485
+Sin Nombre virus	Brequinar	6	0.2827731966972351
+Sin Nombre virus	BCX4430 (Galidesivir)	7	0.27863019704818726
+Sin Nombre virus	Amodiaquine	8	0.27384939789772034
+Sin Nombre virus	Emetine	9	0.26617735624313354
+Sin Nombre virus	Nitazoxanide	10	0.26143285632133484
+Sin Nombre virus	Monensin	11	0.26126420497894287
+Sin Nombre virus	Niclosamide	12	0.26056504249572754
+Sin Nombre virus	Luteolin	13	0.23754478991031647
+Sin Nombre virus	Tilorone (Amixin)	14	0.23211735486984253
+Sin Nombre virus	Obatoclax	15	0.21752309799194336
+Sin Nombre virus	ABT-263	16	0.21459606289863586
+Sin Nombre virus	Silvestrol	17	0.2141638547182083
+Sin Nombre virus	Cyclosporine	18	0.20942823588848114
+Sin Nombre virus	Gemcitabine	19	0.20525191724300385
+Sin Nombre virus	Chloroquine	20	0.20059575140476227
+Sindbis virus	Ribavirin	1	0.6975749731063843
+Sindbis virus	Nitazoxanide	2	0.6893733739852905
+Sindbis virus	Cyclosporine	3	0.6802108883857727
+Sindbis virus	Favipiravir	4	0.6669529676437378
+Sindbis virus	Rapamycin (Sirolimus)	5	0.6630003452301025
+Sindbis virus	Chloroquine	6	0.6538840532302856
+Sindbis virus	BCX4430 (Galidesivir)	7	0.6517981290817261
+Sindbis virus	Remdesivir	8	0.6470721364021301
+Sindbis virus	Monensin	9	0.6464778780937195
+Sindbis virus	Foscarnet	10	0.6428872346878052
+Sindbis virus	Tilorone (Amixin)	11	0.6422432661056519
+Sindbis virus	Luteolin	12	0.6415902376174927
+Sindbis virus	Brequinar	13	0.63846355676651
+Sindbis virus	Brincidofovir	14	0.6359893679618835
+Sindbis virus	Emetine	15	0.632077157497406
+Sindbis virus	Mycophenolic acid	16	0.6317283511161804
+Sindbis virus	Cidofovir	17	0.6310437917709351
+Sindbis virus	EIPA (amiloride)	18	0.6125169992446899
+Sindbis virus	Arbidol (Umifenovir)	19	0.6109077334403992
+Sindbis virus	Glycyrrhizin	20	0.607147753238678
+Tick-borne encephalitis virus	Ribavirin	1	0.5156441926956177
+Tick-borne encephalitis virus	Favipiravir	2	0.5126181244850159
+Tick-borne encephalitis virus	Mycophenolic acid	3	0.5082158446311951
+Tick-borne encephalitis virus	Niclosamide	4	0.48965564370155334
+Tick-borne encephalitis virus	Cidofovir	5	0.4856007993221283
+Tick-borne encephalitis virus	Obatoclax	6	0.4851296544075012
+Tick-borne encephalitis virus	Nitazoxanide	7	0.4610307216644287
+Tick-borne encephalitis virus	Brequinar	8	0.4604945778846741
+Tick-borne encephalitis virus	EIPA (amiloride)	9	0.4580090641975403
+Tick-borne encephalitis virus	Cyclosporine	10	0.44733449816703796
+Tick-borne encephalitis virus	Amodiaquine	11	0.443859338760376
+Tick-borne encephalitis virus	Chloroquine	12	0.43884196877479553
+Tick-borne encephalitis virus	Emetine	13	0.4371793568134308
+Tick-borne encephalitis virus	Brincidofovir	14	0.4361667335033417
+Tick-borne encephalitis virus	Rapamycin (Sirolimus)	15	0.4349695146083832
+Tick-borne encephalitis virus	ABT-263	16	0.42212024331092834
+Tick-borne encephalitis virus	Glycyrrhizin	17	0.41233623027801514
+Tick-borne encephalitis virus	Monensin	18	0.41203874349594116
+Tick-borne encephalitis virus	Gemcitabine	19	0.40657317638397217
+Tick-borne encephalitis virus	Tilorone (Amixin)	20	0.40003424882888794
+Vaccinia virus	Ribavirin	1	0.649747908115387
+Vaccinia virus	Cidofovir	2	0.6366908550262451
+Vaccinia virus	EIPA (amiloride)	3	0.6242541670799255
+Vaccinia virus	Obatoclax	4	0.6225329637527466
+Vaccinia virus	Remdesivir	5	0.6170244812965393
+Vaccinia virus	Brequinar	6	0.5992431044578552
+Vaccinia virus	Amodiaquine	7	0.599163830280304
+Vaccinia virus	Emetine	8	0.598459005355835
+Vaccinia virus	Mycophenolic acid	9	0.5978903770446777
+Vaccinia virus	Favipiravir	10	0.593881368637085
+Vaccinia virus	Tilorone (Amixin)	11	0.5857365727424622
+Vaccinia virus	Chloroquine	12	0.5805415511131287
+Vaccinia virus	ABT-263	13	0.5742480158805847
+Vaccinia virus	Rapamycin (Sirolimus)	14	0.5717146396636963
+Vaccinia virus	Monensin	15	0.5669315457344055
+Vaccinia virus	BCX4430 (Galidesivir)	16	0.5645540356636047
+Vaccinia virus	Sorafenib	17	0.5551133155822754
+Vaccinia virus	Berberine	18	0.5494105219841003
+Vaccinia virus	Arbidol (Umifenovir)	19	0.5485195517539978
+Vaccinia virus	Luteolin	20	0.535020649433136
+Varicella-zoster virus	Nitazoxanide	1	0.6784190535545349
+Varicella-zoster virus	Mycophenolic acid	2	0.6656177639961243
+Varicella-zoster virus	Ribavirin	3	0.6502466201782227
+Varicella-zoster virus	Remdesivir	4	0.6475258469581604
+Varicella-zoster virus	Brequinar	5	0.6399574279785156
+Varicella-zoster virus	BCX4430 (Galidesivir)	6	0.6341504454612732
+Varicella-zoster virus	EIPA (amiloride)	7	0.6325256824493408
+Varicella-zoster virus	Gemcitabine	8	0.6120439171791077
+Varicella-zoster virus	ABT-263	9	0.6118116974830627
+Varicella-zoster virus	Amodiaquine	10	0.6093001961708069
+Varicella-zoster virus	Rapamycin (Sirolimus)	11	0.6027988791465759
+Varicella-zoster virus	Emetine	12	0.6024646162986755
+Varicella-zoster virus	Chloroquine	13	0.6002844572067261
+Varicella-zoster virus	Niclosamide	14	0.5975139141082764
+Varicella-zoster virus	Obatoclax	15	0.5946767330169678
+Varicella-zoster virus	Monensin	16	0.5940400958061218
+Varicella-zoster virus	Luteolin	17	0.5854266881942749
+Varicella-zoster virus	Cyclosporine	18	0.580786943435669
+Varicella-zoster virus	Tilorone (Amixin)	19	0.5805575847625732
+Varicella-zoster virus	Favipiravir	20	0.5761253237724304
+Vesicular stomatitis virus	Ribavirin	1	0.6820375323295593
+Vesicular stomatitis virus	Obatoclax	2	0.6768999099731445
+Vesicular stomatitis virus	Remdesivir	3	0.6711315512657166
+Vesicular stomatitis virus	Favipiravir	4	0.6703945994377136
+Vesicular stomatitis virus	ABT-263	5	0.662301778793335
+Vesicular stomatitis virus	Gemcitabine	6	0.6607428789138794
+Vesicular stomatitis virus	Rapamycin (Sirolimus)	7	0.6562069058418274
+Vesicular stomatitis virus	Brincidofovir	8	0.6542694568634033
+Vesicular stomatitis virus	Nitazoxanide	9	0.6539120078086853
+Vesicular stomatitis virus	BCX4430 (Galidesivir)	10	0.6497101783752441
+Vesicular stomatitis virus	Emetine	11	0.6474546194076538
+Vesicular stomatitis virus	Berberine	12	0.6440784335136414
+Vesicular stomatitis virus	Chloroquine	13	0.6366090774536133
+Vesicular stomatitis virus	Mycophenolic acid	14	0.6262952089309692
+Vesicular stomatitis virus	EIPA (amiloride)	15	0.6243058443069458
+Vesicular stomatitis virus	Glycyrrhizin	16	0.6189339756965637
+Vesicular stomatitis virus	Cidofovir	17	0.6187440752983093
+Vesicular stomatitis virus	Foscarnet	18	0.608485758304596
+Vesicular stomatitis virus	Luteolin	19	0.6034104824066162
+Vesicular stomatitis virus	Arbidol (Umifenovir)	20	0.5912208557128906
+West Nile virus	Niclosamide	1	0.6822822093963623
+West Nile virus	Brincidofovir	2	0.6745700240135193
+West Nile virus	Ribavirin	3	0.6696083545684814
+West Nile virus	Chloroquine	4	0.6608367562294006
+West Nile virus	Favipiravir	5	0.6577836275100708
+West Nile virus	Rapamycin (Sirolimus)	6	0.6562310457229614
+West Nile virus	Remdesivir	7	0.6468439102172852
+West Nile virus	Cidofovir	8	0.6455862522125244
+West Nile virus	Gemcitabine	9	0.6431413888931274
+West Nile virus	Emetine	10	0.6361875534057617
+West Nile virus	ABT-263	11	0.6359218955039978
+West Nile virus	Nitazoxanide	12	0.6348612308502197
+West Nile virus	EIPA (amiloride)	13	0.631507158279419
+West Nile virus	Monensin	14	0.6306284666061401
+West Nile virus	Luteolin	15	0.6257519721984863
+West Nile virus	Berberine	16	0.6242916584014893
+West Nile virus	Sorafenib	17	0.6193001866340637
+West Nile virus	Eflornithine	18	0.6141740679740906
+West Nile virus	Mycophenolic acid	19	0.609107494354248
+West Nile virus	Itraconazole	20	0.6048473715782166
+Yellow fever virus	Nitazoxanide	1	0.6608996391296387
+Yellow fever virus	Ribavirin	2	0.6597704887390137
+Yellow fever virus	Chloroquine	3	0.6540724039077759
+Yellow fever virus	EIPA (amiloride)	4	0.648481547832489
+Yellow fever virus	Emetine	5	0.6455313563346863
+Yellow fever virus	Remdesivir	6	0.6444289088249207
+Yellow fever virus	Niclosamide	7	0.6381359100341797
+Yellow fever virus	Mycophenolic acid	8	0.6351624131202698
+Yellow fever virus	Tilorone (Amixin)	9	0.6305599808692932
+Yellow fever virus	Rapamycin (Sirolimus)	10	0.6291807889938354
+Yellow fever virus	Brincidofovir	11	0.62094646692276
+Yellow fever virus	Monensin	12	0.6155011057853699
+Yellow fever virus	Gemcitabine	13	0.6150997281074524
+Yellow fever virus	ABT-263	14	0.6050620675086975
+Yellow fever virus	Cidofovir	15	0.6007214784622192
+Yellow fever virus	Luteolin	16	0.5962128043174744
+Yellow fever virus	Arbidol (Umifenovir)	17	0.5871399641036987
+Yellow fever virus	Berberine	18	0.5845585465431213
+Yellow fever virus	Glycyrrhizin	19	0.5812626481056213
+Yellow fever virus	Sorafenib	20	0.5661342144012451
+Zika virus	Brincidofovir	1	0.8016279339790344
+Zika virus	Pleconaril	2	0.7803462743759155
+Zika virus	Tilorone (Amixin)	3	0.7796247005462646
+Zika virus	Luteolin	4	0.775534987449646
+Zika virus	EIPA (amiloride)	5	0.7753151655197144
+Zika virus	Brequinar	6	0.7741343975067139
+Zika virus	Ribavirin	7	0.7690998911857605
+Zika virus	Foscarnet	8	0.7626843452453613
+Zika virus	Aprotinin	9	0.7614255547523499
+Zika virus	Glycyrrhizin	10	0.7601951360702515
+Zika virus	Rapamycin (Sirolimus)	11	0.7595347166061401
+Zika virus	Amiodarone	12	0.7556424736976624
+Zika virus	Cidofovir	13	0.7551610469818115
+Zika virus	Homoharringtonine	14	0.7526075839996338
+Zika virus	Artesunate	15	0.7513594627380371
+Zika virus	Pentosan polysulfate	16	0.7475005984306335
+Zika virus	Leflunomide	17	0.7437644600868225
+Zika virus	Ganciclovir	18	0.7405182719230652
+Zika virus	Camptothecin	19	0.7372018694877625
+Zika virus	Topotecan	20	0.7336967587471008
