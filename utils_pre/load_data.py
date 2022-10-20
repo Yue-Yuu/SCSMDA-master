@@ -85,12 +85,12 @@ def load_data(dataset, train_times):
     # pos_m = sparse_mx_to_torch_sparse_tensor(pos_m)
     adj_similiarty_list = torch.where(adj_similiarty > 0.5)
     adj_similiarty_list = np.array(adj_similiarty_list)
-    sc_edge_index = []
+    sn_edge_index = []
     for i in range(len(adj_similiarty_list)):
-        sc_edge_index.append(np.array(adj_similiarty_list[i]))
-    sc_edge_index = np.array(sc_edge_index)
-    sc_edge_weight = adj_similiarty[sc_edge_index]
-    sc_edge_index = torch.LongTensor(sc_edge_index)
+        sn_edge_index.append(np.array(adj_similiarty_list[i]))
+    sn_edge_index = np.array(sn_edge_index)
+    sn_edge_weight = adj_similiarty[sn_edge_index]
+    sn_edge_index = torch.LongTensor(sn_edge_index)
 
     dmd_edge_index = dmd.coalesce().indices()
     dmd_edge_weight = dmd.coalesce().values()
@@ -105,4 +105,4 @@ def load_data(dataset, train_times):
     adj_dm = adj_dm.to_dense()
 
     return [adj_similiarty, adj_dm], node_feature, [dmd,dmdmd, mdm,mdmdm], [pos_d, pos_m],\
-           [sc_edge_index, sc_edge_weight], [dmd_edge_index, dmd_edge_weight, mdm_edge_index, mdm_edge_weight]
+           [sn_edge_index, sn_edge_weight], [dmd_edge_index, dmd_edge_weight, mdm_edge_index, mdm_edge_weight]

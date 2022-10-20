@@ -31,9 +31,9 @@ class GCN(nn.Module):
             out += self.bias
         return self.act(out)
 
-class Sc_encoder(nn.Module):
+class Sn_encoder(nn.Module):
     def __init__(self, hidden_dim, nei_num, attn_drop, sc_ngcn):
-        super(Sc_encoder, self).__init__()
+        super(Sn_encoder, self).__init__()
         self.nei_num = nei_num
         self.node_level = nn.ModuleList([GCN(hidden_dim, hidden_dim) for _ in range(sc_ngcn)])
         self.sc_ngcn = sc_ngcn

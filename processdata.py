@@ -69,7 +69,7 @@ def cross_5_folds(dataset, seed):
     np.savez(path_data, drugfeat=drugfeat, microbefeat=microbefeat, adj=temp_adj, folds=folds1, nodefeat=nodefeatures)
     return drugfeat, microbefeat, temp_adj, folds1, nodefeatures
 
-def add_dti_info(protein_num, drug_num, ori_dti_inter_mat, positive_sample_num, train_positive_inter_pos, val_positive_inter_pos, refer_val_interact_pos,
+def add_dti_info(microbe_num, drug_num, ori_dti_inter_mat, positive_sample_num, train_positive_inter_pos, val_positive_inter_pos, refer_val_interact_pos,
                  pred, i_iter, args, rate):
 
 
@@ -94,7 +94,7 @@ def add_dti_info(protein_num, drug_num, ori_dti_inter_mat, positive_sample_num, 
     rate_n = rate
     alpha = np.tan(np.pi * 0.5 * (i_iter / (max(n_epochs - 1, 1))))
 
-    indexes = np.arange(drug_num * protein_num)
+    indexes = np.arange(drug_num * microbe_num)
 
     # Get the desired & actual number of negtive samples
     n_target = positive_sample_num * rate_n
@@ -155,8 +155,8 @@ def add_dti_info(protein_num, drug_num, ori_dti_inter_mat, positive_sample_num, 
         index_chosen = np.random.choice(index_n, size=n_target, replace=False, p=soft_spu_sample_proba.reshape(-1), )
 
 
-    drug_id = index_chosen // protein_num
-    microbe_id = index_chosen % protein_num
+    drug_id = index_chosen // microbe_num
+    microbe_id = index_chosen % microbe_num
 
     negative_interact_pos = np.zeros([n_target,2])
     negative_interact_pos[:,0] = drug_id
@@ -204,17 +204,17 @@ def add_dti_info(protein_num, drug_num, ori_dti_inter_mat, positive_sample_num, 
     # construct dti
     dti_list = []
     for i in range(1):
-        dti_inter_mat = -np.ones((drug_num, protein_num))  # [protein_num, drug_num]
+        dti_inter_mat = -np.ones((drug_num, microbe_num))  # [microbe_num, drug_num]
         for j, inter in enumerate(train_interact_pos[i]):
-            protein_id = inter[1]
+            microbe_id = inter[1]
             drug_id = inter[0]
             label = train_label[i][j]
-            dti_inter_mat[drug_id][protein_id] = label
+            dti_inter_mat[drug_id][microbe_id] = label
         for j, inter in enumerate(val_interact_pos[i]):
-            protein_id = inter[1]
+            microbe_id = inter[1]
             drug_id = inter[0]
             label = val_label[i][j]
-            dti_inter_mat[drug_id][protein_id] = label
+            dti_inter_mat[drug_id][microbe_id] = label
         # dti_inter_mat = dti_inter_mat.tolist()  # dti_inter_mat包含train和test的正(1)负(-1)样本。
         dti_list.append(dti_inter_mat)
 
@@ -233,18 +233,18 @@ def first_spilt_label(inter, groups, seed, dataset,pos_num):
     neg_label_folds = [[],[],[],[],[]]
     for i, inter_k in enumerate(inter):
         inter_type = inter_k[-1]  # 1 positive, 0 negative
-        protein_node_id = inter_k[1]
+        microbe_node_id = inter_k[1]
         drug_node_id = inter_k[0]
         fold_id = int(groups[i])
-        inter_folds[fold_id].append([drug_node_id, protein_node_id])
+        inter_folds[fold_id].append([drug_node_id, microbe_node_id])
         label_folds[fold_id].append(inter_type)
         if inter_type == 1:
             #  positive sample
-            pos_inter_folds[fold_id].append([drug_node_id, protein_node_id])
+            pos_inter_folds[fold_id].append([drug_node_id, microbe_node_id])
             pos_label_folds[fold_id].append(inter_type)
         elif inter_type == 0:
             # negative sample
-            neg_inter_folds[fold_id].append([drug_node_id, protein_node_id])
+            neg_inter_folds[fold_id].append([drug_node_id, microbe_node_id])
             neg_label_folds[fold_id].append(inter_type)
         else:
             print("inter type has problem")
@@ -298,7 +298,7 @@ def first_spilt_label(inter, groups, seed, dataset,pos_num):
     get the data needed for encoder
     """
 
-    processdata_encoder(dataset, train_positive_inter_pos, pos_num)
+    # processdata_encoder(dataset, train_positive_inter_pos, pos_num)
 
     return train_positive_inter_pos, val_positive_inter_pos, train_interact_pos, train_label, val_interact_pos, val_label, train_negative_inter_pos
 
@@ -315,12 +315,12 @@ def load_data(seed, data_root, dataset, start_epoch=0, end_epoch=2000, crossval=
 
 
     drug_data = drugfeat.astype(np.float32)
-    protein_data = microbefeat.astype(np.float32)
+    microbe_data = microbefeat.astype(np.float32)
     int_label = adj.astype(np.int64)
     groups = folds.astype(np.float32)
-    protein_num = len(protein_data)
+    microbe_num = len(microbe_data)
     drug_num = len(drug_data)
-    node_num = protein_num + drug_num
+    node_num = microbe_num + drug_num
     positive_sample_num = len(int_label)//2
     train_positive_inter_pos, val_positive_inter_pos, test_train_interact_pos, test_train_label, \
     test_val_interact_pos, test_val_label, train_negative_inter_pos = first_spilt_label(int_label, groups, seed)
@@ -329,17 +329,17 @@ def load_data(seed, data_root, dataset, start_epoch=0, end_epoch=2000, crossval=
     # construct test file
     fold_num = 5 if crossval else 1
     for i in range(fold_num):
-        test_dti_inter_mat = -np.ones((drug_num, protein_num))
+        test_dti_inter_mat = -np.ones((drug_num, microbe_num))
         for j, inter in enumerate(test_train_interact_pos[i]):
-            protein_id = inter[1]
+            microbe_id = inter[1]
             drug_id = inter[0]
             label = test_train_label[i][j]
-            test_dti_inter_mat[drug_id][protein_id] = label
+            test_dti_inter_mat[drug_id][microbe_id] = label
         for j, inter in enumerate(test_val_interact_pos[i]):
-            protein_id = inter[1]
+            microbe_id = inter[1]
             drug_id = inter[0]
             label = test_val_label[i][j]
-            test_dti_inter_mat[drug_id][protein_id] = label
+            test_dti_inter_mat[drug_id][microbe_id] = label
         test_dti_inter_mat = test_dti_inter_mat.tolist()
 
         # construct adj
@@ -352,7 +352,7 @@ def load_data(seed, data_root, dataset, start_epoch=0, end_epoch=2000, crossval=
         print("******epoch", epoch, "******")
         # 随机获得与正样本等量的负样本数量，
         dti_list, train_interact_pos, val_interact_pos = \
-            add_dti_info(protein_num, drug_num, positive_sample_num, train_positive_inter_pos,
+            add_dti_info(microbe_num, drug_num, positive_sample_num, train_positive_inter_pos,
                          val_positive_inter_pos, test_val_interact_pos)
         for i in range(fold_num):
             np.savez(os.path.join(root_save_dir, str(epoch) + '_' + str(i) + '.npz'), adj=test_adj_list[i], dti_inter_mat=dti_list[i],

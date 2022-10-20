@@ -5,7 +5,7 @@ import time
 import argparse
 import torch.nn as nn
 import torch.optim as optim
-from model import DTI_Graph
+from model import MDA_Graph
 from utils import accuracy, mcc, auc, aupr, f1
 import numpy as np
 import torch
@@ -16,7 +16,7 @@ from processdata import cross_5_folds, first_spilt_label, add_dti_info
 
 ###############################################################
 # Training settings
-parser = argparse.ArgumentParser(description='DTI-GRAPH')
+parser = argparse.ArgumentParser(description='MDA-GRAPH')
 parser.add_argument('--seed', type=int, default=1, help='Random seed.')
 parser.add_argument('--epochs', type=int, default=1000,  # 10000
                     help='Number of epochs to train.')
@@ -33,9 +33,9 @@ parser.add_argument('--crossvalidation', type=int, default=1,
 # Model hyper setting
 # Protein_NN
 parser.add_argument('--protein_ninput', type=int, default=64,  # 220  95
-                    help='protein vector size')
+                    help='microbe vector size')
 parser.add_argument('--nn_nlayers', type=int, default=1,
-                    help='Protein_nn layers num')
+                    help='microbe_nn layers num')
 parser.add_argument('--pnn_nhid', type=str, default='[]',
                     help='pnn hidden layer dim, like [200,100] for tow hidden layers')
 # Drug_NN
@@ -75,7 +75,7 @@ parser.add_argument('--feat_drop', type=float, default=0.3)
 parser.add_argument('--attn_drop', type=float, default=0.5)
 parser.add_argument('--lam', type=float, default=0.5)
 parser.add_argument('--mp_ngcn', type=int, default=1)
-parser.add_argument('--sc_ngcn', type=int, default=1)
+parser.add_argument('--sn_ngcn', type=int, default=1)
 parser.add_argument("--encoder_loss_rate", type=float,default=0.5)
 parser.add_argument('--embs_rate', type=float,default=0.99)
 
@@ -107,7 +107,7 @@ preprocess_path = os.path.join(preprocess_path, 'preprocess')
 pnn_hyper = [args.protein_ninput, args.pnn_nhid, args.hidden_dim, args.nn_nlayers]
 Deco_hyper = [args.hidden_dim, args.DTI_nn_nhid, args.DTI_nn_nlayers]
 
-def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_index, sc_edge, mp_edge,encoder_loss_rate,embs_rate):
+def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge,encoder_loss_rate,embs_rate):
     t = time.time()
     model.train()
     optimizer.zero_grad()
@@ -115,7 +115,7 @@ def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_in
     col_dti_id = link_dti_id_train.permute(1, 0)[1]
     drug_index = row_dti_id
     protein_index = col_dti_id + train_dti_inter_mat.shape[0]
-    output, loss_encoder, encoder_embeds = model(protein_index, drug_index, feats, pos, mps, nei_index, sc_edge, mp_edge,embs_rate)
+    output, loss_encoder, encoder_embeds = model(protein_index, drug_index, feats, pos, mps, nei_index, sn_edge, mp_edge,embs_rate)
 
     preds = output
 
@@ -132,7 +132,7 @@ def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_in
               'time: {:.4f}s'.format(time.time() - t))
     optimizer.zero_grad()
 
-def test(link_dti_id_test, test_dti_inter_mat, feats, pos, mps, nei_index, sc_edge, mp_edge,encoder_loss_rate,embs_rate):
+def test(link_dti_id_test, test_dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge,encoder_loss_rate,embs_rate):
 
     model.eval()
     with torch.no_grad():
@@ -146,7 +146,7 @@ def test(link_dti_id_test, test_dti_inter_mat, feats, pos, mps, nei_index, sc_ed
         protein_index_all = torch.arange(len(feats) - len(pos[0])).repeat(args.drug_num,1).cuda()
         protein_index_all = protein_index_all + test_dti_inter_mat.shape[0]
 
-        output, loss_encoder, encoder_embeds = model(protein_index_all, drug_index_all, feats, pos, mps, nei_index, sc_edge, mp_edge,embs_rate)
+        output, loss_encoder, encoder_embeds = model(protein_index_all, drug_index_all, feats, pos, mps, nei_index, sn_edge, mp_edge,embs_rate)
 
 
         preds = output.reshape(args.drug_num, args.microbe_num)
@@ -183,9 +183,9 @@ drug_data = drugfeat.astype(np.float32)
 protein_data = microbefeat.astype(np.float32)
 int_label = adj.astype(np.int64)
 groups = folds.astype(np.float32)
-protein_num = len(protein_data)
+microbe_num = len(protein_data)
 drug_num = len(drug_data)
-node_num = protein_num + drug_num
+node_num = microbe_num + drug_num
 positive_sample_num = len(int_label)//2
 
 
@@ -195,7 +195,7 @@ test_adj_list = []
 
 for train_times in range(fold_num):
 
-    test_dti_inter_mat = -np.ones((drug_num, protein_num))  # [protein_num, drug_num]
+    test_dti_inter_mat = -np.ones((drug_num, microbe_num))  # [microbe_num, drug_num]
     for j, inter in enumerate(test_train_interact_pos[train_times]):
         protein_id = inter[1]
         drug_id = inter[0]
@@ -219,17 +219,17 @@ for train_times in range(fold_num):
     """
     load encoder data
     """
-    nei_index, feats, mps, poss, sc_edge, mp_edge = load_data(args.dataset, train_times)
+    nei_index, feats, mps, poss, sn_edge, mp_edge = load_data(args.dataset, train_times)
     feats_dim_list = feats.shape[0]
     P = int(len(mps))
 
-    model = DTI_Graph(PNN_hyper=pnn_hyper, DECO_hyper=Deco_hyper,
-                      Protein_num=args.microbe_num, Drug_num=args.drug_num, dropout=args.dropout, args_pre=args,
+    model = MDA_Graph(PNN_hyper=pnn_hyper, DECO_hyper=Deco_hyper,
+                      microbe_num=args.microbe_num, Drug_num=args.drug_num, dropout=args.dropout, args_pre=args,
                       feats_dim_list=feats_dim_list, P=P,)
     optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     best_test = 0
 
-    output = torch.ones(drug_num * protein_num)
+    output = torch.ones(drug_num * microbe_num)
 
     if args.cuda:
         model = model.cuda()
@@ -241,14 +241,14 @@ for train_times in range(fold_num):
         mps = [mp.cuda() for mp in mps]
         pos = [pos.cuda() for pos in poss]
         nei_index = [nei.cuda() for nei in nei_index]
-        sc_edge = [sc.cuda() for sc in sc_edge]
+        sn_edge = [sc.cuda() for sc in sn_edge]
         mp_edge = [mp.cuda() for mp in mp_edge]
 
     for epoch in range(args.epochs):
 
 
         dti_list, train_interact_pos, val_interact_pos = \
-            add_dti_info(protein_num, drug_num, ori_dti_inter_mat, positive_sample_num, train_positive_inter_pos[train_times]
+            add_dti_info(microbe_num, drug_num, ori_dti_inter_mat, positive_sample_num, train_positive_inter_pos[train_times]
                          ,val_positive_inter_pos[train_times], test_val_interact_pos, output, epoch, args, args.rate)
         dti_inter_mat = dti_list
         train_interact_pos = train_interact_pos
@@ -264,16 +264,16 @@ for train_times in range(fold_num):
             val_interact_pos = val_interact_pos.cuda()
         if (epoch+1) % 10 == 0:
             print('Epoch: {:04d}'.format(epoch + 1), 'Train_times:', train_times)
-        train(epoch, train_interact_pos, dti_inter_mat, feats, pos, mps, nei_index, sc_edge, mp_edge, args.encoder_loss_rate, args.embs_rate)
+        train(epoch, train_interact_pos, dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge, args.encoder_loss_rate, args.embs_rate)
         test_score, test_loss, predicts, targets, output, encoder_embeds = test(val_interact_pos, dti_inter_mat, feats, pos, mps,
-                                                                nei_index, sc_edge, mp_edge,args.encoder_loss_rate, args.embs_rate)
+                                                                nei_index, sn_edge, mp_edge,args.encoder_loss_rate, args.embs_rate)
         if test_score > best_test:
             acc_score[train_times] = round(best_test, 4)
 
 
     # ：final test result for each fold
     test_score, test_loss, predicts, targets, output1, encoder_embeds = test(ori_val_interact_pos, ori_dti_inter_mat,
-                                                    feats, pos, mps, nei_index, sc_edge, mp_edge, args.encoder_loss_rate, args.embs_rate)
+                                                    feats, pos, mps, nei_index, sn_edge, mp_edge, args.encoder_loss_rate, args.embs_rate)
     fold_test = test_score
     fold_acc_score[train_times] = round(accuracy(predicts,targets), 4)
     fold_auc_score[train_times] = round(auc(predicts, targets), 4)
