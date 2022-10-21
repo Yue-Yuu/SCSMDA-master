@@ -143,10 +143,10 @@ class MDA_Graph(nn.Module):
 
         loss = self.encoder(feats, pos, mps, nei_index, sn_edge, mp_edge)
 
-        embs_sc = self.encoder.get_embeds_sn(feats, nei_index, sn_edge)
-        embs_sc = self.sn_nn(embs_sc)
-        embs_sc = self.LayerNorm(embs_sc)
-        Nodes_features = embs_sc
+        embs_sn = self.encoder.get_embeds_sn(feats, nei_index, sn_edge)
+        embs_sn = self.sn_nn(embs_sn)
+        embs_sn = self.LayerNorm(embs_sn)
+        Nodes_features = embs_sn
 
 
         # Decoder
