@@ -298,7 +298,7 @@ def first_spilt_label(inter, groups, seed, dataset,pos_num):
     get the data needed for encoder
     """
 
-    # processdata_encoder(dataset, train_positive_inter_pos, pos_num)
+    processdata_encoder(dataset, train_positive_inter_pos, pos_num)
 
     return train_positive_inter_pos, val_positive_inter_pos, train_interact_pos, train_label, val_interact_pos, val_label, train_negative_inter_pos
 
