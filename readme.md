@@ -22,7 +22,6 @@
 ### Requirements ###
   - python==3.9.5
   - pytorch==1.11.0 
-  - pyg==2.0.4
   - scikit-learn==1.1.1
   - numpy==1.22.3
 
