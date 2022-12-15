@@ -104,5 +104,14 @@ def load_data(dataset, train_times):
     adj_similiarty = adj_similiarty.to_dense()
     adj_dm = adj_dm.to_dense()
 
+    """
+    [adj_similiarty, adj_dm]: normalized similarity network and normalized adj 
+    node_feature: inout node_features
+    [dmd,dmdmd, mdm,mdmdm]: normalized meta-paths
+    [pos_d, pos_m]: drug and microbe pos pairs used in contrastive learning
+    [sn_edge_index, sn_edge_weight]: edges and weights in similarity network
+    [dmd_edge_index, dmd_edge_weight, mdm_edge_index, mdm_edge_weight]: edges and weights in meta-path network
+    """
+
     return [adj_similiarty, adj_dm], node_feature, [dmd,dmdmd, mdm,mdmdm], [pos_d, pos_m],\
            [sn_edge_index, sn_edge_weight], [dmd_edge_index, dmd_edge_weight, mdm_edge_index, mdm_edge_weight]

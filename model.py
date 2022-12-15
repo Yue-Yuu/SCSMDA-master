@@ -139,7 +139,7 @@ class MDA_Graph(nn.Module):
 
 
 
-    def forward(self, microbe_index, drug_index, feats, pos, mps, nei_index, sn_edge, mp_edge, rate):
+    def forward(self, microbe_index, drug_index, feats, pos, mps, nei_index, sn_edge, mp_edge):
 
         loss = self.encoder(feats, pos, mps, nei_index, sn_edge, mp_edge)
 

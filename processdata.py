@@ -45,7 +45,7 @@ def cross_5_folds(dataset, seed):
     pos_num = len(adj)
 
     """
-    get neg sample for final test
+    randomly generate neg samples for final test
     """
     temp_adj = []
     folds1 = []
@@ -90,6 +90,7 @@ def add_dti_info(microbe_num, drug_num, ori_dti_inter_mat, positive_sample_num, 
 
     '''
     based predicted results to generate negative samples
+    Self-Paced Negative Sampling
     '''
     rate_n = rate
     alpha = np.tan(np.pi * 0.5 * (i_iter / (max(n_epochs - 1, 1))))
@@ -222,8 +223,19 @@ def add_dti_info(microbe_num, drug_num, ori_dti_inter_mat, positive_sample_num, 
 
 
 def first_spilt_label(inter, groups, seed, dataset,pos_num):
+    """
+    inter: 1:1 pos and neg pairs
+    groups: the 5-CV folds of 1:1 pos neg pairs
+    """
 
     np.random.seed(seed)
+
+    """
+    inter_folds: According to the groups division, divide inter into five group
+    label_folds = the label of pairs in inter_folds; 1 for pod, 0 for neg
+    pos_inter_folds = the pos pairs in each group
+    neg_inter_folds = the neg pairs in each group
+    """
 
     inter_folds = [[],[],[],[],[]]
     label_folds = [[],[],[],[],[]]
@@ -296,9 +308,20 @@ def first_spilt_label(inter, groups, seed, dataset,pos_num):
 
     """
     get the data needed for encoder
+    only need to run once for each dataset
     """
 
     processdata_encoder(dataset, train_positive_inter_pos, pos_num)
+
+    """
+    train_positive_inter_pos: pos pairs in each train set for 5-fold cv
+    val_positive_inter_pos: pos pairs in each test set for 5-fold cv
+    train_interact_pos: pos and neg pairs in each train set for 5-fold cv
+    train_label: the labels for pairs in train_interact_pos
+    val_interact_pos: pos and neg pairs in each test set for 5-fold cv
+    val_label: the labels for pairs in val_interact_pos
+    train_negative_inter_pos: neg pairs in each train set for 5-fold cv
+    """
 
     return train_positive_inter_pos, val_positive_inter_pos, train_interact_pos, train_label, val_interact_pos, val_label, train_negative_inter_pos
 

@@ -53,11 +53,11 @@ parser.add_argument('--DTI_nn_nhid', type=str, default='[128,128,128]',
                     help='DTI_nn hidden layer dim, like [200,100] for tow hidden layers')
 ###############################################################
 # data
-parser.add_argument('--dataset', type=str, default='aBiofilm',  # drugvirus  MDAD aBiofilm
+parser.add_argument('--dataset', type=str, default='drugvirus',  # drugvirus  MDAD aBiofilm
                     help='dataset name')
-parser.add_argument('--drug_num', type=int, default=1720,  # 175 1373 1720
+parser.add_argument('--drug_num', type=int, default=175,  # 175 1373 1720
                     help='drug node num')
-parser.add_argument('--microbe_num', type=int, default=140,  # 95 173 140
+parser.add_argument('--microbe_num', type=int, default=95,  # 95 173 140
                     help='microbe node num')
 parser.add_argument('--data_path', type=str, default='./data',
                     help='dataset root path')
@@ -107,7 +107,20 @@ preprocess_path = os.path.join(preprocess_path, 'preprocess')
 pnn_hyper = [args.protein_ninput, args.pnn_nhid, args.hidden_dim, args.nn_nlayers]
 Deco_hyper = [args.hidden_dim, args.DTI_nn_nhid, args.DTI_nn_nlayers]
 
-def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge,encoder_loss_rate,embs_rate):
+
+def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge,encoder_loss_rate):
+
+    """
+    link_dti_id_train: training set of drug-microbe interaction pairs, pos and neg
+    train_dti_inter_mat: drug-microbe interaction mat, 1 for pos, 0 for neg used in test, -1 for other negs
+    feats: input embeddings
+    pos: pos pairs for contrast
+    mps: meta-path network constructed previously
+    nei_index: normalized sim adj matrix (DAD) for GCN
+    sn_edge: similarity network edges
+    mp_edge: meta-path network edges
+    """
+
     t = time.time()
     model.train()
     optimizer.zero_grad()
@@ -115,7 +128,7 @@ def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_in
     col_dti_id = link_dti_id_train.permute(1, 0)[1]
     drug_index = row_dti_id
     protein_index = col_dti_id + train_dti_inter_mat.shape[0]
-    output, loss_encoder, encoder_embeds = model(protein_index, drug_index, feats, pos, mps, nei_index, sn_edge, mp_edge,embs_rate)
+    output, loss_encoder, encoder_embeds = model(protein_index, drug_index, feats, pos, mps, nei_index, sn_edge, mp_edge)
 
     preds = output
 
@@ -132,10 +145,25 @@ def train(epoch, link_dti_id_train, train_dti_inter_mat, feats, pos, mps, nei_in
               'time: {:.4f}s'.format(time.time() - t))
     optimizer.zero_grad()
 
-def test(link_dti_id_test, test_dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge,encoder_loss_rate,embs_rate):
+def test(link_dti_id_test, test_dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge,encoder_loss_rate):
+
+    """
+    link_dti_id_test: test set of drug-microbe interaction pairs, pos and neg
+    train_dti_inter_mat: drug-microbe interaction mat, 1 for pos, 0 for neg used in test, -1 for other negs
+    feats: input embeddings
+    pos: pos pairs for contrast
+    mps: meta-path network constructed previously
+    nei_index: normalized sim adj matrix (DAD) for GCN
+    sn_edge: similarity network edges
+    mp_edge: meta-path network edges
+    """
 
     model.eval()
     with torch.no_grad():
+
+        """
+        in test, we pretict all pairs result, and input them to the negative sampling module
+        """
         row_dti_id = link_dti_id_test.permute(1, 0)[0]
         col_dti_id = link_dti_id_test.permute(1, 0)[1]
         drug_index = row_dti_id
@@ -146,7 +174,7 @@ def test(link_dti_id_test, test_dti_inter_mat, feats, pos, mps, nei_index, sn_ed
         protein_index_all = torch.arange(len(feats) - len(pos[0])).repeat(args.drug_num,1).cuda()
         protein_index_all = protein_index_all + test_dti_inter_mat.shape[0]
 
-        output, loss_encoder, encoder_embeds = model(protein_index_all, drug_index_all, feats, pos, mps, nei_index, sn_edge, mp_edge,embs_rate)
+        output, loss_encoder, encoder_embeds = model(protein_index_all, drug_index_all, feats, pos, mps, nei_index, sn_edge, mp_edge)
 
 
         preds = output.reshape(args.drug_num, args.microbe_num)
@@ -177,6 +205,15 @@ fold_mcc_score = np.zeros(5)
 fold_f1_score = np.zeros(5)
 
 
+"""
+conduct the 5-CV operation on the dataset 
+
+drugfeat：inut drug features
+microbefeat：input microbe features
+adj：1:1 pos and neg pairs
+folds：the 5-CV folds of 1:1 pos neg pairs
+nodefeatures：concat drug features and microbe features
+"""
 drugfeat, microbefeat, adj, folds, nodefeatures = cross_5_folds(args.dataset, args.seed)
 
 drug_data = drugfeat.astype(np.float32)
@@ -189,9 +226,14 @@ node_num = microbe_num + drug_num
 positive_sample_num = len(int_label)//2
 
 
+"""
+based on the generated 5-CV adj cut the data into train and test
+"""
 train_positive_inter_pos, val_positive_inter_pos, test_train_interact_pos, test_train_label, \
 test_val_interact_pos, test_val_label, train_negative_inter_pos = first_spilt_label(int_label, groups, args.seed, args.dataset,args.pos_num)
 test_adj_list = []
+
+t1 = time.time()
 
 for train_times in range(fold_num):
 
@@ -244,9 +286,13 @@ for train_times in range(fold_num):
         sn_edge = [sc.cuda() for sc in sn_edge]
         mp_edge = [mp.cuda() for mp in mp_edge]
 
+
     for epoch in range(args.epochs):
 
 
+        """
+        construct neg samples for each iteration
+        """
         dti_list, train_interact_pos, val_interact_pos = \
             add_dti_info(microbe_num, drug_num, ori_dti_inter_mat, positive_sample_num, train_positive_inter_pos[train_times]
                          ,val_positive_inter_pos[train_times], test_val_interact_pos, output, epoch, args, args.rate)
@@ -264,16 +310,16 @@ for train_times in range(fold_num):
             val_interact_pos = val_interact_pos.cuda()
         if (epoch+1) % 10 == 0:
             print('Epoch: {:04d}'.format(epoch + 1), 'Train_times:', train_times)
-        train(epoch, train_interact_pos, dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge, args.encoder_loss_rate, args.embs_rate)
+        train(epoch, train_interact_pos, dti_inter_mat, feats, pos, mps, nei_index, sn_edge, mp_edge, args.encoder_loss_rate)
         test_score, test_loss, predicts, targets, output, encoder_embeds = test(val_interact_pos, dti_inter_mat, feats, pos, mps,
-                                                                nei_index, sn_edge, mp_edge,args.encoder_loss_rate, args.embs_rate)
+                                                                nei_index, sn_edge, mp_edge,args.encoder_loss_rate)
         if test_score > best_test:
             acc_score[train_times] = round(best_test, 4)
 
 
     # ：final test result for each fold
     test_score, test_loss, predicts, targets, output1, encoder_embeds = test(ori_val_interact_pos, ori_dti_inter_mat,
-                                                    feats, pos, mps, nei_index, sn_edge, mp_edge, args.encoder_loss_rate, args.embs_rate)
+                                                    feats, pos, mps, nei_index, sn_edge, mp_edge, args.encoder_loss_rate)
     fold_test = test_score
     fold_acc_score[train_times] = round(accuracy(predicts,targets), 4)
     fold_auc_score[train_times] = round(auc(predicts, targets), 4)
@@ -292,5 +338,11 @@ for train_times in range(fold_num):
     print("acc socre:{} avg:{}".format(fold_acc_score,np.mean(fold_acc_score)))
     print("auc socre:{} avg:{}".format(fold_auc_score,np.mean(fold_auc_score)))
     print("aupr score:{} avg:{}".format(fold_aupr_score, np.mean(fold_aupr_score)))
+
+t2 = time.time()
+t_all = t2 - t1
+print("五折交叉时间：{}".format(t_all))
+
+print("------------------------")
 
 

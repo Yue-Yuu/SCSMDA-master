@@ -7,6 +7,9 @@ from utils import *
 
 
 def sc_data(adj,D,M,parent_dir,ds,ms):
+    """
+    train data set adj
+    """
     dm = np.array(adj)
     path_dm = os.path.join(parent_dir, "dm.txt")
     np.savetxt(path_dm, dm, fmt="%d")
@@ -25,6 +28,11 @@ def sc_data(adj,D,M,parent_dir,ds,ms):
     dmd、mdm、dmdmd、mdmdm
 """
 def mp_data(parent_dir,dm,D,M):
+    """
+    construct meta-path dmd, mdm
+    dmd: dm * md
+    mdm: md * dm
+    """
     md = dm.transpose()
     dmd = np.matmul(dm, md)
     dmd = sp.coo_matrix(dmd)
@@ -46,6 +54,11 @@ def mp_data(parent_dir,dm,D,M):
 
 
 def mp2_data(parent_dir,dm,dmd, mdm, D,M):
+    """
+        construct meta-path dmdmd, mdmdm
+        dmdmd: dmd * dmd
+        mdmdm: mdm * mdm
+    """
     dm = dm[:D,D:]
     md = dm.transpose()
     dmd = dmd.toarray()
@@ -77,7 +90,7 @@ def mp2_data(parent_dir,dm,dmd, mdm, D,M):
 
 """
     construct pos sample for contrastive learning
-    for each node has 10 pos sample
+    each node has 10 pos sample
 """
 def mp_pos(dmd, mdm,parent_dir,D,M,pos_num):
 
@@ -85,11 +98,16 @@ def mp_pos(dmd, mdm,parent_dir,D,M,pos_num):
     dia_d = sp.dia_matrix((np.ones(D+M), 0), shape=(D+M, D+M)).toarray()
 
 
+
     dd = np.ones((D+M, D+M)) - dia_d
     dmd = dmd * dd
     pos_d = np.zeros((D, D))
     k = 0
     for i in range(D):
+        """
+        for each node, first select itself as a pos pair
+        then select the top (10-1) meta-path based neighbor node as pos pair 
+        """
         pos_d[i, i] = 1
         one = dmd[i].nonzero()[0]
         if len(one) > pos_num - 1:
@@ -220,6 +238,9 @@ def processdata_encoder(dataset, train_positive_inter_pos, pos_num ):
         np.savetxt(os.path.join(parent_dir, "drugfeatures.txt"), drugfeat)
 
 
+        """
+        construct train data for each 5-CV train set
+        """
         dm = sc_data(adj,D,M,parent_dir,ds,ms)
         dmd, mdm = mp_data(parent_dir,dm, D,M)
         dmdmd, mdmdm = mp2_data(parent_dir,dm,dmd, mdm, D,M)
