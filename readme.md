@@ -22,9 +22,10 @@
 ### Requirements ###
   - python==3.9.5
   - pytorch==1.11.0 
-  - pyg==2.0.4
+  - tqdm==4.64.0
   - scikit-learn==1.1.1
   - numpy==1.22.3
+  - scipy==1.9.3
 
 
 ### Citation ###
